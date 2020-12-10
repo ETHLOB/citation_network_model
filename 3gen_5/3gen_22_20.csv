@@ -1,0 +1,35 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Koboldt D.C.,,Comprehensive molecular portraits of human breast tumours,2012,Nature,6015,10.1038/nature11412,United States,Article,St. Louis,1,Journal,2-s2.0-84877028141
+Hammerman P.S.,,Comprehensive genomic characterization of squamous cell lung cancers,2012,Nature,2233,10.1038/nature11404,United States;United States,Article,Boston;Cambridge,1,Journal,2-s2.0-84866894408
+Muzny D.M.,,Comprehensive molecular characterization of human colon and rectal cancer,2012,Nature,4331,10.1038/nature11252,United States,Article,Houston,1,Journal,2-s2.0-84863922124
+Cerami E.,,The cBio Cancer Genomics Portal: An open platform for exploring multidimensional cancer genomics data,2012,Cancer Discovery,5459,10.1158/2159-8290.CD-12-0095,United States,Article,New York,1,Journal,2-s2.0-84866002291
+Barretina J.,,The Cancer Cell Line Encyclopedia enables predictive modelling of anticancer drug sensitivity,2012,Nature,3344,10.1038/nature11003,United States;United States;United States,Article,Cambridge;Boston;Cambridge,0,Journal,2-s2.0-84859169877
+Ciriello G.,,Mutual exclusivity analysis identifies oncogenic network modules,2012,Genome Research,368,10.1101/gr.125567.111,United States,Article,New York,1,Journal,2-s2.0-84856535081
+Takarabe M.,,Network-based analysis and characterization of adverse drug-drug interactions,2011,Journal of Chemical Information and Modeling,44,10.1021/ci200367w,Japan,Article,Kyoto,0,Journal,2-s2.0-82355160710
+Reva B.,,Predicting the functional impact of protein mutations: Application to cancer genomics,2011,Nucleic Acids Research,942,10.1093/nar/gkr407,United States,Article,New York,1,Journal,2-s2.0-80053189298
+Rask-Andersen M.,,Trends in the exploitation of novel drug targets,2011,Nature Reviews Drug Discovery,552,10.1038/nrd3478,Sweden,Article,Uppsala,0,Journal,2-s2.0-79961007572
+Bell D.,,Integrated genomic analyses of ovarian carcinoma,2011,Nature,4070,10.1038/nature10166,United States,Article,Rochester,1,Journal,2-s2.0-79959838081
+Mermel C.,,GISTIC2.0 facilitates sensitive and confident localization of the targets of focal somatic copy-number alteration in human cancers,2011,Genome Biology,1010,10.1186/gb-2011-12-4-r41,United States;United States,Article,Boston;Cambridge,1,Journal,2-s2.0-79955166265
+Sanborn J.,,The UCSC cancer genomics browser: Update 2011,2011,Nucleic Acids Research,41,10.1093/nar/gkq1113,United States,Article,Santa Cruz,1,Journal,2-s2.0-78651313597
+Cerami E.,,"Pathway Commons, a web resource for biological pathway data",2011,Nucleic Acids Research,625,10.1093/nar/gkq1039,United States;United States,Article,New York;New York,1,Journal,2-s2.0-78651332286
+Knox C.,,DrugBank 3.0: A comprehensive resource for 'Omics' research on drugs,2011,Nucleic Acids Research,1294,10.1093/nar/gkq1126,Canada,Article,Edmonton,1,Journal,2-s2.0-78651287426
+Robinson J.T.,,Integrative genomics viewer,2011,Nature Biotechnology,4831,10.1038/nbt.1754,United States,Letter,Cambridge,0,Journal,2-s2.0-78651271733
+Barretina J.,,Subtype-specific genomic alterations define new targets for soft-tissue sarcoma therapy,2010,Nature Genetics,440,10.1038/ng.619,United States;United States,Article,Boston;Cambridge,0,Journal,2-s2.0-77955090106
+Lopes C.T.,,Cytoscape web: An interactive web-based network browser,2010,Bioinformatics,427,10.1093/bioinformatics/btq430,Canada,Article,Toronto,1,Journal,2-s2.0-77956548953
+Taylor B.,,Integrative Genomic Profiling of Human Prostate Cancer,2010,Cancer Cell,2241,10.1016/j.ccr.2010.05.026,United States,Article,New York,1,Journal,2-s2.0-77954255681
+Hudson T.J.,,International network of cancer genome projects,2010,Nature,1355,10.1038/nature08987,Canada;Canada,Review,Toronto;Toronto,1,Journal,2-s2.0-77951115122
+Gundem G.,,IntOGen: Integration and data mining of multidimensional oncogenomic data,2010,Nature Methods,70,10.1038/nmeth0210-92,Spain,Letter,Barcelona,0,Journal,2-s2.0-77449141217
+Finn R.D.,,The Pfam protein families database,2009,Nucleic Acids Research,2331,10.1093/nar/gkp985,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-75549090603
+Novère N.,,The Systems Biology Graphical Notation,2009,Nature Biotechnology,524,10.1038/nbt.1558,United Kingdom,Review,Cambridge,1,Journal,2-s2.0-68449103579
+Matthews L.,,Reactome knowledgebase of human biological pathways and processes,2009,Nucleic Acids Research,633,10.1093/nar/gkn863,United States,Article,Cold Spring Harbor,1,Journal,2-s2.0-58149177166
+Schaefer C.,,PID: The pathway interaction database,2009,Nucleic Acids Research,861,10.1093/nar/gkn653,United States,Article,Bethesda,1,Journal,2-s2.0-58149186477
+Keshava Prasad T.S.,,Human Protein Reference Database - 2009 update,2009,Nucleic Acids Research,2159,10.1093/nar/gkn892,India,Article,Bangalore,1,Journal,2-s2.0-58149193222
+McLendon R.,,Comprehensive genomic characterization defines human glioblastoma genes and core pathways,2008,Nature,4803,10.1038/nature07385,United States,Article,Durham,1,Journal,2-s2.0-54549108740
+Rhodes D.,,"Oncomine 3.0: Genes, pathways, and networks in a collection of 18,000 cancer gene expression profiles",2007,Neoplasia,1086,10.1593/neo.07112,United States;United States,Article,Ann Arbor;Ann Arbor,1,Journal,2-s2.0-33847246805
+Sheehan K.,,Use of reverse phase protein microarrays and reference standard development for molecular network analysis of metastatic ovarian carcinoma,2005,Molecular and Cellular Proteomics,254,10.1074/mcp.T500003-MCP200,United States;Ireland,Article,Rockville;Dublin,1,Journal,2-s2.0-17844377553
+Bamford S.,,The COSMIC (Catalogue of Somatic Mutations in Cancer) database and website,2004,British Journal of Cancer,742,10.1038/sj.bjc.6601894,United Kingdom,Article,London,1,Journal,2-s2.0-3843084078
+Futreal P.,,A census of human cancer genes,2004,Nature Reviews Cancer,2180,10.1038/nrc1299,United Kingdom,Review,London,0,Journal,2-s2.0-1542515338
+Shannon P.,,Cytoscape: A software Environment for integrated models of biomolecular interaction networks,2003,Genome Research,14465,10.1101/gr.1239303,United States,Article,Seattle,1,Journal,2-s2.0-0242490780
+Mendelsohn J.,,Status of epidermal growth factor receptor antagonists in the biology and treatment of cancer,2003,Journal of Clinical Oncology,1111,10.1200/JCO.2003.01.504,Spain,Review,Barcelona,0,Journal,2-s2.0-0041629450
+Hynes N.,,Myc and Mammary Cancer: Myc is a Downstream Effector of the ErbB2 Receptor Tyrosine Kinase,2001,Journal of Mammary Gland Biology and Neoplasia,32,10.1023/A:1009528918064,Switzerland,Article,Basel,0,Journal,2-s2.0-0035232203
+Raymond E.,,Epidermal growth factor receptor tyrosine kinase as a target for anticancer therapy,2000,Drugs,320,10.2165/00003495-200060001-00002,France,Conference Paper,Villejuif,0,Journal,2-s2.0-0033757709

@@ -1,0 +1,12 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Gaur N.,,Delay optimized small-world networks,2014,IEEE Communications Letters,10,10.1109/LCOMM.2014.2357682,India,Article,Thiruvananthapuram,0,Journal,2-s2.0-84910143303
+Lu Z.,,Deterministic scale-free small-world networks of arbitrary order,2013,Physica A: Statistical Mechanics and its Applications,20,10.1016/j.physa.2013.04.002,China,Article,Hangzhou,0,Journal,2-s2.0-84878387575
+Meyerson A.,,Minimizing average shortest path distances via shortcut edge addition,2009,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),46,10.1007/978-3-642-03685-9_21,United States,Conference Paper,Los Angeles,0,Book Series,2-s2.0-70350594729
+Chang M.,,CMP network-on-chip overlaid with multi-band RF-interconnect,2008,Proceedings - International Symposium on High-Performance Computer Architecture,203,10.1109/HPCA.2008.4658639,United States,Conference Paper,Los Angeles,0,Conference Proceeding,2-s2.0-51549111756
+Chang M.,,RF interconnects for communications on-chip,2008,Proceedings of the International Symposium on Physical Design,47,10.1145/1353629.1353649,United States,Conference Paper,Los Angeles,0,Conference Proceeding,2-s2.0-43349103497
+Ogras U.,,"""It's a small world after all"": NoC performance optimization via long-range link insertion",2006,IEEE Transactions on Very Large Scale Integration (VLSI) Systems,320,10.1109/TVLSI.2006.878263,United States;United States,Conference Paper,Pittsburgh;New York,0,Journal,2-s2.0-33746930901
+Fall K.,,A Delay-Tolerant Network Architecture for Challenged Internets,2003,Computer Communication Review,1686,10.1145/863956.863960,United States,Conference Paper,Santa Clara,0,Journal,2-s2.0-1242310099
+Newman M.,,The structure and function of complex networks,2003,SIAM Review,11538,10.1137/S003614450342480,United States,Review,Ann Arbor,0,Journal,2-s2.0-0038718854
+Comellas F.,,Deterministic small-world networks,2002,Physica A: Statistical Mechanics and its Applications,68,10.1016/S0378-4371(02)00741-0,Spain,Article,Barcelona,0,Journal,2-s2.0-0036606539
+Pickavet M.,,Zoom-In approach to design SDH mesh restorable networks,2000,Journal of Heuristics,8,10.1023/A:1009617811016,Belgium,Article,Ghent,0,Journal,2-s2.0-0033897239
+Watts D.J.,,Collective dynamics of 'small-world9 networks,1998,Nature,25792,10.1038/30918,United States,Article,Ithaca,0,Journal,2-s2.0-0032482432

@@ -1,0 +1,17 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Klami A.,,Group Factor Analysis,2015,IEEE Transactions on Neural Networks and Learning Systems,32,10.1109/TNNLS.2014.2376974,Finland,Article,Helsinki,0,Journal,2-s2.0-85027929051
+Costello J.C.,,A community effort to assess and improve drug sensitivity prediction algorithms,2014,Nature Biotechnology,304,10.1038/nbt.2877,United States;United States,Article,Aurora;Boston,1,Journal,2-s2.0-84906549588
+Khan S.,,Identification of structural features in chemicals associated with cancer drug response: A systematic data-driven analysis,2014,Bioinformatics,20,10.1093/bioinformatics/btu456,Finland,Conference Paper,Espoo,1,Journal,2-s2.0-84907019526
+Hochreiter S.,,HapFABIA: Identification of very short segments of identity by descent characterized by rare variants in large sequencing data,2013,Nucleic Acids Research,13,10.1093/nar/gkt1013,Austria,Article,Linz,1,Journal,2-s2.0-84890319953
+Mi H.,,Large-scale gene function analysis with the panther classification system,2013,Nature Protocols,1283,10.1038/nprot.2013.092,United States,Article,Los Angeles,0,Journal,2-s2.0-84892511644
+Stephens P.J.,,The landscape of cancer genes and mutational processes in breast cancer,2012,Nature,1121,10.1038/nature11017,United Kingdom,Article,London,0,Journal,2-s2.0-84861576201
+Virtanen S.,,Bayesian group factor analysis,2012,Journal of Machine Learning Research,36,,Finland,Conference Paper,Espoo,0,Journal,2-s2.0-84877727222
+Yap C.,,PaDEL-descriptor: An open source software to calculate molecular descriptors and fingerprints,2011,Journal of Computational Chemistry,952,10.1002/jcc.21707,Singapore,Article,Singapore City,0,Journal,2-s2.0-79953005609
+Hochreiter S.,,FABIA: Factor analysis for bicluster acquisition,2010,Bioinformatics,160,10.1093/bioinformatics/btq227,Austria,Article,Linz,1,Journal,2-s2.0-77954206273
+Waltman P.,,Multi-species integrative biclustering.,2010,Genome biology,28,10.1186/gb-2010-11-9-r96,United States,Article,New York,1,Journal,2-s2.0-77957126815
+Carvalho C.,,High-dimensional sparse factor modeling: Applications in gene expression genomics,2008,Journal of the American Statistical Association,248,10.1198/016214508000000869,United States,Article,Chicago,0,Journal,2-s2.0-62549125109
+Madeira S.,,Biclustering algorithms for biological data analysis: A survey,2004,IEEE/ACM Transactions on Computational Biology and Bioinformatics,1369,10.1109/TCBB.2004.2,Portugal;Portugal,Review,Lisbon;Covilha,0,Journal,2-s2.0-3142768191
+Lazzeroni L.,,Plaid models for gene expression data,2002,Statistica Sinica,357,,United States,Article,Stanford,0,Journal,2-s2.0-0036012349
+Cheng Y.,,Biclustering of expression data.,2000,Proceedings / ... International Conference on Intelligent Systems for Molecular Biology ; ISMB. International Conference on Intelligent Systems for Molecular Biology,1494,,United States,Article,Boston,0,Journal,2-s2.0-0034566393
+Hartigan J.,,Direct clustering of a data matrix,1972,Journal of the American Statistical Association,709,10.1080/01621459.1972.10481214,United States,Article,New Haven,0,Journal,2-s2.0-84927511887
+Morgan J.N.,,"Problems in the Analysis of Survey Data, and a Proposal",1963,Journal of the American Statistical Association,579,10.1080/01621459.1963.10500855,United States,Article,Ann Arbor,0,Journal,2-s2.0-0006178946

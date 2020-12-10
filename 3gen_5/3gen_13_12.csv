@@ -1,0 +1,15 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Tatusova T.,,Update on RefSeq microbial genomes resources,2015,Nucleic Acids Research,90,10.1093/nar/gku1062,United States,Article,Bethesda,1,Journal,2-s2.0-84941102229
+Benson D.,,GenBank,2015,Nucleic Acids Research,268,10.1093/nar/gku1216,United States,Article,Bethesda,1,Journal,2-s2.0-84941062033
+Bateman A.,,UniProt: A hub for protein information,2015,Nucleic Acids Research,2758,10.1093/nar/gku989,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-84946069451
+Suzuki S.,,GHOSTX: An improved sequence homology search algorithm using a query suffix array and a database suffix array,2014,PLoS ONE,35,10.1371/journal.pone.0103833,Japan,Article,Tokyo,1,Journal,2-s2.0-84905455179
+McDonald A.,,Fifty-five years of enzyme classification: Advances and difficulties,2014,FEBS Journal,50,10.1111/febs.12530,Ireland,Review,Dublin,1,Journal,2-s2.0-84892785901
+Kanehisa M.,,"Data, information, knowledge and principle: Back to metabolism in KEGG",2014,Nucleic Acids Research,1883,10.1093/nar/gkt1076,Japan,Article,Kyoto,1,Journal,2-s2.0-84891760956
+Kanehisa M.,,Chemical and genomic evolution of enzyme-catalyzed reaction networks,2013,FEBS Letters,24,10.1016/j.febslet.2013.06.026,Japan,Review,Kyoto,0,Journal,2-s2.0-84883055735
+Muto A.,,Modular architecture of metabolic pathways revealed by conserved sequences of reactions,2013,Journal of Chemical Information and Modeling,40,10.1021/ci3005379,Japan,Article,Kyoto,1,Journal,2-s2.0-84875420462
+Federhen S.,,The NCBI Taxonomy database,2012,Nucleic Acids Research,479,10.1093/nar/gkr1178,United States,Article,Bethesda,1,Journal,2-s2.0-84856562355
+Pruitt K.D.,,"NCBI Reference Sequences (RefSeq): Current status, new features and genome annotation policy",2012,Nucleic Acids Research,759,10.1093/nar/gkr1079,United States,Article,Bethesda,1,Journal,2-s2.0-84859436530
+Takarabe M.,,Network-based analysis and characterization of adverse drug-drug interactions,2011,Journal of Chemical Information and Modeling,44,10.1021/ci200367w,Japan,Article,Kyoto,0,Journal,2-s2.0-82355160710
+Bush K.,,Updated functional classification of β-lactamases,2010,Antimicrobial Agents and Chemotherapy,1124,10.1128/AAC.01009-09,United States,Short Survey,Bloomington,1,Journal,2-s2.0-77149165713
+Moriya Y.,,KAAS: An automatic genome annotation and pathway reconstruction server,2007,Nucleic Acids Research,1923,10.1093/nar/gkm321,Japan,Article,Kyoto,1,Journal,2-s2.0-34547588704
+Li W.,,Cd-hit: A fast program for clustering and comparing large sets of protein or nucleotide sequences,2006,Bioinformatics,4294,10.1093/bioinformatics/btl158,United States,Article,San Diego CA,1,Journal,2-s2.0-33745634395

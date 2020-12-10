@@ -1,0 +1,16 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Baker J.,,"Megastore: Providing scalable, highly available storage for interactive services",2011,"CIDR 2011 - 5th Biennial Conference on Innovative Data Systems Research, Conference Proceedings",418,,United States,Conference Paper,Mountain View,0,Conference Proceeding,2-s2.0-79955085235
+Wang L.,,Cloud computing: A perspective study,2010,New Generation Computing,395,10.1007/s00354-008-0081-5,United States,Conference Paper,Rochester,0,Journal,2-s2.0-77954879049
+Yang B.,,Performance evaluation of cloud service considering fault recovery,2009,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),102,10.1007/978-3-642-10665-1_54,China,Conference Paper,Chengdu,0,Book Series,2-s2.0-71749102262
+Xiong K.,,Service performance and analysis in cloud computing,2009,SERVICES 2009 - 5th 2009 World Congress on Services,208,10.1109/SERVICES-I.2009.121,United States,Conference Paper,College Station,0,Conference Proceeding,2-s2.0-72849108238
+Smith J.,,M/G/c/K blocking probability models and system performance,2003,Performance Evaluation,65,10.1016/S0166-5316(02)00190-6,United States,Article,Amherst MA,0,Journal,2-s2.0-0037403032
+Joanes D.,,Comparing measures of sample skewness and kurtosis,1998,Journal of the Royal Statistical Society Series D: The Statistician,465,10.1111/1467-9884.00122,United Kingdom,Article,Leeds,0,Journal,2-s2.0-0006540633
+Kimura T.,,Optimal buffer design of an M/G/s queue with finite capacity,1996,Communications in Statistics. Part C: Stochastic Models,27,10.1080/15326349608807378,Japan,Article,Sapporo,0,Journal,2-s2.0-0030372045
+Kimura T.,,A transform-free approximation for the finite capacity M/G/s queue,1996,Operations Research,52,10.1287/opre.44.6.984,Japan,Article,Sapporo,0,Journal,2-s2.0-0030282557
+Tijms H.,,Heuristics for finite-buffer queues,1992,Probability in the Engineering and Informational Sciences,31,10.1017/S0269964800002540,Netherlands,Article,Amsterdam,0,Journal,2-s2.0-84971941333
+Miyazawa M.,,APPROXIMATION OF THE QUEUE-LENGTH DISTRIBUTION OF AN M/GI/S QUEUE BY THE BASIC EQUATIONS.,Jun,Journal of Applied Probability,43,10.1017/S0021900200029739,Japan,Article,Tokyo,0,Journal,2-s2.0-0022728094
+Yao D.,,REFINING THE DIFFUSION APPROXIMATION FOR THE M/G/m QUEUE.,Nov-Dec,Operations Research,40,10.1287/opre.33.6.1266,United States,Article,New York,0,Journal,2-s2.0-0022149967
+Kimura T.,,DIFFUSION APPROXIMATION FOR AN M/G/m QUEUE.,Mar-Apr,Operations Research,58,10.1287/opre.31.2.304,,Article,,0,Journal,2-s2.0-0020721096
+Boxma O.,,APPROXIMATIONS OF THE MEAN WAITING TIME IN AN M/G/s QUEUEING SYSTEM.,Nov-Dec,Operations Research,63,10.1287/opre.27.6.1115,,Article,,0,Journal,2-s2.0-0018544906
+Hokstad P.,,APPROXIMATIONS FOR THE M/G/m QUEUE.,May-Jun,Operations Research,75,10.1287/opre.26.3.510,,Article,,0,Journal,2-s2.0-0017971258
+Nozaki S.,,APPROXIMATIONS IN FINITE-CAPACITY MULTI-SERVER QUEUES WITH POISSON ARRIVALS.,Dec,J Appl Probab,90,10.2307/3213437,,Article,,0,Journal,2-s2.0-0018059674

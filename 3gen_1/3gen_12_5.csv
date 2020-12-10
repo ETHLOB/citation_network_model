@@ -1,0 +1,12 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Fonseca N.,,RNA-Seq gene profiling - A systematic empirical comparison,2014,PLoS ONE,47,10.1371/journal.pone.0107026,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-84907500627
+Bolger A.,,Trimmomatic: A flexible trimmer for Illumina sequence data,2014,Bioinformatics,13107,10.1093/bioinformatics/btu170,Germany;Germany,Article,Potsdam;Aachen,1,Journal,2-s2.0-84905049901
+Liao Y.,,FeatureCounts: An efficient general purpose program for assigning sequence reads to genomic features,2014,Bioinformatics,3490,10.1093/bioinformatics/btt656,Australia,Article,Melbourne,1,Journal,2-s2.0-84897397058
+Lawrence M.,,Software for Computing and Annotating Genomic Ranges,2013,PLoS Computational Biology,993,10.1371/journal.pcbi.1003118,United States,Article,San Francisco,1,Journal,2-s2.0-84883368195
+Dale R.K.,,Pybedtools: A flexible Python library for manipulating genomic datasets and annotations,2011,Bioinformatics,121,10.1093/bioinformatics/btr539,United States,Article,Bethesda,1,Journal,2-s2.0-83355177243
+Behnel S.,,Cython: The best of both worlds,2011,Computing in Science and Engineering,345,10.1109/MCSE.2010.118,Germany,Article,Darmstadt,0,Journal,2-s2.0-79952600759
+Van Der Walt S.,,The NumPy array: A structure for efficient numerical computation,2011,Computing in Science and Engineering,3380,10.1109/MCSE.2011.37,South Africa,Article,Stellenbosch,0,Journal,2-s2.0-79952595565
+Quinlan A.R.,,BEDTools: A flexible suite of utilities for comparing genomic features,2010,Bioinformatics,6952,10.1093/bioinformatics/btq033,United States,Article,Charlottesville,1,Journal,2-s2.0-77951770756
+Robinson M.,,edgeR: A Bioconductor package for differential expression analysis of digital gene expression data,2009,Bioinformatics,11835,10.1093/bioinformatics/btp616,Australia;Australia,Article,Melbourne;Sydney,1,Journal,2-s2.0-75249087100
+Cock P.,,Biopython: Freely available Python tools for computational molecular biology and bioinformatics,2009,Bioinformatics,1416,10.1093/bioinformatics/btp163,United Kingdom,Article,Aberdeen,1,Journal,2-s2.0-65649092976
+Gentleman R.,,Bioconductor: open software development for computational biology and bioinformatics.,2004,Genome biology,8430,,United States,Article,Boston,0,Journal,2-s2.0-28744458859

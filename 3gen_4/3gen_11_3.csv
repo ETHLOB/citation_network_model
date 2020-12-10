@@ -1,0 +1,40 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Frasca P.,,Gossips and prejudices: Ergodic randomized dynamics in social networks,2013,IFAC Proceedings Volumes (IFAC-PapersOnline),36,10.3182/20130925-2-DE-4044.00024,Netherlands,Conference Paper,Enschede,0,Conference Proceeding,2-s2.0-84886611927
+Altafini C.,,Consensus problems on networks with antagonistic interactions,2013,IEEE Transactions on Automatic Control,602,10.1109/TAC.2012.2224251,Italy,Article,Trieste,0,Journal,2-s2.0-84875588811
+Chung F.,,Dirichlet pagerank and ranking algorithms based on trust and distrust,2013,Internet Mathematics,10,10.1080/15427951.2012.678194,United States,Article,San Diego,1,Journal,2-s2.0-84921768848
+Yang Y.,,Opinion consensus of modified Hegselmann-Krause models,2012,Proceedings of the IEEE Conference on Decision and Control,7,10.1109/CDC.2012.6426742,Sweden,Conference Paper,Stockholm,0,Conference Proceeding,2-s2.0-84874262831
+Altafini C.,,Dynamics of opinion forming in structurally balanced social networks,2012,PLoS ONE,118,10.1371/journal.pone.0038135,Italy,Article,Trieste,1,Journal,2-s2.0-84862531737
+Facchetti G.,,Computing global structural balance in large-scale signed social networks,2011,Proceedings of the National Academy of Sciences of the United States of America,174,10.1073/pnas.1109521108,Italy,Article,Trieste,1,Journal,2-s2.0-84855504473
+Acemoglu D.,,Opinion fluctuations and persistent disagreement in social networks,2011,Proceedings of the IEEE Conference on Decision and Control,29,10.1109/CDC.2011.6161319,United States,Conference Paper,Cambridge,0,Conference Proceeding,2-s2.0-84860692142
+Xia W.,,Clustering in diffusively coupled networks,2011,Automatica,149,10.1016/j.automatica.2011.08.043,Netherlands,Article,Groningen,0,Journal,2-s2.0-80053619900
+Morbidi F.,,Visibility maintenance via controlled invariance for leaderfollower vehicle formations,2011,Automatica,15,10.1016/j.automatica.2011.01.065,United States,Article,Arlington,0,Journal,2-s2.0-79954836099
+Morǎrescu I.,,Opinion dynamics with decaying confidence: Application to community detection in graphs,2011,IEEE Transactions on Automatic Control,72,10.1109/TAC.2010.2095315,France;France,Article,Saint Martin d'Heres;Vandoeouvre-les-Nancy,0,Journal,2-s2.0-80051533150
+Acemoglu D.,,Opinion dynamics and learning in social networks,2011,Dynamic Games and Applications,301,10.1007/s13235-010-0004-1,United States,Article,Cambridge,0,Journal,2-s2.0-80053080717
+Traag V.A.,,Exponential ranking: Taking into account negative links,2010,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),16,10.1007/978-3-642-16567-2_14,,Conference Paper,,0,Book Series,2-s2.0-78449289987
+Ishii H.,,Distributed randomized algorithms for the PageRank computation,2010,IEEE Transactions on Automatic Control,93,10.1109/TAC.2010.2042984,Japan,Article,Tokyo,0,Journal,2-s2.0-77956541733
+Mesbahi M.,,Graph theoretic methods in multiagent networks,2010,Graph Theoretic Methods in Multiagent Networks,1556,,United States,Book,Seattle,0,Book,2-s2.0-84883932589
+Iacono G.,,Determining the distance to monotonicity of a biological network: A graph-theoretical approach,2010,IET Systems Biology,35,10.1049/iet-syb.2009.0040,Italy,Article,Trieste,0,Journal,2-s2.0-77953264688
+Blondel V.,,On Krause's multi-agent consensus model with state-dependent connectivity,2009,IEEE Transactions on Automatic Control,268,10.1109/TAC.2009.2031211,Belgium,Article,Louvain-la-Neuve,0,Journal,2-s2.0-78649554917
+Olesky D.D.,,M∨ - Matrices : AAA generalization of M-matrices based on eventually nonnegative matrices,2009,Electronic Journal of Linear Algebra,27,,Canada,Article,Victoria,0,Journal,2-s2.0-70349459543
+Noutsos D.,,Reachability and holdability of nonnegative states,2008,SIAM Journal on Matrix Analysis and Applications,38,10.1137/070693850,Greece,Article,Ioannina,0,Journal,2-s2.0-58049202473
+De Kerchove C.,,The PageTrust algorithm: How to rank web pages when negative links are allowed?,2008,"Society for Industrial and Applied Mathematics - 8th SIAM International Conference on Data Mining 2008, Proceedings in Applied Mathematics 130",58,,Belgium,Conference Paper,Louvain-la-Neuve,0,Conference Proceeding,2-s2.0-52649173258
+Elhashash A.,,On general matrices having the Perron-Frobenius property,2008,Electronic Journal of Linear Algebra,30,10.13001/1081-3810.1271,United States,Article,Philadelphia,0,Journal,2-s2.0-49949085877
+Blanchini F.,,Set-theoretic methods in control,2008,Systems and Control: Foundations and Applications,159,,Italy,Chapter,Udine,0,Book Series,2-s2.0-84906814224
+Ren W.,,Collective Group Behavior Through Local Interaction,2007,IEEE Control Systems,2225,10.1109/MCS.2007.338264,,Article,,0,Journal,2-s2.0-34147163355
+Bryan K.,,"The $25,000,000,000 eigenvector: The linear algebra behind Google",2006,SIAM Review,129,10.1137/050623280,United States,Article,Terre Haute,0,Journal,2-s2.0-33748361351
+Noutsos D.,,On Perron-Frobenius property of matrices having some negative entries,2006,Linear Algebra and Its Applications,77,10.1016/j.laa.2005.06.037,Greece,Article,Ioannina,1,Journal,2-s2.0-27844545254
+Tiwari A.,,Polyhedral cone invariance applied to rendezvous of multiple agents,2004,Proceedings of the IEEE Conference on Decision and Control,17,,United States,Conference Paper,Pasadena,0,Conference Proceeding,2-s2.0-14344263492
+Johnson C.,,On matrices with Perron-Frobenius properties and some negative entries,2004,Positivity,45,10.1007/s11117-003-3881-3,United States,Article,Williamsburg,0,Journal,2-s2.0-18844373367
+Valcher M.,,An algebraic approach to the construction of polyhedral invariant cones,2001,SIAM Journal on Matrix Analysis and Applications,15,10.1137/S0895479898335465,Italy,Article,Lecce,0,Journal,2-s2.0-0042913269
+Dórea C.E.T.,,"(A, B)-invariance conditions of polyhedral domains for continuous-time systems",1999,European Journal of Control,23,10.1016/s0947-3580(99)70141-x,Brazil;France,Article,Salvador;Toulouse,0,Journal,2-s2.0-0344339724
+Blanchini F.,,Set invariance in control,1999,Automatica,1435,10.1016/S0005-1098(99)00113-2,Italy,Short Survey,Udine,0,Journal,2-s2.0-0033221515
+Farina L.,,Invariant polytopes of linear systems,1998,IMA Journal of Mathematical Control and Information,21,10.1093/imamci/15.3.233,Italy,Article,Rome,0,Journal,2-s2.0-0032162843
+Page L.,,The anatomy of a large-scale hypertextual Web search engine,1998,Computer Networks,7265,,United States,Article,Palo Alto,0,Journal,2-s2.0-0038589165
+Milani B.,,On invariant polyhedra of continuous-time systems subject to additive disturbances,1996,Automatica,16,10.1016/0005-1098(96)00002-7,Brazil,Article,Campinas,0,Journal,2-s2.0-0030149342
+Tarbouriech S.,,Positively Invariant Sets for Constrained Continuous-Time Systems with Cone Properties,1994,IEEE Transactions on Automatic Control,41,10.1109/9.272344,,Article,,0,Journal,2-s2.0-0028370463
+Castelan E.,,On invariant polyhedra of continuous-time linear systems,1993,IEEE Transactions on Automatic Control,102,10.1109/9.262058,France,Article,Paris,0,Journal,2-s2.0-0027700683
+Smith H.,,Systems of ordinary differential equations which generate an order preserving flow. A survey of results,Mar,SIAM Review,179,10.1137/1030003,United States,Article,Tempe,0,Journal,2-s2.0-0023967009
+Friedland S.,,On an inverse problem for nonnegative and eventually nonnegative matrices,1978,Israel Journal of Mathematics,83,10.1007/BF02760401,Israel,Article,Jerusalem,0,Journal,2-s2.0-51249182228
+Pullman N.,,A geometric approach to the theory of nonnegative matrices,1971,Linear Algebra and Its Applications,18,10.1016/0024-3795(71)90001-2,Canada,Article,Kingston,1,Journal,2-s2.0-0040731715
+MAYBEE J ,,QUALITATIVE PROBLEMS IN MATRIX THEORY,Jan,SIAM Review,80,10.1137/1011004,,Article,,0,Journal,2-s2.0-0014446034
+Cartwright D.,,Structural balance: a generalization of Heider's theory,1956,Psychological Review,1147,10.1037/h0046049,,Article,,0,Journal,2-s2.0-0001245990

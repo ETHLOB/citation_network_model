@@ -1,0 +1,45 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Bentwich I.,,Prediction and validation of microRNAs and their targets,2005,FEBS Letters,295,10.1016/j.febslet.2005.09.040,Israel,Short Survey,Rehovot,1,Journal,2-s2.0-26944498633
+Overhoff M.,,Local RNA target structure influences siRNA efficacy: A systematic global analysis,2005,Journal of Molecular Biology,139,10.1016/j.jmb.2005.03.012,Germany,Article,Lübeck,0,Journal,2-s2.0-17444365809
+Schubert S.,,Local RNA target structure influences siRNA efficacy: Systematic analysis of intentionally designed binding regions,2005,Journal of Molecular Biology,181,10.1016/j.jmb.2005.03.011,Germany,Article,Berlin,0,Journal,2-s2.0-17444412299
+Parker J.S.,,Structural insights into mRNA recognition from a PIWI domain-siRNA guide complex,2005,Nature,356,10.1038/nature03462,United Kingdom,Article,London,0,Journal,2-s2.0-15844402005
+Robins H.,,Incorporating structure to predict microRNA targets,2005,Proceedings of the National Academy of Sciences of the United States of America,188,10.1073/pnas.0500775102,United States,Article,Princeton,1,Journal,2-s2.0-15244354492
+Andronescu M.,,Secondary structure prediction of interacting RNA molecules,2005,Journal of Molecular Biology,126,10.1016/j.jmb.2004.10.082,Canada,Article,Vancouver,0,Journal,2-s2.0-11844254846
+Hackermüller J.,,The effect of RNA secondary structures on RNA-ligand binding and the modifier RNA mechanism: A quantitative model,2005,Gene,38,10.1016/j.gene.2004.11.043,Austria;Austria,Article,Vienna;Vienna,0,Journal,2-s2.0-13444305211
+Hodas N.O.,,Efficient computation of optimal oligo-RNA binding,2004,Nucleic Acids Research,14,10.1093/nar/gkh1008,United States,Article,Williamstown,1,Journal,2-s2.0-13544277162
+Weixlbaumer A.,,Determination of thermodynamic parameters for HIV DIS type loop-loop kissing complexes,2004,Nucleic Acids Research,46,10.1093/nar/gkh841,Austria,Article,Vienna,1,Journal,2-s2.0-4944259254
+Giegerich R.,,Abstract shapes of RNA,2004,Nucleic Acids Research,140,10.1093/nar/gkh779,Germany,Article,Bielefeld,1,Journal,2-s2.0-4544339512
+Meisner N.,,mRNA openers and closers: Modulating AU-rich element-controlled mRNA stability by a molecular switch in mRNA secondary structure,2004,ChemBioChem,103,10.1002/cbic.200400219,Austria,Article,Vienna,0,Journal,2-s2.0-5644245066
+Rehmsmeier M.,,Fast and effective prediction of microRNA/target duplexes,2004,RNA,1509,10.1261/rna.5248604,Germany,Article,Bielefeld,1,Journal,2-s2.0-4644237189
+Meister G.,,Mechanisms of gene silencing by double-stranded RNA,2004,Nature,1799,10.1038/nature02873,United States,Review,New York,0,Journal,2-s2.0-4644223259
+Mathews D.,,Using an RNA secondary structure partition function to determine confidence in base pairs predicted by free energy minimization,2004,RNA,214,10.1261/rna.7650904,United States;United States,Article,Rochester;San Diego,1,Journal,2-s2.0-3342977915
+Dirks R.,,An algorithm for computing nucleic acid base-pairing probabilities including pseudoknots,2004,Journal of Computational Chemistry,111,10.1002/jcc.20057,United States,Article,Pasadena,0,Journal,2-s2.0-3042554001
+Flamm C.,,Computational chemistry with RNA secondary structures,2004,Kemija u industriji/Journal of Chemists and Chemical Engineers,4,,Austria;Austria,Conference Paper,Vienna;,0,Journal,2-s2.0-3242708388
+Ding Y.,,Sfold web server for statistical folding and rational design of nucleic acids,2004,Nucleic Acids Research,331,10.1093/nar/gkh449,United States,Article,Albany,1,Journal,2-s2.0-3242877996
+Mittal V.,,Improving the efficiency of RNA interference in mammals,2004,Nature Reviews Genetics,234,10.1038/nrg1323,United States,Review,Cold Spring Harbor,0,Journal,2-s2.0-1942499451
+Yoshinari K.,,"Effects on RNAi of the tight structure, sequence and position of the targeted region",2004,Nucleic Acids Research,130,10.1093/nar/gkh221,Japan,Article,Tokyo,1,Journal,2-s2.0-1342306353
+Reynolds A.,,Rational siRNA design for RNA interference,2004,Nature Biotechnology,1513,10.1038/nbt936,United States,Article,Lafayette,0,Journal,2-s2.0-1542336952
+Dimitrov R.,,Prediction of hybridization and melting for double-stranded nucleic acids,2004,Biophysical Journal,161,10.1529/biophysj.103.020743,United States,Article,Troy,1,Journal,2-s2.0-3042735602
+Ding Y.,,A statistical sampling algorithm for RNA secondary structure prediction,2003,Nucleic Acids Research,347,10.1093/nar/gkg938,United States,Article,Albany,1,Journal,2-s2.0-0346888665
+Stark A.,,Identification of Drosophila microRNA targets,2003,PLoS Biology,596,10.1371/journal.pbio.0000060,Germany,Article,Heidelberg,1,Journal,2-s2.0-4243170045
+Khvorova A.,,Functional siRNAs and miRNAs exhibit strand bias,2003,Cell,1847,10.1016/S0092-8674(03)00801-8,United States;United States,Article,Lafayette;Thousand Oaks,1,Journal,2-s2.0-0142165224
+Schwarz D.,,Asymmetry in the assembly of the RNAi enzyme complex,2003,Cell,2042,10.1016/S0092-8674(03)00759-1,United States,Article,Worcester,1,Journal,2-s2.0-10744225153
+Zeng Y.,,MicroRNAs and small interfering RNAs can inhibit mRNA expression by similar mechanisms,2003,Proceedings of the National Academy of Sciences of the United States of America,661,10.1073/pnas.1630797100,United States,Article,Durham,1,Journal,2-s2.0-0041691111
+Kretschmer-Kazemi Far R.,,The activity of siRNA in mammalian cells is related to structural target accessibility: A comparison with antisense oligonucleotides,2003,Nucleic Acids Research,248,10.1093/nar/gkg649,Germany,Article,Lübeck,1,Journal,2-s2.0-0042161890
+Dirks R.,,A partition function algorithm for nucleic acid secondary structure including pseudoknots,2003,Journal of Computational Chemistry,235,10.1002/jcc.10296,United States,Article,Pasadena,0,Journal,2-s2.0-0043285072
+Hofacker I.,,Vienna RNA secondary structure server,2003,Nucleic Acids Research,1556,10.1093/nar/gkg599,Austria,Article,Vienna,1,Journal,2-s2.0-0043123153
+Zuker M.,,Mfold web server for nucleic acid folding and hybridization prediction,2003,Nucleic Acids Research,8954,10.1093/nar/gkg595,United States,Article,Troy,1,Journal,2-s2.0-0042121256
+Dykxhoorn D.,,Killing the messenger: Short RNAs that silence gene expression,2003,Nature Reviews Molecular Cell Biology,978,10.1038/nrm1129,United States,Review,Cambridge,0,Journal,2-s2.0-0037686295
+Bohula E.A.,,The efficacy of small interfering RNAs targeted to the type 1 insulin-like growth factor receptor (IGF1R) is influenced by secondary structure in the IGF1R transcript,2003,Journal of Biological Chemistry,214,10.1074/jbc.M300714200,United Kingdom,Article,Oxford,1,Journal,2-s2.0-0038521255
+Doench J.,,siRNAs can function as miRNAs,2003,Genes and Development,924,10.1101/gad.1064703,United States,Article,Cambridge,1,Journal,2-s2.0-0037443089
+Elbashir S.,,Analysis of gene function in somatic mammalian cells using small interfering RNAs,2002,Methods,1002,10.1016/S1046-2023(02)00023-3,Germany,Article,Gottingen,0,Journal,2-s2.0-0036351317
+Zuker M.,,Calculating nucleic acid secondary structure,2000,Current Opinion in Structural Biology,194,10.1016/S0959-440X(00)00088-9,United States,Review,St. Louis,0,Journal,2-s2.0-0034070995
+Mathews D.,,Predicting oligonucleotide affinity to nucleic acid targets,1999,RNA,195,10.1017/S1355838299991148,United States,Article,Rochester,0,Journal,2-s2.0-0032729689
+Mathews D.,,Expanded sequence dependence of thermodynamic parameters improves prediction of RNA secondary structure,1999,Journal of Molecular Biology,3065,10.1006/jmbi.1999.2700,United States,Article,Rochester,0,Journal,2-s2.0-0033591465
+Wuchty S.,,Complete suboptimal folding of RNA and the stability of secondary structures,1999,Biopolymers,408,10.1002/(SICI)1097-0282(199902)49:2<145::AID-BIP4>3.0.CO;2-G,Austria,Review,Vienna,0,Journal,2-s2.0-0033080745
+Tacker M.,,Algorithm independent properties of RNA secondary structure predictions,1996,European Biophysics Journal,64,10.1007/s002490050023,Austria,Article,Vienna,0,Journal,2-s2.0-0030444757
+Hofacker I.,,Fast folding and comparison of RNA secondary structures,1994,Monatshefte für Chemie Chemical Monthly,1639,10.1007/BF00818163,Austria,Article,Vienna,0,Journal,2-s2.0-34249772381
+McCaskill J.,,The equilibrium partition function and base pair binding probabilities for RNA secondary structure,1990,Biopolymers,892,10.1002/bip.360290621,Germany,Article,Gottingen,0,Journal,2-s2.0-0025264854
+Zuker M.,,On finding all suboptimal foldings of an RNA molecule,1989,Science,1673,10.1126/science.2468181,Canada;Canada,Article,"Toronto;Ottawa ON,",0,Journal,2-s2.0-0024477261
+Turner D.,,RNA structure prediction.,1988,Annual review of biophysics and biophysical chemistry,567,10.1146/annurev.bb.17.060188.001123,United States,Review,Rochester,0,Journal,2-s2.0-0023785594
+Zuker M.,,Optimal computer folding of large RNA sequences using thermodynamics and auxiliary information,1981,Nucleic Acids Research,2461,10.1093/nar/9.1.133,Canada,Article,"Ottawa ON,",0,Journal,2-s2.0-0019876473

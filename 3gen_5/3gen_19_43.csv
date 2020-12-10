@@ -1,0 +1,30 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Brodersen P.,,Revisiting the principles of microRNA target recognition and mode of action,2009,Nature Reviews Molecular Cell Biology,500,10.1038/nrm2619,France,Review,Paris,0,Journal,2-s2.0-58849093262
+Xiao F.,,miRecords: An integrated resource for microRNA-target interactions,2009,Nucleic Acids Research,970,10.1093/nar/gkn851,United States,Article,Minneapolis,1,Journal,2-s2.0-58149186499
+Selbach M.,,Widespread changes in protein synthesis induced by microRNAs,2008,Nature,2487,10.1038/nature07228,Germany,Article,Berlin,0,Journal,2-s2.0-49949117302
+Baek D.,,The impact of microRNAs on protein output,2008,Nature,2648,10.1038/nature07242,United States;United States,Article,Cambridge;Cambridge,0,Journal,2-s2.0-49949116902
+Grey F.,,The functions of herpesvirus-encoded microRNAs,2008,Medical Microbiology and Immunology,52,10.1007/s00430-007-0070-1,United States,Review,Portland,1,Journal,2-s2.0-42249111671
+Hendrickson D.,,Systematic identification of mrNAs recruited to argonaute 2 by specific microRNAs and corresponding changes in transcript abundance,2008,PLoS ONE,144,10.1371/journal.pone.0002126,United States,Article,Stanford,1,Journal,2-s2.0-47749154078
+Wang X.,,Prediction of both conserved and nonconserved microRNA targets in animals,2008,Bioinformatics,425,10.1093/bioinformatics/btm595,United States,Article,St. Louis,1,Journal,2-s2.0-38849145861
+Sokol N.S.,,"An overview of the identification, detection, and functional analysis of Drosophila microRNAs.",2008,"Methods in molecular biology (Clifton, N.J.)",6,10.1007/978-1-59745-583-1_20,United States,Article,Hanover,0,Journal,2-s2.0-49649098278
+Yousef M.,,Naïve Bayes for microRNA target predictions - Machine learning for microRNA targets,2007,Bioinformatics,108,10.1093/bioinformatics/btm484,United States,Article,Philadelphia,1,Journal,2-s2.0-36448982458
+Kertesz M.,,The role of site accessibility in microRNA target recognition,2007,Nature Genetics,1631,10.1038/ng2135,Israel,Article,Rehovot,0,Journal,2-s2.0-34748821761
+Grimson A.,,MicroRNA Targeting Specificity in Mammals: Determinants beyond Seed Pairing,2007,Molecular Cell,2720,10.1016/j.molcel.2007.06.017,United States;United States,Article,Cambridge;Cambridge,1,Journal,2-s2.0-34250805982
+Lindow M.,,Principles and limitations of computational microRNA gene and target finding,2007,DNA and Cell Biology,72,10.1089/dna.2006.0551,Denmark,Review,Copenhagen,0,Journal,2-s2.0-34249003938
+Sethupathy P.,,A guide through present computational approaches for the identification of mammalian microRNA targets,2006,Nature Methods,456,10.1038/nmeth954,United States,Article,Philadelphia,0,Journal,2-s2.0-33750318273
+Miranda K.C.,,A Pattern-Based Method for the Identification of MicroRNA Binding Sites and Their Corresponding Heteroduplexes,2006,Cell,1312,10.1016/j.cell.2006.07.031,United States,Article,Yorktown Heights,1,Journal,2-s2.0-33748587841
+Kim S.,,miTarget: MicroRNA target gene prediction using a support vector machine,2006,BMC Bioinformatics,165,10.1186/1471-2105-7-411,South Korea,Article,Seoul,1,Journal,2-s2.0-33749645474
+Sætrom O.,,Weighted sequence motifs as an improved seeding step in microRNA target prediction algorithms,2005,RNA,94,10.1261/rna.7290705,Norway,Article,Trondheim,0,Journal,2-s2.0-22244447130
+Rusinov V.,,MicroInspector: A web tool for detection of miRNA binding sites in an RNA sequence,2005,Nucleic Acids Research,186,10.1093/nar/gki364,Greece;Bulgaria,Article,Heraklion;Plovdiv,1,Journal,2-s2.0-23144449159
+Burgler C.,,"Prediction and verification of microRNA targets by moving targets, a highly adaptable prediction method",2005,BMC Genomics,56,10.1186/1471-2164-6-88,United States,Article,Austin,1,Journal,2-s2.0-25444461163
+Krek A.,,Combinatorial microRNA target predictions,2005,Nature Genetics,3564,10.1038/ng1536,United States,Article,New York,0,Journal,2-s2.0-20944450160
+Ding C.,,Minimum redundancy feature selection from microarray gene expression data,2005,Journal of Bioinformatics and Computational Biology,1045,10.1142/S0219720005001004,United States,Article,Berkeley,0,Journal,2-s2.0-17644384367
+Brennecke J.,,Principles of microRNA-target recognition,2005,PLoS Biology,1665,10.1371/journal.pbio.0030085,Germany,Conference Paper,Heidelberg,1,Journal,2-s2.0-18044377963
+John B.,,Human microRNA targets,2004,PLoS Biology,2538,10.1371/journal.pbio.0020363,United States,Article,New York,1,Journal,2-s2.0-14044251458
+Rehmsmeier M.,,Fast and effective prediction of microRNA/target duplexes,2004,RNA,1509,10.1261/rna.5248604,Germany,Article,Bielefeld,1,Journal,2-s2.0-4644237189
+Kiriakidou M.,,A combined computational-experimental approach predicts human microRNA targets,2004,Genes and Development,609,10.1101/gad.1184704,United States,Article,Philadelphia,1,Journal,2-s2.0-2442672918
+Rajewsky N.,,Computational identification of microRNA targets,2004,Developmental Biology,233,10.1016/j.ydbio.2003.12.003,United States,Article,New York,1,Journal,2-s2.0-1542297345
+Bartel D.,,"MicroRNAs: Genomics, Biogenesis, Mechanism, and Function",2004,Cell,25016,10.1016/S0092-8674(04)00045-5,United States;United States,Review,Cambridge;Cambridge,1,Journal,2-s2.0-0347444723
+Enright A.,,MicroRNA targets in Drosophila.,2003,Genome biology,1863,,United States,Article,New York,0,Journal,2-s2.0-0842321501
+Cortes C.,,Support-Vector Networks,1995,Machine Learning,26048,10.1023/A:1022627411411,United States,Article,Murray,1,Journal,2-s2.0-34249753618
+Schuster P.,,From sequences to shapes and back: A case study in RNA secondary structures,1994,Proceedings of the Royal Society B: Biological Sciences,569,10.1098/rspb.1994.0040,Germany,Article,Jena,0,Journal,2-s2.0-0028196714

@@ -1,0 +1,12 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Altarelli F.,,Optimizing spread dynamics on graphs by message passing,2013,Journal of Statistical Mechanics: Theory and Experiment,48,10.1088/1742-5468/2013/09/P09011,Italy;Italy,Article,Turin;Torino,0,Journal,2-s2.0-84885091186
+Luo W.,,Identifying infection sources and regions in large networks,2013,IEEE Transactions on Signal Processing,106,10.1109/TSP.2013.2256902,Singapore,Article,Singapore City,0,Journal,2-s2.0-84877888089
+Pinto P.,,Locating the source of diffusion in large-scale networks,2012,Physical Review Letters,205,10.1103/PhysRevLett.109.068702,Switzerland,Article,Lausanne,0,Journal,2-s2.0-84864870003
+Comin C.H.,,Identifying the starting point of a spreading process in complex networks,2011,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",106,10.1103/PhysRevE.84.056105,Brazil,Article,Sao Paulo,0,Journal,2-s2.0-81555203120
+Shah D.,,Rumors in a network: Who's the culprit?,2011,IEEE Transactions on Information Theory,314,10.1109/TIT.2011.2158885,United States,Article,Cambridge,0,Journal,2-s2.0-79961005336
+Rocha L.,,"Simulated epidemics in an empirical spatiotemporal network of 50,185 sexual contacts",2011,PLoS Computational Biology,172,10.1371/journal.pcbi.1001109,Sweden,Article,Umea,1,Journal,2-s2.0-79953671188
+Isella L.,,What's in a crowd? Analysis of face-to-face behavioral networks,2011,Journal of Theoretical Biology,398,10.1016/j.jtbi.2010.11.033,Italy,Article,Turin,0,Journal,2-s2.0-78650107510
+Shah D.,,Detecting sources of computer viruses in networks: Theory and experiment,2010,Performance Evaluation Review,114,10.1145/1811099.1811063,United States,Conference Paper,Cambridge,0,Conference Proceeding,2-s2.0-77954890040
+Karrer B.,,Message passing approach for general epidemic models,2010,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",160,10.1103/PhysRevE.82.016101,United States,Article,Ann Arbor,0,Journal,2-s2.0-77954322317
+Rocha L.,,Information dynamics shape the sexual networks of Internet-mediated prostitution,2010,Proceedings of the National Academy of Sciences of the United States of America,124,10.1073/pnas.0914080107,Sweden,Article,Umea,1,Journal,2-s2.0-77950534276
+Kempe D.,,Maximizing the spread of influence through a social network,2003,Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,4461,10.1145/956750.956769,United States,Conference Paper,Ithaca,0,Conference Proceeding,2-s2.0-33747172362

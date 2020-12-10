@@ -1,0 +1,38 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Gurrutxaga I.,,Towards a standard methodology to evaluate internal cluster validity indices,2011,Pattern Recognition Letters,38,10.1016/j.patrec.2010.11.006,Spain,Article,Leioa,0,Journal,2-s2.0-78649616116
+Žalik K.,,Validity index for clusters of different sizes and densities,2011,Pattern Recognition Letters,73,10.1016/j.patrec.2010.08.007,Slovenia,Article,Maribor,0,Journal,2-s2.0-78649332539
+Gurrutxaga I.,,SEP/COP: An efficient method to find the best partition in hierarchical clustering based on a new cluster validity index,2010,Pattern Recognition,51,10.1016/j.patcog.2010.04.021,Spain,Article,Leioa,0,Journal,2-s2.0-77953613095
+Lago-Fernández L.,,Normality-based validation for crisp clustering,2010,Pattern Recognition,23,10.1016/j.patcog.2009.09.018,Spain,Article,Madrid,0,Journal,2-s2.0-70449703225
+Saha S.,,Performance evaluation of some symmetry-based cluster validity indexes,2009,"IEEE Transactions on Systems, Man and Cybernetics Part C: Applications and Reviews",23,10.1109/TSMCC.2009.2013335,India,Article,Kolkata,0,Journal,2-s2.0-67649285658
+Pfitzner D.,,Characterization and evaluation of similarity measures for pairs of clusterings,2009,Knowledge and Information Systems,86,10.1007/s10115-008-0150-6,Australia,Article,Adelaide,0,Journal,2-s2.0-67349143735
+García S.,,"An extension on ""statistical comparisons of classifiers over multiple data sets"" for all pairwise comparisons",2008,Journal of Machine Learning Research,915,,Spain,Article,Granada,0,Journal,2-s2.0-58149287952
+Bandyopadhyay S.,,A point symmetry-based clustering technique for automatic evolution of clusters,2008,IEEE Transactions on Knowledge and Data Engineering,123,10.1109/TKDE.2008.79,India,Article,Kolkata,0,Journal,2-s2.0-53149106965
+Halkidi M.,,A density-based cluster validity approach using multi-representatives,2008,Pattern Recognition Letters,61,10.1016/j.patrec.2007.12.011,Greece,Article,Athens,0,Journal,2-s2.0-39949085751
+Brun M.,,Model-based evaluation of clustering validation measures,2007,Pattern Recognition,126,10.1016/j.patcog.2006.06.026,United States,Article,Phoenix,0,Journal,2-s2.0-33750506476
+Saitta S.,,A bounded index for cluster validity,2007,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),56,10.1007/978-3-540-73499-4_14,Switzerland,Conference Paper,Lausanne,0,Book Series,2-s2.0-37249017479
+Demšar J.,,Statistical comparisons of classifiers over multiple data sets,2006,Journal of Machine Learning Research,6246,,Slovenia,Article,Ljubljana,0,Journal,2-s2.0-29644438050
+Kim M.,,New indices for cluster validity assessment,2005,Pattern Recognition Letters,151,10.1016/j.patrec.2005.04.007,South Korea,Article,Gwangju,0,Journal,2-s2.0-25844500444
+Chou C.,,A new cluster validity measure and its application to image compression,2004,Pattern Analysis and Applications,211,10.1007/s10044-004-0218-1,Taiwan,Article,Taipei,0,Journal,2-s2.0-4043077037
+Meilǎ M.,,Comparing clusterings by the variation of information,2003,Lecture Notes in Artificial Intelligence (Subseries of Lecture Notes in Computer Science),289,,United States,Conference Paper,Seattle,0,Conference Proceeding,2-s2.0-9444274777
+Sugar C.,,Finding the Number of Clusters in a Dataset: An Information-Theoretic Approach,2003,Journal of the American Statistical Association,485,10.1198/016214503000000666,United States,Article,Los Angeles,0,Journal,2-s2.0-0242679438
+Maulik U.,,Performance evaluation of some clustering algorithms and validity indices,2002,IEEE Transactions on Pattern Analysis and Machine Intelligence,831,10.1109/TPAMI.2002.1114856,United States,Article,Arlington,0,Journal,2-s2.0-0036937614
+Dimitriadou E.,,An examination of indexes for determining the number of clusters in binary data sets,2002,Psychometrika,173,10.1007/BF02294713,Austria,Article,Vienna,0,Journal,2-s2.0-0036011451
+Ben-Hur A.,,A stability based method for discovering structure in clustered data.,2002,Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing,373,,United States,Article,Berkeley,0,Journal,2-s2.0-0036359730
+Halkidi M.,,Clustering validity assessment: Finding the optimal partitioning of a data set,2001,"Proceedings - IEEE International Conference on Data Mining, ICDM",230,,Greece,Conference Paper,Athens,0,Conference Proceeding,2-s2.0-14944348667
+Halkidi M.,,On clustering validation techniques,2001,Journal of Intelligent Information Systems,1611,10.1023/A:1012801612483,Greece,Article,Athens,0,Journal,2-s2.0-0035676057
+Kim D.,,A novel validity index for determination of the optimal number of clusters,2001,IEICE Transactions on Information and Systems,112,,South Korea,Article,Yusong,0,Journal,2-s2.0-0034831822
+Bezdek J.,,Some new indexes of cluster validity,1998,"IEEE Transactions on Systems, Man, and Cybernetics, Part B: Cybernetics",811,10.1109/3477.678624,United States;United States,Article,Pensacola;New York,0,Journal,2-s2.0-0032098774
+Dietterich T.,,Approximate Statistical Tests for Comparing Supervised Classification Learning Algorithms,1998,Neural Computation,1758,10.1162/089976698300017197,United States,Article,Corvallis,0,Journal,2-s2.0-0000259511
+Pal N.,,Cluster validation using graph theoretic concepts,1997,Pattern Recognition,112,10.1016/S0031-3203(96)00127-6,India,Article,Kolkata,0,Journal,2-s2.0-0031166291
+Hardy A.,,On the number of clusters,1996,Computational Statistics and Data Analysis,98,10.1016/S0167-9473(96)00022-9,Belgium;Belgium,Article,Brussels;Namur WNA,0,Journal,2-s2.0-0030291361
+Batagelj V.,,Comparing resemblance measures,1995,Journal of Classification,99,10.1007/BF01202268,Slovenia,Article,Ljubljana,0,Journal,2-s2.0-21844514245
+Jain A.,,Bootstrap technique in cluster analysis,1987,Pattern Recognition,97,10.1016/0031-3203(87)90081-1,United States,Article,East Lansing,0,Journal,2-s2.0-0023491749
+Dubes R.,,How many clusters are best? - An experiment,1987,Pattern Recognition,143,10.1016/0031-3203(87)90034-3,United States,Article,East Lansing,0,Journal,2-s2.0-0023523514
+Rousseeuw P.,,Silhouettes: A graphical aid to the interpretation and validation of cluster analysis,1987,Journal of Computational and Applied Mathematics,5983,10.1016/0377-0427(87)90125-7,Switzerland,Article,Fribourg,1,Journal,2-s2.0-0023453329
+Hubert L.,,Comparing partitions,1985,Journal of Classification,3864,10.1007/BF01908075,United States,Article,Santa Barbara,0,Journal,2-s2.0-0000008146
+Milligan G.,,An examination of procedures for determining the number of clusters in a data set,1985,Psychometrika,2254,10.1007/BF02294245,United States,Article,Columbus,0,Journal,2-s2.0-34250115918
+Davies D.,,A Cluster Separation Measure,1979,IEEE Transactions on Pattern Analysis and Machine Intelligence,3791,10.1109/TPAMI.1979.4766909,United States,Article,Leuven,0,Journal,2-s2.0-0017953820
+Hubert L.,,A general statistical framework for assessing categorical clustering in free recall,1976,Psychological Bulletin,189,10.1037/0033-2909.83.6.1072,United States,Article,Madison,0,Journal,2-s2.0-0001518855
+Baker F.,,Measuring the power of hierarchical cluster analysis,1975,Journal of the American Statistical Association,115,10.1080/01621459.1975.10480256,United States,Article,Madison,0,Journal,2-s2.0-84879597103
+Caliñski T.,,A Dendrite Method Foe Cluster Analysis,1974,Communications in Statistics,2941,10.1080/03610927408827101,Poland,Article,Poznan,0,Journal,2-s2.0-84972893020
+Dunn J.,,A fuzzy relative of the ISODATA process and its use in detecting compact well-separated clusters,1973,Journal of Cybernetics,3809,10.1080/01969727308546046,United States,Article,Ithaca,0,Journal,2-s2.0-0015644825

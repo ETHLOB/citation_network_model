@@ -1,0 +1,18 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Hermjakob H.,,The HUPO PSI's Molecular Interaction format - A community standard for the representation of protein interaction data,2004,Nature Biotechnology,464,10.1038/nbt926,United Kingdom,Review,Cambridge,0,Journal,2-s2.0-0742323374
+Salwinski L.,,Computational methods of analysis of protein-protein interactions,2003,Current Opinion in Structural Biology,116,10.1016/S0959-440X(03)00070-8,United States,Review,Los Angeles,0,Journal,2-s2.0-0037832188
+Bader G.,,BIND: The Biomolecular Interaction Network Database,2003,Nucleic Acids Research,918,10.1093/nar/gkg056,Canada,Review,Toronto,0,Journal,2-s2.0-0037245913
+Deng M.,,Inferring domain-domain interactions from protein-protein interactions,2002,Genome Research,341,10.1101/gr.153002,United States,Article,Los Angeles,1,Journal,2-s2.0-0036799752
+von Mering C.,,Comparative assessment of large-scale data sets of protein-protein interactions,2002,Nature,1787,10.1038/nature750,Germany,Article,Heidelberg,0,Journal,2-s2.0-0037161731
+Zanzoni A.,,MINT: A Molecular INTeraction database,2002,FEBS Letters,574,10.1016/S0014-5793(01)03293-8,Italy,Short Survey,Rome,1,Journal,2-s2.0-0037138406
+Duan X.,,Describing biological protein interactions in terms of protein states and state transitions: the LiveDIP database.,2002,Molecular &amp; cellular proteomics : MCP,34,10.1074/mcp.M100026-MCP200,United States,Article,Los Angeles,1,Journal,2-s2.0-0036463402
+Westbrook J.,,The protein data bank: Unifying the archive,2002,Nucleic Acids Research,196,10.1093/nar/30.1.245,United States,Article,New Brunswick,1,Journal,2-s2.0-18444373540
+Deane C.,,Protein interactions: two methods for assessment of the reliability of high throughput observations.,2002,Molecular &amp; cellular proteomics : MCP,518,10.1074/mcp.M100037-MCP200,United States,Article,Los Angeles,1,Journal,2-s2.0-0036580169
+Xenarios I.,,"DIP, the Database of Interacting Proteins: A research tool for studying cellular networks of protein interactions",2002,Nucleic Acids Research,1273,10.1093/nar/30.1.303,United States,Article,Los Angeles,1,Journal,2-s2.0-0036088133
+Ho Y.,,Systematic identification of protein complexes in Saccharomyces cerevisiae by mass spectrometry,2002,Nature,2837,10.1038/415180a,Canada,Letter,Toronto,0,Journal,2-s2.0-0037050004
+Gavin A.C.,,Functional organization of the yeast proteome by systematic analysis of protein complexes,2002,Nature,3693,10.1038/415141a,United Kingdom,Article,Brentford,0,Journal,2-s2.0-0037050026
+Mrowka R.,,Is there a bias in proteome research?,2001,Genome Research,168,10.1101/gr.206701,Germany,Article,Berlin,1,Journal,2-s2.0-0035212065
+Zhu H.,,Global analysis of protein activities using proteome chips,2001,Science,1830,10.1126/science.1062191,United States,Article,New Haven,0,Journal,2-s2.0-0035860499
+Ito T.,,A comprehensive two-hybrid analysis to explore the yeast protein interactome,2001,Proceedings of the National Academy of Sciences of the United States of America,2802,10.1073/pnas.061034498,Japan,Article,Kanazawa,1,Journal,2-s2.0-0035836765
+Uetz P.,,A comprehensive analysis of protein-protein interactions in Saccharomyces cerevisiae,2000,Nature,3757,10.1038/35001009,United States,Article,Seattle,0,Journal,2-s2.0-0034628508
+Xenarios I.,,DIP: The Database of Interacting Proteins,2000,Nucleic Acids Research,685,10.1093/nar/28.1.289,United States,Short Survey,Los Angeles,1,Journal,2-s2.0-0033971642

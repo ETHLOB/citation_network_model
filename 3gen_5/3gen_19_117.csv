@@ -1,0 +1,39 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Kent W.,,BLAT - The BLAST-like alignment tool,2002,Genome Research,5216,10.1101/gr.229202. Article published online before March 2002,United States,Article,Santa Cruz,0,Journal,2-s2.0-0036226603
+Dowell R.,,The distributed annotation system,2001,BMC Bioinformatics,330,10.1186/1471-2105-2-7,United States,Article,St. Louis,1,Journal,2-s2.0-2942547885
+Kent W.,,Assembly of the working draft of the human genome with GigAssembler,2001,Genome Research,89,10.1101/gr.183201,United States,Article,Santa Cruz,1,Journal,2-s2.0-0034837599
+Birney E.,,Mining the draft human genome,2001,Nature,48,10.1038/35057004,United Kingdom,Review,Cambridge,1,Journal,2-s2.0-0035865238
+Cheung V.,,Integration of cytogenetic landmarks into the draft sequence of the human genome,2001,Nature,238,10.1038/35057192,United States,Letter,Philadelphia,1,Journal,2-s2.0-0035865257
+Shoemaker D.D.,,Experimental annotation of the human genome using microarray technology,2001,Nature,351,10.1038/35057141,United States,Article,Seattle,1,Journal,2-s2.0-0035865260
+McPherson J.D.,,A physical map of the human genome,2001,Nature,671,10.1038/35057157,United States,Article,St. Louis,1,Journal,2-s2.0-0035865087
+Sachidanandam R.,,A map of human genome sequence variation containing 1.42 million single nucleotide polymorphisms,2001,Nature,2304,10.1038/35057149,United States,Article,New York,1,Journal,2-s2.0-0035865322
+Lander E.S.,,Initial sequencing and analysis of the human genome,2001,Nature,15775,10.1038/35057062,United States,Article,Cambridge,1,Journal,2-s2.0-2042437650
+Stein L.,,WormBase: Network access to the genome and biology of Caenorhabditis elegans,2001,Nucleic Acids Research,231,10.1093/nar/29.1.82,United States,Article,Cold Spring Harbor,1,Journal,2-s2.0-0035165576
+Pruitt K.D.,,RefSeq and LocusLink: NCBI gene-centered resources,2001,Nucleic Acids Research,664,10.1093/nar/29.1.137,United States,Article,Bethesda,1,Journal,2-s2.0-0035162594
+Kent W.,,"Conservation, regulation, synteny, and introns in a large-scale C. briggsae-C. elegans genomic alignment",2000,Genome Research,209,10.1101/gr.10.8.1115,United States,Article,Santa Cruz,1,Journal,2-s2.0-0033832676
+Jurka J.,,Repbase Update: A database and an electronic journal of repetitive elements,2000,Trends in Genetics,701,10.1016/S0168-9525(00)02093-X,United States,Note,Mountain View,0,Journal,2-s2.0-0034284437
+Lash A.,,SAGEmap: A public gene expression resource,2000,Genome Research,346,10.1101/gr.10.7.1051,United States,Article,Bethesda,1,Journal,2-s2.0-0033853089
+Crollius H.,,Estimate of human gene number provided by genome-wide analysis using Tetraodon nigroviridis DNA sequence,2000,Nature Genetics,261,10.1038/76118,France,Article,Evry,0,Journal,2-s2.0-0000508290
+Kirsch I.,,"A systematic, high-resolution linkage of the cytogenetic and physical maps of the human genome [1]",2000,Nature Genetics,43,10.1038/74149,United States,Letter,Bethesda,0,Journal,2-s2.0-0012407944
+Salamov A.,,Ab initio gene finding in Drosophila genomic DNA,2000,Genome Research,751,10.1101/gr.10.4.516,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-0034065724
+Kelley S.,,Getting started with Acedb.,2000,Briefings in bioinformatics,11,10.1093/bib/1.2.131,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-0034189143
+Kent W.J.,,The intronerator: Exploring introns and alternative splicing in Caenorhabditis elegans,2000,Nucleic Acids Research,66,10.1093/nar/28.1.91,United States,Short Survey,Santa Cruz,1,Journal,2-s2.0-0033977575
+Maglott D.R.,,NCBI's LocusLink and RefSeq,2000,Nucleic Acids Research,142,10.1093/nar/28.1.126,United States,Short Survey,Bethesda,1,Journal,2-s2.0-0033965854
+Dunham I.,,The DNA sequence of human chromosome 22,1999,Nature,882,10.1038/990031,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-79960655760
+Smit A.,,Interspersed repeats and other mementos of transposable elements in mammalian genomes,1999,Current Opinion in Genetics and Development,691,10.1016/S0959-437X(99)00031-3,United States,Review,San Francisco,0,Journal,2-s2.0-0032784908
+Lal A.,,A public database for gene expression in human cancers,1999,Cancer Research,386,,United States,Article,Durham,0,Journal,2-s2.0-0033231026
+Benson G.,,Tandem repeats finder: A program to analyze DNA sequences,1999,Nucleic Acids Research,3805,10.1093/nar/27.2.573,United States,Article,New York,1,Journal,2-s2.0-0033555906
+Benson D.,,GenBank,1999,Nucleic Acids Research,504,10.1093/nar/27.1.12,United States,Review,Bethesda,1,Journal,2-s2.0-0032900994
+,,Genome sequence of the nematode C. elegans: A platform for investigating biology,1998,Science,3148,10.1126/science.282.5396.2012,,Review,,0,Journal,2-s2.0-0032509302
+Schuler G.,,Electronic PCR: Bridging the gap between genome mapping and genome sequencing,1998,Trends in Biotechnology,60,10.1016/S0167-7799(98)01232-3,United States,Article,Bethesda,0,Journal,2-s2.0-0032212146
+Deloukas P.,,"A physical map of 30,000 human genes",1998,Science,572,10.1126/science.282.5389.744,,Article,,0,Journal,2-s2.0-0032561502
+Cherry J.,,SGD: Saccharomyces genome database,1998,Nucleic Acids Research,706,10.1093/nar/26.1.73,United States,Article,Palo Alto,1,Journal,2-s2.0-0031858914
+Broman K.W.,,Comprehensive human genetic maps: Individual and sex-specific variation in recombination,1998,American Journal of Human Genetics,883,10.1086/302011,United States,Article,Marshfield,1,Journal,2-s2.0-0032231877
+Burge C.,,Prediction of complete gene structures in human genomic DNA,1997,Journal of Molecular Biology,2760,10.1006/jmbi.1997.0951,United States,Article,Palo Alto,0,Journal,2-s2.0-0031586003
+Kulp D.,,Integrating database homology in a probabilistic gene structure model.,1997,Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing,26,,United States,Article,Santa Cruz,0,Journal,2-s2.0-0031300843
+Birney E.,,Dynamite: a flexible code generating language for dynamic programming methods used in sequence comparison.,1997,Proceedings / ... International Conference on Intelligent Systems for Molecular Biology ; ISMB. International Conference on Intelligent Systems for Molecular Biology,89,,United Kingdom,Article,Hinxton,0,Journal,2-s2.0-0030628597
+Dib C.,,"A comprehensive genetic map of the human genome based on 5,264 microsatellites",1996,Nature,2654,10.1038/380152a0,France,Article,Evry,0,Journal,2-s2.0-13344259999
+Kulp D.,,A generalized hidden Markov model for the recognition of human genes in DNA.,1996,Proceedings / ... International Conference on Intelligent Systems for Molecular Biology ; ISMB. International Conference on Intelligent Systems for Molecular Biology,269,,United States,Article,Santa Cruz,0,Journal,2-s2.0-0030333286
+Hudson T.,,An STS-Based map of the human genome,1995,Science,712,10.1126/science.270.5244.1945,United States,Article,Cambridge,0,Journal,2-s2.0-0029416826
+Eeckman F.,,ACeDB and Macace,1995,Methods in Cell Biology,70,10.1016/S0091-679X(08)61405-3,United States,Article,Walnut Creek,0,Book Series,2-s2.0-0029449181
+Caspersson T.,,Chemical differentiation along metaphase chromosomes,1968,Experimental Cell Research,337,10.1016/0014-4827(68)90538-7,United States;Sweden,Article,Boston;Stockholm,0,Journal,2-s2.0-0014234658

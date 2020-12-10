@@ -1,0 +1,55 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Li S.,,A Map of the Interactome Network of the Metazoan C. elegans,2004,Science,1334,10.1126/science.1091403,United States,Article,Boston,0,Journal,2-s2.0-9144264169
+Harris T.W.,,WormBase: A multi-species resource for nematode biology and genomics,2004,Nucleic Acids Research,135,,United States,Article,Cold Spring Harbor,0,Journal,2-s2.0-0346494826
+Christie K.,,Saccharomyces Genome Database (SGD) provides tools to identify and analyze sequences from Saccharomyces cerevisiae and related sequences from other organisms,2004,Nucleic Acids Research,205,,United States,Article,Stanford,0,Journal,2-s2.0-9144256665
+Giot L.,,A Protein Interaction Map of Drosophila melanogaster,2003,Science,1781,10.1126/science.1090289,United States,Article,Branford,0,Journal,2-s2.0-0345600247
+Jansen R.,,A Bayesian Networks Approach for Predicting Protein-Protein Interactions from Genomic Data,2003,Science,980,10.1126/science.1087361,United States;United States,Article,New York;New Haven,0,Journal,2-s2.0-0142052944
+Lan N.,,Ontologies for proteomics: Towards a systematic definition of structure and function that scales to the genome level,2003,Current Opinion in Chemical Biology,45,10.1016/S1367-5931(02)00020-0,United States,Review,New Haven,0,Journal,2-s2.0-0037305947
+Westbrook J.,,The Protein Data Bank and structural genomics,2003,Nucleic Acids Research,307,10.1093/nar/gkg068,United States,Review,New Brunswick,1,Journal,2-s2.0-0037248878
+Bader G.,,BIND: The Biomolecular Interaction Network Database,2003,Nucleic Acids Research,918,10.1093/nar/gkg056,Canada,Review,Toronto,0,Journal,2-s2.0-0037245913
+Horak C.E.,,Complex transcriptional circuitry at the G1/S transition in Saccharomyces cerevisiae,2002,Genes and Development,205,10.1101/gad.1039602,United States,Article,New Haven,1,Journal,2-s2.0-0036894656
+Lee T.I.,,Transcriptional regulatory networks in Saccharomyces cerevisiae,2002,Science,2264,10.1126/science.1075090,United States,Article,Cambridge,0,Journal,2-s2.0-0037174671
+Edwards A.,,Bridging structural biology and genomics: Assessing protein interaction data with known complexes,2002,Trends in Genetics,228,10.1016/S0168-9525(02)02763-4,Canada,Review,Toronto,0,Journal,2-s2.0-0036805329
+von Mering C.,,Comparative assessment of large-scale data sets of protein-protein interactions,2002,Nature,1785,10.1038/nature750,Germany,Article,Heidelberg,0,Journal,2-s2.0-0037161731
+Kumar A.,,Subcellular localization of the yeast proteome,2002,Genes and Development,614,10.1101/gad.970902,United States,Article,New Haven,1,Journal,2-s2.0-0037087575
+Kumar A.,,Protein complexes take the bait,2002,Nature,118,10.1038/415123a,United States,Short Survey,New Haven,0,Journal,2-s2.0-0037050020
+Boulton S.,,Combined functional genomic maps of the C. elegans DNA damage response,2002,Science,227,10.1126/science.1065986,United States,Article,Boston,0,Journal,2-s2.0-0037016444
+Lan N.,,Toward a systematic definition of protein function that scales to the genome level: Defining function in terms of interactions,2002,Proceedings of the IEEE,10,10.1109/JPROC.2002.805302,United States,Review,New Haven,0,Journal,2-s2.0-1442275858
+Gelbart W.M.,,The FlyBase database of the Drosophila genome projects and community literature,2002,Nucleic Acids Research,84,,United States,Article,Cambridge,0,Journal,2-s2.0-0036081052
+Luscombe N.M.,,Protein-DNA interactions: Amino acid conservation and the effects of mutations on binding specificity,2002,Journal of Molecular Biology,197,10.1016/S0022-2836(02)00571-5,United Kingdom,Article,London,0,Journal,2-s2.0-0036074510
+Xenarios I.,,"DIP, the Database of Interacting Proteins: A research tool for studying cellular networks of protein interactions",2002,Nucleic Acids Research,1270,10.1093/nar/30.1.303,United States,Article,Los Angeles,1,Journal,2-s2.0-0036088133
+Ho Y.,,Systematic identification of protein complexes in Saccharomyces cerevisiae by mass spectrometry,2002,Nature,2837,10.1038/415180a,Canada,Letter,Toronto,0,Journal,2-s2.0-0037050004
+Gavin A.C.,,Functional organization of the yeast proteome by systematic analysis of protein complexes,2002,Nature,3691,10.1038/415141a,United Kingdom,Article,Brentford,0,Journal,2-s2.0-0037050026
+Matthews L.R.,,"Identification of potential interaction networks using sequence-based searches for conserved protein-protein interactions or ""interologs""",2001,Genome Research,340,10.1101/gr.205301,United States;United States,Article,Beverly;Boston,1,Journal,2-s2.0-0035211290
+Hegyi H.,,Annotation transfer for genomics: Measuring functional divergence in multi-domain proteins,2001,Genome Research,103,10.1101/gr. 183801,United States,Article,New Haven,0,Journal,2-s2.0-0034767547
+Davy A.,,A protein-protein interaction map of the Caenorhabditis elegans 26S proteasome,2001,EMBO Reports,140,10.1093/embo-reports/kve184,France;United States,Article,Montpellier;Boston,0,Journal,2-s2.0-0034774617
+Iyer V.R.,,Genomic binding sites of the yeast cell-cycle transcription factors SBF and MBF,2001,Nature,850,10.1038/35054095,,Article,,0,Journal,2-s2.0-0035945567
+Rain J.,,The protein-protein interaction map of Helicobacter pylori,2001,Nature,859,10.1038/35051615,France,Article,Paris,0,Journal,2-s2.0-0035843145
+Wingender E.,,The TRANSFAC system on gene expression regulation,2001,Nucleic Acids Research,532,10.1093/nar/29.1.281,Germany,Article,Braunschweig,1,Journal,2-s2.0-0035172256
+Ashburner M.,,Gene ontology: Tool for the unification of biology,2000,Nature Genetics,21184,10.1038/75556,,Review,,0,Journal,2-s2.0-0034069495
+Wilson C.A.,,"Assessing annotation transfer for genomics: Quantifying the relations between protein sequence, structure and function through traditional and probabilistic scores",2000,Journal of Molecular Biology,272,10.1006/jmbi.2000.3550,United States,Article,New Haven,0,Journal,2-s2.0-0034677669
+Uetz P.,,A comprehensive analysis of protein-protein interactions in Saccharomyces cerevisiae,2000,Nature,3756,10.1038/35001009,United States,Article,Seattle,0,Journal,2-s2.0-0034628508
+Ito T.,,Toward a protein-protein interaction map of the budding yeast: A comprehensive system to examine two-hybrid interactions in all possible combinations between the yeast proteins,2000,Proceedings of the National Academy of Sciences of the United States of America,644,10.1073/pnas.97.3.1143,Japan,Article,Tokyo,1,Journal,2-s2.0-0033974688
+Vidal M.,,Protein interaction mapping in C. elegans Using proteins involved in vulval development,2000,Science,601,10.1126/science.287.5450.116,United States,Article,Boston,0,Journal,2-s2.0-0034614678
+Mewes H.W.,,MIPS: A database for genomes and protein sequences,2000,Nucleic Acids Research,232,10.1093/nar/28.1.37,Germany;Germany,Article,Freising;Neuherberg,1,Journal,2-s2.0-0033983822
+Marcotte E.,,A combined algorithm for genome-wide prediction of protein function,1999,Nature,716,10.1038/47048,United States,Article,Los Angeles,0,Journal,2-s2.0-0033523854
+Pellegrini M.,,Assigning protein functions by comparative genome analysis: Protein phylogenetic profiles,1999,Proceedings of the National Academy of Sciences of the United States of America,1366,10.1073/pnas.96.8.4285,United States,Article,Los Angeles,1,Journal,2-s2.0-0033551248
+Brenner S.,,Errors in genome annotation,1999,Trends in Genetics,247,10.1016/S0168-9525(99)01706-0,United States,Article,Palo Alto,0,Journal,2-s2.0-0033119399
+Bork P.,,Predicting function: From genes to genomes and back,1998,Journal of Molecular Biology,326,10.1006/jmbi.1998.2144,Germany;Germany,Review,Berlin;Heidelberg,0,Journal,2-s2.0-0032491377
+Fraser C.M.,,"Complete genome sequence of Treponema pallidum, the syphilis spirochete",1998,Science,768,10.1126/science.281.5375.375,United States,Article,Rockville,0,Journal,2-s2.0-0032540874
+Brenner S.,,Assessing sequence comparison methods with reliable structurally identified distant evolutionary relationships,1998,Proceedings of the National Academy of Sciences of the United States of America,422,10.1073/pnas.95.11.6073,United States;United Kingdom,Article,Palo Alto;Cambridge,1,Journal,2-s2.0-0032568596
+Posas F.,,Signal transduction by MAP kinase cascades in budding yeast,1998,Current Opinion in Microbiology,133,10.1016/S1369-5274(98)80008-8,United States,Article,Boston,0,Journal,2-s2.0-0032035043
+Larsen C.,,Protein translocation channels in the proteasome and other proteases,1997,Cell,133,10.1016/S0092-8674(00)80427-4,United States,Review,Boston,1,Journal,2-s2.0-0030726159
+Tatusov R.,,A genomic perspective on protein families,1997,Science,2543,10.1126/science.278.5338.631,United States,Article,Bethesda,0,Journal,2-s2.0-0030660581
+Attwood T.,,Novel developments with the PRINTS protein fingerprint database,1997,Nucleic Acids Research,46,10.1093/nar/25.1.212,United Kingdom,Article,London,1,Journal,2-s2.0-0030752032
+Andrade M.,,Bioinformatics: From genome data to biological knowledge,1997,Current Opinion in Biotechnology,65,10.1016/S0958-1669(97)80118-8,United Kingdom,Article,Cambridge,0,Journal,2-s2.0-0030707764
+Bairoch A.,,"The PROSITE database, its status in 1995",1996,Nucleic Acids Research,269,10.1093/nar/24.1.189,Switzerland,Review,Geneva,1,Journal,2-s2.0-0029916915
+Fraser C.M.,,The minimal gene complement of Mycoplasma genitalium,1995,Science,1993,10.1126/science.270.5235.397,United States,Article,Rockville,0,Journal,2-s2.0-0028829125
+Bork P.,,From genome sequences to protein function,1994,Current Opinion in Structural Biology,53,10.1016/S0959-440X(94)90109-0,Germany,Article,Heidelberg,0,Journal,2-s2.0-0028229510
+Altschul S.,,Basic local alignment search tool,1990,Journal of Molecular Biology,60311,10.1016/S0022-2836(05)80360-2,United States,Article,Bethesda,0,Journal,2-s2.0-0025183708
+Hahn S.,,Yeast HAP2 and HAP3: Transcriptional activators in a heteromeric complex,1988,Science,82,10.1126/science.2832951,United States,Article,Cambridge,0,Journal,2-s2.0-0024287340
+Pearson W.,,Improved tools for biological sequence comparison.,1988,Proceedings of the National Academy of Sciences of the United States of America,9124,10.1073/pnas.85.8.2444,United States,Article,Charlottesville,1,Journal,2-s2.0-0023989064
+Olesen J.,,"Yeast HAP2 and HAP3 activators both bind to the CYC1 upstream activation site, UAS2, in an interdependent manner",1987,Cell,149,10.1016/0092-8674(87)90582-4,United States,Article,Cambridge,0,Journal,2-s2.0-0023663882
+Chothia C.,,The evolution of protein structures,1987,Cold Spring Harbor Symposia on Quantitative Biology,78,10.1101/SQB.1987.052.01.046,United Kingdom,Article,Cambridge,0,Book Series,2-s2.0-0023500244
+Chothia C.,,The relation between the divergence of sequence and structure in proteins.,1986,The EMBO journal,1863,10.1002/j.1460-2075.1986.tb04288.x,,Article,,0,Journal,2-s2.0-0022706389
+Limbach K.,,Characterization of two Drosophila melanogaster cylochrome c genes and their transcripts,1985,Nucleic Acids Research,36,10.1093/nar/13.2.631,United States,Article,Ithaca,0,Journal,2-s2.0-0022431848

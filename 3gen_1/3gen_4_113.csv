@@ -1,0 +1,17 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Micchelli C.A.,,Learning the kernel function via regularization,2005,Journal of Machine Learning Research,264,,United States,Article,Albany,0,Journal,2-s2.0-23244434257
+Ong C.S.,,Learning the kernel with hyperkernels,2005,Journal of Machine Learning Research,240,,Germany,Article,Tubingen,0,Journal,2-s2.0-21844468979
+Xiong H.,,Optimizing the kernel in the empirical feature space,2005,IEEE Transactions on Neural Networks,294,10.1109/TNN.2004.841784,Canada,Article,Montreal,0,Journal,2-s2.0-15344339935
+Yang J.,,KPCA plus LDA: A complete kernel fisher discriminant framework for feature extraction and recognition,2005,IEEE Transactions on Pattern Analysis and Machine Intelligence,733,10.1109/TPAMI.2005.33,China,Article,Nanjing,0,Journal,2-s2.0-14544297033
+Fung G.,,A fast iterative algorithm for Fisher Discriminant using heterogeneous kernels,2004,"Proceedings, Twenty-First International Conference on Machine Learning, ICML 2004",39,,United States,Conference Paper,Malvern,0,Conference Proceeding,2-s2.0-14344262828
+Bach F.R.,,"Multiple kernel learning, conic duality, and the SMO algorithm",2004,"Proceedings, Twenty-First International Conference on Machine Learning, ICML 2004",879,,United States,Conference Paper,Berkeley,0,Conference Proceeding,2-s2.0-14344252374
+Lanckriet G.R.G.,,A statistical framework for genomic data fusion,2004,Bioinformatics,468,10.1093/bioinformatics/bth294,United States,Article,Berkeley,1,Journal,2-s2.0-8844263749
+Bi J.,,Column-generation boosting methods for mixture of kernels,2004,KDD-2004 - Proceedings of the Tenth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,68,10.1145/1014052.1014113,United States,Conference Paper,New York,0,Conference Proceeding,2-s2.0-12244300139
+Lanckriet G.R.G.,,Learning the kernel matrix with semidefinite programming,2004,Journal of Machine Learning Research,1651,,United States,Article,Berkeley,0,Journal,2-s2.0-8844278523
+Mika S.,,Constructing descriptive and discriminative nonlinear features: Rayleigh coefficients in Kernel feature spaces,2003,IEEE Transactions on Pattern Analysis and Machine Intelligence,166,10.1109/TPAMI.2003.1195996,Germany,Article,Berlin,0,Journal,2-s2.0-0038633559
+Crammer K.,,Kernel design using boosting,2003,Advances in Neural Information Processing Systems,58,,Israel,Conference Paper,Jerusalem,0,Conference Proceeding,2-s2.0-84898956003
+Bousquet O.,,On the complexity of learning the kernel matrix,2003,Advances in Neural Information Processing Systems,77,,Germany,Conference Paper,Tubingen,0,Conference Proceeding,2-s2.0-84899006163
+Bennett K.,,MARK: A boosting algorithm for heterogeneous kernel models,2002,Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,76,,United States,Conference Paper,Troy,0,Conference Proceeding,2-s2.0-0242540474
+Mika S.,,A mathematical programming approach to the kernel fisher algorithm,2001,Advances in Neural Information Processing Systems,114,,Germany,Conference Paper,Berlin,0,Conference Proceeding,2-s2.0-84898965347
+Pepe M.,,Receiver Operating Characteristic Methodology,2000,Journal of the American Statistical Association,133,10.1080/01621459.2000.10473930,United States,Article,Seattle,0,Journal,2-s2.0-0442293872
+Vandenberghe L.,,Semidefinite programming,1996,SIAM Review,2683,10.1137/1038003,Belgium,Article,Leuven,0,Journal,2-s2.0-0030106462

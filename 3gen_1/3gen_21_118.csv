@@ -1,0 +1,6 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+He X.,,Multiscale conditional random fields for image labeling,2004,Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition,624,,Canada,Conference Paper,Toronto,0,Conference Proceeding,2-s2.0-5044223520
+Teh Y.W.,,Energy-based models for sparse overcomplete representations,2004,Journal of Machine Learning Research,88,,Canada,Conference Paper,Toronto,0,Journal,2-s2.0-8344290493
+Chen H.,,Continuous restricted Boltzmann machine with an implementable training algorithm,2003,"IEE Proceedings: Vision, Image and Signal Processing",128,10.1049/ip-vis:20030362,United Kingdom,Article,Edinburgh,0,Journal,2-s2.0-0037768682
+Hinton G.,,Stochastic neighbor embedding,2003,Advances in Neural Information Processing Systems,314,,Canada,Conference Paper,Toronto,0,Conference Proceeding,2-s2.0-84898964829
+Hinton G.E.,,Training products of experts by minimizing contrastive divergence,2002,Neural Computation,2671,10.1162/089976602760128018,United Kingdom,Article,London,0,Journal,2-s2.0-0013344078

@@ -1,0 +1,38 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Scharfe C.,,Mapping Gene Associations in Human Mitochondria using Clinical Disease Phenotypes,2009,PLoS Computational Biology,57,10.1371/journal.pcbi.1000374,United States,Article,Stanford,1,Journal,2-s2.0-66249136027
+Jiang Q.,,miR2Disease: A manually curated database for microRNA deregulation in human disease,2009,Nucleic Acids Research,883,10.1093/nar/gkn714,China,Article,Harbin,1,Journal,2-s2.0-58149179989
+Slack F.,,MicroRNA in cancer prognosis,2008,New England Journal of Medicine,156,10.1056/NEJMe0808667,United States,Editorial,New Haven,0,Journal,2-s2.0-58049196616
+Nasser M.,,Down-regulation of micro-RNA-1 (miR-1) in lung cancer: Suppression of tumorigenic property of lung cancer cells and their sensitization to doxorubicin-induced apoptosis by miR-1,2008,Journal of Biological Chemistry,323,10.1074/jbc.M804788200,United States,Article,Columbus,1,Journal,2-s2.0-57749089758
+Markou A.,,Prognostic value of mature MicroRNA-21 and MicroRNA-205 overexpression in non-small cell lung cancer by quantitative real-time RT-PCR,2008,Clinical Chemistry,367,10.1373/clinchem.2007.101741,Greece,Article,Athens,1,Journal,2-s2.0-54049115558
+Wu X.,,Network-based global inference of human disease genes,2008,Molecular Systems Biology,483,10.1038/msb.2008.27,China,Article,Beijing,1,Journal,2-s2.0-43249114206
+Zhang C.,,MicroRNomics: A newly emerging approach for disease biology,2008,Physiological Genomics,163,10.1152/physiolgenomics.00034.2008,United States,Review,Newark,0,Journal,2-s2.0-43049134831
+Köhler S.,,Walking the Interactome for Prioritization of Candidate Disease Genes,2008,American Journal of Human Genetics,775,10.1016/j.ajhg.2008.02.013,Germany,Article,Berlin,1,Journal,2-s2.0-41549139527
+Esquela-Kerscher A.,,The let-7 microRNA reduces tumor growth in mouse models of lung cancer,2008,Cell Cycle,524,10.4161/cc.7.6.5834,United States;United States,Article,Norfolk;New Haven,1,Journal,2-s2.0-42049103216
+Ala U.,,Prediction of human disease genes by human-mouse conserved coexpression analysis,2008,PLoS Computational Biology,92,10.1371/journal.pcbi.1000043,Italy,Article,Turin,1,Journal,2-s2.0-41849139980
+Oti M.,,Phenome connections,2008,Trends in Genetics,96,10.1016/j.tig.2007.12.005,Netherlands,Short Survey,Nijmegen,0,Journal,2-s2.0-39649088431
+Huang Q.,,The microRNAs miR-373 and miR-520c promote tumour invasion and metastasis,2008,Nature Cell Biology,812,10.1038/ncb1681,United States,Article,Philadelphia,0,Journal,2-s2.0-38849107424
+Yu S.L.,,MicroRNA Signature Predicts Survival and Relapse in Lung Cancer,2008,Cancer Cell,670,10.1016/j.ccr.2007.12.008,Taiwan;Taiwan,Article,Taipei;Taipei,1,Journal,2-s2.0-37349096992
+Kertesz M.,,The role of site accessibility in microRNA target recognition,2007,Nature Genetics,1631,10.1038/ng2135,Israel,Article,Rehovot,0,Journal,2-s2.0-34748821761
+Scott M.,,Probabilistic prediction and ranking of human protein-protein interactions,2007,BMC Bioinformatics,97,10.1186/1471-2105-8-239,United Kingdom,Article,Dundee,1,Journal,2-s2.0-34547693013
+Goh K.,,The human disease network,2007,Proceedings of the National Academy of Sciences of the United States of America,2104,10.1073/pnas.0701361104,United States;United States;South Korea;United States,Article,Notre Dame;Boston;Seoul;Boston,1,Journal,2-s2.0-34547140875
+Gaulton K.,,A computational system to select candidate genes for complex human traits,2007,Bioinformatics,66,10.1093/bioinformatics/btm001,United States,Article,Chapel Hill,1,Journal,2-s2.0-34249850089
+Yang B.,,The muscle-specific microRNA miR-1 regulates cardiac arrhythmogenic potential by targeting GJA1 and KCNJ2,2007,Nature Medicine,885,10.1038/nm1569,China,Article,Harbin,0,Journal,2-s2.0-34147095310
+Lage K.,,A human phenome-interactome network of protein complexes implicated in genetic disorders,2007,Nature Biotechnology,700,10.1038/nbt1295,Denmark,Article,Lyngby,0,Journal,2-s2.0-33947095027
+Oti M.,,The modular nature of genetic diseases,2007,Clinical Genetics,289,10.1111/j.1399-0004.2006.00708.x,Netherlands,Review,Nijmegen,0,Journal,2-s2.0-33845545435
+Calin G.,,MicroRNA signatures in human cancers,2006,Nature Reviews Cancer,5856,10.1038/nrc1997,United States,Review,Columbus,0,Journal,2-s2.0-33750370444
+George R.,,Analysis of protein sequence and interaction data for candidate disease gene prediction,2006,Nucleic Acids Research,121,10.1093/nar/gkl707,Australia,Article,Sydney,1,Journal,2-s2.0-33750983361
+Oti M.,,Predicting disease genes using protein-protein interactions,2006,Journal of Medical Genetics,389,10.1136/jmg.2006.041376,Netherlands,Article,Nijmegen,0,Journal,2-s2.0-33747035889
+Calin G.,,MicroRNA-cancer connection: The beginning of a new tale,2006,Cancer Research,852,10.1158/0008-5472.CAN-06-0800,United States,Review,Columbus,1,Journal,2-s2.0-33747876113
+Aerts S.,,Gene prioritization through genomic data fusion,2006,Nature Biotechnology,655,10.1038/nbt1203,Belgium,Article,3000 Leuven,0,Journal,2-s2.0-33646568805
+Adie E.A.,,SUSPECTS: Enabling fast and effective prioritization of positional candidates,2006,Bioinformatics,191,10.1093/bioinformatics/btk031,United Kingdom;United Kingdom,Article,Edinburgh;Edinburgh,1,Journal,2-s2.0-33645104470
+Franke L.,,"Reconstruction of a functional human gene network, with an application for prioritizing positional candidate genes",2006,American Journal of Human Genetics,381,10.1086/504300,Netherlands,Article,Utrecht,1,Journal,2-s2.0-33646884801
+Perez-Iratxeta C.,,G2D: A tool for mining genes associated with disease,2005,BMC Genetics,127,10.1186/1471-2156-6-45,Canada,Article,Ottawa,1,Journal,2-s2.0-26444581337
+Rhodes D.,,Probabilistic model of the human protein-protein interaction network,2005,Nature Biotechnology,323,10.1038/nbt1103,United States,Article,Ann Arbor,0,Journal,2-s2.0-23444452564
+Eder M.,,MicroRNA and lung cancer,2005,New England Journal of Medicine,94,10.1056/NEJMcibr051201,Germany,Article,Hannover,0,Journal,2-s2.0-20344367792
+Lu J.,,MicroRNA expression profiles classify human cancers,2005,Nature,7356,10.1038/nature03702,United States;United States,Article,Boston;Cambridge,0,Journal,2-s2.0-20444460289
+Adie E.,,Speeding disease gene discovery by sequence based candidate prioritization,2005,BMC Bioinformatics,200,10.1186/1471-2105-6-55,United Kingdom,Article,Edinburgh,1,Journal,2-s2.0-25444482801
+Mulder N.J.,,"InterPro, progress and status in 2005",2005,Nucleic Acids Research,403,10.1093/nar/gki106,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-13444282474
+López-Bigas N.,,Genome-wide identification of genes likely to be involved in human genetic disease,2004,Nucleic Acids Research,204,10.1093/nar/gkh605,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-3543106033
+Turner F.,,POCUS: Mining genomic sequence annotation to predict disease genes,2003,Genome Biology,179,10.1186/gb-2003-4-11-r75,United Kingdom,Article,Edinburgh,1,Journal,2-s2.0-1542787787
+van Driel M.,,A new web-based data mining tool for the identification of candidate genes for human genetic disorders,2003,European Journal of Human Genetics,72,10.1038/sj.ejhg.5200918,Netherlands;Netherlands,Article,Nijmegen;Nijmegen,1,Journal,2-s2.0-0037265647
+Perez-Iratxeta C.,,Association of genes to genetically inherited diseases using data mining,2002,Nature Genetics,278,10.1038/ng895,Germany,Article,Heidelberg,0,Journal,2-s2.0-0036649742

@@ -1,0 +1,32 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Shaked D.,,The curve axis,1996,Computer Vision and Image Understanding,14,10.1006/cviu.1996.0026,United States,Article,Palo Alto,0,Journal,2-s2.0-0030107186
+Kimmel R.,,Skeletonization via Distance Maps and Level Sets,1995,Computer Vision and Image Understanding,132,10.1006/cviu.1995.1062,Israel,Article,Haifa,0,Journal,2-s2.0-0029403708
+Ogniewicz R.,,Hierarchic Voronoi skeletons,1995,Pattern Recognition,303,10.1016/0031-3203(94)00105-U,Switzerland,Article,"Zurich ZH,",0,Journal,2-s2.0-0029264216
+Di Baja G.,,"Well-Shaped, Stable, and Reversible Skeletons from the (3,4)-Distance Transform",1994,Journal of Visual Communication and Image Representation,106,10.1006/jvci.1994.1010,Italy,Article,Pozzuoli,0,Journal,2-s2.0-0001353998
+Gauch J.,,The Intensity Axis of Symmetry and Its Application to Image Segmentation,1993,IEEE Transactions on Pattern Analysis and Machine Intelligence,34,10.1109/34.236253,United States;United States,Article,Boston;Chapel Hill,0,Journal,2-s2.0-0027644394
+Arcelli C.,,Euclidean skeleton via centre-of-maximal-disc extraction,1993,Image and Vision Computing,75,10.1016/0262-8856(93)90055-L,Italy,Article,Rome,0,Journal,2-s2.0-0027585894
+Niblack W.,,Generating connected skeletons for exact and approximate reconstruction,1992,Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition,10,10.1109/CVPR.1992.223248,United States,Conference Paper,San Jose,0,Conference Proceeding,2-s2.0-0346263961
+Ogniewicz R.,,Voronoi skeletons: Theory and applications,1992,Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition,144,10.1109/CVPR.1992.223226,Switzerland,Conference Paper,"Zurich ZH,",0,Conference Proceeding,2-s2.0-85058515471
+Leymarie F.,,Simulating the grassfire transform using an active contour model,1992,IEEE Transactions on Pattern Analysis and Machine Intelligence,198,10.1109/34.107013,Canada,Article,Montreal,0,Journal,2-s2.0-0026678261
+Brandt J.,,Continuous skeleton computation by Voronoi diagram,1992,CVGIP: Image Understanding,191,10.1016/1049-9660(92)90030-7,United States,Article,Davis,0,Journal,2-s2.0-0001514510
+Mokhtarian F.,,"A theory of multiscale, curvature-based shape representation for planar curves",1992,IEEE Transactions on Pattern Analysis and Machine Intelligence,750,10.1109/34.149591,Japan,Article,Tokyo,0,Journal,2-s2.0-0026903040
+Riazanoff S.,,Parametrisable skeletonization of binary and multi-level images,1990,Pattern Recognition Letters,22,10.1016/0167-8655(90)90052-4,France;France,Article,Paris;Rungis,0,Journal,2-s2.0-0025677831
+Ponce J.,,On characterizing ribbons and finding skewed symmetries,1990,"Computer Vision, Graphics and Image Processing",50,10.1016/0734-189X(90)90079-B,United States,Article,Urbana,0,Journal,2-s2.0-38249018370
+Gerhardt C.,,Flow of nonconvex hypersurfaces into spheres,1990,Journal of Differential Geometry,131,10.4310/jdg/1214445048,Germany,Article,Heidelberg,1,Journal,2-s2.0-84972495800
+Sethian J.,,Numerical algorithms for propagating interfaces: Hamilton-Jacobi equations and conservation laws,1990,Journal of Differential Geometry,190,10.4310/jdg/1214444092,United States,Article,Berkeley,1,Journal,2-s2.0-84972535294
+Osher S.,,Fronts propagating with curvature-dependent speed: Algorithms based on Hamilton-Jacobi formulations,1988,Journal of Computational Physics,10099,10.1016/0021-9991(88)90002-2,United States,Article,Los Angeles,0,Journal,2-s2.0-44749084234
+Dill A.,,Multiple Resolution Skeletons,1987,IEEE Transactions on Pattern Analysis and Machine Intelligence,59,10.1109/TPAMI.1987.4767937,Switzerland,Article,,0,Journal,2-s2.0-0023383233
+Pizer S.,,Hierarchical Shape Description Via the Multiresolution Symmetric Axis Transform,1987,IEEE Transactions on Pattern Analysis and Machine Intelligence,85,10.1109/TPAMI.1987.4767938,United States,Article,Chapel Hill,0,Journal,2-s2.0-0023386220
+Grayson M.,,The heat equation shrinks embedded plane curves to round points,1987,Journal of Differential Geometry,614,10.4310/jdg/1214441371,United States,Article,San Diego,1,Journal,2-s2.0-84972528479
+Cordella L.,,CONTEXT DEPENDENT SMOOTHING OF FIGURES REPRESENTED BY THEIR MEDIAL AXIS TRANSFORM.,1986,Proceedings - International Conference on Pattern Recognition,3,,Italy,Conference Paper,Naples,0,Conference Proceeding,2-s2.0-0022957855
+Ho S.,,Shape Smoothing Using Medial Axis Properties,1986,IEEE Transactions on Pattern Analysis and Machine Intelligence,28,10.1109/TPAMI.1986.4767815,United States,Article,Madison,0,Journal,2-s2.0-0022752206
+Rosenfeld A.,,Axial representations of shape,1986,"Computer Vision, Graphics and Image Processing",80,10.1016/0734-189X(86)90113-1,United States,Article,College Park,0,Journal,2-s2.0-0022661876
+Gage M.,,The heat equation shrinking convex plane curves,1986,Journal of Differential Geometry,676,10.4310/jdg/1214439902,United States,Article,Rochester,1,Journal,2-s2.0-84963023423
+Mokhtarian F.,,Scale-Based Description and Recognition of Planar Curves and Two-Dimensional Shapes,1986,IEEE Transactions on Pattern Analysis and Machine Intelligence,664,10.1109/TPAMI.1986.4767750,Canada,Article,Vancouver,0,Journal,2-s2.0-0022563222
+Arcelli C.,,Pattern thinning by contour tracing,1981,Computer Graphics and Image Processing,73,10.1016/0146-664X(81)90021-6,Italy,Article,Pozzuoli,0,Journal,2-s2.0-0019728263
+Davies E.,,Thinning algorithms: A critique and a new methodology,1981,Pattern Recognition,139,10.1016/0031-3203(81)90045-5,United Kingdom,Article,Egham,0,Journal,2-s2.0-0019715472
+Blum H.,,Shape description using weighted symmetric axis features,1978,Pattern Recognition,495,10.1016/0031-3203(78)90025-0,United States,Article,Bethesda,0,Journal,2-s2.0-0018178205
+Rosenfeld A.,,A Note on Thinning,1976,"IEEE Transactions on Systems, Man and Cybernetics",37,10.1109/TSMC.1976.5409243,United States,Article,College Park,0,Journal,2-s2.0-0016929427
+Blum H.,,Biological shape and visual science (part I),1973,Journal of Theoretical Biology,840,10.1016/0022-5193(73)90175-6,United States,Article,Bethesda,0,Journal,2-s2.0-0015581337
+Montanari U.,,Continuous Skeletons from Digitized Images,1969,Journal of the ACM (JACM),121,10.1145/321541.321543,United States,Article,Palo Alto,0,Journal,2-s2.0-84898488134
+Montanari U.,,A Method for Obtaining Skeletons Using a Quasi-Euclidean Distance,1968,Journal of the ACM (JACM),173,10.1145/321479.321486,Italy,Article,Milan,0,Journal,2-s2.0-84939044080

@@ -1,0 +1,19 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Carli R.,,A PI consensus controller for networked clocks synchronization,2008,IFAC Proceedings Volumes (IFAC-PapersOnline),54,10.3182/20080706-5-KR-1001.3239,,Conference Paper,,0,Conference Proceeding,2-s2.0-79961019940
+Nair S.,,Stable synchronization of mechanical system networks,2008,SIAM Journal on Control and Optimization,66,10.1137/050646639,United States,Article,Princeton,0,Journal,2-s2.0-52449115468
+Ren W.,,On consensus algorithms for double-integrator dynamics,2008,IEEE Transactions on Automatic Control,1054,10.1109/TAC.2008.924961,United States,Article,Logan,0,Journal,2-s2.0-51449117054
+Tuna S.,,Synchronizing linear systems via partial-state coupling,2008,Automatica,204,10.1016/j.automatica.2008.01.004,Turkey,Article,Ankara,0,Journal,2-s2.0-47249095417
+Sepulchre R.,,Stabilization of planar collective motion with limited communication,2008,IEEE Transactions on Automatic Control,300,10.1109/TAC.2008.919857,Belgium,Article,Liege,0,Journal,2-s2.0-42649110982
+Sarlette A.,,Autonomous rigid body attitude synchronization,2007,Proceedings of the IEEE Conference on Decision and Control,24,10.1109/CDC.2007.4434153,Belgium,Conference Paper,Liege,0,Conference Proceeding,2-s2.0-56749168547
+Arcak M.,,Passivity as a design tool for group coordination,2007,IEEE Transactions on Automatic Control,566,10.1109/TAC.2007.902733,United States,Article,Troy,0,Journal,2-s2.0-34548265220
+Scardovi L.,,Synchronization and balancing on the N-torus,2007,Systems and Control Letters,95,10.1016/j.sysconle.2006.10.020,Belgium,Article,Liege,0,Journal,2-s2.0-33947263146
+Stan G.,,Analysis of interconnected oscillators by dissipativity theory,2007,IEEE Transactions on Automatic Control,208,10.1109/TAC.2006.890471,United Kingdom,Article,Cambridge,0,Journal,2-s2.0-33947407698
+Pham Q.,,Stable concurrent synchronization in dynamic system networks,2007,Neural Networks,154,10.1016/j.neunet.2006.07.008,France,Article,Paris,0,Journal,2-s2.0-33845599202
+Moreau L.,,Stability of multiagent systems with time-dependent communication links,2005,IEEE Transactions on Automatic Control,2061,10.1109/TAC.2004.841888,Belgium,Article,Ghent,0,Journal,2-s2.0-12944293796
+Loría A.,,A nested matrosov theorem and persistency of excitation for uniform convergence in stable nonautonomous systems,2005,IEEE Transactions on Automatic Control,124,10.1109/TAC.2004.841939,France,Article,Paris,0,Journal,2-s2.0-14644386858
+Olfati-Saber R.,,Consensus problems in networks of agents with switching topology and time-delays,2004,IEEE Transactions on Automatic Control,8298,10.1109/TAC.2004.834113,United States,Article,Pasadena,0,Journal,2-s2.0-4644244041
+Moreau L.,,Stability of continuous-time distributed consensus algorithms,2004,Proceedings of the IEEE Conference on Decision and Control,530,10.1109/cdc.2004.1429377,Belgium,Conference Paper,Ghent,0,Conference Proceeding,2-s2.0-14244267540
+Jadbabaie A.,,Coordination of groups of mobile autonomous agents using nearest neighbor rules,2003,IEEE Transactions on Automatic Control,6057,10.1109/TAC.2003.812781,United States;United States,Article,Philadelphia;New Haven,0,Journal,2-s2.0-0038548185
+Pogromsky A.,,Passivity based design of synchronizing systems,1998,International Journal of Bifurcation and Chaos in Applied Sciences and Engineering,130,10.1142/S0218127498000188,Sweden;Russian Federation,Article,Linkoping;Saint Petersburg (ex Leningrad),0,Journal,2-s2.0-0032008404
+Hale J.,,"Diffusive coupling, dissipation, and synchronization",1997,Journal of Dynamics and Differential Equations,113,10.1007/BF02219051,United States,Article,Atlanta,0,Journal,2-s2.0-0002298523
+Willems J.,,Lyapunov functions for diagonally dominant systems,1976,Automatica,50,10.1016/0005-1098(76)90011-X,Netherlands,Article,Groningen,0,Journal,2-s2.0-0016995661

@@ -1,0 +1,12 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Mehlhorn K.,,LEDA: A Platform for Combinatorial and Geometric Computing,1995,Communications of the ACM,207,10.1145/204865.204889,United States,Article,,0,Journal,2-s2.0-0029184961
+Queyranne M.,,A combinatorial algorithm for minimizing symmetric submodular functions,1995,Proceedings of the Annual ACM-SIAM Symposium on Discrete Algorithms,26,,Canada,Conference Paper,Vancouver,0,Conference Proceeding,2-s2.0-58149292093
+Karger D.,,An 6(n2) algorithm for minimum cuts,1993,Proceedings of the Annual ACM Symposium on Theory of Computing,46,10.1145/167088.167281,United States,Conference Paper,Palo Alto,0,Conference Proceeding,2-s2.0-0027149384
+Matula D.,,Linear time 2+ε approximation algorithm for edge connectivity,1993,Proceedings of the Fourth Annual ACM-SIAM Symposium on Discrete Algorithms,46,,Denmark,Conference Paper,,0,Conference Proceeding,2-s2.0-0027202915
+Nagamochi H.,,A linear-time algorithm for finding a sparse k-connected spanning subgraph of a k-connected graph,1992,Algorithmica,199,10.1007/BF01758778,Japan,Article,Kyoto,0,Journal,2-s2.0-0026692547
+Hao J.,,A faster algorithm for finding the minimum cut in a graph,1992,Proceedings of the Annual ACM-SIAM Symposium on Discrete Algorithms,73,,United States,Conference Paper,New York,0,Conference Proceeding,2-s2.0-85025245357
+Alon N.,,Generating pseudo-random permutations and maximum flow algorithms,1990,Information Processing Letters,29,10.1016/0020-0190(90)90024-R,United States;Israel,Article,San Jose;Tel Aviv-Yafo,0,Journal,2-s2.0-0025702464
+Cheriyan J.,,Can a maximum flow be computed in o(nm) time?,1990,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),24,10.1007/bfb0032035,Germany,Conference Paper,Saarbrucken,0,Book Series,2-s2.0-85031943966
+Ahuja R.,,Improved time bounds for the maximum flow problem,Oct,SIAM Journal on Computing,74,10.1137/0218065,United States,Article,Cambridge,0,Journal,2-s2.0-0024748584
+Goldberg A.,,A New Approach to the Maximum-Flow Problem,1988,Journal of the ACM (JACM),1203,10.1145/48014.61051,United States,Article,Palo Alto,0,Journal,2-s2.0-0024090156
+Fredman M.,,Fibonacci heaps and their uses in improved network optimization algorithms,1987,Journal of the ACM (JACM),1582,10.1145/28869.28874,United States,Article,San Diego,0,Journal,2-s2.0-0023384210

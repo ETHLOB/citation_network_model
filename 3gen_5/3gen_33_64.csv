@@ -1,0 +1,26 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Margolin A.,,ARACNE: An algorithm for the reconstruction of gene regulatory networks in a mammalian cellular context,2006,BMC Bioinformatics,1535,10.1186/1471-2105-7-S1-S7,United States,Article,New York,1,Journal,2-s2.0-33947305781
+Lu W.,,A high-performance liquid chromatography-tandem mass spectrometry method for quantitation of nitrogen-containing intracellular metabolites,2006,Journal of the American Society for Mass Spectrometry,112,10.1016/j.jasms.2005.09.001,United States,Article,Princeton,1,Journal,2-s2.0-29844441918
+Vlieghe D.,,"A new generation of JASPAR, the open-access repository for transcription factor binding site profiles.",2006,Nucleic acids research,160,10.1093/nar/gkj115,Belgium,Article,Ghent,1,Journal,2-s2.0-33644875782
+Matys V.,,TRANSFAC and its module TRANSCompel: transcriptional gene regulation in eukaryotes.,2006,Nucleic acids research,1505,10.1093/nar/gkj143,Germany,Article,Wolfenbuttel,1,Journal,2-s2.0-33644876958
+Hartemink A.,,Reverse engineering gene regulatory networks,2005,Nature Biotechnology,98,10.1038/nbt0505-554,United States,Short Survey,Durham,0,Journal,2-s2.0-22844441552
+Lu J.,,MicroRNA expression profiles classify human cancers,2005,Nature,7356,10.1038/nature03702,United States;United States,Article,Boston;Cambridge,0,Journal,2-s2.0-20444460289
+Sachs K.,,Causal protein-signaling networks derived from multiparameter single-cell data,2005,Science,969,10.1126/science.1105809,United States,Article,Cambridge,0,Journal,2-s2.0-17644427718
+Cover T.M.,,Elements of Information Theory,2005,Elements of Information Theory,27606,10.1002/047174882X,,Book,,0,Book,2-s2.0-84889281816
+Basso K.,,Reverse engineering of regulatory networks in human B cells,2005,Nature Genetics,987,10.1038/ng1532,United States,Article,New York,0,Journal,2-s2.0-16844376909
+Friedman N.,,Inferring Cellular Networks Using Probabilistic Graphical Models,2004,Science,829,10.1126/science.1094068,Israel,Review,Jerusalem,0,Journal,2-s2.0-0842288337
+Gat-Viks I.,,Chain functions and scoring functions in genetic networks,2003,Bioinformatics,29,10.1093/bioinformatics/btg1014,Israel,Conference Paper,Tel Aviv-Yafo,1,Journal,2-s2.0-3242882981
+Shannon P.,,Cytoscape: A software Environment for integrated models of biomolecular interaction networks,2003,Genome Research,14465,10.1101/gr.1239303,United States,Article,Seattle,1,Journal,2-s2.0-0242490780
+Gardner T.S.,,Inferring genetic networks and identifying compound mode of action via expression profiling,2003,Science,869,10.1126/science.1081900,United States,Article,Boston,0,Journal,2-s2.0-0038048325
+Kel A.,,MATCH™: A tool for searching transcription factor binding sites in DNA sequences,2003,Nucleic Acids Research,822,10.1093/nar/gkg585,Germany;Russian Federation,Article,Wolfenbuttel;Novosibirsk,1,Journal,2-s2.0-0041853625
+Segal E.,,Module networks: Identifying regulatory modules and their condition-specific regulators from gene expression data,2003,Nature Genetics,1227,10.1038/ng1165,United States,Article,Palo Alto,0,Journal,2-s2.0-0037941585
+Tegnér J.,,Reverse engineering gene networks: Integrating genetic perturbations with dynamical modeling,2003,Proceedings of the National Academy of Sciences of the United States of America,322,10.1073/pnas.0933416100,United States;Sweden;Sweden,Article,Boston;Linkoping;Stockholm,1,Journal,2-s2.0-0037687416
+van Someren E.,,Genetic network modeling,2002,Pharmacogenomics,150,10.1517/14622416.3.4.507,Netherlands,Review,Delft,0,Journal,2-s2.0-0036020655
+Perez O.,,Simultaneous measurement of multiple active kinase states using polychromatic flow cytometry,2002,Nature Biotechnology,215,10.1038/nbt0202-155,United States,Article,Stanford,0,Journal,2-s2.0-0036173143
+Klein U.,,Gene expression profiling of B cell chronic lymphocytic leukemia reveals a homogeneous phenotype related to memory B cells,2001,Journal of Experimental Medicine,745,10.1084/jem.194.11.1625,United States,Article,New York,1,Journal,2-s2.0-0035803464
+Ideker T.,,Integrated genomic and proteomic analyses of a systematically perturbed metabolic network,2001,Science,1595,10.1126/science.292.5518.929,United States,Article,Seattle,0,Journal,2-s2.0-0035805255
+Hartemink A.,,Using graphical models and genomic expression data to statistically validate models of genetic regulatory networks.,2001,Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing,263,,United States,Article,Cambridge,0,Journal,2-s2.0-0035221560
+Ren B.,,Genome-wide location and function of DNA binding proteins,2000,Science,1525,10.1126/science.290.5500.2306,United States,Article,Cambridge,0,Journal,2-s2.0-0034704248
+Ashburner M.,,Gene ontology: Tool for the unification of biology,2000,Nature Genetics,21253,10.1038/75556,,Review,,0,Journal,2-s2.0-0034069495
+Butte A.,,Mutual information relevance networks: functional genomic clustering using pairwise entropy measurements.,2000,Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing,600,,United States,Article,Boston,0,Journal,2-s2.0-0033655775
+Schena M.,,Quantitative monitoring of gene expression patterns with a complementary DNA microarray,1995,Science,7244,10.1126/science.270.5235.467,United States,Article,Stanford,0,Journal,2-s2.0-0028806048

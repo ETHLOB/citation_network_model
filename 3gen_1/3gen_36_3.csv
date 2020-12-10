@@ -1,0 +1,16 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Massjouni N.,,VIRGO: Computational prediction of gene functions,2006,Nucleic Acids Research,23,10.1093/nar/gkl225,United States,Article,Blacksburg,1,Journal,2-s2.0-33747870532
+Nabieva E.,,Whole-proteome prediction of protein function via graph-theoretic analysis of interaction maps,2005,Bioinformatics,341,10.1093/bioinformatics/bti1054,United States,Article,Princeton,1,Journal,2-s2.0-29144442904
+Lee I.,,A probabilistic functional network of yeast genes,2004,Science,522,10.1126/science.1099511,United States,Article,Austin,0,Journal,2-s2.0-9444239213
+Roberts R.,,Identifying protein function - A call for community action,2004,PLoS Biology,112,10.1371/journal.pbio.0020042,United States,Review,Ipswich,1,Journal,2-s2.0-19344377263
+Karaoz U.,,Whole-genome annotation by using evidence integration in functional-linkage networks,2004,Proceedings of the National Academy of Sciences of the United States of America,243,10.1073/pnas.0307326101,United States,Article,Boston,1,Journal,2-s2.0-1542327694
+Bader J.,,Gaining confidence in high-throughput protein interaction networks,2004,Nature Biotechnology,368,10.1038/nbt924,United States,Article,Baltimore,0,Journal,2-s2.0-0347473809
+Letovsky S.,,Predicting protein function from protein/protein interaction data: A probabilistic approach,2003,Bioinformatics,288,10.1093/bioinformatics/btg1026,United States,Conference Paper,Boston,1,Journal,2-s2.0-1542271409
+Jansen R.,,A Bayesian Networks Approach for Predicting Protein-Protein Interactions from Genomic Data,2003,Science,980,10.1126/science.1087361,United States;United States,Article,New York;New Haven,0,Journal,2-s2.0-0142052944
+Raychaudhuri S.,,The computational analysis of scientific literature to define and recognize gene expression clusters,2003,Nucleic Acids Research,42,10.1093/nar/gkg636,United States,Review,Palo Alto,1,Journal,2-s2.0-0043163729
+Enright A.,,Protein families and TRIBES in genome sequence space,2003,Nucleic Acids Research,101,10.1093/nar/gkg495,United Kingdom;United States,Article,Cambridge;New York,0,Journal,2-s2.0-0043163718
+Breitkreutz B.,,The GRID: the General Repository for Interaction Datasets.,2003,Genome biology,205,,Canada,Article,Toronto,0,Journal,2-s2.0-0037264524
+Schwikowski B.,,A network of protein-protein interactions in yeast,2000,Nature Biotechnology,987,10.1038/82360,United States;United States,Article,Seattle;Seattle,0,Journal,2-s2.0-0033669189
+Butte A.,,Discovering functional relationships between RNA expression and chemotherapeutic susceptibility using relevance networks,2000,Proceedings of the National Academy of Sciences of the United States of America,436,10.1073/pnas.220392197,United States,Article,Boston,1,Journal,2-s2.0-0034710924
+Ashburner M.,,Gene ontology: Tool for the unification of biology,2000,Nature Genetics,21184,10.1038/75556,,Review,,0,Journal,2-s2.0-0034069495
+Goldberg A.,,A New Approach to the Maximum-Flow Problem,1988,Journal of the ACM (JACM),1201,10.1145/48014.61051,United States,Article,Palo Alto,0,Journal,2-s2.0-0024090156

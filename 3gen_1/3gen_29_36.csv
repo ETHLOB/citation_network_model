@@ -1,0 +1,18 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Michalickova K.,,SeqHound: Biological sequence and structure database as a platform for bioinformatics research,2002,BMC Bioinformatics,38,10.1186/1471-2105-3-32,Canada;Canada,Article,Toronto;Toronto,1,Journal,2-s2.0-0012787398
+Geer L.,,CDART: Protein homology by domain architecture,2002,Genome Research,468,10.1101/gr.278202,United States,Article,Bethesda,1,Journal,2-s2.0-0036796467
+Zanzoni A.,,MINT: A Molecular INTeraction database,2002,FEBS Letters,573,10.1016/S0014-5793(01)03293-8,Italy,Short Survey,Rome,1,Journal,2-s2.0-0037138406
+Tong A.,,A combined experimental and computational strategy to define protein interaction networks for peptide recognition modules,2002,Science,557,10.1126/science.1064987,United States,Article,Seattle,0,Journal,2-s2.0-0037059461
+Wang Y.,,MMDB: Entrez 3D-structure database,2002,Nucleic Acids Research,33,,United States,Article,Bethesda,0,Journal,2-s2.0-18044400433
+Westbrook J.,,The protein data bank: Unifying the archive,2002,Nucleic Acids Research,196,10.1093/nar/30.1.245,United States,Article,New Brunswick,1,Journal,2-s2.0-18444373540
+Marchler-Bauer A.,,CDD: A database of conserved domain alignments with links to domain three-dimensional structure,2002,Nucleic Acids Research,500,10.1093/nar/30.1.281,United States,Article,Bethesda,1,Journal,2-s2.0-0036087630
+Xenarios I.,,"DIP, the Database of Interacting Proteins: A research tool for studying cellular networks of protein interactions",2002,Nucleic Acids Research,1270,10.1093/nar/30.1.303,United States,Article,Los Angeles,1,Journal,2-s2.0-0036088133
+Ho Y.,,Systematic identification of protein complexes in Saccharomyces cerevisiae by mass spectrometry,2002,Nature,2837,10.1038/415180a,Canada,Letter,Toronto,0,Journal,2-s2.0-0037050004
+Gavin A.C.,,Functional organization of the yeast proteome by systematic analysis of protein complexes,2002,Nature,3691,10.1038/415141a,United Kingdom,Article,Brentford,0,Journal,2-s2.0-0037050026
+Tong A.H.Y.,,Systematic genetic analysis with ordered arrays of yeast deletion mutants,2001,Science,1510,10.1126/science.1065810,Canada,Article,Toronto,0,Journal,2-s2.0-0035861532
+Salama J.,,Automatic annotation of BIND molecular interactions from three-dimensional structures,2001,Biopolymers,10,10.1002/1097-0282(2001/2002)61:2<111::AID-BIP10143>3.0.CO;2-8,Canada,Article,Toronto,0,Journal,2-s2.0-0012845191
+Fields S.,,Proteomics: Proteomics in genomeland,2001,Science,214,10.1126/science.291.5507.1221,United States,Review,Seattle,0,Journal,2-s2.0-0035895514
+Bader G.,,BIND - The Biomolecular Interaction Network Database,2001,Nucleic Acids Research,425,,Canada;Canada,Article,Toronto;Toronto,0,Journal,2-s2.0-0035171884
+Bader G.,,"BIND - A data specification for storing and describing biomolecular interactions, molecular complexes and pathways",2000,Bioinformatics,142,10.1093/bioinformatics/16.5.465,Canada,Article,Toronto,0,Journal,2-s2.0-0033930882
+Schuler G.D.,,[10] Entrez: Molecular biology database and retrieval system,1996,Methods in Enzymology,278,10.1016/s0076-6879(96)66012-1,,Article,,0,Book Series,2-s2.0-0030010970
+Pawson T.,,Protein modules and signalling networks,1995,Nature,2158,10.1038/373573a0,Canada,Article,Toronto,0,Journal,2-s2.0-0028859279

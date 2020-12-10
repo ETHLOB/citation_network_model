@@ -1,0 +1,36 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Chen X.,,Semi-supervised learning for potential human microRNA-disease associations inference,2014,Scientific Reports,207,10.1038/srep05501,China;China,Article,Beijing;Beijing,1,Journal,2-s2.0-84903650418
+Liu B.,,"Identifying miRNAs, targets and functions",2014,Briefings in Bioinformatics,173,10.1093/bib/bbs075,Australia,Article,Newcastle,1,Journal,2-s2.0-84893025641
+Li Y.,,HMDD v2.0: A database for experimentally supported human microRNA and disease associations,2014,Nucleic Acids Research,403,10.1093/nar/gkt1023,China,Article,Beijing,1,Journal,2-s2.0-84891781832
+Shi H.,,Walking the interactome to identify human miRNA-disease associations through the functional link between miRNA targets and disease genes,2013,BMC Systems Biology,138,10.1186/1752-0509-7-101,China,Article,Harbin,1,Journal,2-s2.0-84885009161
+Xuan P.,,Prediction of microRNAs Associated with Human Diseases Based on Weighted k Most Similar Neighbors,2013,PLoS ONE,149,10.1371/journal.pone.0070204,China,Article,Harbin,1,Journal,2-s2.0-84881349217
+Chen H.,,Prediction of associations between OMIM diseases and MicroRNAs by random walk on OMIM disease similarity network,2013,The Scientific World Journal,26,10.1155/2013/204658,China;China,Article,Loudi;Changsha,1,Journal,2-s2.0-84876540563
+Mascaux C.,,Endobronchial miRNAs as biomarkers in lung cancer chemoprevention,2013,Cancer Prevention Research,13,10.1158/1940-6207.CAPR-12-0382,United States,Article,Denver,1,Journal,2-s2.0-84874472034
+Belinky F.,,Non-redundant compendium of human ncRNA genes in GeneCards,2013,Bioinformatics,35,10.1093/bioinformatics/bts676,Israel,Article,Rehovot,1,Journal,2-s2.0-84872566505
+Tang H.,,Oxidative stress-responsive microRNA-320 regulates glycolysis in diverse biological systems,2012,FASEB Journal,67,10.1096/fj.11-197467,United States;United States,Article,Stanford;Palo Alto,0,Journal,2-s2.0-84868282332
+Jang J.,,Increased miR-708 expression in NSCLC and its association with poor survival in lung adenocarcinoma from never smokers,2012,Clinical Cancer Research,85,10.1158/1078-0432.CCR-11-2857,United States,Article,Rochester,1,Journal,2-s2.0-84863325324
+Chan L.,,Genomic sequence analysis of EGFR regulation by microRNAs in lung cancer,2012,Current Topics in Medicinal Chemistry,35,10.2174/156802612800166747,Hong Kong,Article,Kowloon,0,Journal,2-s2.0-84860289964
+Chen X.,,RWRMDA: Predicting novel human microRNA-disease associations,2012,Molecular BioSystems,224,10.1039/c2mb25180a,China;China,Article,Beijing;Beijing,0,Journal,2-s2.0-84865786695
+Li X.,,Prioritizing human cancer microRNAs based on genes' functional consistency between microRNA and cancer,2011,Nucleic Acids Research,50,10.1093/nar/gkr770,China,Article,Harbin,1,Journal,2-s2.0-83755205389
+Keller A.,,Stable serum miRNA profiles as potential tool for non-invasive lung cancer diagnosis,2011,RNA Biology,109,10.4161/rna.8.3.14994,Germany;Germany,Article,Heidelberg;Heidelberg,1,Journal,2-s2.0-79956161617
+Yang Z.,,DbDEMC: A database of differentially expressed miRNAs in human cancers,2010,BMC Genomics,147,10.1186/1471-2164-11-S4-S5,China;China;China,Article,Shanghai;Beijing;Beijing,1,Journal,2-s2.0-78649778244
+Jiang Q.,,Weighted network-based inference of human microRNA-disease associations,2010,"Proceedings - 5th International Conference on Frontier of Computer Science and Technology, FCST 2010",14,10.1109/FCST.2010.18,China,Conference Paper,Harbin,0,Conference Proceeding,2-s2.0-77957909319
+Mosca E.,,A multilevel data integration resource for breast cancer study,2010,BMC Systems Biology,66,10.1186/1752-0509-4-76,Italy,Article,Segrate,1,Journal,2-s2.0-77953015096
+Jiang Q.,,Prioritization of disease microRNAs through a human phenome-microRNAome network,2010,BMC Systems Biology,202,10.1186/1752-0509-4-S1-S2,China,Article,Harbin,1,Journal,2-s2.0-77953888015
+Wang D.,,Inferring the human microRNA functional similarity and functional network based on microRNA-associated diseases,2010,Bioinformatics,318,10.1093/bioinformatics/btq241,China;China,Article,Beijing;Beijing,1,Journal,2-s2.0-77954193356
+Bandyopadhyay S.,,Development of the human cancer microRNA network,2010,Silence,176,10.1186/1758-907X-1-6,India,Article,Kolkata,1,Journal,2-s2.0-77953358008
+Ruepp A.,,PhenomiR: A knowledgebase for microRNA expression in diseases and biological processes,2010,Genome Biology,182,10.1186/gb-2010-11-1-r6,Germany,Article,Neuherberg,1,Journal,2-s2.0-77349120755
+Chatterjee S.,,Active turnover modulates mature microRNA activity in Caenorhabditis elegans,2009,Nature,253,10.1038/nature08349,Switzerland,Article,Basel,0,Journal,2-s2.0-70349453924
+Ritchie W.,,Predicting microRNA targets and functions: Traps for the unwary,2009,Nature Methods,124,10.1038/nmeth0609-397,Australia,Letter,Sydney,0,Journal,2-s2.0-66249106716
+Lynam-Lennon N.,,The roles of microRNA in cancer and apoptosis,2009,Biological Reviews,282,10.1111/j.1469-185X.2008.00061.x,Ireland,Review,Dublin,0,Journal,2-s2.0-58849139162
+Bartel D.,,MicroRNAs: Target Recognition and Regulatory Functions,2009,Cell,12994,10.1016/j.cell.2009.01.002,United States;United States,Review,Cambridge;Cambridge,1,Journal,2-s2.0-58249088751
+Jiang Q.,,miR2Disease: A manually curated database for microRNA deregulation in human disease,2009,Nucleic Acids Research,881,10.1093/nar/gkn714,China,Article,Harbin,1,Journal,2-s2.0-58149179989
+Lu M.,,An analysis of human microRNA and disease associations,2008,PLoS ONE,630,10.1371/journal.pone.0003420,China;China,Article,Beijing;Beijing,1,Journal,2-s2.0-54849408182
+Yu S.L.,,MicroRNA Signature Predicts Survival and Relapse in Lung Cancer,2008,Cancer Cell,670,10.1016/j.ccr.2007.12.008,Taiwan;Taiwan,Article,Taipei;Taipei,1,Journal,2-s2.0-37349096992
+Kertesz M.,,The role of site accessibility in microRNA target recognition,2007,Nature Genetics,1626,10.1038/ng2135,Israel,Article,Rehovot,0,Journal,2-s2.0-34748821761
+Goh K.,,The human disease network,2007,Proceedings of the National Academy of Sciences of the United States of America,2103,10.1073/pnas.0701361104,United States;United States;South Korea;United States,Article,Notre Dame;Boston;Seoul;Boston,1,Journal,2-s2.0-34547140875
+Alvarez-Garcia I.,,MicroRNA functions in animal development and human disease,2005,Development,1002,10.1242/dev.02073,United Kingdom,Review,Cambridge,1,Journal,2-s2.0-28044471565
+Baskerville S.,,Microarray profiling of microRNAs reveals frequent coexpression with neighboring miRNAs and host genes,2005,RNA,1086,10.1261/rna.7240905,United States,Article,Cambridge,1,Journal,2-s2.0-13944260434
+Hamosh A.,,"Online Mendelian Inheritance in Man (OMIM), a knowledgebase of human genes and genetic disorders",2005,Nucleic Acids Research,1525,10.1093/nar/gki033,,Article,,1,Journal,2-s2.0-13444266370
+Bartel D.,,"MicroRNAs: Genomics, Biogenesis, Mechanism, and Function",2004,Cell,24943,10.1016/S0092-8674(04)00045-5,United States;United States,Review,Cambridge;Cambridge,1,Journal,2-s2.0-0347444723
+Lewis B.,,Prediction of Mammalian MicroRNA Targets,2003,Cell,3780,10.1016/S0092-8674(03)01018-3,United States,Article,Cambridge,1,Journal,2-s2.0-0346094457

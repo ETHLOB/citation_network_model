@@ -1,0 +1,44 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Kamburov A.,,Cluster-based assessment of protein-protein interaction confidence,2012,BMC Bioinformatics,17,10.1186/1471-2105-13-262,Germany,Article,Berlin,1,Journal,2-s2.0-84867211366
+Kamburov A.,,IntScore: A web tool for confidence scoring of biological interactions,2012,Nucleic Acids Research,21,10.1093/nar/gks492,Germany,Article,Berlin,1,Journal,2-s2.0-84864420140
+Patti G.,,Innovation: Metabolomics: the apogee of the omics trilogy,2012,Nature Reviews Molecular Cell Biology,1118,10.1038/nrm3314,United States,Review,St. Louis,0,Journal,2-s2.0-84858790233
+Hegele A.,,Dynamic Protein-Protein Interaction Wiring of the Human Spliceosome,2012,Molecular Cell,191,10.1016/j.molcel.2011.12.034,Germany,Article,Berlin,1,Journal,2-s2.0-84857422448
+Zhu F.,,Therapeutic target database update 2012: A resource for facilitating target-oriented drug discovery,2012,Nucleic Acids Research,310,10.1093/nar/gkr797,Singapore,Article,Singapore City,1,Journal,2-s2.0-84859267371
+Kelder T.,,WikiPathways: Building research communities on biological pathways,2012,Nucleic Acids Research,352,10.1093/nar/gkr1074,Netherlands;Netherlands,Article,The Hague;Maastricht,1,Journal,2-s2.0-84862203775
+Hornbeck P.V.,,PhosphoSitePlus: A comprehensive resource for investigating the structure and function of experimentally determined post-translational modifications in man and mouse,2012,Nucleic Acids Research,953,10.1093/nar/gkr1122,United States,Article,Danvers,1,Journal,2-s2.0-84857047339
+Kanehisa M.,,KEGG for integration and interpretation of large-scale molecular data sets,2012,Nucleic Acids Research,2758,10.1093/nar/gkr988,Japan;Japan,Article,Tokyo;Kyoto,1,Journal,2-s2.0-84858983547
+Yildirimman R.,,Human embryonic stem cell derived hepatocyte-like cells as a tool for In Vitro hazard assessment of chemical carcinogenicity,2011,Toxicological Sciences,51,10.1093/toxsci/kfr225,Germany,Article,Berlin,1,Journal,2-s2.0-81855211099
+Isserlin R.,,The biomolecular interaction network database in PSI-MI 2.5,2011,Database,71,10.1093/database/baq037,Canada,Article,Toronto,1,Journal,2-s2.0-79955667824
+Kamburov A.,,Integrated pathway-level analysis of transcriptomics and metabolomics data with IMPaLA,2011,Bioinformatics,172,10.1093/bioinformatics/btr499,Germany,Article,Berlin,1,Journal,2-s2.0-80053976986
+Aranda B.,,PSICQUIC and PSISCORE: Accessing and scoring molecular interactions,2011,Nature Methods,185,10.1038/nmeth.1637,United Kingdom,Letter,Cambridge,0,Journal,2-s2.0-79959846617
+Chagoyen M.,,MBRole: Enrichment analysis of metabolomic data,2011,Bioinformatics,106,10.1093/bioinformatics/btr001,Spain,Article,Madrid,1,Journal,2-s2.0-79951999565
+Chautard E.,,"MatrixDB, the extracellular matrix interaction database",2011,Nucleic Acids Research,85,10.1093/nar/gkq830,France,Article,Lyon,1,Journal,2-s2.0-78651301312
+Kamburov A.,,ConsensusPathDB: Toward a more complete picture of cell biology,2011,Nucleic Acids Research,305,10.1093/nar/gkq1156,Germany,Article,Berlin,1,Journal,2-s2.0-78651335912
+Cerami E.,,"Pathway Commons, a web resource for biological pathway data",2011,Nucleic Acids Research,623,10.1093/nar/gkq1039,United States;United States,Article,New York;New York,1,Journal,2-s2.0-78651332286
+Stark C.,,The BioGRID Interaction Database: 2011 update,2011,Nucleic Acids Research,664,10.1093/nar/gkq1116,Canada,Article,Toronto,1,Journal,2-s2.0-78651328883
+Croft D.,,"Reactome: A database of reactions, pathways and biological processes",2011,Nucleic Acids Research,902,10.1093/nar/gkq1018,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-78651275182
+Knox C.,,DrugBank 3.0: A comprehensive resource for 'Omics' research on drugs,2011,Nucleic Acids Research,1293,10.1093/nar/gkq1126,Canada,Article,Edmonton,1,Journal,2-s2.0-78651287426
+Pentchev K.,,Evidence mining and novelty assessment of protein-protein interactions with the consensusPathDB plugin for Cytoscape,2010,Bioinformatics,20,10.1093/bioinformatics/btq522,Germany,Article,Berlin,1,Journal,2-s2.0-77958500367
+Demir E.,,The BioPAX community standard for pathway data sharing,2010,Nature Biotechnology,405,10.1038/nbt.1666,Turkey;United States,Review,Ankara;New York,0,Journal,2-s2.0-77956664073
+Korcsmáros T.,,Uniformly curated signaling pathways reveal tissue-specific cross-talks and support drug target discovery,2010,Bioinformatics,60,10.1093/bioinformatics/btq310,Hungary;Hungary,Article,Budapest;Budapest,1,Journal,2-s2.0-77955444349
+Xia J.,,MSEA: A web-based tool to identify biologically meaningful patterns in quantitative metabolomic data,2010,Nucleic Acids Research,298,10.1093/nar/gkq329,Canada,Article,Edmonton,1,Journal,2-s2.0-77954256613
+Thorn C.,,Pharmacogenomics and bioinformatics: PharmGKB,2010,Pharmacogenomics,90,10.2217/pgs.10.15,United States,Note,Stanford,0,Journal,2-s2.0-77950352522
+Frolkis A.,,SMPDB: The small molecule pathway database,2009,Nucleic Acids Research,159,10.1093/nar/gkp1002,Canada,Article,Edmonton,1,Journal,2-s2.0-75549091977
+Elefsinioti A.,,Accounting for redundancy when integrating gene interaction databases,2009,PLoS ONE,4,10.1371/journal.pone.0007492,Germany,Article,Dresden,1,Journal,2-s2.0-70449562098
+Levy E.,,How perfect can protein interactomes be?,2009,Science Signaling,52,10.1126/scisignal.260pe11,Canada,Short Survey,Montreal,0,Journal,2-s2.0-65349149138
+Cusick M.,,Literature-curated protein interaction datasets,2009,Nature Methods,199,10.1038/nmeth.1284,United States;United States,Article,Boston;Boston,0,Journal,2-s2.0-58149213932
+Kamburov A.,,ConsensusPathDB - A database for integrating human functional interaction networks,2009,Nucleic Acids Research,270,10.1093/nar/gkn698,Germany,Article,Berlin,1,Journal,2-s2.0-58149194611
+Lynn D.,,InnateDB: Facilitating systems-level analyses of the mammalian innate immune response,2008,Molecular Systems Biology,270,10.1038/msb.2008.55,Canada;Canada,Article,Burnaby;Vancouver,1,Journal,2-s2.0-51049113607
+Yang C.Y.,,PhosphoPOINT: A comprehensive human kinase interactome and phospho-protein database,2008,Bioinformatics,59,10.1093/bioinformatics/btn297,Taiwan,Conference Paper,Taipei,1,Journal,2-s2.0-49549121853
+Berger S.I.,,Genes2Networks: Connecting lists of gene symbols using mammalian protein interactions databases,2007,BMC Bioinformatics,109,10.1186/1471-2105-8-372,United States,Article,New York,1,Journal,2-s2.0-36349011849
+Tomlins S.,,Integrative molecular concept modeling of prostate cancer progression,2007,Nature Genetics,659,10.1038/ng1935,United States,Article,Ann Arbor,0,Journal,2-s2.0-33845884027
+Bader G.D.,,Pathguide: a pathway resource list.,2006,Nucleic acids research,292,10.1093/nar/gkj126,United States,Article,New York,1,Journal,2-s2.0-33644873677
+Curtis R.,,Pathways to the analysis of microarray data,2005,Trends in Biotechnology,226,10.1016/j.tibtech.2005.05.011,United Kingdom,Review,Cambridge,0,Journal,2-s2.0-22744458472
+Beuming T.,,PDZBase: A protein-protein interaction database for PDZ-domains,2005,Bioinformatics,147,10.1093/bioinformatics/bti098,United States,Note,New York,1,Journal,2-s2.0-15944375458
+Luc P.,,PINdb: A database of nuclear protein complexes from human and yeast,2004,Bioinformatics,34,10.1093/bioinformatics/bth114,United States,Article,New York,1,Journal,2-s2.0-3142687604
+Dornan D.,,The ubiquitin ligase COP1 is a critical negative regulator of p53,2004,Nature,541,10.1038/nature02514,United States,Article,San Francisco,0,Journal,2-s2.0-2342447397
+Hermjakob H.,,The HUPO PSI's Molecular Interaction format - A community standard for the representation of protein interaction data,2004,Nature Biotechnology,464,10.1038/nbt926,United Kingdom,Review,Cambridge,0,Journal,2-s2.0-0742323374
+Groisman R.,,The ubiquitin ligase activity in the DDB2 and CSA complexes is differentially regulated by the COP9 signalosome in response to DNA damage,2003,Cell,546,10.1016/S0092-8674(03)00316-7,United States;United States,Article,Boston;Boston,1,Journal,2-s2.0-0037509859
+Kitano H.,,Systems biology: A brief overview,2002,Science,2760,10.1126/science.1069492,Japan,Short Survey,Tokyo,0,Journal,2-s2.0-0036500993
+Ashburner M.,,Gene ontology: Tool for the unification of biology,2000,Nature Genetics,21184,10.1038/75556,,Review,,0,Journal,2-s2.0-0034069495
+Fowlkes E.,,A method for comparing two hierarchical clusterings,1983,Journal of the American Statistical Association,678,10.1080/01621459.1983.10478008,United States,Article,Murray,0,Journal,2-s2.0-84945923591

@@ -1,0 +1,30 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Luo F.,,Modular organization of protein interaction networks,2007,Bioinformatics,132,10.1093/bioinformatics/btl562,United States,Article,Clemson,1,Journal,2-s2.0-33846681448
+Huang S.,,TSSP: Multi-features based reinforcement algorithm to find related papers,2006,Web Intelligence and Agent Systems,3,,China,Article,Shanghai,0,Journal,2-s2.0-33845343251
+Wakaki T.,,A study on rough set-aided feature selection for automatic Web-page classification,2006,Web Intelligence and Agent Systems,23,,Japan,Article,Tokyo,0,Journal,2-s2.0-33845757650
+Jatowt A.,,Temporal multi-page summarization,2006,Web Intelligence and Agent Systems,13,,Japan,Article,Koganei,0,Journal,2-s2.0-33744738909
+Farutin V.,,Edge-count probabilities for the identification of local protein communities and their organization,2006,"Proteins: Structure, Function and Genetics",31,10.1002/prot.20799,United States,Article,Cambridge,0,Journal,2-s2.0-31944448776
+Bagrow J.P.,,Local method for detecting communities,2005,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",205,10.1103/PhysRevE.72.046108,United States,Article,Potsdam,0,Journal,2-s2.0-31944432114
+Clauset A.,,Finding local community structure in networks,2005,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",505,10.1103/PhysRevE.72.026132,United States,Article,Albuquerque,0,Journal,2-s2.0-27244456660
+Palla G.,,Uncovering the overlapping community structure of complex networks in nature and society,2005,Nature,3512,10.1038/nature03607,Hungary;Hungary,Article,Budapest;Budapest,0,Journal,2-s2.0-20444504323
+Guimerà R.,,Functional cartography of complex metabolic networks,2005,Nature,2029,10.1038/nature03288,United States,Article,Evanston,0,Journal,2-s2.0-14644396645
+Song C.,,Self-similarity of complex networks,2005,Nature,866,10.1038/nature03248,United States,Article,New York,0,Journal,2-s2.0-13444263410
+Tian Y.,,Two-phase Web site classification based on Hidden Markov Tree models,2004,Web Intelligence and Agent Systems,9,,China,Article,Beijing,0,Journal,2-s2.0-13844259442
+Lingras P.,,Interval set clustering of web users using modified Kohonen self-organizing maps based on the properties of rough sets,2004,Web Intelligence and Agent Systems,57,,Canada,Conference Paper,Halifax,0,Journal,2-s2.0-11144312947
+Chen C.,,Incremental personalized web page mining utilizing self-organizing HCMAC neural network,2004,Web Intelligence and Agent Systems,9,,Taiwan,Article,Hualien,0,Journal,2-s2.0-3042662451
+Newman M.E.J.,,Fast algorithm for detecting community structure in networks,2004,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",2954,10.1103/PhysRevE.69.066133,United States,Article,Ann Arbor,0,Journal,2-s2.0-42749100809
+Radicchi F.,,Defining and identifying communities in networks,2004,Proceedings of the National Academy of Sciences of the United States of America,1536,10.1073/pnas.0400054101,Italy,Article,Rome,1,Journal,2-s2.0-1542357701
+Barabási A.,,Network biology: Understanding the cell's functional organization,2004,Nature Reviews Genetics,5033,10.1038/nrg1272,United States,Review,Notre Dame,0,Journal,2-s2.0-0742305866
+Marsh S.,,The ACORN multi-agent system,2003,Web Intelligence and Agent Systems,12,,Canada,Review,"Ottawa ON,",0,Journal,2-s2.0-2942618273
+Hopcroft J.,,Natural communities in large linked networks,2003,Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,80,10.1145/956750.956816,United States,Conference Paper,Ithaca,0,Conference Proceeding,2-s2.0-49749134831
+Spirin V.,,Protein complexes and functional modules in molecular networks,2003,Proceedings of the National Academy of Sciences of the United States of America,1069,10.1073/pnas.2032324100,United States,Article,Cambridge,1,Journal,2-s2.0-0142059836
+Ravasz E.,,Hierarchical organization of modularity in metabolic networks,2002,Science,2749,10.1126/science.1073374,United States,Article,Evanston,0,Journal,2-s2.0-0037199968
+Girvan M.,,Community structure in social and biological networks,2002,Proceedings of the National Academy of Sciences of the United States of America,8662,10.1073/pnas.122653799,United States;United States,Article,Santa Fe;Ithaca,1,Journal,2-s2.0-0037062448
+Flake G.W.,,Efficient identification of web communities,2000,Proceeding of the Sixth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,562,10.1145/347090.347121,United States,Conference Paper,Princeton,0,Conference Proceeding,2-s2.0-0034592749
+Kleinberg J.,,"Hubs, Authorities, and Communities",1999,ACM Computing Surveys,216,10.1145/345966.345982,United States,Article,Ithaca,0,Journal,2-s2.0-84893721621
+Barabási A.,,Emergence of scaling in random networks,1999,Science,22122,10.1126/science.286.5439.509,United States,Article,Notre Dame,0,Journal,2-s2.0-0038483826
+Kumar R.,,Trawling the Web for emerging cyber-communities,1999,Computer Networks,416,10.1016/S1389-1286(99)00040-7,United States,Article,San Jose,0,Journal,2-s2.0-0033297068
+Kleinberg J.,,Authoritative sources in a hyperlinked environment,1998,Proceedings of the Annual ACM-SIAM Symposium on Discrete Algorithms,1269,,United States,Conference Paper,Ithaca,0,Conference Proceeding,2-s2.0-0032256758
+Watts D.J.,,Collective dynamics of 'small-world9 networks,1998,Nature,25779,10.1038/30918,United States,Article,Ithaca,0,Journal,2-s2.0-0032482432
+Kernighan B.,,An Efficient Heuristic Procedure for Partitioning Graphs,1970,Bell System Technical Journal,3149,10.1002/j.1538-7305.1970.tb01770.x,,Article,,0,Journal,2-s2.0-84990479742
+De Solla Price D.,,Networks of scientific papers,1965,Science,1664,10.1126/science.149.3683.510,United States,Article,New Haven,0,Journal,2-s2.0-0000432228

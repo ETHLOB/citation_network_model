@@ -1,0 +1,50 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Yu H.,,Design principles of molecular networks revealed by global comparisons and composite motifs,2006,Genome Biology,20,10.1186/gb-2006-7-7-r55,United States,Article,New Haven,1,Journal,2-s2.0-33747379012
+Yu H.,,Predicting interactions in protein networks by completing defective cliques,2006,Bioinformatics,113,10.1093/bioinformatics/btl014,United States,Article,New Haven,1,Journal,2-s2.0-33645319955
+Stark C.,,BioGRID: a general repository for interaction datasets.,2006,Nucleic acids research,2183,10.1093/nar/gkj109,Canada,Article,Toronto,1,Journal,2-s2.0-33644873184
+Ptacek J.,,Global analysis of protein phosphorylation in yeast,2005,Nature,765,10.1038/nature04187,United States,Article,New Haven,0,Journal,2-s2.0-28444460297
+Joy M.P.,,High-betweenness proteins in the yeast protein interaction network,2005,Journal of Biomedicine and Biotechnology,318,10.1155/JBB.2005.96,United States,Article,Boston,1,Journal,2-s2.0-27744469130
+Hahn M.W.,,Comparative genomics of centrality and essentiality in three eukaryotic protein-interaction networks,2005,Molecular Biology and Evolution,426,10.1093/molbev/msi072,United States;United States,Article,Davis;Bloomington,1,Journal,2-s2.0-16344381521
+Dunn R.,,The use of edge-betweenness clustering to investigate biological function in protein interaction networks,2005,BMC Bioinformatics,144,10.1186/1471-2105-6-39,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-25444490121
+Han J.D.J.,,Evidence for dynamically organized modularity in the yeast protein-protein interaction network,2004,Nature,1241,10.1038/nature02555,United States;United States,Article,Boston;Boston,0,Journal,2-s2.0-3042848952
+Asthana S.,,Predicting protein complex membership using probabilistic network reliability,2004,Genome Research,146,10.1101/gr.2203804,United States,Article,Boston,1,Journal,2-s2.0-3042523388
+Yu H.,,Genomic analysis of essentiality within protein networks,2004,Trends in Genetics,247,10.1016/j.tig.2004.04.008,United States,Short Survey,New Haven,0,Journal,2-s2.0-2442477788
+Babu M.,,Structure and evolution of transcriptional regulatory networks,2004,Current Opinion in Structural Biology,496,10.1016/j.sbi.2004.05.004,United Kingdom,Review,Cambridge,0,Journal,2-s2.0-2942606066
+Milo R.,,Superfamilies of Evolved and Designed Networks,2004,Science,916,10.1126/science.1089167,Israel,Article,Rehovot,0,Journal,2-s2.0-1542287343
+Yu H.,,"TopNet: A tool for comparing biological sub-networks, correlating protein properties with topological statistics",2004,Nucleic Acids Research,66,10.1093/nar/gkh164,United States,Article,New Haven,1,Journal,2-s2.0-1242264487
+Tong A.H.Y.,,Global Mapping of the Yeast Genetic Interaction Network,2004,Science,1509,10.1126/science.1091317,Canada,Article,Toronto,0,Journal,2-s2.0-10744230485
+Kanehisa M.,,The KEGG resource for deciphering the genome,2004,Nucleic Acids Research,2698,,Japan,Article,Kyoto,0,Journal,2-s2.0-0345863935
+Jansen R.,,A Bayesian Networks Approach for Predicting Protein-Protein Interactions from Genomic Data,2003,Science,980,10.1126/science.1087361,United States;United States,Article,New York;New Haven,0,Journal,2-s2.0-0142052944
+Spirin V.,,Protein complexes and functional modules in molecular networks,2003,Proceedings of the National Academy of Sciences of the United States of America,1067,10.1073/pnas.2032324100,United States,Article,Cambridge,1,Journal,2-s2.0-0142059836
+Yu H.,,Genomic analysis of gene expression relationships in transcriptional regulatory networks,2003,Trends in Genetics,186,10.1016/S0168-9525(03)00175-6,United States,Short Survey,New Haven,0,Journal,2-s2.0-0042706147
+Goh K.I.,,Betweenness centrality correlation in social networks,2003,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",224,,South Korea,Article,Seoul,0,Journal,2-s2.0-0038055908
+Bader G.,,BIND: The Biomolecular Interaction Network Database,2003,Nucleic Acids Research,918,10.1093/nar/gkg056,Canada,Review,Toronto,0,Journal,2-s2.0-0037245913
+Horak C.E.,,Complex transcriptional circuitry at the G1/S transition in Saccharomyces cerevisiae,2002,Genes and Development,205,10.1101/gad.1039602,United States,Article,New Haven,1,Journal,2-s2.0-0036894656
+Lee T.I.,,Transcriptional regulatory networks in Saccharomyces cerevisiae,2002,Science,2264,10.1126/science.1075090,United States,Article,Cambridge,0,Journal,2-s2.0-0037174671
+Milo R.,,Network motifs: Simple building blocks of complex networks,2002,Science,4252,10.1126/science.298.5594.824,Israel,Article,Rehovot,0,Journal,2-s2.0-0037174670
+Bader G.,,Analyzing yeast protein-protein interaction data obtained from different sources,2002,Nature Biotechnology,436,10.1038/nbt1002-991,Canada,Article,Toronto,0,Journal,2-s2.0-0036789265
+Girvan M.,,Community structure in social and biological networks,2002,Proceedings of the National Academy of Sciences of the United States of America,8651,10.1073/pnas.122653799,United States;United States,Article,Santa Fe;Ithaca,1,Journal,2-s2.0-0037062448
+Jansen R.,,Relating whole-genome expression data with protein-protein interactions,2002,Genome Research,492,10.1101/gr.205602,United States,Article,New Haven,1,Journal,2-s2.0-0036141992
+Teichmann S.A.,,The constraints protein-protein interactions place on sequence divergence,2002,Journal of Molecular Biology,83,10.1016/S0022-2836(02)01144-0,United Kingdom,Article,Cambridge,0,Journal,2-s2.0-0036443972
+Guelzim N.,,Topological and causal structure of the yeast transcriptional regulatory network,2002,Nature Genetics,426,10.1038/ng873,France;France,Article,Paris;Paris,0,Journal,2-s2.0-0036578654
+Deane C.,,Protein interactions: two methods for assessment of the reliability of high throughput observations.,2002,Molecular &amp; cellular proteomics : MCP,516,10.1074/mcp.M100037-MCP200,United States,Article,Los Angeles,1,Journal,2-s2.0-0036580169
+Mewes H.W.,,MIPS: A database for genomes and protein sequences,2002,Nucleic Acids Research,732,10.1093/nar/30.1.31,Germany;Germany,Article,Freising;Neuherberg,1,Journal,2-s2.0-0036081347
+Ideker T.,,Discovering regulatory and signalling circuits in molecular interaction networks,2002,Bioinformatics,844,10.1093/bioinformatics/18.suppl_1.S233,United States,Conference Paper,Cambridge,1,Journal,2-s2.0-0000801240
+Xenarios I.,,"DIP, the Database of Interacting Proteins: A research tool for studying cellular networks of protein interactions",2002,Nucleic Acids Research,1270,10.1093/nar/30.1.303,United States,Article,Los Angeles,1,Journal,2-s2.0-0036088133
+Ho Y.,,Systematic identification of protein complexes in Saccharomyces cerevisiae by mass spectrometry,2002,Nature,2837,10.1038/415180a,Canada,Letter,Toronto,0,Journal,2-s2.0-0037050004
+Gavin A.C.,,Functional organization of the yeast proteome by systematic analysis of protein complexes,2002,Nature,3691,10.1038/415141a,United Kingdom,Article,Brentford,0,Journal,2-s2.0-0037050026
+Tong A.H.Y.,,Systematic genetic analysis with ordered arrays of yeast deletion mutants,2001,Science,1510,10.1126/science.1065810,Canada,Article,Toronto,0,Journal,2-s2.0-0035861532
+Newman M.E.J.,,"Scientific collaboration networks. II. Shortest paths, weighted networks, and centrality",2001,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",1498,,United States,Article,Santa Fe,0,Journal,2-s2.0-0042635247
+Jeong H.,,Lethality and centrality in protein networks,2001,Nature,3476,10.1038/35075138,United States,Article,Notre Dame,0,Journal,2-s2.0-0035799707
+Ge H.,,Correlation between transcriptome and interactome mapping data from Saccharomyces cerevisiae,2001,Nature Genetics,442,10.1038/ng776,United States,Article,Boston,0,Journal,2-s2.0-0035733690
+Wingender E.,,The TRANSFAC system on gene expression regulation,2001,Nucleic Acids Research,532,10.1093/nar/29.1.281,Germany,Article,Braunschweig,1,Journal,2-s2.0-0035172256
+Schwikowski B.,,A network of protein-protein interactions in yeast,2000,Nature Biotechnology,987,10.1038/82360,United States;United States,Article,Seattle;Seattle,0,Journal,2-s2.0-0033669189
+Albert R.,,Error and attack tolerance of complex networks,2000,Nature,5589,10.1038/35019019,United States,Article,Notre Dame,0,Journal,2-s2.0-0034721164
+Hughes T.,,Functional discovery via a compendium of expression profiles,2000,Cell,2000,10.1016/S0092-8674(00)00015-5,United States,Article,Seattle,1,Journal,2-s2.0-0034616930
+Uetz P.,,A comprehensive analysis of protein-protein interactions in Saccharomyces cerevisiae,2000,Nature,3756,10.1038/35001009,United States,Article,Seattle,0,Journal,2-s2.0-0034628508
+Ito T.,,Toward a protein-protein interaction map of the budding yeast: A comprehensive system to examine two-hybrid interactions in all possible combinations between the yeast proteins,2000,Proceedings of the National Academy of Sciences of the United States of America,644,10.1073/pnas.97.3.1143,Japan,Article,Tokyo,1,Journal,2-s2.0-0033974688
+Barabási A.,,Emergence of scaling in random networks,1999,Science,22102,10.1126/science.286.5439.509,United States,Article,Notre Dame,0,Journal,2-s2.0-0038483826
+Winzeler E.A.,,Functional characterization of the S. cerevisiae genome by gene deletion and parallel analysis,1999,Science,2882,10.1126/science.285.5429.901,United States,Article,Stanford,0,Journal,2-s2.0-0033529707
+Enke D.,,The CDK-activating kinase (Cak1p) from budding yeast has an unusual ATP binding pocket,1999,Journal of Biological Chemistry,19,10.1074/jbc.274.4.1949,United States,Article,New Haven,1,Journal,2-s2.0-0033593325
+Hodges P.,,The Yeast Proteome Database (YPD): A model for the organization and presentation of genome-wide functional data,1999,Nucleic Acids Research,190,10.1093/nar/27.1.69,United States,Short Survey,Beverly,1,Journal,2-s2.0-0032894060
+Taguchi A.K.,,"The cloning and mapping of ADR6, a gene required for sporulation and for expression of the alcohol dehydrogenase II isozyme from Saccharomyces cerevisiae.",1987,Genetics,14,,,Article,,0,Journal,2-s2.0-0023394938

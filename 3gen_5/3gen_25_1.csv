@@ -1,0 +1,35 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+T'Hoen P.,,Reproducibility of high-throughput mRNA and small RNA sequencing across laboratories,2013,Nature Biotechnology,139,10.1038/nbt.2702,Netherlands;Netherlands,Article,Leiden;Leiden,0,Journal,2-s2.0-84887433583
+Merkin J.,,Evolutionary dynamics of gene and isoform regulation in mammalian tissues,2012,Science,438,10.1126/science.1228186,United States,Article,Cambridge,0,Journal,2-s2.0-84871436996
+Barbosa-Morais N.,,The evolutionary landscape of alternative splicing in vertebrate species,2012,Science,479,10.1126/science.1230612,Portugal;Canada,Article,Lisbon;Toronto,0,Journal,2-s2.0-84871410405
+Marco-Sola S.,,"The GEM mapper: Fast, accurate and versatile alignment by filtration",2012,Nature Methods,279,10.1038/nmeth.2221,Spain,Article,Barcelona,0,Journal,2-s2.0-84870837088
+Altshuler D.M.,,"An integrated map of genetic variation from 1,092 human genomes",2012,Nature,4832,10.1038/nature11632,United States;United States;United States,Article,Boston;Boston;Cambridge,1,Journal,2-s2.0-84975795680
+Lee Y.,,Variants Affecting Exon Skipping Contribute to Complex Traits,2012,PLoS Genetics,40,10.1371/journal.pgen.1002998,United States,Article,Chicago,1,Journal,2-s2.0-84868120556
+Grundberg E.,,Mapping cis-and trans-regulatory effects across multiple tissues in twins,2012,Nature Genetics,465,10.1038/ng.2394,United Kingdom;United Kingdom,Article,London;Hinxton,0,Journal,2-s2.0-84866871814
+Djebali S.,,Landscape of transcription in human cells,2012,Nature,2708,10.1038/nature11233,Spain,Article,Barcelona,1,Journal,2-s2.0-84865757142
+Dunham I.,,An integrated encyclopedia of DNA elements in the human genome,2012,Nature,8344,10.1038/nature11247,United Kingdom,Article,London,1,Journal,2-s2.0-84865790047
+Harrow J.,,GENCODE: The reference human genome annotation for the ENCODE project,2012,Genome Research,2297,10.1101/gr.135350.111,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-84865760395
+Parts L.,,"Extent, causes, and consequences of small RNA expression variation in human adipose tissue",2012,PLoS Genetics,38,10.1371/journal.pgen.1002704,United Kingdom;Canada,Article,Hinxton;Toronto,1,Journal,2-s2.0-84863641258
+Ebert M.,,Roles for MicroRNAs in conferring robustness to biological processes,2012,Cell,980,10.1016/j.cell.2012.04.005,United States;United States,Review,Cambridge;Cambridge,1,Journal,2-s2.0-84860324470
+Gonzàlez-Porta M.,,Estimation of alternative splicing variability in human populations,2012,Genome Research,41,10.1101/gr.121947.111,United Kingdom;Spain,Article,Cambridge;Barcelona,0,Journal,2-s2.0-84857886331
+MacArthur D.,,A systematic survey of loss-of-function variants in human protein-coding genes,2012,Science,733,10.1126/science.1215040,Australia;United Kingdom,Article,Sydney;Hinxton,0,Journal,2-s2.0-84863116742
+Degner J.,,DNase-I sensitivity QTLs are a major determinant of human expression variation,2012,Nature,363,10.1038/nature10808,United States,Article,Chicago,0,Journal,2-s2.0-84857111200
+Gaffney D.,,Dissecting the regulatory architecture of gene expression QTLs,2012,Genome Biology,121,10.1186/gb-2012-13-1-r7,United States;United Kingdom,Article,Chicago;London,1,Journal,2-s2.0-84856321864
+Montgomery S.,,Rare and common regulatory variation in Population-Scale sequenced human genomes,2011,PLoS Genetics,63,10.1371/journal.pgen.1002144,Switzerland,Article,Geneva,1,Journal,2-s2.0-79960946869
+Kozomara A.,,MiRBase: Integrating microRNA annotation and deep-sequencing data,2011,Nucleic Acids Research,2620,10.1093/nar/gkq1027,United Kingdom,Article,Manchester,1,Journal,2-s2.0-78651293534
+Pickrell J.,,Noisy splicing drives mRNA isoform diversity in human cells,2010,PLoS Genetics,157,10.1371/journal.pgen.1001236,United States,Article,Chicago,1,Journal,2-s2.0-78650689920
+O'Seaghdha C.M.,,Common variants in the calcium-sensing receptor gene are associated with total serum calcium levels,2010,Human Molecular Genetics,70,10.1093/hmg/ddq342,United States;United States,Article,Framingham;Boston,1,Journal,2-s2.0-77957870933
+Stegle O.,,A bayesian framework to account for complex non-genetic factors in gene expression levels greatly increases power in eQTL studies,2010,PLoS Computational Biology,206,10.1371/journal.pcbi.1000770,United Kingdom;Germany,Article,Cambridge;Tubingen,1,Journal,2-s2.0-77955505742
+McDaniell R.,,Heritable individual-specific and allele-specific chromatin signatures in humans,2010,Science,236,10.1126/science.1184655,United States,Article,Austin,0,Journal,2-s2.0-77950854479
+Nica A.,,Candidate causal regulatory effects by integration of expression QTLs with complex trait genetic associations,2010,PLoS Genetics,261,10.1371/journal.pgen.1000895,Switzerland;United Kingdom,Article,Geneva;Hinxton,1,Journal,2-s2.0-77952367694
+Montgomery S.,,Transcriptome genetics using second generation sequencing in a Caucasian population,2010,Nature,608,10.1038/nature08903,Switzerland;United Kingdom,Article,Geneva;Hinxton,0,Journal,2-s2.0-77950458649
+Nicolae D.,,Trait-associated SNPs are more likely to be eQTLs: Annotation to enhance discovery from GWAS,2010,PLoS Genetics,756,10.1371/journal.pgen.1000888,United States,Article,Chicago,1,Journal,2-s2.0-77951439152
+Pickrell J.,,Understanding mechanisms underlying human gene expression variation with RNA sequencing,2010,Nature,849,10.1038/nature08872,,Article,,0,Journal,2-s2.0-77950460661
+Pantano L.,,"SeqBuster, a bioinformatic tool for the processing and analysis of small RNAs datasets, reveals ubiquitous miRNA modifications in human embryonic cells",2009,Nucleic Acids Research,103,10.1093/nar/gkp1127,Spain;,Article,Barcelona;,1,Journal,2-s2.0-77951655424
+Cordaux R.,,The impact of retrotransposons on human genome evolution,2009,Nature Reviews Genetics,891,10.1038/nrg2640,France,Review,Poitiers,0,Journal,2-s2.0-70349318211
+Xiao C.,,MicroRNA Control in the Immune System: Basic Principles,2009,Cell,773,10.1016/j.cell.2008.12.027,United States,Review,Boston,1,Journal,2-s2.0-58149085504
+Veyrieras J.,,High-resolution mapping of expression-QTLs yields insight into human gene regulation,2008,PLoS Genetics,400,10.1371/journal.pgen.1000214,United States,Article,Chicago,1,Journal,2-s2.0-55449112450
+Emilsson V.,,Genetics of gene expression and its effect on disease,2008,Nature,922,10.1038/nature06758,Iceland;United States,Article,Reykjavik;Seattle,0,Journal,2-s2.0-41349095280
+Stranger B.,,Population genomics of human gene expression,2007,Nature Genetics,848,10.1038/ng2142,United Kingdom,Article,Hinxton,0,Journal,2-s2.0-34548738566
+Burton P.R.,,"Genome-wide association study of 14,000 cases of seven common diseases and 3,000 shared controls",2007,Nature,7088,10.1038/nature05911,United Kingdom,Article,Leicester,1,Journal,2-s2.0-84969213492
+Nagy E.,,A rule for termination-codon position within intron-containing genes: When nonsense affects RNA abundance,1998,Trends in Biochemical Sciences,765,10.1016/S0968-0004(98)01208-0,United States,Article,Buffalo,0,Journal,2-s2.0-0032104190

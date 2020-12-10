@@ -1,0 +1,24 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Stajich J.E.,,The Bioperl toolkit: Perl modules for the life sciences,2002,Genome Research,1169,10.1101/gr.361602,United States;United States,Article,San Diego;Durham,1,Journal,2-s2.0-18644368714
+James Kent W.,,The human genome browser at UCSC,2002,Genome Research,5344,10.1101/gr.229102. Article published online before print in May 2002,United States,Article,Santa Cruz,0,Journal,2-s2.0-0036079158
+Hoffman S.,,"Plasmodium, human, and Anopheles genomics and malaria",2002,Nature,115,10.1038/415702a,United States,Review,Rockville,0,Journal,2-s2.0-0037034044
+Gelbart W.M.,,The FlyBase database of the Drosophila genome projects and community literature,2002,Nucleic Acids Research,84,,United States,Article,Cambridge,0,Journal,2-s2.0-0036081052
+Benson D.A.,,GenBank,2002,Nucleic Acids Research,458,10.1093/nar/30.1.17,United States,Article,Bethesda,1,Journal,2-s2.0-0036081345
+Hubbard T.,,The Ensembl genome database project,2002,Nucleic Acids Research,1025,10.1093/nar/30.1.38,United Kingdom,Article,London,1,Journal,2-s2.0-18444402182
+Kuspa A.,,The promise of a protist: The Dictyostelium genome project,2001,Functional and Integrative Genomics,18,10.1007/s101420000033,,Review,,0,Journal,2-s2.0-0034764722
+Dowell R.,,The distributed annotation system,2001,BMC Bioinformatics,330,10.1186/1471-2105-2-7,United States,Article,St. Louis,1,Journal,2-s2.0-2942547885
+Bennetzen J.L.,,National science foundation-sponsored workshop report. Maize genome sequencing project,2001,Plant Physiology,43,10.1104/pp.010817,United States,Conference Paper,Tucson,1,Journal,2-s2.0-85047683769
+Stein L.,,WormBase: Network access to the genome and biology of Caenorhabditis elegans,2001,Nucleic Acids Research,231,10.1093/nar/29.1.82,United States,Article,Cold Spring Harbor,1,Journal,2-s2.0-0035165576
+Pennisi E.,,Rat genome off to an early start,2000,Science,8,,,Note,,0,Journal,2-s2.0-0034713994
+Reese M.,,Genome annotation assessment in Drosophila melanogaster,2000,Genome Research,150,10.1101/gr.10.4.483,United States,Letter,Berkeley,1,Journal,2-s2.0-0034098729
+Sasaki T.,,International Rice Genome Sequencing Project: The effort to completely sequence the rice genome,2000,Current Opinion in Plant Biology,261,10.1016/S1369-5266(99)00047-3,Japan,Review,Tsukuba,0,Journal,2-s2.0-0034013059
+Kent W.J.,,The intronerator: Exploring introns and alternative splicing in Caenorhabditis elegans,2000,Nucleic Acids Research,66,10.1093/nar/28.1.91,United States,Short Survey,Santa Cruz,1,Journal,2-s2.0-0033977575
+Pearson W.,,Flexible sequence similarity searching with the FASTA3 program package.,2000,"Methods in molecular biology (Clifton, N.J.)",490,,United States,Article,Charlottesville,0,Journal,2-s2.0-0033990061
+Bairoch A.,,The SWISS-PROT protein sequence database and its supplement TrEMBL in 2000,2000,Nucleic Acids Research,1912,10.1093/nar/28.1.45,Switzerland,Short Survey,Geneva,1,Journal,2-s2.0-0033957834
+Rutherford K.,,Artemis: Sequence visualization and annotation,2000,Bioinformatics,2278,10.1093/bioinformatics/16.10.944,United Kingdom,Article,London,1,Journal,2-s2.0-0033635022
+Gardner M.,,The genome of the malaria parasite,1999,Current Opinion in Genetics and Development,28,10.1016/S0959-437X(99)00032-5,United States,Review,Rockville,0,Journal,2-s2.0-0032785180
+Mural R.,,The Genome Channel: A browser to a uniform first-pass annotation of genomic DNA,1999,Trends in Genetics,11,10.1016/S0168-9525(98)01624-2,United States,Note,Oak Ridge,0,Journal,2-s2.0-0032890635
+Ouellette B.,,The GenBank sequence database,1998,Methods of Biochemical Analysis,11,,United States,Article,Bethesda,0,Book Series,2-s2.0-0031615975
+Blackwell J.M.,,Parasite genome analysis. Progress in the Leishmania genome project,1997,Transactions of the Royal Society of Tropical Medicine and Hygiene,14,10.1016/s0035-9203(97)90187-5,United Kingdom;United Kingdom,Conference Paper,Cambridge;Cambridge,0,Journal,2-s2.0-0030900322
+Harris N.,,Genotator: A workbench for sequence annotation,1997,Genome Research,87,10.1101/gr.7.7.754,United States,Article,Berkeley,1,Journal,2-s2.0-0030881249
+Guttman A.,,R-trees: A dynamic index structure for spatial searching,1984,ACM SIGMOD Record,4309,10.1145/971697.602266,United States,Article,Berkeley,0,Journal,2-s2.0-0021615874

@@ -1,0 +1,10 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Zakai A.,,Consistency and Localizability,2009,Journal of Machine Learning Research,18,,Israel,Article,Jerusalem,0,Journal,2-s2.0-66549108289
+Lee H.,,Efficient sparse coding algorithms,2007,Advances in Neural Information Processing Systems,1839,,United States,Conference Paper,Palo Alto,0,Conference Proceeding,2-s2.0-84864036295
+Raina R.,,Self-taught learning: Transfer learning from unlabeled data,2007,ACM International Conference Proceeding Series,780,10.1145/1273496.1273592,United States,Conference Paper,Palo Alto,0,Conference Proceeding,2-s2.0-34547971961
+Hinton G.,,Reducing the dimensionality of data with neural networks,2006,Science,8836,10.1126/science.1127647,Canada,Article,Toronto,0,Journal,2-s2.0-33746600649
+Belkin M.,,Laplacian eigenmaps for dimensionality reduction and data representation,2003,Neural Computation,4760,10.1162/089976603321780317,United States,Article,Chicago,0,Journal,2-s2.0-0042378381
+Tenenbaum J.,,A global geometric framework for nonlinear dimensionality reduction,2000,Science,8778,10.1126/science.290.5500.2319,United States,Article,Palo Alto,0,Journal,2-s2.0-0034704229
+Roweis S.T.,,Nonlinear dimensionality reduction by locally linear embedding,2000,Science,10053,10.1126/science.290.5500.2323,United Kingdom,Article,London,0,Journal,2-s2.0-0034704222
+Gray R.,,Quantization,1998,IEEE Transactions on Information Theory,1178,10.1109/18.720541,United States;United States,Article,Palo Alto;New York,0,Journal,2-s2.0-0032184399
+Hastie T.,,Local regression: Automatic Kernel carpentry,1993,Statistical Science,264,10.1214/ss/1177011002,United States,Article,Murray,1,Journal,2-s2.0-84972525897

@@ -1,0 +1,13 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Wilkinson D.,,A method for finding communities of related genes,2004,Proceedings of the National Academy of Sciences of the United States of America,165,10.1073/pnas.0307740100,United States,Article,Palo Alto,1,Journal,2-s2.0-1842738363
+Newman M.E.J.,,Finding and evaluating community structure in networks,2004,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",7687,10.1103/PhysRevE.69.026113,United States;United States,Article,Santa Fe;Ann Arbor,0,Journal,2-s2.0-37649028224
+Guimerà R.,,Self-similar community structure in a network of human interactions,2003,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",769,,Spain;United States,Article,Tarragona;Evanston,0,Journal,2-s2.0-1842616539
+Holme P.,,Subnetwork hierarchies of biochemical pathways,2003,Bioinformatics,276,10.1093/bioinformatics/btg033,,Article,,1,Journal,2-s2.0-0037345719
+Lusseau D.,,The emergent properties of a dolphin social network,2003,Proceedings of the Royal Society B: Biological Sciences,531,10.1098/rsbl.2003.0057,New Zealand,Article,Dunedin,0,Journal,2-s2.0-0242490500
+Newman M.,,The structure and function of complex networks,2003,SIAM Review,11537,10.1137/S003614450342480,United States,Review,Ann Arbor,0,Journal,2-s2.0-0038718854
+Albert R.,,Statistical mechanics of complex networks,2002,Reviews of Modern Physics,13645,10.1103/RevModPhys.74.47,United States;United States,Article,Minneapolis;Notre Dame,0,Journal,2-s2.0-0036013593
+Girvan M.,,Community structure in social and biological networks,2002,Proceedings of the National Academy of Sciences of the United States of America,8662,10.1073/pnas.122653799,United States;United States,Article,Santa Fe;Ithaca,1,Journal,2-s2.0-0037062448
+Kleinberg J.,,Network analysis: The structure of the web,2001,Science,182,10.1126/science.1067014,United States,Short Survey,Ithaca,0,Journal,2-s2.0-0035976573
+Strogatz S.,,Exploring complex networks,2001,Nature,5562,10.1038/35065725,United States,Review,Ithaca,1,Journal,2-s2.0-0035826155
+Newman M.,,The structure of scientific collaboration networks,2001,Proceedings of the National Academy of Sciences of the United States of America,2978,10.1073/pnas.98.2.404,United States,Article,Santa Fe,1,Journal,2-s2.0-0035895239
+Redner S.,,How popular is your paper? An empirical study of the citation distribution,1998,European Physical Journal B,985,10.1007/s100510050359,United States,Article,Boston,0,Journal,2-s2.0-0031622508

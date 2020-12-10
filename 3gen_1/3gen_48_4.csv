@@ -1,0 +1,52 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Schuster-Böckler B.,,Protein interactions in human genetic diseases,2008,Genome Biology,95,10.1186/gb-2008-9-1-r9,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-45949108954
+Rogers A.,,WormBase 2007,2008,Nucleic Acids Research,84,10.1093/nar/gkm975,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-38549146881
+Wilson R.,,FlyBase: Integration and improvements to query tools,2008,Nucleic Acids Research,120,10.1093/nar/gkm930,United States,Article,Bloomington,1,Journal,2-s2.0-38549102535
+Mewes H.,,MIPS: Analysis and annotation of genome information in 2007,2008,Nucleic Acids Research,133,10.1093/nar/gkm980,Germany;Germany,Article,Munich;Neuherberg,1,Journal,2-s2.0-38549170927
+Bruford E.,,The HGNC database in 2008: A resource for the human genome,2008,Nucleic Acids Research,169,10.1093/nar/gkm881,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-38549117309
+Breitkreutz B.,,The BioGRID interaction Database: 2008 update,2008,Nucleic Acids Research,553,10.1093/nar/gkm1001,Canada,Article,Toronto,1,Journal,2-s2.0-38549173606
+Benson D.,,GenBank,2008,Nucleic Acids Research,776,10.1093/nar/gkm929,United States,Article,Bethesda,1,Journal,2-s2.0-38549164691
+Apweiler R.,,The Universal Protein resource (UniProt),2008,Nucleic Acids Research,728,10.1093/nar/gkm895,Switzerland;United Kingdom;United States,Article,"Geneva;Cambridge;Washington, D.C.",1,Journal,2-s2.0-38549097071
+Kanehisa M.,,KEGG for linking genomes to life and the environment,2008,Nucleic Acids Research,3292,10.1093/nar/gkm882,Japan;Japan,Article,Tokyo;Kyoto,1,Journal,2-s2.0-38549126643
+De Windt A.,,Gene set enrichment analysis reveals several globally affected pathways due to SKI-1/S1P inhibition in HepG2 cells,2007,DNA and Cell Biology,9,10.1089/dna.2007.0624,Belgium,Article,Brussels,0,Journal,2-s2.0-36249031117
+Suderman M.,,Tools for visually exploring biological networks,2007,Bioinformatics,172,10.1093/bioinformatics/btm401,Canada,Review,Montreal,1,Journal,2-s2.0-35748962289
+Klebanov L.,,A multivariate extension of the gene set enrichment analysis,2007,Journal of Bioinformatics and Computational Biology,34,10.1142/S0219720007003041,Czech Republic,Article,Prague Praha,0,Journal,2-s2.0-35348826675
+Negishi Y.,,eXpanda: An integrated platform for network analysis and visualization,2007,In Silico Biology,4,,Japan,Article,Tokyo,0,Journal,2-s2.0-34548358584
+Schwarz R.,,"Integrated network reconstruction, visualization and analysis using YANAsquare",2007,BMC Bioinformatics,52,10.1186/1471-2105-8-313,Germany,Article,Wurzburg,1,Journal,2-s2.0-35248849697
+Bourqui R.,,Metabolic network visualization eliminating node redundance and preserving metabolic pathways,2007,BMC Systems Biology,39,10.1186/1752-0509-1-29,France,Article,Talence,1,Journal,2-s2.0-34547816155
+Hu Z.,,"VisANT 3.0: New modules for pathway visualization, editing, prediction and construction",2007,Nucleic Acids Research,61,10.1093/nar/gkm295,United States,Article,Boston,1,Journal,2-s2.0-34547586817
+Bleakley K.,,Supervised reconstruction of biological networks with local models,2007,Bioinformatics,70,10.1093/bioinformatics/btm204,France,Conference Paper,Montpellier,1,Journal,2-s2.0-34547844158
+Goh K.,,The human disease network,2007,Proceedings of the National Academy of Sciences of the United States of America,2103,10.1073/pnas.0701361104,United States;United States;South Korea;United States,Article,Notre Dame;Boston;Seoul;Boston,1,Journal,2-s2.0-34547140875
+Hu Z.,,Towards zoomable multidimensional maps of the cell,2007,Nature Biotechnology,67,10.1038/nbt1304,United States,Review,Boston,0,Journal,2-s2.0-34249653071
+von Mering C.,,STRING 7 - Recent developments in the integration and prediction of protein interactions,2007,Nucleic Acids Research,481,10.1093/nar/gkl825,Switzerland;Germany,Article,Zurich;Heidelberg,1,Journal,2-s2.0-33846086800
+Cline M.S.,,Integration of biological networks and gene expression data using cytoscape,2007,Nature Protocols,1546,10.1038/nprot.2007.324,United States;France,Article,Santa Cruz;Paris,0,Journal,2-s2.0-38449101120
+Lewin A.M.,,Grouping Gene Ontology terms to improve the assessment of gene set enrichment in microarray data,2006,BMC Bioinformatics,28,10.1186/1471-2105-7-426,United Kingdom,Article,London,1,Journal,2-s2.0-33750580714
+Junker B.,,Vanted: A system for advanced data analysis and visualization in the context of biological networks,2006,BMC Bioinformatics,338,10.1186/1471-2105-7-109,Germany,Article,Gatersleben,1,Journal,2-s2.0-33645241830
+Baitaluk M.,,PathSys: Integrating molecular interaction graphs for systems biology,2006,BMC Bioinformatics,40,10.1186/1471-2105-7-55,United States,Article,San Diego,1,Journal,2-s2.0-33645151090
+Kohn K.,,Molecular interaction maps of bioregulatory networks: A general rubric for systems biology,2006,Molecular Biology of the Cell,96,10.1091/mbc.E05-09-0824,United States,Review,Bethesda,0,Journal,2-s2.0-30044440098
+Mishra G.R.,,Human protein reference database--2006 update.,2006,Nucleic acids research,460,10.1093/nar/gkj141,India,Article,Bengaluru,1,Journal,2-s2.0-33644877439
+Zhang L.V.,,"Motifs, themes and thematic maps of an integrated Saccharomyces cerevisiae interaction network",2005,Journal of Biology,153,10.1186/jbiol23,United States,Article,Boston,1,Journal,2-s2.0-33847051248
+Subramanian A.,,Gene set enrichment analysis: A knowledge-based approach for interpreting genome-wide expression profiles,2005,Proceedings of the National Academy of Sciences of the United States of America,16249,10.1073/pnas.0506580102,United States,Article,Cambridge,1,Journal,2-s2.0-27344435774
+Hu Z.,,VisANT: Data-integrating visual framework for biological networks and modules,2005,Nucleic Acids Research,145,10.1093/nar/gki431,United States,Article,Boston,1,Journal,2-s2.0-23144466889
+Iragne F.,,ProViz: Protein interaction visualization and exploration,2005,Bioinformatics,79,10.1093/bioinformatics/bth494,France,Article,Talence,1,Journal,2-s2.0-13444309633
+Maglott D.,,Entrez Gene: Gene-centered information at NCBI,2005,Nucleic Acids Research,660,10.1093/nar/gki031,United States,Article,Bethesda,1,Journal,2-s2.0-13444272087
+Yeger-Lotem E.,,Network motifs in integrated cellular networks of transcription-regulation and protein-protein interaction,2004,Proceedings of the National Academy of Sciences of the United States of America,387,10.1073/pnas.0306752101,Israel;Israel,Article,Haifa;Jerusalem,1,Journal,2-s2.0-1942469444
+Prinz S.,,Control of yeast filamentous-form growth by modules in an integrated molecular network,2004,Genome Research,67,10.1101/gr.2020604,United States,Review,Seattle,1,Journal,2-s2.0-1542316919
+Hu Z.,,VisANT: An online visualization and analysis tool for biological interaction data,2004,BMC Bioinformatics,170,10.1186/1471-2105-5-17,United States,Article,Boston,1,Journal,2-s2.0-2942609149
+Hermjakob H.,,The HUPO PSI's Molecular Interaction format - A community standard for the representation of protein interaction data,2004,Nature Biotechnology,464,10.1038/nbt926,United Kingdom,Review,Cambridge,0,Journal,2-s2.0-0742323374
+Shannon P.,,Cytoscape: A software Environment for integrated models of biomolecular interaction networks,2003,Genome Research,14368,10.1101/gr.1239303,United States,Article,Seattle,1,Journal,2-s2.0-0242490780
+Jansen R.,,A Bayesian Networks Approach for Predicting Protein-Protein Interactions from Genomic Data,2003,Science,980,10.1126/science.1087361,United States;United States,Article,New York;New Haven,0,Journal,2-s2.0-0142052944
+Spirin V.,,Protein complexes and functional modules in molecular networks,2003,Proceedings of the National Academy of Sciences of the United States of America,1067,10.1073/pnas.2032324100,United States,Article,Cambridge,1,Journal,2-s2.0-0142059836
+Rives A.,,Modular organization of cellular networks,2003,Proceedings of the National Academy of Sciences of the United States of America,524,10.1073/pnas.0237338100,United States,Article,Seattle,1,Journal,2-s2.0-0037417817
+Breitkreutz B.,,Osprey: a network visualization system.,2003,Genome biology,360,,Canada,Article,Toronto,0,Journal,2-s2.0-0037264280
+Bader G.,,BIND: The Biomolecular Interaction Network Database,2003,Nucleic Acids Research,918,10.1093/nar/gkg056,Canada,Review,Toronto,0,Journal,2-s2.0-0037245913
+Oltvai Z.,,Systems biology: Life's complexity pyramid,2002,Science,342,10.1126/science.1078563,United States,Short Survey,Evanston,0,Journal,2-s2.0-0037174638
+Ravasz E.,,Hierarchical organization of modularity in metabolic networks,2002,Science,2749,10.1126/science.1073374,United States,Article,Evanston,0,Journal,2-s2.0-0037199968
+Zanzoni A.,,MINT: A Molecular INTeraction database,2002,FEBS Letters,573,10.1016/S0014-5793(01)03293-8,Italy,Short Survey,Rome,1,Journal,2-s2.0-0037138406
+Mellor J.C.,,Predictome: A database of putative functional links between proteins,2002,Nucleic Acids Research,115,10.1093/nar/30.1.306,United States,Article,Boston,1,Journal,2-s2.0-0036081482
+Hamosh A.,,"Onlined Mendelian Inheritance in Man (OMIM), a knowledgebase of human genes and genetic disorders",2002,Nucleic Acids Research,371,,United States,Article,Baltimore,0,Journal,2-s2.0-0035998736
+Endy D.,,Modelling cellular behaviour,2001,Nature,296,10.1038/35053181,United States,Review,Berkeley,0,Journal,2-s2.0-0035905782
+Goh C.S.,,Co-evolution of proteins with their interaction partners,2000,Journal of Molecular Biology,326,10.1006/jmbi.2000.3732,United States,Article,San Francisco,0,Journal,2-s2.0-0034595516
+Ashburner M.,,Gene ontology: Tool for the unification of biology,2000,Nature Genetics,21184,10.1038/75556,,Review,,0,Journal,2-s2.0-0034069495
+Hartwell L.H.,,From molecular to modular cell biology,1999,Nature,2539,10.1038/35011540,United States,Article,Seattle,0,Journal,2-s2.0-0033518234
+Cherry J.,,SGD: Saccharomyces genome database,1998,Nucleic Acids Research,706,10.1093/nar/26.1.73,United States,Article,Palo Alto,0,Journal,2-s2.0-0031858914

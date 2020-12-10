@@ -1,0 +1,26 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Kawaji H.,,CAGE Basic/Analysis Databases: the CAGE resource for comprehensive promoter analysis.,2006,Nucleic acids research,68,10.1093/nar/gkj034,Japan,Article,Tokyo,1,Journal,2-s2.0-33644874143
+Carninci P.,,Molecular biology: The transcriptional landscape of the mammalian genome,2005,Science,2416,10.1126/science.1112014,,Article,,0,Journal,2-s2.0-24644519490
+Pang K.C.,,RNAdb - A comprehensive mammalian noncoding RNA database,2005,Nucleic Acids Research,122,10.1093/nar/gki089,Australia;Australia,Article,Brisbane;Melbourne,1,Journal,2-s2.0-13444293342
+Bairoch A.,,The Universal Protein Resource (UniProt),2005,Nucleic Acids Research,1249,10.1093/nar/gki070,Switzerland,Article,Geneva,1,Journal,2-s2.0-13444273448
+Maquat L.,,"Nonsense-mediated mRNA decay: Splicing, translation and mRNP dynamics",2004,Nature Reviews Molecular Cell Biology,890,10.1038/nrm1310,United States,Review,Rochester,0,Journal,2-s2.0-0742323558
+Allen J.,,Computational gene prediction using multiple sources of evidence,2004,Genome Research,89,10.1101/gr.1562804,United States;United States,Article,Baltimore;Rockville,1,Journal,2-s2.0-0346505461
+Kasukawa T.,,Development and evaluation of an automated annotation pipeline and cDNA annotation system,2003,Genome Research,30,10.1101/gr.992803,Japan;Japan,Article,Tokyo;Yokohama,1,Journal,2-s2.0-0038349286
+Furuno M.,,CDS annotation in full-length cDNA sequence,2003,Genome Research,38,10.1101/gr.1060303,Japan,Article,Yokohama,1,Journal,2-s2.0-0038011332
+Carninci P.,,Targeting a complex transcriptome: The construction of the mouse full-length cDNA encyclopedia,2003,Genome Research,145,10.1101/gr.1119703,Japan;Japan,Review,Wako;Yokohama,1,Journal,2-s2.0-0037673675
+Okazaki Y.,,"Analysis of the mouse transcriptome based on functional annotation of 60,770 full-length cDNAs",2002,Nature,1234,10.1038/nature01266,Japan;Japan,Article,Yokohama;Saitama,1,Journal,2-s2.0-0142104045
+Stein L.,,The generic genome browser: A building block for a model organism system database,2002,Genome Research,879,10.1101/gr.403602,United States,Article,Cold Spring Harbor,1,Journal,2-s2.0-18644378331
+Kent W.,,BLAT - The BLAST-like alignment tool,2002,Genome Research,5206,10.1101/gr.229202. Article published online before March 2002,United States,Article,Santa Cruz,0,Journal,2-s2.0-0036226603
+Blake J.A.,,The Mouse Genome Database (MGD): The model organism database for the laboratory mouse,2002,Nucleic Acids Research,95,10.1093/nar/30.1.113,United States,Article,Bar Harbor,1,Journal,2-s2.0-0036088977
+Kawai J.,,Functional annotation of a full-length mouse cDNA collection,2001,Nature,539,10.1038/35055500,Japan;Japan,Article,Kawaguchi;Yokohama,0,Journal,2-s2.0-0035825662
+Krogh A.,,Predicting transmembrane protein topology with a hidden Markov model: Application to complete genomes,2001,Journal of Molecular Biology,7387,10.1006/jmbi.2000.4315,Denmark,Article,Lyngby,0,Journal,2-s2.0-0035910270
+Fukunishi Y.,,Amino acid translation program for full-length cDNA sequences with frameshift errors,2001,Physiological Genomics,32,10.1152/physiolgenomics.2001.5.2.81,,Article,,0,Journal,2-s2.0-0347768063
+Apweiler R.,,"The InterPro database, an integrated documentation resource for protein families, domains and functional sites",2001,Nucleic Acids Research,736,10.1093/nar/29.1.37,United Kingdom,Article,London,1,Journal,2-s2.0-0035166973
+Rice P.,,EMBOSS: The European Molecular Biology Open Software Suite,2000,Trends in Genetics,5465,10.1016/S0168-9525(00)02024-2,United Kingdom,Note,London,0,Journal,2-s2.0-0034201441
+Hentze M.,,A perfect message: RNA surveillance and nonsense-mediated decay,1999,Cell,672,10.1016/S0092-8674(00)80542-5,Germany,Review,Heidelberg,1,Journal,2-s2.0-0033525169
+Badger J.,,CRITICA: Coding region identification tool invoking comparative analysis,1999,Molecular Biology and Evolution,300,10.1093/oxfordjournals.molbev.a026133,,Article,,1,Journal,2-s2.0-0032900737
+Nielsen H.,,Machine learning approaches for the prediction of signal peptides and other protein sorting signals,1999,Protein Engineering,521,10.1093/protein/12.1.3,Denmark,Review,Lyngby,1,Journal,2-s2.0-0033044637
+Florea L.,,A computer program for aligning a cDNA sequence with a genomic DNA sequence,1998,Genome Research,575,10.1101/gr.8.9.967,United States,Article,University Park,1,Journal,2-s2.0-0031732094
+Pearson W.,,Comparison of DNA sequences with protein sequences,1997,Genomics,452,10.1006/geno.1997.4995,United States,Article,Charlottesville,0,Journal,2-s2.0-0031573415
+Boguski M.,,dbEST — database for “expressed sequence tags”,1993,Nature Genetics,1100,10.1038/ng0893-332,United States,Letter,Bethesda,0,Journal,2-s2.0-0027249595
+Altschul S.,,Basic local alignment search tool,1990,Journal of Molecular Biology,60311,10.1016/S0022-2836(05)80360-2,United States,Article,Bethesda,0,Journal,2-s2.0-0025183708

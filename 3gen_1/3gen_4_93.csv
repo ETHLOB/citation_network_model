@@ -1,0 +1,35 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+D'aspremont A.,,Smooth optimization with approximate gradient,2008,SIAM Journal on Optimization,66,10.1137/060676386,United States,Article,Princeton,0,Journal,2-s2.0-57249107300
+Argyriou A.,,Convex multi-task feature learning,2008,Machine Learning,866,10.1007/s10994-007-5040-8,United Kingdom,Article,London,1,Journal,2-s2.0-55149088329
+Bach F.R.,,Consistency of the group lasso and multiple kernel learning,2008,Journal of Machine Learning Research,429,,France,Article,Paris,0,Journal,2-s2.0-46249088758
+Harchaoui Z.,,Image classification with segmentation graph kernels,2007,Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition,162,10.1109/CVPR.2007.383049,France,Conference Paper,Palaiseau,0,Conference Proceeding,2-s2.0-34948865790
+Zien A.,,Multiclass multiple kernel learning,2007,ACM International Conference Proceeding Series,185,10.1145/1273496.1273646,Germany,Conference Paper,Tubingen,0,Conference Proceeding,2-s2.0-34547992388
+Rakotomamonjy A.,,More efficiency in multiple kernel learning,2007,ACM International Conference Proceeding Series,189,10.1145/1273496.1273594,France,Conference Paper,Mont-Saint-Aignan,0,Conference Proceeding,2-s2.0-34547971778
+Koh K.,,An interior-point method for large-scale ℓ<inf>1</inf>-regularized logistic regression,2007,Journal of Machine Learning Research,444,,United States,Article,Palo Alto,0,Journal,2-s2.0-34547688865
+Loosli G.,,"Comments on the ""Core vector machines: Fast SVM training on very large data sets""",2007,Journal of Machine Learning Research,25,,France,Article,Saint-Etienne-du-Rouvray,0,Journal,2-s2.0-33847169137
+Kim S.,,Optimal kernel selection in Kernel Fisher discriminant analysis,2006,ACM International Conference Proceeding Series,42,10.1145/1143844.1143903,United States,Conference Paper,Palo Alto,0,Conference Proceeding,2-s2.0-34250721662
+Sonnenburg S.,,Large scale multiple kernel learning,2006,Journal of Machine Learning Research,1007,,Germany,Article,Berlin,0,Journal,2-s2.0-33745776113
+Amato U.,,Wavelet kernel penalized estimation for non-equispaced design regression,2006,Statistics and Computing,27,10.1007/s11222-006-5283-4,Italy,Article,Rome,0,Journal,2-s2.0-33644555212
+Tsochantaridis I.,,Large margin methods for structured and interdependent output variables,2005,Journal of Machine Learning Research,1370,,United States,Article,Mountain View,0,Journal,2-s2.0-24944537843
+Rakotomamonjy A.,,"Frames, reproducing kernels, regularization and learning",2005,Journal of Machine Learning Research,52,,France,Article,Saint-Etienne-du-Rouvray,0,Journal,2-s2.0-25444533296
+Micchelli C.A.,,Learning the kernel function via regularization,2005,Journal of Machine Learning Research,264,,United States,Article,Albany,0,Journal,2-s2.0-23244434257
+Rakotomamonjy A.,,Non-parametric regression with wavelet kernels,2005,Applied Stochastic Models in Business and Industry,22,10.1002/asmb.533,France,Article,Saint-Etienne-du-Rouvray,0,Journal,2-s2.0-17444391661
+Loosli G.,,Simple and fast support vector machine (SVM) toolbox,2005,Revue d'Intelligence Artificielle,8,10.3166/ria.19.741-767,France,Conference Paper,Mont-Saint-Aignan,0,Journal,2-s2.0-33645848146
+Duan K.B.,,Which is the best multiclass SVM method? An empirical study,2005,Lecture Notes in Computer Science,314,10.1007/11494683_28,Singapore,Conference Paper,Singapore City,0,Conference Proceeding,2-s2.0-26444573178
+Fung G.,,A fast iterative algorithm for Fisher Discriminant using heterogeneous kernels,2004,"Proceedings, Twenty-First International Conference on Machine Learning, ICML 2004",39,,United States,Conference Paper,Malvern,0,Conference Proceeding,2-s2.0-14344262828
+Bach F.R.,,"Multiple kernel learning, conic duality, and the SMO algorithm",2004,"Proceedings, Twenty-First International Conference on Machine Learning, ICML 2004",879,,United States,Conference Paper,Berkeley,0,Conference Proceeding,2-s2.0-14344252374
+Lanckriet G.R.G.,,A statistical framework for genomic data fusion,2004,Bioinformatics,468,10.1093/bioinformatics/bth294,United States,Article,Berkeley,1,Journal,2-s2.0-8844263749
+Hastie T.,,The entire regularization path for the support vector machine,2004,Journal of Machine Learning Research,415,,United States,Article,Palo Alto,0,Journal,2-s2.0-84925605946
+Efron B.,,Least angle regression,2004,Annals of Statistics,5214,10.1214/009053604000000067,United States,Article,Palo Alto,1,Journal,2-s2.0-3242708140
+Rifkin R.,,In defense of one-vs-all classification,2004,Journal of Machine Learning Research,1206,,United States,Article,Torrance,0,Journal,2-s2.0-56749117943
+Lanckriet G.R.G.,,Learning the kernel matrix with semidefinite programming,2004,Journal of Machine Learning Research,1651,,United States,Article,Berkeley,0,Journal,2-s2.0-8844278523
+Vishwanathan S.,,SimpleSVM,2003,"Proceedings, Twentieth International Conference on Machine Learning",73,,Australia,Conference Paper,Sydney,0,Conference Proceeding,2-s2.0-1942516515
+Grandvalet Y.,,Adaptive scaling for feature selection in SVMs,2003,Advances in Neural Information Processing Systems,61,,France,Conference Paper,Compiegne,0,Conference Proceeding,2-s2.0-84899001870
+Hsu C.,,A comparison of methods for multiclass support vector machines,2002,IEEE Transactions on Neural Networks,5452,10.1109/72.991427,Taiwan,Article,Taipei,0,Journal,2-s2.0-0036505670
+Chapelle O.,,Choosing multiple parameters for support vector machines,2002,Machine Learning,1810,10.1023/A:1012450327387,France,Article,Paris,1,Journal,2-s2.0-0036161011
+Antoniadis A.,,Regularization of wavelet approximations,2001,Journal of the American Statistical Association,338,10.1198/016214501753208942,France,Article,Saint Martin d'Heres,0,Journal,2-s2.0-0442312210
+DeCoste D.,,Alpha seeding for support vector machines,2000,Proceeding of the Sixth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,53,10.1145/347090.347165,United States,Conference Paper,Pasadena,0,Conference Proceeding,2-s2.0-0034592745
+Grandvalet Y.,,Outcomes of the equivalence of adaptive ridge with least absolute shrinkage,1999,Advances in Neural Information Processing Systems,36,,France,Conference Paper,Compiegne,0,Conference Proceeding,2-s2.0-0041879258
+Bonnans J.,,Optimization problems with perturbations: A guided tour,1998,SIAM Review,177,10.1137/S0036144596302644,France;France,Article,Le Chesnay;Palaiseau,0,Journal,2-s2.0-0032096712
+Lemaréchal C.,,Practical aspects of the Moreau-Yosida regularization: Theoretical preliminaries,1997,SIAM Journal on Optimization,114,10.1137/S1052623494267127,France,Article,Le Chesnay,0,Journal,2-s2.0-0040165092
+Aronszajn N.,,Theory of reproducing kernels,1950,Transactions of the American Mathematical Society,3032,10.1090/s0002-9947-1950-0051437-7,United States,Article,Stillwater,1,Journal,2-s2.0-5844297152

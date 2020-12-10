@@ -1,0 +1,30 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Gavin A.,,Proteome survey reveals modularity of the yeast cell machinery,2006,Nature,1939,10.1038/nature04532,United Kingdom;Germany,Article,Brentford;Heidelberg,0,Journal,2-s2.0-33644555054
+Aloy P.,,Structural systems biology: Modelling protein interactions,2006,Nature Reviews Molecular Cell Biology,255,10.1038/nrm1859,Germany;Spain,Review,Heidelberg;Barcelona,0,Journal,2-s2.0-33644550021
+Kelley R.,,Systematic interpretation of genetic interactions using protein networks,2005,Nature Biotechnology,344,10.1038/nbt1096,United States;United States,Review,San Diego;San Diego,0,Journal,2-s2.0-22844450110
+Espadaler J.,,Detecting remotely related proteins by their interactions and sequence similarity,2005,Proceedings of the National Academy of Sciences of the United States of America,24,10.1073/pnas.0500831102,Spain;Spain,Article,Barcelona;Barcelona,1,Journal,2-s2.0-18844431588
+Wall D.,,Functional genomic analysis of the rates of protein evolution,2005,Proceedings of the National Academy of Sciences of the United States of America,212,10.1073/pnas.0501761102,United States;United States,Article,Palo Alto;Boston,1,Journal,2-s2.0-17244367886
+De Lichtenberg U.,,Dynamic complex formation during the yeast cell cycle,2005,Science,324,10.1126/science.1105103,Denmark,Article,Lyngby,0,Journal,2-s2.0-13244284551
+Finn R.,,iPfam: Visualization of protein-protein interactions in PDB at domain and amino acid resolutions,2005,Bioinformatics,247,10.1093/bioinformatics/bti011,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-13844264506
+Lee I.,,A probabilistic functional network of yeast genes,2004,Science,522,10.1126/science.1099511,United States,Article,Austin,0,Journal,2-s2.0-9444239213
+Aloy P.,,Ten thousand interactions for the molecular biologist,2004,Nature Biotechnology,157,10.1038/nbt1018,Germany,Review,Heidelberg,0,Journal,2-s2.0-5044235050
+Wuchty S.,,Evolution and topology in the yeast protein interaction network,2004,Genome Research,112,10.1101/gr.2300204,United States,Article,Notre Dame,1,Journal,2-s2.0-3543099834
+Han J.D.J.,,Evidence for dynamically organized modularity in the yeast protein-protein interaction network,2004,Nature,1241,10.1038/nature02555,United States;United States,Article,Boston;Boston,0,Journal,2-s2.0-3042848952
+Fraser H.,,Evolutionary rate depends on number of protein-protein interactions independently of gene expression level,2004,BMC Evolutionary Biology,45,10.1186/1471-2148-4-13,United States,Review,Berkeley,1,Journal,2-s2.0-2942678187
+Barabási A.,,Network biology: Understanding the cell's functional organization,2004,Nature Reviews Genetics,5028,10.1038/nrg1272,United States,Review,Notre Dame,0,Journal,2-s2.0-0742305866
+Jansen R.,,A Bayesian Networks Approach for Predicting Protein-Protein Interactions from Genomic Data,2003,Science,980,10.1126/science.1087361,United States;United States,Article,New York;New Haven,0,Journal,2-s2.0-0142052944
+Bloom J.,,Apparent dependence of protein evolutionary rate on number of interactions is linked to biases in protein-protein interactions data sets,2003,BMC Evolutionary Biology,109,10.1186/1471-2148-3-21,United States,Article,Pasadena,1,Journal,2-s2.0-2942624159
+Wagner A.,,How the global structure of protein interaction networks evolves,2003,Proceedings of the Royal Society B: Biological Sciences,203,10.1098/rspb.2002.2269,United States,Conference Paper,Albuquerque,0,Journal,2-s2.0-0037423828
+Jordan I.,,No simple dependence between protein evolution rate and the number of protein-protein interactions: Only the most prolific interactors tend to evolve slowly,2003,BMC Evolutionary Biology,155,10.1186/1471-2148-3-1,United States,Article,Bethesda,1,Journal,2-s2.0-0842291785
+Georgiev I.T.,,Position-space renormalization-group approach for driven diffusive systems applied to the asymmetric exclusion model,2003,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",2,10.1103/PhysRevE.67.056103,United States,Article,Orono,0,Journal,2-s2.0-84988745186
+Eisenberg E.,,Preferential attachment in the protein network evolution,2003,Physical Review Letters,161,10.1103/PhysRevLett.91.138701,Israel,Article,Tel Aviv-Yafo,0,Journal,2-s2.0-0642285840
+Bader G.,,Analyzing yeast protein-protein interaction data obtained from different sources,2002,Nature Biotechnology,436,10.1038/nbt1002-991,Canada,Article,Toronto,0,Journal,2-s2.0-0036789265
+Albert R.,,Statistical mechanics of complex networks,2002,Reviews of Modern Physics,13636,10.1103/RevModPhys.74.47,United States;United States,Article,Minneapolis;Notre Dame,0,Journal,2-s2.0-0036013593
+Giaever G.,,Functional profiling of the Saccharomyces cerevisiae genome,2002,Nature,2854,10.1038/nature00935,United States,Article,Stanford,0,Journal,2-s2.0-0037173615
+Fraser H.,,Evolutionary rate in the protein interaction network,2002,Science,655,10.1126/science.1068696,United States,Article,Berkeley,0,Journal,2-s2.0-0037177560
+Issel-Tarver L.,,Saccharomyces genome database,2002,Methods in Enzymology,104,10.1016/S0076-6879(02)50972-1,United States,Article,Palo Alto,0,Journal,2-s2.0-18444386817
+Bateman A.,,The pfam protein families database,2002,Nucleic Acids Research,1924,10.1093/nar/30.1.276,United Kingdom,Article,London,1,Journal,2-s2.0-0011542799
+Jeong H.,,Lethality and centrality in protein networks,2001,Nature,3476,10.1038/35075138,United States,Article,Notre Dame,0,Journal,2-s2.0-0035799707
+Valdar W.,,Protein-protein interfaces: Analysis of amino acid conservation in homodimers,2001,"Proteins: Structure, Function and Genetics",265,10.1002/1097-0134(20010101)42:1<108::AID-PROT110>3.0.CO;2-O,United Kingdom,Article,London,0,Journal,2-s2.0-0035178383
+Hughes T.,,Functional discovery via a compendium of expression profiles,2000,Cell,2000,10.1016/S0092-8674(00)00015-5,United States,Article,Seattle,1,Journal,2-s2.0-0034616930
+Uetz P.,,A comprehensive analysis of protein-protein interactions in Saccharomyces cerevisiae,2000,Nature,3756,10.1038/35001009,United States,Article,Seattle,0,Journal,2-s2.0-0034628508

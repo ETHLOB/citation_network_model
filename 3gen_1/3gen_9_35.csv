@@ -1,0 +1,9 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Gander W.,,A constrained eigenvalue problem,1989,Linear Algebra and Its Applications,121,10.1016/0024-3795(89)90494-1,Switzerland,Article,"Zurich ZH,",1,Journal,2-s2.0-38249023522
+Golub G.,,Some history of the conjugate gradient and Lanczos algorithms: 1948-1976,Mar,SIAM Review,130,10.1137/1031003,United States,Article,Palo Alto,0,Journal,2-s2.0-0024631560
+Paige C.,,Algorithm 583: LSQR: Sparse Linear Equations and Least Squares Problems,1982,ACM Transactions on Mathematical Software (TOMS),537,10.1145/355993.356000,Canada,Article,Montreal,0,Journal,2-s2.0-84976657333
+Paige C.,,LSQR: An Algorithm for Sparse Linear Equations and Sparse Least Squares,1982,ACM Transactions on Mathematical Software (TOMS),2817,10.1145/355984.355989,Canada,Article,Montreal,0,Journal,2-s2.0-0039943513
+Gander W.,,Least squares with a quadratic constraint,1980,Numerische Mathematik,178,10.1007/BF01396656,Switzerland,Article,Buchs,0,Journal,2-s2.0-0019370951
+Golub G.,,Bounds for matrix moments,1974,Rocky Mountain Journal of Mathematics,22,10.1216/RMJ-1974-4-2-207,United States,Article,Palo Alto,1,Journal,2-s2.0-0041935774
+Paige C.,,Computational variants of the lanczos method for the eigenproblem,1972,IMA Journal of Applied Mathematics (Institute of Mathematics and Its Applications),290,10.1093/imamat/10.3.373,United Kingdom,Article,London,0,Journal,2-s2.0-72449139170
+Reinsch C.,,Smoothing by spline functions. II,1971,Numerische Mathematik,299,10.1007/BF02169154,Germany,Article,Garching bei Munchen,0,Journal,2-s2.0-11644266571

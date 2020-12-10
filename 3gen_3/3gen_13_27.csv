@@ -1,0 +1,20 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Moreau L.,,Stability of multiagent systems with time-dependent communication links,2005,IEEE Transactions on Automatic Control,2060,10.1109/TAC.2004.841888,Belgium,Article,Ghent,0,Journal,2-s2.0-12944293796
+Boyd S.,,Fastest mixing Markov chain on a graph,2004,SIAM Review,394,10.1137/S0036144503423264,United States,Article,Palo Alto,0,Journal,2-s2.0-11344275321
+Olfati Saber R.,,Consensus Protocols for Networks of Dynamic Agents,2003,Proceedings of the American Control Conference,597,,United States,Conference Paper,Pasadena,0,Conference Proceeding,2-s2.0-0142169419
+Jadbabaie A.,,Coordination of groups of mobile autonomous agents using nearest neighbor rules,2003,IEEE Transactions on Automatic Control,6055,10.1109/TAC.2003.812781,United States;United States,Article,Philadelphia;New Haven,0,Journal,2-s2.0-0038548185
+Mesbahi M.,,On a dynamic extension of the theory of graphs,2002,Proceedings of the American Control Conference,33,10.1109/ACC.2002.1023188,United States,Conference Paper,Minneapolis,0,Conference Proceeding,2-s2.0-0036056006
+Fax J.A.,,Information flow and cooperative control of vehicle formations,2002,IFAC Proceedings Volumes (IFAC-PapersOnline),100,10.3182/20020721-6-es-1901.00100,United States,Conference Paper,Los Angeles,0,Conference Proceeding,2-s2.0-84945562600
+Fazel M.,,A rank minimization heuristic with application to minimum order system approximation,2001,Proceedings of the American Control Conference,573,10.1109/ACC.2001.945730,United States,Article,Palo Alto,0,Journal,2-s2.0-0034853839
+Helmberg C.,,A spectral bundle method for semidefinite programming,2000,SIAM Journal on Optimization,241,10.1137/S1052623497328987,Germany,Article,Berlin,0,Journal,2-s2.0-0034415006
+Hassibi A.,,Low-authority controller design by means of convex optimization,1999,"Journal of Guidance, Control, and Dynamics",26,10.2514/2.4464,United States,Article,Palo Alto,0,Journal,2-s2.0-0033228328
+Benson S.J.,,Solving large-scale sparse semidefinite programs for combinatorial optimization,1999,SIAM Journal on Optimization,167,10.1137/s1052623497328008,United States,Article,Iowa City,0,Journal,2-s2.0-0039772219
+Blondel V.,,NP-hardness of some linear control design problems,1997,SIAM Journal on Control and Optimization,272,10.1137/S0363012994272630,Belgium,Article,Liege,0,Journal,2-s2.0-0031272805
+Lewis A.,,Eigenvalue optimization,1996,Acta Numerica,165,10.1017/S0962492900002646,Canada,Article,Waterloo,0,Journal,2-s2.0-0042602157
+Vandenberghe L.,,Semidefinite programming,1996,SIAM Review,2687,10.1137/1038003,Belgium,Article,Leuven,0,Journal,2-s2.0-0030106462
+Merris R.,,Laplacian matrices of graphs: a survey,1994,Linear Algebra and Its Applications,1058,10.1016/0024-3795(94)90486-3,United States,Article,Hayward,1,Journal,2-s2.0-33750999449
+Nemirovskii A.,,Several NP-hard problems arising in robust stability analysis,1993,"Mathematics of Control, Signals, and Systems",179,10.1007/BF01211741,Russian Federation,Article,Moscow,0,Journal,2-s2.0-0027798081
+Overton M.,,Optimality conditions and duality theory for minimizing sums of the largest eigenvalues of symmetric matrices,1993,Mathematical Programming,111,10.1007/BF01585173,United States,Article,New York,0,Journal,2-s2.0-34250080273
+Boyd S.,,Method of centers for minimizing generalized eigenvalues,1993,Linear Algebra and Its Applications,143,10.1016/0024-3795(93)90465-Z,United States,Article,Palo Alto,1,Journal,2-s2.0-43949163936
+Mustafa D.,,Minimum Entropy H<inf>∞</inf> Control,1990,Lecture Notes in Control and Information Sciences,104,,,Book,,0,Book,2-s2.0-0025538016
+Oldenburger R.,,Infinite powers of matrices and characteristic roots,1940,Duke Mathematical Journal,49,10.1215/S0012-7094-40-00627-5,United States,Article,Chicago,0,Journal,2-s2.0-0013397871

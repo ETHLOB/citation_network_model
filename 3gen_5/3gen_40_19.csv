@@ -1,0 +1,14 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Tiffin N.,,Integration of text- and data-mining using ontologies successfully selects disease gene candidates,2005,Nucleic Acids Research,163,10.1093/nar/gki296,South Africa,Article,Bellville,1,Journal,2-s2.0-15044341082
+Adie E.,,Speeding disease gene discovery by sequence based candidate prioritization,2005,BMC Bioinformatics,200,10.1186/1471-2105-6-55,United Kingdom,Article,Edinburgh,1,Journal,2-s2.0-25444482801
+López-Bigas N.,,Genome-wide identification of genes likely to be involved in human genetic disease,2004,Nucleic Acids Research,204,10.1093/nar/gkh605,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-3543106033
+Becker K.G.,,The Genetic Association Database [1],2004,Nature Genetics,670,10.1038/ng0504-431,United States,Letter,Bethesda,1,Journal,2-s2.0-2442604715
+McCarthy M.,,New methods for finding disease-susceptibility genes: Impact and potential,2003,Genome Biology,36,10.1186/gb-2003-4-10-119,United Kingdom,Article,Oxford,1,Journal,2-s2.0-0346274979
+Turner F.,,POCUS: Mining genomic sequence annotation to predict disease genes,2003,Genome Biology,179,10.1186/gb-2003-4-11-r75,United Kingdom,Article,Edinburgh,1,Journal,2-s2.0-1542787787
+Lord P.,,Investigating semantic similarity measures across the gene ontology: The relationship between sequence and annotation,2003,Bioinformatics,599,10.1093/bioinformatics/btg153,United Kingdom,Article,Manchester,1,Journal,2-s2.0-0037480738
+van Driel M.,,A new web-based data mining tool for the identification of candidate genes for human genetic disorders,2003,European Journal of Human Genetics,72,10.1038/sj.ejhg.5200918,Netherlands;Netherlands,Article,Nijmegen;Nijmegen,1,Journal,2-s2.0-0037265647
+Perez-Iratxeta C.,,Association of genes to genetically inherited diseases using data mining,2002,Nature Genetics,278,10.1038/ng895,Germany,Article,Heidelberg,0,Journal,2-s2.0-0036649742
+Su A.I.,,Large-scale analysis of the human and mouse transcriptomes,2002,Proceedings of the National Academy of Sciences of the United States of America,1201,10.1073/pnas.012025199,United States,Article,San Diego,1,Journal,2-s2.0-0037007048
+Freudenberg J.,,A similarity-based method for genome-wide prediction of disease-relevant human genes,2002,Bioinformatics,174,10.1093/bioinformatics/18.suppl_2.S110,Germany,Conference Paper,Bonn,1,Journal,2-s2.0-0037580196
+Hamosh A.,,"Onlined Mendelian Inheritance in Man (OMIM), a knowledgebase of human genes and genetic disorders",2002,Nucleic Acids Research,372,,United States,Article,Baltimore,0,Journal,2-s2.0-0035998736
+Cooper D.,,The human gene mutation database,1998,Nucleic Acids Research,144,10.1093/nar/26.1.285,United Kingdom,Article,Cardiff,1,Journal,2-s2.0-0031812897

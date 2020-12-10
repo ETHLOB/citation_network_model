@@ -1,0 +1,10 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Carreira-Perpiñán M.,,On contrastive divergence learning,2005,AISTATS 2005 - Proceedings of the 10th International Workshop on Artificial Intelligence and Statistics,384,,Canada;United States,Conference Paper,Toronto;Portland,0,Conference Proceeding,2-s2.0-84862612564
+Teh Y.W.,,Energy-based models for sparse overcomplete representations,2004,Journal of Machine Learning Research,88,,Canada,Conference Paper,Toronto,0,Journal,2-s2.0-8344290493
+Hyvärinen A.,,Estimating overcomplete independent component bases for image windows,2002,Journal of Mathematical Imaging and Vision,31,10.1023/A:1020633503820,Finland,Article,Espoo,0,Journal,2-s2.0-0036762484
+Hinton G.E.,,Training products of experts by minimizing contrastive divergence,2002,Neural Computation,2671,10.1162/089976602760128018,United Kingdom,Article,London,0,Journal,2-s2.0-0013344078
+Hyvärinen A.,,A two-layer sparse coding model learns simple and complex cell receptive fields and topography from natural images,2001,Vision Research,184,10.1016/S0042-6989(01)00114-6,Finland;Finland,Article,Espoo;Helsinki,1,Journal,2-s2.0-0034920427
+Pham D.,,Blind separation of mixture of independent sources through a quasi-maximum likelihood approach,1997,IEEE Transactions on Signal Processing,280,10.1109/78.599941,France,Article,Saint Martin d'Heres,0,Journal,2-s2.0-0031191456
+Olshausen B.,,Sparse coding with an overcomplete basis set: A strategy employed by V1?,1997,Vision Research,2237,10.1016/S0042-6989(97)00169-7,United States,Article,Davis,1,Journal,2-s2.0-0030779611
+Bouman C.,,A Generalized Gaussian Image Model for Edge-Preserving MAP Estimation,1993,IEEE Transactions on Image Processing,635,10.1109/83.236536,United States,Article,West Lafayette,0,Journal,2-s2.0-0027624429
+Besag J.,,Efficiency of pseudolikelihood estimation for simple Gaussian fields,1977,Biometrika,195,10.1093/biomet/64.3.616,United Kingdom,Article,Durham,0,Journal,2-s2.0-0017751656

@@ -1,0 +1,31 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Almendral J.A.,,Dynamics of overlapping structures in modular networks,2010,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",31,10.1103/PhysRevE.82.016115,Spain,Article,Mostoles,0,Journal,2-s2.0-77955128658
+Li D.,,Synchronization interfaces and overlapping communities in complex networks,2008,Physical Review Letters,84,10.1103/PhysRevLett.101.168701,Israel,Article,Ramat Gan,0,Journal,2-s2.0-54849437359
+Punta M.,,"The rough guide to in silico function prediction, or how to use sequence and structure information to predict protein function",2008,PLoS Computational Biology,74,10.1371/journal.pcbi.1000160,United States,Article,New York,1,Journal,2-s2.0-55449125498
+Lee D.,,Predicting protein function from sequence and structure,2007,Nature Reviews Molecular Cell Biology,331,10.1038/nrm2281,United Kingdom,Review,London,0,Journal,2-s2.0-36448988254
+Alon U.,,Network motifs: Theory and experimental approaches,2007,Nature Reviews Genetics,1864,10.1038/nrg2102,Israel,Review,Rehovot,0,Journal,2-s2.0-34249079154
+Hu P.,,Computational prediction of cancer-gene function,2007,Nature Reviews Cancer,65,10.1038/nrc2036,Canada;Canada,Review,Toronto;Toronto,0,Journal,2-s2.0-33845864703
+Sharan R.,,Network-based prediction of protein function,2007,Molecular Systems Biology,715,10.1038/msb4100129,Israel,Review,Tel Aviv-Yafo,1,Journal,2-s2.0-33947252154
+Boccaletti S.,,Complex networks: Structure and dynamics,2006,Physics Reports,6606,10.1016/j.physrep.2005.10.009,Italy,Review,Sesto Fiorentino,0,Journal,2-s2.0-31344474880
+Kelley R.,,Systematic interpretation of genetic interactions using protein networks,2005,Nature Biotechnology,344,10.1038/nbt1096,United States;United States,Review,San Diego;San Diego,0,Journal,2-s2.0-22844450110
+Rual J.F.,,Towards a proteome-scale map of the human protein-protein interaction network,2005,Nature,2023,10.1038/nature04209,United States;United States,Article,Boston;Boston,0,Journal,2-s2.0-27144530248
+Yeang C.,,Validation and refinement of gene-regulatory pathways on a network of physical interactions.,2005,Genome biology,67,,United States,Article,Santa Cruz,0,Journal,2-s2.0-27744521520
+Yook S.,,Functional and topological characterization of protein interaction networks,2004,Proteomics,471,10.1002/pmic.200300636,United States,Article,Notre Dame,0,Journal,2-s2.0-1842580761
+Karaoz U.,,Whole-genome annotation by using evidence integration in functional-linkage networks,2004,Proceedings of the National Academy of Sciences of the United States of America,243,10.1073/pnas.0307326101,United States,Article,Boston,1,Journal,2-s2.0-1542327694
+Rost B.,,Automatic prediction of protein function,2003,Cellular and Molecular Life Sciences,170,10.1007/s00018-003-3114-8,United States,Review,New York,0,Journal,2-s2.0-0346731042
+Deng M.,,Prediction of Protein Function Using Protein-Protein Interaction Data,2003,Journal of Computational Biology,214,10.1089/106652703322756168,United States,Article,Los Angeles,0,Journal,2-s2.0-0742304254
+Letovsky S.,,Predicting protein function from protein/protein interaction data: A probabilistic approach,2003,Bioinformatics,288,10.1093/bioinformatics/btg1026,United States,Conference Paper,Boston,1,Journal,2-s2.0-1542271409
+Stuart J.,,A gene-coexpression network for global discovery of conserved genetic modules,2003,Science,1417,10.1126/science.1087447,United States;United States,Article,Stanford;Santa Cruz,0,Journal,2-s2.0-0141993704
+Bu D.,,Topological structure analysis of the protein-protein interaction network in budding yeast,2003,Nucleic Acids Research,501,10.1093/nar/gkg340,China,Article,Beijing,1,Journal,2-s2.0-0038074373
+von Mering C.,,Comparative assessment of large-scale data sets of protein-protein interactions,2002,Nature,1786,10.1038/nature750,Germany,Article,Heidelberg,0,Journal,2-s2.0-0037161731
+Mewes H.W.,,MIPS: A database for genomes and protein sequences,2002,Nucleic Acids Research,733,10.1093/nar/30.1.31,Germany;Germany,Article,Freising;Neuherberg,1,Journal,2-s2.0-0036081347
+Ho Y.,,Systematic identification of protein complexes in Saccharomyces cerevisiae by mass spectrometry,2002,Nature,2837,10.1038/415180a,Canada,Letter,Toronto,0,Journal,2-s2.0-0037050004
+Gavin A.C.,,Functional organization of the yeast proteome by systematic analysis of protein complexes,2002,Nature,3691,10.1038/415141a,United Kingdom,Article,Brentford,0,Journal,2-s2.0-0037050026
+Tong A.H.Y.,,Systematic genetic analysis with ordered arrays of yeast deletion mutants,2001,Science,1511,10.1126/science.1065810,Canada,Article,Toronto,0,Journal,2-s2.0-0035861532
+Hishigaki H.,,Assessment of prediction accuracy of protein function from protein-protein interaction data,2001,Yeast,269,10.1002/yea.706,Japan;Japan,Article,Tokyo;Tokyo,1,Journal,2-s2.0-0035044077
+Ito T.,,A comprehensive two-hybrid analysis to explore the yeast protein interactome,2001,Proceedings of the National Academy of Sciences of the United States of America,2801,10.1073/pnas.061034498,Japan,Article,Kanazawa,1,Journal,2-s2.0-0035836765
+Schwikowski B.,,A network of protein-protein interactions in yeast,2000,Nature Biotechnology,988,10.1038/82360,United States;United States,Article,Seattle;Seattle,0,Journal,2-s2.0-0033669189
+Hughes T.,,Functional discovery via a compendium of expression profiles,2000,Cell,2000,10.1016/S0092-8674(00)00015-5,United States,Article,Seattle,1,Journal,2-s2.0-0034616930
+Ashburner M.,,Gene ontology: Tool for the unification of biology,2000,Nature Genetics,21230,10.1038/75556,,Review,,0,Journal,2-s2.0-0034069495
+Uetz P.,,A comprehensive analysis of protein-protein interactions in Saccharomyces cerevisiae,2000,Nature,3756,10.1038/35001009,United States,Article,Seattle,0,Journal,2-s2.0-0034628508
+Cho R.,,A genome-wide transcriptional analysis of the mitotic cell cycle,1998,Molecular Cell,1661,10.1016/S1097-2765(00)80114-8,United States,Article,Stanford,1,Journal,2-s2.0-0032112293

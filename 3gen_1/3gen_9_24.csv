@@ -1,0 +1,9 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Yu S.,,Bayesian co-training,2009,Advances in Neural Information Processing Systems 20 - Proceedings of the 2007 Conference,36,,United States,Conference Paper,New York,0,Conference Proceeding,2-s2.0-84858788974
+Belkin M.,,Manifold regularization: A geometric framework for learning from labeled and unlabeled examples,2006,Journal of Machine Learning Research,2537,,United States,Article,Columbus,0,Journal,2-s2.0-33750729556
+Brefeld U.,,Efficient Co-regularised least squares regression,2006,ICML 2006 - Proceedings of the 23rd International Conference on Machine Learning,67,,Germany,Conference Paper,Berlin,0,Conference Proceeding,2-s2.0-33749246419
+Farquhar J.D.R.,,"Two view learning: SVM-2K, theory and practice",2005,Advances in Neural Information Processing Systems,210,,United Kingdom,Conference Paper,Southampton,0,Conference Proceeding,2-s2.0-33749404380
+Sindhwani V.,,Beyond the point cloud: From transductive to semi-supervised learning,2005,ICML 2005 - Proceedings of the 22nd International Conference on Machine Learning,320,,United States,Conference Paper,Chicago,0,Conference Proceeding,2-s2.0-31844440904
+Boucheron S.,,Theory of classification: A survey of some recent advances,2005,ESAIM - Probability and Statistics,241,10.1051/ps:2005018,France,Article,Paris,1,Journal,2-s2.0-84924053271
+Bartlett P.L.,,Localized rademacher complexities,2002,Lecture Notes in Artificial Intelligence (Subseries of Lecture Notes in Computer Science),28,10.1007/3-540-45435-7_4,Australia;United States,Conference Paper,Canberra;Berkeley,0,Conference Proceeding,2-s2.0-84937440359
+Blum A.,,Combining labeled and unlabeled data with co-training,1998,Proceedings of the Annual ACM Conference on Computational Learning Theory,3259,10.1145/279943.279962,United States,Conference Paper,Pittsburgh,0,Conference Proceeding,2-s2.0-0031620208

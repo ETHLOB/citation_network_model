@@ -1,0 +1,27 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Newman M.E.J.,,Fast algorithm for detecting community structure in networks,2004,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",2954,10.1103/PhysRevE.69.066133,United States,Article,Ann Arbor,0,Journal,2-s2.0-42749100809
+Gastner M.,,Diffusion-based method for producing density-equalizing maps,2004,Proceedings of the National Academy of Sciences of the United States of America,385,10.1073/pnas.0400280101,United States,Article,Ann Arbor,1,Journal,2-s2.0-3042677883
+Wilkinson D.,,A method for finding communities of related genes,2004,Proceedings of the National Academy of Sciences of the United States of America,165,10.1073/pnas.0307740100,United States,Article,Palo Alto,1,Journal,2-s2.0-1842738363
+Radicchi F.,,Defining and identifying communities in networks,2004,Proceedings of the National Academy of Sciences of the United States of America,1536,10.1073/pnas.0400054101,Italy,Article,Rome,1,Journal,2-s2.0-1542357701
+Arenas A.,,Community analysis in social networks,2004,European Physical Journal B,150,10.1140/epjb/e2004-00130-1,Spain,Conference Paper,Tarragona,0,Journal,2-s2.0-2942670620
+Wu F.,,Finding communities in linear time: A physics approach,2004,European Physical Journal B,357,10.1140/epjb/e2004-00125-x,United States,Conference Paper,Palo Alto,0,Journal,2-s2.0-2942619068
+Newman M.,,Detecting community structure in networks,2004,European Physical Journal B,1360,10.1140/epjb/e2004-00124-y,United States,Conference Paper,Ann Arbor,0,Journal,2-s2.0-2942564706
+Newman M.E.J.,,Finding and evaluating community structure in networks,2004,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",7687,10.1103/PhysRevE.69.026113,United States;United States,Article,Santa Fe;Ann Arbor,0,Journal,2-s2.0-37649028224
+Guimerà R.,,Self-similar community structure in a network of human interactions,2003,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",769,,Spain;United States,Article,Tarragona;Evanston,0,Journal,2-s2.0-1842616539
+Holme P.,,Subnetwork hierarchies of biochemical pathways,2003,Bioinformatics,276,10.1093/bioinformatics/btg033,,Article,,1,Journal,2-s2.0-0037345719
+Newman M.,,The structure and function of complex networks,2003,SIAM Review,11537,10.1137/S003614450342480,United States,Review,Ann Arbor,0,Journal,2-s2.0-0038718854
+Dunne J.,,Food-web structure and network theory: The role of connectance and size,2002,Proceedings of the National Academy of Sciences of the United States of America,786,10.1073/pnas.192407699,United States;United States,Article,Santa Fe;San Francisco,1,Journal,2-s2.0-0036789926
+Albert R.,,Statistical mechanics of complex networks,2002,Reviews of Modern Physics,13645,10.1103/RevModPhys.74.47,United States;United States,Article,Minneapolis;Notre Dame,0,Journal,2-s2.0-0036013593
+Girvan M.,,Community structure in social and biological networks,2002,Proceedings of the National Academy of Sciences of the United States of America,8662,10.1073/pnas.122653799,United States;United States,Article,Santa Fe;Ithaca,1,Journal,2-s2.0-0037062448
+Dorogovtsev S.,,Evolution of networks,2002,Advances in Physics,2215,10.1080/00018730110112519,Portugal,Article,Porto,0,Journal,2-s2.0-0036610173
+Flake G.W.,,Self-organization and identification of web communities,2002,Computer,734,10.1109/2.989932,United States,Article,Princeton,0,Trade Journal,2-s2.0-0036497195
+Ito T.,,A comprehensive two-hybrid analysis to explore the yeast protein interactome,2001,Proceedings of the National Academy of Sciences of the United States of America,2801,10.1073/pnas.061034498,Japan,Article,Kanazawa,1,Journal,2-s2.0-0035836765
+Strogatz S.,,Exploring complex networks,2001,Nature,5562,10.1038/35065725,United States,Review,Ithaca,1,Journal,2-s2.0-0035826155
+Albert R.,,Diameter of the world-wide web,1999,Nature,3115,10.1038/43601,United States,Article,Notre Dame,0,Journal,2-s2.0-0033539175
+Kleinberg J.,,"The web as a graph: Measurements, models,and methods",1999,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),496,10.1007/3-540-48686-0_1,United States,Conference Paper,Ithaca,0,Book Series,2-s2.0-84899841718
+Faloutsos M.,,On power-law relationships of the internet topology,1999,Computer Communication Review,3084,10.1145/316194.316229,United States;United States;Canada,Article,Riverside;Pittsburgh;Toronto,0,Journal,2-s2.0-0033204106
+Watts D.J.,,Collective dynamics of 'small-world9 networks,1998,Nature,25779,10.1038/30918,United States,Article,Ithaca,0,Journal,2-s2.0-0032482432
+Redner S.,,How popular is your paper? An empirical study of the citation distribution,1998,European Physical Journal B,985,10.1007/s100510050359,United States,Article,Boston,0,Journal,2-s2.0-0031622508
+Kernighan B.,,An Efficient Heuristic Procedure for Partitioning Graphs,1970,Bell System Technical Journal,3149,10.1002/j.1538-7305.1970.tb01770.x,,Article,,0,Journal,2-s2.0-84990479742
+Kauffman S.,,Metabolic stability and epigenesis in randomly constructed genetic nets,1969,Journal of Theoretical Biology,2878,10.1016/0022-5193(69)90015-0,United States;United States,Article,San Francisco;Cambridge,0,Journal,2-s2.0-0014489272
+De Solla Price D.,,Networks of scientific papers,1965,Science,1664,10.1126/science.149.3683.510,United States,Article,New Haven,0,Journal,2-s2.0-0000432228

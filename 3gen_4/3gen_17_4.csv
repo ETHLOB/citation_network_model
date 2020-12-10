@@ -1,0 +1,25 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Martínez S.,,On synchronous robotic networks - Part II: Time complexity of rendezvous and deployment algorithms,2007,IEEE Transactions on Automatic Control,73,10.1109/TAC.2007.908304,United States,Article,San Diego,0,Journal,2-s2.0-38149030739
+Sharma V.,,Transfer time complexity of conflict-free vehicle routing with no communications,2007,International Journal of Robotics Research,27,10.1177/0278364906076226,United States,Article,Urbana,0,Journal,2-s2.0-33847672344
+Cortés J.,,Robust rendezvous for mobile autonomous agents via proximity graphs in arbitrary dimensions,2006,IEEE Transactions on Automatic Control,518,10.1109/TAC.2006.878713,United States,Article,San Diego,0,Journal,2-s2.0-33747587663
+Olshevsky A.,,Convergence rates in distributed consensus and averaging,2006,Proceedings of the IEEE Conference on Decision and Control,116,10.1109/cdc.2006.376899,United States,Conference Paper,Cambridge,0,Conference Proceeding,2-s2.0-39649096045
+Flocchini P.,,Gathering of asynchronous robots with limited visibility,2005,Theoretical Computer Science,238,10.1016/j.tcs.2005.01.001,Canada,Article,Ottawa,1,Journal,2-s2.0-18444411335
+Smith S.,,A hierarchical cyclic pursuit scheme for vehicle networks,2005,Automatica,86,10.1016/j.automatica.2005.01.001,Canada,Article,Toronto,0,Journal,2-s2.0-17644388441
+Ren W.,,Consensus seeking in multiagent systems under dynamically changing interaction topologies,2005,IEEE Transactions on Automatic Control,4543,10.1109/TAC.2005.846556,United States,Article,College Park,0,Journal,2-s2.0-20344399896
+Moreau L.,,Stability of multiagent systems with time-dependent communication links,2005,IEEE Transactions on Automatic Control,2061,10.1109/TAC.2004.841888,Belgium,Article,Ghent,0,Journal,2-s2.0-12944293796
+Sharma V.,,Time complexity of sensor-based vehicle routing,2005,Robotics: Science and Systems,12,,United States,Conference Paper,Urbana,0,Conference Proceeding,2-s2.0-33847202408
+Klavins E.,,Communication complexity of multi-robot systems,2004,Springer Tracts in Advanced Robotics,37,10.1007/978-3-540-45058-0_17,United States,Conference Paper,Pasadena,0,Book Series,2-s2.0-84864698048
+Marshall J.,,Formations of vehicles in cyclic pursuit,2004,IEEE Transactions on Automatic Control,501,10.1109/TAC.2004.837589,Canada,Article,Toronto,0,Journal,2-s2.0-9744283567
+Olfati-Saber R.,,Consensus problems in networks of agents with switching topology and time-delays,2004,IEEE Transactions on Automatic Control,8298,10.1109/TAC.2004.834113,United States,Article,Pasadena,0,Journal,2-s2.0-4644244041
+Cortés J.,,Coverage control for mobile sensing networks,2004,IEEE Transactions on Robotics and Automation,1602,10.1109/TRA.2004.824698,United States,Article,Urbana,0,Journal,2-s2.0-11144354539
+Klavins E.,,Distributed Algorithms for Cooperative Control,2004,IEEE Pervasive Computing,31,10.1109/MPRV.2004.1269132,United States,Review,Seattle,0,Journal,2-s2.0-2342635741
+Lin J.,,The multi-agent rendezvous problem - The asynchronous case,2004,Proceedings of the IEEE Conference on Decision and Control,79,10.1109/cdc.2004.1430329,United States,Conference Paper,New Haven,0,Conference Proceeding,2-s2.0-14344251954
+Lynch N.,,Hybrid I/O automata,2003,Information and Computation,262,10.1016/S0890-5401(03)00067-1,United States,Article,Cambridge,1,Journal,2-s2.0-0041513356
+Lygeros J.,,Dynamical properties of hybrid automata,2003,IEEE Transactions on Automatic Control,561,10.1109/TAC.2002.806650,United Kingdom,Article,Cambridge,0,Journal,2-s2.0-0037252690
+Arai T.,,Guest editorial advances in multirobot systems,2002,IEEE Transactions on Robotics and Automation,381,10.1109/TRA.2002.806024,Japan,Review,Tokyo,0,Journal,2-s2.0-0036817725
+Santoro N.,,Distributed computations by autonomous mobile robots,2001,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),8,10.1007/3-540-45627-9_9,Canada,Conference Paper,Ottawa,0,Book Series,2-s2.0-84943227562
+Kumar P.,,New Technological Vistas for Systems and Control: The example of Wireless Networks,2001,IEEE Control Systems,61,10.1109/37.898790,United States,Article,Urbana,0,Journal,2-s2.0-0034819235
+Gupta P.,,The capacity of wireless networks,2000,IEEE Transactions on Information Theory,6453,10.1109/18.825799,United States,Article,Urbana,0,Journal,2-s2.0-33747142749
+Suzuki I.,,Distributed anonymous mobile robots: formation of geometric patterns,1999,SIAM Journal on Computing,511,10.1137/S009753979628292X,United States,Article,Milwaukee,0,Journal,2-s2.0-0032681092
+Cao Y.,,Cooperative Mobile Robotics: Antecedents and Directions,1997,Autonomous Robots,847,10.1023/A:1008855018923,United States;United States;China,Article,Los Angeles;Louisville;Hangzhou,0,Journal,2-s2.0-0030674885
+Landau H.,,Bounds for eigenvalues of certain stochastic matrices,1981,Linear Algebra and Its Applications,58,10.1016/0024-3795(81)90003-3,United States,Article,Murray,1,Journal,2-s2.0-0039942204

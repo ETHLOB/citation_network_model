@@ -1,0 +1,16 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Yang B.,,Community mining from signed social networks,2007,IEEE Transactions on Knowledge and Data Engineering,282,10.1109/TKDE.2007.1061,China,Article,Changchun,0,Journal,2-s2.0-34648844186
+Liu J.,,Autonomy-oriented computing (AOC): Formulating computational systems with autonomous components,2005,"IEEE Transactions on Systems, Man, and Cybernetics Part A:Systems and Humans",49,10.1109/TSMCA.2005.851293,Hong Kong,Review,,0,Journal,2-s2.0-27744565370
+Bae K.,,Autonomous clustering scheme for wireless sensor networks using coverage estimation-based self-pruning,2005,IEICE Transactions on Communications,28,10.1093/ietcom/e88-b.3.973,South Korea,Article,Yusong,0,Journal,2-s2.0-24144443267
+Newman M.E.J.,,Fast algorithm for detecting community structure in networks,2004,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",2954,10.1103/PhysRevE.69.066133,United States,Article,Ann Arbor,0,Journal,2-s2.0-42749100809
+Wilkinson D.,,A method for finding communities of related genes,2004,Proceedings of the National Academy of Sciences of the United States of America,165,10.1073/pnas.0307740100,United States,Article,Palo Alto,1,Journal,2-s2.0-1842738363
+Radicchi F.,,Defining and identifying communities in networks,2004,Proceedings of the National Academy of Sciences of the United States of America,1536,10.1073/pnas.0400054101,Italy,Article,Rome,1,Journal,2-s2.0-1542357701
+Wu F.,,Finding communities in linear time: A physics approach,2004,European Physical Journal B,357,10.1140/epjb/e2004-00125-x,United States,Conference Paper,Palo Alto,0,Journal,2-s2.0-2942619068
+Newman M.,,Detecting community structure in networks,2004,European Physical Journal B,1360,10.1140/epjb/e2004-00124-y,United States,Conference Paper,Ann Arbor,0,Journal,2-s2.0-2942564706
+Newman M.E.J.,,Finding and evaluating community structure in networks,2004,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",7687,10.1103/PhysRevE.69.026113,United States;United States,Article,Santa Fe;Ann Arbor,0,Journal,2-s2.0-37649028224
+Lusseau D.,,The emergent properties of a dolphin social network,2003,Proceedings of the Royal Society B: Biological Sciences,531,10.1098/rsbl.2003.0057,New Zealand,Article,Dunedin,0,Journal,2-s2.0-0242490500
+Girvan M.,,Community structure in social and biological networks,2002,Proceedings of the National Academy of Sciences of the United States of America,8662,10.1073/pnas.122653799,United States;United States,Article,Santa Fe;Ithaca,1,Journal,2-s2.0-0037062448
+Flake G.W.,,Self-organization and identification of web communities,2002,Computer,734,10.1109/2.989932,United States,Article,Princeton,0,Trade Journal,2-s2.0-0036497195
+Shi J.,,Normalized cuts and image segmentation,2000,IEEE Transactions on Pattern Analysis and Machine Intelligence,9931,10.1109/34.868688,United States,Article,Pittsburgh,0,Journal,2-s2.0-0034244751
+Kleinberg J.M.,,Authoritative sources in a hyperlinked environment,1999,Journal of the ACM,5010,10.1145/324133.324140,United States,Article,Ithaca,0,Journal,2-s2.0-4243148480
+Kernighan B.,,An Efficient Heuristic Procedure for Partitioning Graphs,1970,Bell System Technical Journal,3149,10.1002/j.1538-7305.1970.tb01770.x,,Article,,0,Journal,2-s2.0-84990479742

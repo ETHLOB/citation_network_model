@@ -1,0 +1,17 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Zhao Q.,,A Study of System Splitting Strategies for Island Operation of Power System: A Two-Phase Method Based on OBDDs,2003,IEEE Transactions on Power Systems,169,10.1109/TPWRS.2003.818747,China,Article,Beijing,0,Journal,2-s2.0-0345258402
+Archer B.,,System islanding considerations for improving power system restoration at Manitoba Hydro,2002,Canadian Conference on Electrical and Computer Engineering,36,,Canada,Conference Paper,Winnipeg,0,Conference Proceeding,2-s2.0-0036068696
+Mateu-Villarroya P.,,Lossless image compression using ordered binary-decision diagrams,2001,Electronics Letters,10,10.1049/el:20010094,Spain,Article,Valencia,0,Journal,2-s2.0-0034818387
+Tsai M.,,Development of islanding early warning mechanism for power systems,2000,Proceedings of the IEEE Power Engineering Society Transmission and Distribution Conference,20,,Taiwan,Conference Paper,Taipei,0,Conference Proceeding,2-s2.0-0012127399
+Thaden M.,,Analysis of a major load island outage on the potomac electric power company system,1999,IEEE Transactions on Power Systems,12,10.1109/59.744548,United States,Article,"Washington, D.C.",0,Journal,2-s2.0-0033080278
+Raman V.,,OBDD extraction from VHDL gate level descriptions at design elaboration,1999,"Proceedings - 1999 Fall VIUF Workshop, VIUF 1999",3,10.1109/VIUF.1999.801974,United States,Conference Paper,Mountain View,0,Conference Proceeding,2-s2.0-85039926850
+Rajamani K.,,Islanding and load shedding schemes for captive power plants,1999,IEEE Transactions on Power Delivery,39,10.1109/61.772318,United States,Article,Schenectady,0,Journal,2-s2.0-0032668349
+Vittal V.,,Determination of generator groupings for an islanding scheme in the manitoba hydro system using the method of normal forms,1998,IEEE Transactions on Power Systems,50,10.1109/59.736275,Hong Kong;United States,Article,Pokfulam;Ames,0,Journal,2-s2.0-0032205955
+Sancha J.,,Application of long-term simulation programs for analysis of system islanding,1997,IEEE Transactions on Power Systems,13,10.1109/59.574939,,Article,,0,Journal,2-s2.0-0031077882
+Thapar J.,,Application of the normal form of vector fields to predict interarea separation in power systems,1997,IEEE Transactions on Power Systems,123,10.1109/59.589716,United States,Article,Ames,0,Journal,2-s2.0-0031143249
+Yeh F.,,OBDD-based network reliability calculation,1997,Electronics Letters,12,10.1049/el:19970549,Taiwan,Article,Taipei,0,Journal,2-s2.0-0031123823
+Taylor C.,,Recording and analyzing the July 2 cascading outage,1997,IEEE Computer Applications in Power,116,10.1109/67.560830,United States,Article,Portland,0,Journal,2-s2.0-0030836215
+Ross H.,,An AGC Implementation for System 1 Slanding and Restoration Conditions,1994,IEEE Transactions on Power Systems,23,10.1109/59.336124,United States,Article,,0,Journal,2-s2.0-0028482061
+Bryant R.,,Symbolic Boolean Manipulation with Ordered Binary-Decision Diagrams,1992,ACM Computing Surveys (CSUR),1187,10.1145/136035.136043,United States,Article,Pittsburgh,0,Journal,2-s2.0-0026913667
+Burch J.,,Symbolic model checking: 10<sup>20</sup> states and beyond,1990,Proceedings - Symposium on Logic in Computer Science,538,,,Conference Paper,,0,Conference Proceeding,2-s2.0-0025595038
+Bryant R.,,Graph-Based Algorithms for Boolean Function Manipulation,1986,IEEE Transactions on Computers,5208,10.1109/TC.1986.1676819,United States,Article,Pittsburgh,0,Journal,2-s2.0-0022769976

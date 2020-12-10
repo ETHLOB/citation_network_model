@@ -1,0 +1,33 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Pickrell J.,,Understanding mechanisms underlying human gene expression variation with RNA sequencing,2010,Nature,849,10.1038/nature08872,,Article,,0,Journal,2-s2.0-77950460661
+Hiller D.,,Identifiability of isoform deconvolution from junction arrays and RNA-seq,2009,Bioinformatics,43,10.1093/bioinformatics/btp544,United States,Article,Palo Alto,1,Journal,2-s2.0-75949093653
+Sammeth M.,,Complete alternative splicing events are bubbles in splicing graphs,2009,Journal of Computational Biology,25,10.1089/cmb.2009.0108,Spain,Conference Paper,Barcelona,0,Journal,2-s2.0-70349208979
+Li H.,,The Sequence Alignment/Map format and SAMtools,2009,Bioinformatics,19680,10.1093/bioinformatics/btp352,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-68549104404
+Zhang K.,,Digital RNA allelotyping reveals tissue-specific and allele-specific gene expression in human,2009,Nature Methods,128,10.1038/nmeth.1357,United States,Article,San Diego,0,Journal,2-s2.0-68349089152
+Zheng S.,,A hierarchical Bayesian model for comparing transcriptomes at the individual transcript isoform level,2009,Nucleic Acids Research,39,10.1093/nar/gkp282,United States,Article,Los Angeles,1,Journal,2-s2.0-67249136028
+Oshlack A.,,Transcript length bias in RNA-seq data confounds systems biology,2009,Biology Direct,293,10.1186/1745-6150-4-14,Australia,Article,Melbourne,1,Journal,2-s2.0-65649126066
+Maher C.A.,,Transcriptome sequencing to detect gene fusions in cancer,2009,Nature,618,10.1038/nature07638,United States,Article,Ann Arbor,0,Journal,2-s2.0-62049085786
+Hubbard T.J.P.,,Ensembl 2009,2009,Nucleic Acids Research,647,10.1093/nar/gkn828,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-58149185123
+Verlaan D.,,Targeted screening of cis-regulatory variation in human haplotypes,2009,Genome Research,64,10.1101/gr.084798.108,Canada;Canada,Article,Montreal;Montreal,1,Journal,2-s2.0-61449218868
+Wang Z.,,RNA-Seq: A revolutionary tool for transcriptomics,2009,Nature Reviews Genetics,6719,10.1038/nrg2484,United States,Review,New Haven,0,Journal,2-s2.0-57749195712
+'t Hoen P.,,"Deep sequencing-based expression analysis shows major advances in robustness, resolution and inter-lab portability over five microarray platforms",2008,Nucleic Acids Research,575,10.1093/nar/gkn705,Netherlands,Article,Leiden,1,Journal,2-s2.0-57149085481
+Pan Q.,,Deep surveying of alternative splicing complexity in the human transcriptome by high-throughput sequencing,2008,Nature Genetics,2071,10.1038/ng.259,Canada,Article,Toronto,0,Journal,2-s2.0-56749098074
+Wang E.T.,,Alternative isoform regulation in human tissue transcriptomes,2008,Nature,2953,10.1038/nature07509,United States;United States,Article,Cambridge;Cambridge,0,Journal,2-s2.0-56549101959
+Li H.,,Mapping short DNA sequencing reads and calling variants using mapping quality scores,2008,Genome Research,1880,10.1101/gr.078212.108,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-55549097836
+Veyrieras J.,,High-resolution mapping of expression-QTLs yields insight into human gene regulation,2008,PLoS Genetics,400,10.1371/journal.pgen.1000214,United States,Article,Chicago,1,Journal,2-s2.0-55449112450
+Marioni J.,,RNA-seq: An assessment of technical reproducibility and comparison with gene expression arrays,2008,Genome Research,1877,10.1101/gr.079558.108,United States,Article,Chicago,1,Journal,2-s2.0-50649089207
+Sultan M.,,A global view of gene activity and alternative splicing by deep sequencing of the human transcriptome,2008,Science,914,10.1126/science.1160342,Germany,Article,Berlin,0,Journal,2-s2.0-47649124124
+Cloonan N.,,Stem cell transcriptome profiling via massive-scale mRNA sequencing,2008,Nature Methods,743,10.1038/nmeth.1223,Australia,Article,Brisbane,0,Journal,2-s2.0-46249103973
+Mortazavi A.,,Mapping and quantifying mammalian transcriptomes by RNA-Seq,2008,Nature Methods,8299,10.1038/nmeth.1226,United States,Article,Pasadena,0,Journal,2-s2.0-46249106990
+Wilhelm B.,,Dynamic repertoire of a eukaryotic transcriptome surveyed at single-nucleotide resolution,2008,Nature,728,10.1038/nature07002,Canada;United Kingdom,Article,Montreal;Hinxton,0,Journal,2-s2.0-46249096804
+Emilsson V.,,Genetics of gene expression and its effect on disease,2008,Nature,922,10.1038/nature06758,Iceland;United States,Article,Reykjavik;Seattle,0,Journal,2-s2.0-41349095280
+Frazer K.A.,,A second generation human haplotype map of over 3.1 million SNPs,2007,Nature,3273,10.1038/nature06258,United States,Article,San Diego,0,Journal,2-s2.0-35348983887
+Göring H.,,Discovery of expression QTLs using large-scale transcriptional profiling in human lymphocytes,2007,Nature Genetics,408,10.1038/ng2119,United States,Article,San Antonio,0,Journal,2-s2.0-34548719076
+Stranger B.,,Population genomics of human gene expression,2007,Nature Genetics,848,10.1038/ng2142,United Kingdom,Article,Hinxton,0,Journal,2-s2.0-34548738566
+Moffatt M.F.,,Genetic variants regulating ORMDL3 expression contribute to the risk of childhood asthma,2007,Nature,1079,10.1038/nature06014,United Kingdom,Article,London,0,Journal,2-s2.0-34547216747
+Marchini J.,,A new multipoint method for genome-wide association studies by imputation of genotypes,2007,Nature Genetics,1749,10.1038/ng2088,United Kingdom,Article,Oxford,0,Journal,2-s2.0-34347344976
+Stranger B.,,Relative impact of nucleotide and copy number variation on gene phenotypes,2007,Science,1227,10.1126/science.1136678,United Kingdom,Article,Hinxton,0,Journal,2-s2.0-33846978695
+Stranger B.,,Genome-wide associations of gene expression variation in humans,2005,PLoS Genetics,408,10.1371/journal.pgen.0010078,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-55449112185
+Pastinen T.,,Cis-acting regulatory variation in the human genome,2004,Science,203,10.1126/science.1101659,Canada,Review,Montreal,0,Journal,2-s2.0-7444235907
+Morloy M.,,Genetic analysis of genome-wide variation in human gene expression,2004,Nature,919,10.1038/nature02797,United States;United States,Article,Philadelphia;Philadelphia,0,Journal,2-s2.0-4043128071
+Sabatti C.,,Homozygosity and linkage disequilibrium,2002,Genetics,54,,United States,Article,Los Angeles,0,Journal,2-s2.0-0036240964

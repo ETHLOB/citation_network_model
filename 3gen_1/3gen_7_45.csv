@@ -1,0 +1,15 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Titsias M.,,Efficient sampling for Gaussian process inference using control variables,2009,Advances in Neural Information Processing Systems 21 - Proceedings of the 2008 Conference,20,,United Kingdom,Conference Paper,Manchester,0,Conference Proceeding,2-s2.0-83855162680
+Titsias M.,,Variational learning of inducing variables in sparse Gaussian processes,2009,Journal of Machine Learning Research,263,,United Kingdom,Conference Paper,Manchester,0,Journal,2-s2.0-84860609370
+Geiger A.,,Rank priors for continuous non-linear dimensionality reduction,2009,"2009 IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops, CVPR Workshops 2009",26,10.1109/CVPRW.2009.5206672,Germany,Conference Paper,Karlsruhe,0,Conference Proceeding,2-s2.0-70450208076
+Lawrence N.,,Learning for larger datasets with the Gaussian process latent variable model,2007,Journal of Machine Learning Research,27,,United Kingdom,Conference Paper,Manchester,0,Journal,2-s2.0-84862289690
+Lawrence N.D.,,Hierarchical Gaussian process latent variable models,2007,ACM International Conference Proceeding Series,81,10.1145/1273496.1273557,United Kingdom,Conference Paper,Manchester,0,Conference Proceeding,2-s2.0-34547977917
+Quiñonero-Candela J.,,A unifying view of sparse approximate Gaussian process regression,2005,Journal of Machine Learning Research,783,,Germany,Article,Tubingen,0,Journal,2-s2.0-29144453489
+Lawrence N.,,Probabilistic non-linear principal component analysis with Gaussian process latent variable models,2005,Journal of Machine Learning Research,558,,United Kingdom,Article,Sheffield,0,Journal,2-s2.0-27844605876
+Lawrence N.,,Gaussian process latent variable models for visualisation of high dimensional data,2004,Advances in Neural Information Processing Systems,371,,United Kingdom,Conference Paper,Sheffield,0,Conference Proceeding,2-s2.0-84898980901
+Csató L.,,Sparse on-line gaussian processes,2002,Neural Computation,430,10.1162/089976602317250933,United Kingdom,Article,Birmingham,0,Journal,2-s2.0-0038891993
+Minka T.,,Automatic choice of dimensionality for PCA,2001,Advances in Neural Information Processing Systems,117,,United States,Conference Paper,Cambridge,0,Conference Proceeding,2-s2.0-84899022480
+Ghahramani Z.,,Variational inference for Bayesian mixtures of factor analysers,2000,Advances in Neural Information Processing Systems,231,,United Kingdom,Conference Paper,London,0,Conference Proceeding,2-s2.0-84898934543
+Bishop C.M.,,Variational principal components,1999,IEE Conference Publication,163,10.1049/cp:19991160,United Kingdom,Conference Paper,Cambridge,0,Conference Proceeding,2-s2.0-0033349607
+Bishop C.,,Bayesian PCA,1999,Advances in Neural Information Processing Systems,177,,United Kingdom,Conference Paper,Cambridge,0,Conference Proceeding,2-s2.0-78651329401
+Bishop C.,,Analysis of multiphase flows using dual-energy gamma densitometry and neural networks,1993,"Nuclear Inst. and Methods in Physics Research, A",71,10.1016/0168-9002(93)90728-Z,United Kingdom,Article,,0,Journal,2-s2.0-0027574219

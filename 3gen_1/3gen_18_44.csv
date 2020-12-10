@@ -1,0 +1,15 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Chen G.,,Evaluation and comparison of clustering algorithms in analyzing ES cell gene expression data,2002,Statistica Sinica,135,,United States,Article,Cold Spring Harbor,0,Journal,2-s2.0-0036012375
+McLachlan G.,,A mixture model-based approach to the clustering of microarray expression data,2002,Bioinformatics,388,10.1093/bioinformatics/18.3.413,Australia,Article,Brisbane,1,Journal,2-s2.0-0036203115
+Quackenbush J.,,Computational analysis of microarray data,2001,Nature Reviews Genetics,1119,10.1038/35076576,United States,Review,Rockville,0,Journal,2-s2.0-0035375137
+Kerr M.,,Bootstrapping cluster analysis: Assessing the reliability of conclusions from microarray experiments,2001,Proceedings of the National Academy of Sciences of the United States of America,342,10.1073/pnas.161273698,United States,Article,Bar Harbor,1,Journal,2-s2.0-0035979259
+Datta S.,,Exploring relationships in gene expressions: A partial least squares approach,2001,Gene Expression,39,10.3727/000000001783992498,United States,Article,Atlanta,0,Journal,2-s2.0-0035184506
+Yeung K.,,Validating clustering for gene expression data,2001,Bioinformatics,494,10.1093/bioinformatics/17.4.309,United States,Article,Seattle,1,Journal,2-s2.0-0035024021
+Waddell P.,,Cluster inference methods and graphical models evaluated on NCI60 microarray gene expression data.,2000,Genome informatics. Workshop on Genome Informatics,37,,Japan,Article,Chuo-ku,0,Journal,2-s2.0-0034575477
+Eisen M.,,Cluster analysis and display of genome-wide expression patterns,1998,Proceedings of the National Academy of Sciences of the United States of America,12573,10.1073/pnas.95.25.14863,United States,Article,Stanford,0,Journal,2-s2.0-0032441150
+Roth F.P.,,Finding DNA regulatory motifs within unaligned noncoding sequences clustered by whole-genome mRNA quantitation,1998,Nature Biotechnology,741,10.1038/nbt1098-939,United States;United States;United States,Article,Cambridge;Boston;Cambridge,0,Journal,2-s2.0-0031787969
+Chu S.,,The transcriptional program of sporulation in budding yeast,1998,Science,1448,10.1126/science.282.5389.699,United States,Article,San Francisco,0,Journal,2-s2.0-0032561246
+Cho R.,,A genome-wide transcriptional analysis of the mitotic cell cycle,1998,Molecular Cell,1661,10.1016/S1097-2765(00)80114-8,United States,Article,Stanford,1,Journal,2-s2.0-0032112293
+Spellman P.,,Comprehensive identification of cell cycle-regulated genes of the yeast Saccharomyces cerevisiae by microarray hybridization,1998,Molecular Biology of the Cell,3724,10.1091/mbc.9.12.3273,United States,Article,Stanford,0,Journal,2-s2.0-0031742022
+DeRisi J.,,Exploring the metabolic and genetic control of gene expression on a genomic scale,1997,Science,3571,10.1126/science.278.5338.680,United States,Article,Stanford,0,Journal,2-s2.0-0030669030
+Banfield J.,,Model-based Gaussian and non-Gaussian clustering,1993,Biometrics,1301,10.2307/2532201,United States,Review,Bozeman,0,Journal,2-s2.0-0027453616

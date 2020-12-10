@@ -1,0 +1,10 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Sudhalkar A.,,Continuous skeletons of discrete objects,1993,,15,10.1145/164360.164393,United States,Conference Paper,Pittsburgh,0,Conference Proceeding,2-s2.0-0027879523
+Nebi Gürsoy H.,,An automatic coarse and fine surface mesh generation scheme based on medial axis transform: Part i algorithms,1992,Engineering with Computers,69,10.1007/BF01200364,United States,Article,Madison,0,Journal,2-s2.0-0026882917
+Yu X.,,Constructing 3-D discrete medial axis,1991,"Proceedings of the 1st ACM Symposium on Solid Modeling Foundations and CAD/CAM Applications, SMA 1991",14,10.1145/112515.112582,United States;Canada,Conference Paper,San Diego;Ottawa,0,Conference Proceeding,2-s2.0-84921202745
+Tam T.,,2D finite element mesh generation by medial axis subdivision,1991,Advances in Engineering Software and Workstations,119,10.1016/0961-3552(91)90035-3,United Kingdom,Article,Belfast,0,Journal,2-s2.0-0026224560
+Dobkin D.,,Primitives for the manipulation of three-dimensional subdivisions,1989,Algorithmica,77,10.1007/BF01553877,United States,Article,Princeton,0,Journal,2-s2.0-0024776810
+Kong T.,,Digital topology: Introduction and survey,1989,"Computer Vision, Graphics and Image Processing",815,10.1016/0734-189X(89)90147-3,United States,Short Survey,Athens,0,Journal,2-s2.0-0024856991
+Rosenfeld A.,,Axial representations of shape,1986,"Computer Vision, Graphics and Image Processing",80,10.1016/0734-189X(86)90113-1,United States,Article,College Park,0,Journal,2-s2.0-0022661876
+Lee D.,,Medial Axis Transformation of a Planar Shape,1982,IEEE Transactions on Pattern Analysis and Machine Intelligence,349,10.1109/TPAMI.1982.4767267,United States,Article,Evanston,0,Journal,2-s2.0-0020152763
+Requicha A.,,"Representations for Rigid Solids: Theory, Methods, and Systems",1980,ACM Computing Surveys (CSUR),869,10.1145/356827.356833,United States,Article,Rochester,0,Journal,2-s2.0-0019284740

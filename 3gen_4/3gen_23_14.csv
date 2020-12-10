@@ -1,0 +1,16 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Ren W.,,Collective Group Behavior Through Local Interaction,2007,IEEE Control Systems,2225,10.1109/MCS.2007.338264,,Article,,0,Journal,2-s2.0-34147163355
+Olfati-Saber R.,,Consensus and cooperation in networked multi-agent systems,2007,Proceedings of the IEEE,6417,10.1109/JPROC.2006.887293,United States,Article,Hanover,0,Journal,2-s2.0-64149119332
+Bauso D.,,Non-linear protocols for optimal distributed consensus in networks of dynamic agents,2006,Systems and Control Letters,197,10.1016/j.sysconle.2006.06.005,Italy,Article,Palermo,0,Journal,2-s2.0-33748420028
+Cortés J.,,Finite-time convergent gradient flows with applications to network consensus,2006,Automatica,542,10.1016/j.automatica.2006.06.015,United States,Article,Santa Cruz,0,Journal,2-s2.0-33748930431
+Cortés J.,,Robust rendezvous for mobile autonomous agents via proximity graphs in arbitrary dimensions,2006,IEEE Transactions on Automatic Control,518,10.1109/TAC.2006.878713,United States,Article,San Diego,0,Journal,2-s2.0-33747587663
+Olfati-Saber R.,,Flocking for multi-agent dynamic systems: Algorithms and theory,2006,IEEE Transactions on Automatic Control,3296,10.1109/TAC.2005.864190,United States,Article,Hanover,0,Journal,2-s2.0-33644997478
+Ren W.,,Consensus seeking in multiagent systems under dynamically changing interaction topologies,2005,IEEE Transactions on Automatic Control,4543,10.1109/TAC.2005.846556,United States,Article,College Park,0,Journal,2-s2.0-20344399896
+Moreau L.,,Stability of multiagent systems with time-dependent communication links,2005,IEEE Transactions on Automatic Control,2061,10.1109/TAC.2004.841888,Belgium,Article,Ghent,0,Journal,2-s2.0-12944293796
+Xiao L.,,Fast linear iterations for distributed averaging,2004,Systems and Control Letters,1642,10.1016/j.sysconle.2004.02.022,United States,Article,Palo Alto,0,Journal,2-s2.0-3142770678
+Olfati-Saber R.,,Consensus problems in networks of agents with switching topology and time-delays,2004,IEEE Transactions on Automatic Control,8298,10.1109/TAC.2004.834113,United States,Article,Pasadena,0,Journal,2-s2.0-4644244041
+Lin Z.,,Local control strategies for groups of mobile autonomous agents,2004,IEEE Transactions on Automatic Control,671,10.1109/TAC.2004.825639,Canada,Article,Toronto,0,Journal,2-s2.0-2442428325
+Jadbabaie A.,,Coordination of groups of mobile autonomous agents using nearest neighbor rules,2003,IEEE Transactions on Automatic Control,6057,10.1109/TAC.2003.812781,United States;United States,Article,Philadelphia;New Haven,0,Journal,2-s2.0-0038548185
+Ando H.,,Distributed memoryless point convergence algorithm for mobile robots with limited visibility,1999,IEEE Transactions on Robotics and Automation,379,10.1109/70.795787,Japan,Article,,0,Journal,2-s2.0-0033338881
+Bacciotti A.,,Stability and stabilization of discontinuous systems and nonsmooth lyapunov functions,1999,"ESAIM - Control, Optimisation and Calculus of Variations",243,10.1051/cocv:1999113,Italy,Article,Turin,1,Journal,2-s2.0-0033276564
+HOOI-TONG L ,,ON A CLASS OF DIRECTED GRAPHS-WITH AN APPLICATION TO TRAFFIC- FLOW PROBLEMS,Jan-Feb,Operations Research,23,10.1287/opre.18.1.87,,Article,,0,Journal,2-s2.0-0014700694

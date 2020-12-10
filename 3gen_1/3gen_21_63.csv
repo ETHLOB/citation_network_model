@@ -1,0 +1,7 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Erhan D.,,Why does unsupervised pre-training help deep learning?,2010,Journal of Machine Learning Research,1245,,Canada,Article,Montreal,0,Journal,2-s2.0-77949522811
+Mizutani E.,,Second-order stagewise backpropagation for Hessian-matrix analyses and investigation of negative curvature,2008,Neural Networks,16,10.1016/j.neunet.2007.12.038,Taiwan,Article,Taipei,0,Journal,2-s2.0-40649087581
+Bengio Y.,,Greedy layer-wise training of deep networks,2007,Advances in Neural Information Processing Systems,2736,,Canada,Conference Paper,Montreal,0,Conference Proceeding,2-s2.0-84864073449
+Hinton G.,,Reducing the dimensionality of data with neural networks,2006,Science,8836,10.1126/science.1127647,Canada,Article,Toronto,0,Journal,2-s2.0-33746600649
+Schraudolph N.,,Fast curvature Matrix-Vector products for second-order gradient descent,2002,Neural Computation,129,10.1162/08997660260028683,Switzerland;Switzerland,Article,"Zurich ZH,;Manno",0,Journal,2-s2.0-0036631778
+Amari S.I.,,Adaptive method of realizing natural gradient learning for multilayer perceptrons,2000,Neural Computation,128,10.1162/089976600300015420,Japan,Article,Wako,0,Journal,2-s2.0-0034201611

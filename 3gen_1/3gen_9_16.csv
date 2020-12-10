@@ -1,0 +1,21 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Kadri H.,,Nonlinear functional regression: A functional RKHS approach,2010,Journal of Machine Learning Research,12,,France,Conference Paper,Le Chesnay,0,Journal,2-s2.0-80053442119
+Kashima H.,,Link propagation: A fast semi-supervised learning algorithm for link prediction,2009,"Society for Industrial and Applied Mathematics - 9th SIAM International Conference on Data Mining 2009, Proceedings in Applied Mathematics",54,,United States,Conference Paper,Yorktown Heights,0,Conference Proceeding,2-s2.0-73449109177
+Miller K.T.,,Nonparametric latent feature models for link prediction,2009,Advances in Neural Information Processing Systems 22 - Proceedings of the 2009 Conference,256,,United States,Conference Paper,Berkeley,0,Conference Proceeding,2-s2.0-79951739147
+Caponnetto A.,,Universal multi-task Kernels,2008,Journal of Machine Learning Research,81,,Hong Kong,Article,Kowloon,0,Journal,2-s2.0-48849098893
+Globerson A.,,Euclidean embedding of co-occurrence data,2007,Journal of Machine Learning Research,119,,United States,Article,Cambridge,0,Journal,2-s2.0-35748975681
+Bleakley K.,,Supervised reconstruction of biological networks with local models,2007,Bioinformatics,70,10.1093/bioinformatics/btm204,France,Conference Paper,Montpellier,1,Journal,2-s2.0-34547844158
+Geurts P.,,Inferring biological networks with output kernel trees,2007,BMC Bioinformatics,25,10.1186/1471-2105-8-S2-S4,France;Belgium,Article,Evry;Liege,1,Journal,2-s2.0-34249855548
+Liben-Nowell D.,,The link-prediction problem for social networks,2007,Journal of the American Society for Information Science and Technology,2147,10.1002/asi.20591,United States,Article,Northfield,0,Journal,2-s2.0-34249751638
+Geurts P.,,Kernelizing the output of tree-based methods,2006,ACM International Conference Proceeding Series,9,10.1145/1143844.1143888,France;Belgium,Conference Paper,Evry;Liege,0,Conference Proceeding,2-s2.0-34250755480
+Belkin M.,,Manifold regularization: A geometric framework for learning from labeled and unlabeled examples,2006,Journal of Machine Learning Research,2537,,United States,Article,Columbus,0,Journal,2-s2.0-33750729556
+Cortes C.,,A general regression technique for learning transductions,2005,ICML 2005 - Proceedings of the 22nd International Conference on Machine Learning,56,10.1145/1102351.1102371,United States,Conference Paper,Mountain View,0,Conference Proceeding,2-s2.0-31844441189
+Ben-Hur A.,,Kernel methods for predicting protein-protein interactions,2005,Bioinformatics,383,10.1093/bioinformatics/bti1016,United States,Article,Seattle,1,Journal,2-s2.0-24744435534
+Kato T.,,Selective integration of multiple biological data for supervised network inference,2005,Bioinformatics,48,10.1093/bioinformatics/bti339,Japan,Article,Tokyo,1,Journal,2-s2.0-19544364324
+Micchelli C.,,On learning vector-valued functions,2005,Neural Computation,265,10.1162/0899766052530802,United States,Article,Albany,0,Journal,2-s2.0-14544299611
+Yamanishi Y.,,Protein network inference from multiple genomic data: A supervised approach,2004,Bioinformatics,139,10.1093/bioinformatics/bth910,Japan,Conference Paper,Kyoto,0,Journal,2-s2.0-19544389868
+Belkin M.,,Semi-supervised learning on riemannian manifolds,2004,Machine Learning,512,10.1023/B:MACH.0000033120.25363.1e,United States,Article,Chicago,1,Journal,2-s2.0-3142725535
+Tsuda K.,,The em algorithm for kernel matrix completion with auxiliary data,2004,Journal of Machine Learning Research,50,10.1162/153244304322765649,Japan;Germany,Article,Tokyo;Tubingen,0,Journal,2-s2.0-2342585524
+Zhou D.,,Learning with local and global consistency,2004,Advances in Neural Information Processing Systems,1972,,Germany,Conference Paper,Tubingen,0,Conference Proceeding,2-s2.0-84899006908
+Huynen M.,,Function prediction and protein networks,2003,Current Opinion in Cell Biology,113,10.1016/S0955-0674(03)00009-7,Netherlands,Review,Nijmegen,0,Journal,2-s2.0-0037377181
+Senkene E.,,Hilbert spaces of operator-valued functions,1973,Mathematical Transactions of the Academy of Sciences of the Lithuanian SSR,12,10.1007/BF01630739,,Article,,0,Journal,2-s2.0-34250422534

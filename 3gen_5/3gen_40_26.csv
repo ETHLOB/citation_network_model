@@ -1,0 +1,11 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+O'Brien K.,,OrthoDisease: A database of human disease orthologs,2004,Human Mutation,51,10.1002/humu.20068,Sweden,Article,Stockholm,0,Journal,2-s2.0-3442889367
+Birney E.,,Ensembl 2004,2004,Nucleic Acids Research,139,,United Kingdom,Article,Cambridge,0,Journal,2-s2.0-9144259164
+Apweiler R.,,UniProt: The universal protein knowledgebase,2004,Nucleic Acids Research,1873,,United Kingdom,Article,Cambridge,0,Journal,2-s2.0-9144232912
+Yuan Q.,,The TIGR rice genome annotation resource: Annotating the rice genome and creating resources for plant biologists,2003,Nucleic Acids Research,119,10.1093/nar/gkg059,United States,Review,Rockville,1,Journal,2-s2.0-0037250149
+Boeckmann B.,,The SWISS-PROT protein knowledgebase and its supplement TrEMBL in 2003,2003,Nucleic Acids Research,2392,10.1093/nar/gkg095,Switzerland,Review,Geneva,1,Journal,2-s2.0-0037255072
+Sonnhammer E.,,"Orthology, paralogy and proposed classification for paralog subtypes",2002,Trends in Genetics,248,10.1016/S0168-9525(02)02793-2,Sweden,Letter,Stockholm,0,Journal,2-s2.0-0036889686
+Stajich J.E.,,The Bioperl toolkit: Perl modules for the life sciences,2002,Genome Research,1169,10.1101/gr.361602,United States;United States,Article,San Diego;Durham,1,Journal,2-s2.0-18644368714
+Gardner M.J.,,Genome sequence of the human malaria parasite Plasmodium falciparum,2002,Nature,3063,10.1038/nature01097,United States,Article,Rockville,1,Journal,2-s2.0-0037015614
+Remm M.,,Automatic clustering of orthologs and in-paralogs from pairwise species comparisons,2001,Journal of Molecular Biology,882,10.1006/jmbi.2000.5197,Estonia;Sweden,Article,Tartu;Stockholm,0,Journal,2-s2.0-0035861990
+Altschul S.,,Gapped BLAST and PSI-BLAST: A new generation of protein database search programs,1997,Nucleic Acids Research,54811,10.1093/nar/25.17.3389,United States,Review,Bethesda,1,Journal,2-s2.0-0030801002

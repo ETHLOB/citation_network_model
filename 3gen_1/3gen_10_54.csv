@@ -1,0 +1,28 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Yu H.,,Genomic analysis of the hierarchical structure of regulatory networks,2006,Proceedings of the National Academy of Sciences of the United States of America,223,10.1073/pnas.0508637103,United States,Article,New Haven,1,Journal,2-s2.0-33749514099
+Poelwijk F.,,Evolutionary potential of a duplicated repressor-operator pair: Simulating pathways using mutation data,2006,PLoS Computational Biology,36,10.1371/journal.pcbi.0020058,Netherlands,Article,Amsterdam,1,Journal,2-s2.0-33744942360
+Salgado H.,,The comprehensive updated regulatory network of Escherichia coli K-12,2006,BMC Bioinformatics,45,10.1186/1471-2105-7-5,United States,Article,Menlo Park,1,Journal,2-s2.0-30644465547
+Pál C.,,Adaptive evolution of bacterial metabolic networks by horizontal gene transfer,2005,Nature Genetics,327,10.1038/ng1686,Hungary;Germany,Article,Budapest;Heidelberg,0,Journal,2-s2.0-28444475529
+Lagomarsino M.,,Logic backbone of a transcription network,2005,Physical Review Letters,15,10.1103/PhysRevLett.95.158701,France,Article,Paris,0,Journal,2-s2.0-28844508329
+Dekel E.,,Environmental selection of the feed-forward loop circuit in gene-regulation networks,2005,Physical Biology,78,10.1088/1478-3975/2/2/001,Israel,Article,Rehovot,0,Journal,2-s2.0-22244453103
+Mazurie A.,,An evolutionary and functional assessment of regulatory network motifs.,2005,Genome biology,85,,France,Article,Paris,0,Journal,2-s2.0-28844434073
+Ma H.,,Hierarchical structure and modules in the Escherichia coli transcriptional regulatory network revealed by a new top-down approach,2004,BMC Bioinformatics,126,10.1186/1471-2105-5-199,Germany,Article,Braunschweig,1,Journal,2-s2.0-13244264814
+Charlebois R.,,Computing prokaryotic gene ubiquity: Rescuing the core from extinction,2004,Genome Research,135,10.1101/gr.3024704,Canada,Article,Halifax,1,Journal,2-s2.0-10944248427
+Ma H.,,An extended transcriptional regulatory network of Escherichia coli and analysis of its hierarchical structure and network motifs,2004,Nucleic Acids Research,154,10.1093/nar/gkh1009,Germany,Article,Braunschweig,1,Journal,2-s2.0-13544269611
+Warren P.B.,,Statistical analysis of the spatial distribution of operons in the transcriptional regulation network of Escherichia coli,2004,Journal of Molecular Biology,51,10.1016/j.jmb.2004.07.074,United Kingdom;Netherlands,Article,"London,;Amsterdam",0,Journal,2-s2.0-4444340534
+Harbison C.T.,,Transcriptional regulatory code of a eukaryotic genome,2004,Nature,1640,10.1038/nature02800,United States;United States,Letter,Cambridge;Cambridge,0,Journal,2-s2.0-4544352942
+Babu M.,,Structure and evolution of transcriptional regulatory networks,2004,Current Opinion in Structural Biology,496,10.1016/j.sbi.2004.05.004,United Kingdom,Review,Cambridge,0,Journal,2-s2.0-2942606066
+Teichmann S.,,Gene regulatory network growth by duplication,2004,Nature Genetics,373,10.1038/ng1340,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-2442537233
+Milo R.,,Superfamilies of Evolved and Designed Networks,2004,Science,916,10.1126/science.1089167,Israel,Article,Rehovot,0,Journal,2-s2.0-1542287343
+Wall M.,,Design of gene circuits: Lessons from bacteria,2004,Nature Reviews Genetics,167,10.1038/nrg1244,United States,Review,Los Alamos,0,Journal,2-s2.0-0346728474
+Conant G.,,Convergent evolution of gene circuits,2003,Nature Genetics,140,10.1038/ng1181,United States,Article,Albuquerque,0,Journal,2-s2.0-0037743679
+Atkinson M.,,Development of genetic circuitry exhibiting toggle switch or oscillatory behavior in Escherichia coli,2003,Cell,511,10.1016/S0092-8674(03)00346-5,United States,Article,Ann Arbor,1,Journal,2-s2.0-0038241770
+Babu M.,,Evolution of transcription factors and the gene regulatory network in Escherichia coli,2003,Nucleic Acids Research,228,10.1093/nar/gkg210,United Kingdom,Review,Cambridge,1,Journal,2-s2.0-0037440734
+Lee T.I.,,Transcriptional regulatory networks in Saccharomyces cerevisiae,2002,Science,2264,10.1126/science.1075090,United States,Article,Cambridge,0,Journal,2-s2.0-0037174671
+Schneider T.,,Consensus sequence Zen.,2002,Applied bioinformatics,63,,United States,Review,Frederick,0,Journal,2-s2.0-0344906914
+Rosenfeld N.,,Negative autoregulation speeds the response times of transcription networks,2002,Journal of Molecular Biology,463,10.1016/S0022-2836(02)00994-4,Israel,Article,Rehovot,0,Journal,2-s2.0-0036428761
+Shen-Orr S.S.,,Network motifs in the transcriptional regulation network of Escherichia coli,2002,Nature Genetics,1952,10.1038/ng881,,Article,,0,Journal,2-s2.0-0036578795
+Gough J.,,Assignment of homology to genome sequences using a library of hidden Markov models that represent all proteins of known structure,2001,Journal of Molecular Biology,865,10.1006/jmbi.2001.5080,United Kingdom,Article,London,0,Journal,2-s2.0-0035798406
+Becskel A.,,Engineering stability in gene networks by autoregulation,2000,Nature,1073,10.1038/35014651,Germany,Article,Heidelberg,0,Journal,2-s2.0-0034212551
+Thieffry D.,,From specific gene regulation to genomic networks: A global analysis of transcriptional regulation in Escherichia coli,1998,BioEssays,368,10.1002/(SICI)1521-1878(199805)20:5<433::AID-BIES10>3.0.CO;2-2,Mexico,Review,Cuernavaca,0,Journal,2-s2.0-0032077377
+Thomas R.,,Boolean formalization of genetic control circuits,1973,Journal of Theoretical Biology,546,10.1016/0022-5193(73)90247-6,Belgium,Article,Brussels,0,Journal,2-s2.0-0015823097

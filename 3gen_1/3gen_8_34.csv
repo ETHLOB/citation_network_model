@@ -1,0 +1,33 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Martinetz T.,,A neural network for robot control: Cooperation between neural units as a requirement for learning,1993,Computers and Electrical Engineering,10,10.1016/0045-7906(93)90053-T,United States,Article,Urbana,0,Journal,2-s2.0-0027623435
+Walter J.,,Implementation of Self-Organizing Neural Networks for Visuo-Motor Control of an Industrial Robot,1993,IEEE Transactions on Neural Networks,126,10.1109/72.182698,Germany,Article,Bielefeld,0,Journal,2-s2.0-0027205841
+Martinetz T.,,“Neural-Gas” Network for Vector Quantization and its Application to Time-Series Prediction,1993,IEEE Transactions on Neural Networks,1054,10.1109/72.238311,United States,Article,Urbana,0,Journal,2-s2.0-0027632248
+Bauer H.,,Quantifying the Neighborhood Preservation of Self-Organizing Feature Maps,1992,IEEE Transactions on Neural Networks,228,10.1109/72.143371,Germany,Article,Frankfurt am Main,0,Journal,2-s2.0-0026898892
+Martinetz T.,,Three-Dimensional Neural Net for Learning Visuomotor Coordination of a Robot Arm,1990,IEEE Transactions on Neural Networks,168,10.1109/72.80212,United States,Article,Urbana,0,Journal,2-s2.0-0025399106
+Kangas J.,,Variants of Self-Organizing Maps,1990,IEEE Transactions on Neural Networks,226,10.1109/72.80208,Finland,Article,Espoo,0,Journal,2-s2.0-0025401203
+Durbin R.,,A dimension reduction framework for understanding cortical maps,1990,Nature,261,10.1038/343644a0,United States,Article,Palo Alto,0,Journal,2-s2.0-0025014537
+Kohonen T.,,The Self-Organizing Map,1990,Proceedings of the IEEE,5085,10.1109/5.58325,Finland;Finland,Article,Espoo;Helsinki,0,Journal,2-s2.0-0025489075
+Nasrabadi N.,,Vector quantization of images based upon the Kohonen self-organizing feature maps,1988,,179,,United States,Conference Paper,Worcester,0,Conference Proceeding,2-s2.0-0024123143
+Naylor J.,,Analysis of a neural network algorithm for vector quantization of speech parameters,1988,Neural Networks,26,10.1016/0893-6080(88)90341-3,United States,Article,,0,Journal,2-s2.0-0024178254
+Nasrabadi N.,,Image Coding Using Vector Quantization: A Review,1988,IEEE Transactions on Communications,721,10.1109/26.3776,United States,Article,Worcester,0,Journal,2-s2.0-0024056708
+Knudsen E.,,Computational maps in the brain,1987,Annual Review of Neuroscience,228,,United States,Article,Stanford,0,Journal,2-s2.0-0023161088
+Blasdel G.,,Voltage-sensitive dyes reveal a modular organization in monkey striate cortex,1986,Nature,569,10.1038/321579a0,United States,Article,Pittsburgh,0,Journal,2-s2.0-0022545418
+Kelso S.,,Hebbian synapses in hippocampus,1986,Proceedings of the National Academy of Sciences of the United States of America,350,10.1073/pnas.83.14.5326,United States,Article,Duarte,1,Journal,2-s2.0-0039224215
+Makhoul J.,,Vector Quantization in Speech Coding,1985,Proceedings of the IEEE,533,10.1109/PROC.1985.13340,United States,Article,Cambridge,0,Journal,2-s2.0-0022148098
+Kohonen T.,,PHONOTOPIC MAPS - INSIGHTFUL REPRESENTATION OF PHONOLOGICAL FEATURES FOR SPEECH RECOGNITION.,1984,Proceedings - International Conference on Pattern Recognition,81,,Finland,Conference Paper,Espoo,0,Conference Proceeding,2-s2.0-0021617162
+Gray R.,,Vector Quantization,1984,IEEE ASSP Magazine,1814,10.1109/MASSP.1984.1162229,,Article,,0,Journal,2-s2.0-0021412027
+Kohonen T.,,Analysis of a simple self-organizing process,1982,Biological Cybernetics,260,10.1007/BF00317973,Finland,Article,Espoo,0,Journal,2-s2.0-0019991550
+Kohonen T.,,Self-organized formation of topologically correct feature maps,1982,Biological Cybernetics,5422,10.1007/BF00337288,Finland,Article,Espoo,0,Journal,2-s2.0-0020068152
+Takeuchi A.,,Formation of topographic maps and columnar microstructures in nerve fields,1979,Biological Cybernetics,90,10.1007/BF00337432,Japan,Article,Tokyo,0,Journal,2-s2.0-0018622771
+Suga N.,,Neural axis representing target range in the auditory cortex of the mustache bat,1979,Science,175,10.1126/science.482944,United States,Article,St. Louis,0,Journal,2-s2.0-0018663640
+Kaas J.H.,,Multiple representations of the body within the primary somatosensory cortex of primates,1979,Science,438,10.1126/science.107591,United States,Article,Nashville,0,Journal,2-s2.0-0018759870
+Von Der Malsburg C.,,How to label nerve cells so that they can interconnect in an ordered fashion,1977,Proceedings of the National Academy of Sciences of the United States of America,65,10.1073/pnas.74.11.5176,Germany,Article,Gottingen,1,Journal,2-s2.0-0017709402
+Grossberg S.,,Adaptive pattern classification and universal recoding: I. Parallel development and coding of neural feature detectors,1976,Biological Cybernetics,1078,10.1007/BF00344744,United States,Article,Boston,0,Journal,2-s2.0-0017120827
+Willshaw D.,,How patterned neural connections can be set up by self organization,1976,Proceedings of the Royal Society of London - Biological Sciences,476,10.1098/rspb.1976.0087,Germany,Article,Gottingen,0,Journal,2-s2.0-0017166860
+Hubel D.,,Sequence regularity and geometry of orientation columns in the monkey striate cortex,1974,Journal of Comparative Neurology,648,10.1002/cne.901580304,United States,Article,Boston,0,Journal,2-s2.0-0016289379
+Cooper L.,,POSSIBLE ORGANIZATION OF ANIMAL MEMORY AND LEARNING.,1973,,74,,,Conference Paper,,0,Journal,2-s2.0-0015774999
+Zahn C.,,Graph-Theoretical Methods for Detecting and Describing Gestalt Clusters,1971,IEEE Transactions on Computers,1208,10.1109/T-C.1971.223083,United States,Article,Menlo Park,0,Journal,2-s2.0-0014976008
+Marr D.,,A theory of cerebellar cortex,1969,The Journal of Physiology,1989,10.1113/jphysiol.1969.sp008820,,Article,,1,Journal,2-s2.0-0014526073
+Dijkstra E.,,A note on two problems in connexion with graphs,1959,Numerische Mathematik,13075,10.1007/BF01386390,Netherlands,Article,Amsterdam,0,Journal,2-s2.0-34147120474
+Prim R.,,Shortest Connection Networks And Some Generalizations,1957,Bell System Technical Journal,2546,10.1002/j.1538-7305.1957.tb01515.x,,Article,,0,Journal,2-s2.0-84911584312
+Kruskal J.,,On the shortest spanning subtree of a graph and the traveling salesman problem,1956,Proceedings of the American Mathematical Society,2870,10.1090/S0002-9939-1956-0078686-7,United States,Article,Princeton,1,Journal,2-s2.0-70350674995

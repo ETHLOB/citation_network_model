@@ -1,0 +1,7 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Kang U.,,PEGASUS: A peta-scale graph mining system - Implementation and observations,2009,"Proceedings - IEEE International Conference on Data Mining, ICDM",433,10.1109/ICDM.2009.14,United States,Conference Paper,Pittsburgh,0,Conference Proceeding,2-s2.0-77951152705
+Chaiken R.,,SCOPE: Easy and efficient parallel processing of massive data sets,2008,Proceedings of the VLDB Endowment,497,10.14778/1454159.1454166,United States,Article,Redmond,0,Conference Proceeding,2-s2.0-84860560293
+Isard M.,,Dryad: Distributed data-parallel programs from sequential building blocks,2007,Operating Systems Review (ACM),1413,10.1145/1272996.1273005,United States,Conference Paper,Redmond,0,Conference Proceeding,2-s2.0-34548041192
+Adomavicius G.,,Toward the next generation of recommender systems: A survey of the state-of-the-art and possible extensions,2005,IEEE Transactions on Knowledge and Data Engineering,6419,10.1109/TKDE.2005.99,United States,Review,Minneapolis,0,Journal,2-s2.0-20844435854
+Dean J.,,MapReduce: Simplified data processing on large clusters,2004,OSDI 2004 - 6th Symposium on Operating Systems Design and Implementation,5657,,United States,Conference Paper,Mountain View,0,Conference Proceeding,2-s2.0-85030321143
+Karypis G.,,A Parallel Algorithm for Multilevel Graph Partitioning and Sparse Matrix Ordering,1998,Journal of Parallel and Distributed Computing,238,10.1006/jpdc.1997.1403,United States,Article,Minneapolis,0,Journal,2-s2.0-0002645158

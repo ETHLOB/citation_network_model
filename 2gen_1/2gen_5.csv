@@ -1,0 +1,49 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Li Y.,,A review on machine learning principles for multi-view biological data integration,2018,Briefings in Bioinformatics,82,10.1093/bib/bbw113,Canada,Review,"Ottawa ON,",1,Journal,2-s2.0-85049474548
+Hon C.C.,,The human cell atlas: Technical approaches and challenges,2018,Briefings in Functional Genomics,14,10.1093/bfgp/elx029,United States,Article,,1,Journal,2-s2.0-85045340292
+Han K.Y.,,SIDR: simultaneous isolation and parallel sequencing of genomic DNA and total RNA from single cells,2018,Genome Research,23,10.1101/gr.223263.117,South Korea,Article,Seoul,1,Journal,2-s2.0-85039985019
+Regev A.,,The human cell atlas,2017,eLife,415,10.7554/eLife.27041,United States;United States;United States,Article,Cambridge;Chevy Chase;Cambridge,1,Journal,2-s2.0-85040459896
+Peterson V.M.,,Multiplexed quantification of proteins and transcripts in single cells,2017,Nature Biotechnology,175,10.1038/nbt.3973,United States,Article,Kenilworth,0,Journal,2-s2.0-85031308868
+Stoeckius M.,,Simultaneous epitope and transcriptome measurement in single cells,2017,Nature Methods,360,10.1038/nmeth.4380,United States,Article,New York,0,Journal,2-s2.0-85028316331
+Angerer P.,,Single cells make big data: New challenges and opportunities in transcriptomics,2017,Current Opinion in Systems Biology,42,10.1016/j.coisb.2017.07.004,Germany,Review,Neuherberg,1,Journal,2-s2.0-85041430720
+Guo F.,,Single-cell multi-omics sequencing of mouse early embryos and embryonic stem cells,2017,Cell Research,81,10.1038/cr.2017.82,China;China,Article,Chengdu;Beijing,1,Journal,2-s2.0-85026666749
+Welch J.,,MATCHER: Manifold alignment reveals correspondence between single cell transcriptome and epigenome dynamics,2017,Genome Biology,29,10.1186/s13059-017-1269-0,United States,Article,Chapel Hill,1,Journal,2-s2.0-85025599203
+Pott S.,,"Simultaneous measurement of chromatin accessibility, DNA methylation, and nucleosome phasing in single cells",2017,eLife,58,10.7554/eLife.23203,United States,Article,Chicago,1,Journal,2-s2.0-85022345215
+Zheng G.X.Y.,,Massively parallel digital transcriptional profiling of single cells,2017,Nature Communications,904,10.1038/ncomms14049,United States,Article,Pleasanton,1,Journal,2-s2.0-85009446777
+Huang S.,,More is better: Recent progress in multi-omics data integration methods,2017,Frontiers in Genetics,175,10.3389/fgene.2017.00084,United States;United States,Short Survey,Honolulu;Honolulu,1,Journal,2-s2.0-85021210336
+Fessenden M.,,"Metabolomics: Small molecules, single cells",2016,Nature,55,10.1038/540153a,,Article,,0,Journal,2-s2.0-85000962972
+Chen L.,,Genetic Drivers of Epigenetic and Transcriptional Variation in Human Immune Cells,2016,Cell,173,10.1016/j.cell.2016.10.026,United Kingdom;United Kingdom,Article,Cambridge;London,1,Journal,2-s2.0-84995752772
+Cheow L.F.,,Single-cell multimodal profiling reveals cellular epigenetic heterogeneity,2016,Nature Methods,62,10.1038/nmeth.3961,Singapore,Article,Singapore City,0,Journal,2-s2.0-84982161976
+Haghverdi L.,,Diffusion pseudotime robustly reconstructs lineage branching,2016,Nature Methods,258,10.1038/nmeth.3971,Germany;Germany,Article,Neuherberg;Munich,0,Journal,2-s2.0-84984643819
+Bock C.,,Multi-Omics of Single Cells: Strategies and Applications,2016,Trends in Biotechnology,62,10.1016/j.tibtech.2016.04.004,Austria;Austria;Germany,Short Survey,Vienna;Vienna;Saarbrucken,1,Journal,2-s2.0-84969504939
+Linnarsson S.,,Single-cell genomics: Coming of age,2016,Genome Biology,40,10.1186/s13059-016-0960-x,Sweden,Editorial,Stockholm,1,Journal,2-s2.0-84971238065
+Hu Y.,,Simultaneous profiling of transcriptome and DNA methylome from a single cell,2016,Genome Biology,97,10.1186/s13059-016-0950-z,China;United States,Article,Shanghai;Los Angeles,1,Journal,2-s2.0-84965048064
+Hou Y.,,"Single-cell triple omics sequencing reveals genetic, epigenetic, and transcriptomic heterogeneity in hepatocellular carcinomas",2016,Cell Research,200,10.1038/cr.2016.23,China,Article,Beijing,1,Journal,2-s2.0-84960091878
+Frei A.,,Highly multiplexed simultaneous detection of RNAs and proteins in single cells,2016,Nature Methods,147,10.1038/nmeth.3742,United States,Article,Stanford,0,Journal,2-s2.0-84959248377
+Angermueller C.,,Parallel single-cell sequencing links transcriptional and epigenetic heterogeneity,2016,Nature Methods,251,10.1038/nmeth.3728,United Kingdom,Article,Cambridge,0,Journal,2-s2.0-84959255113
+Jin W.,,Genome-wide detection of DNase i hypersensitive sites in single cells and FFPE tissue samples,2015,Nature,152,10.1038/nature15740,United States,Article,Bethesda,0,Journal,2-s2.0-84949227165
+Rotem A.,,Single-cell ChIP-seq reveals cell subpopulations defined by chromatin state,2015,Nature Biotechnology,363,10.1038/nbt.3383,United States;United States,Article,Cambridge;Cambridge,0,Journal,2-s2.0-84946545109
+Kind J.,,Genome-wide Maps of Nuclear Lamina Interactions in Single Human Cells,2015,Cell,182,10.1016/j.cell.2015.08.040,Netherlands;Netherlands,Article,Utrecht;Amsterdam,1,Journal,2-s2.0-84948587544
+Buenrostro J.,,Single-cell chromatin accessibility reveals principles of regulatory variation,2015,Nature,559,10.1038/nature14590,United States,Article,Stanford,0,Journal,2-s2.0-84937857359
+Levine J.,,Data-Driven Phenotypic Dissection of AML Reveals Progenitor-like Cells that Correlate with Prognosis,2015,Cell,479,10.1016/j.cell.2015.05.047,United States,Article,New York,1,Journal,2-s2.0-84934442835
+Cusanovich D.,,Multiplex single-cell profiling of chromatin accessibility by combinatorial cellular indexing,2015,Science,348,10.1126/science.aab1601,United States,Article,Seattle,1,Journal,2-s2.0-84930006926
+Bartel J.,,The Human Blood Metabolome-Transcriptome Interface,2015,PLoS Genetics,48,10.1371/journal.pgen.1005274,Germany,Article,Neuherberg,1,Journal,2-s2.0-84937790219
+Dey S.S.,,Integrated genome and transcriptome sequencing of the same cell,2015,Nature Biotechnology,223,10.1038/nbt.3129,Netherlands;Netherlands,Article,Utrecht;Amsterdam,0,Journal,2-s2.0-84924423596
+Macaulay I.C.,,G&amp;T-seq: Parallel sequencing of single-cell genomes and transcriptomes,2015,Nature Methods,276,10.1038/nmeth.3370,United Kingdom,Article,Hinxton,0,Journal,2-s2.0-84930178333
+Stegle O.,,Computational and analytical challenges in single-cell transcriptomics,2015,Nature Reviews Genetics,456,10.1038/nrg3833,United Kingdom,Review,Cambridge,0,Journal,2-s2.0-84923647450
+Stephens Z.,,Big data: Astronomical or genomical?,2015,PLoS Biology,509,10.1371/journal.pbio.1002195,United States,Article,Urbana,1,Journal,2-s2.0-84938709678
+Sandberg R.,,Entering the era of single-cell transcriptomics in biology and medicine,Jan-2014,Nature Methods,113,10.1038/nmeth.2764,Sweden;Sweden,Review,Stockholm;Stockholm,0,Journal,2-s2.0-84894630323
+Civelek M.,,Systems genetics approaches to understand complex traits,2014,Nature Reviews Genetics,313,10.1038/nrg3575,United States;United States,Review,Los Angeles;Los Angeles,0,Journal,2-s2.0-84890546613
+Smallwood S.,,Single-cell genome-wide bisulfite sequencing for assessing epigenetic heterogeneity,2014,Nature Methods,445,10.1038/nmeth.3035,United Kingdom,Article,Cambridge,0,Journal,2-s2.0-84905405443
+Sun S.,,A survey of multi-view machine learning,2013,Neural Computing and Applications,449,10.1007/s00521-013-1362-6,China,Review,Shanghai,0,Journal,2-s2.0-84887452388
+Sass S.,,A modular framework for gene set analysis integrating multilevel omics data,2013,Nucleic Acids Research,20,10.1093/nar/gkt752,Germany,Article,Neuherberg,1,Journal,2-s2.0-84890011736
+Nagano T.,,Single-cell Hi-C reveals cell-to-cell variability in chromosome structure,2013,Nature,673,10.1038/nature12593,United Kingdom,Article,Cambridge,0,Journal,2-s2.0-84885617426
+Amores J.,,"Multiple instance classification: Review, taxonomy and comparative study",2013,Artificial Intelligence,269,10.1016/j.artint.2013.06.003,Spain,Review,Barcelona,1,Journal,2-s2.0-84879815802
+Falconer E.,,DNA template strand sequencing of single-cells maps genomic rearrangements at high resolution,2012,Nature Methods,61,10.1038/nmeth.2206,Canada,Article,Vancouver,0,Journal,2-s2.0-84869096434
+Navin N.,,Tumour evolution inferred by single-cell sequencing,2011,Nature,1494,10.1038/nature09807,United States;United States,Article,Cold Spring Harbor;Houston,0,Journal,2-s2.0-79953766940
+Witten D.,,"A penalized matrix decomposition, with applications to sparse principal components and canonical correlation analysis",2009,Biostatistics,732,10.1093/biostatistics/kxp008,United States,Article,Palo Alto,1,Journal,2-s2.0-70149096300
+Tang F.,,mRNA-Seq whole-transcriptome analysis of a single cell,2009,Nature Methods,1153,10.1038/nmeth.1315,United Kingdom,Article,Cambridge,0,Journal,2-s2.0-67349146589
+Lê Cao K.A.,,Sparse canonical methods for biological data integration: Application to a cross-platform study,2009,BMC Bioinformatics,159,10.1186/1471-2105-10-34,France;France,Article,Toulouse;Castanet-Tolosan,1,Journal,2-s2.0-60849113429
+Van Der Maaten L.,,Visualizing data using t-SNE,2008,Journal of Machine Learning Research,8990,,Netherlands,Article,Tilburg,0,Journal,2-s2.0-57249084011
+Blondel V.D.,,Fast unfolding of communities in large networks,2008,Journal of Statistical Mechanics: Theory and Experiment,7188,10.1088/1742-5468/2008/10/P10008,Belgium,Article,Louvain-la-Neuve,0,Journal,2-s2.0-56349094785
+Waaijenborg S.,,Quantifying the association between gene expressions and DNA-markers by penalized canonical correlation analysis,2008,Statistical Applications in Genetics and Molecular Biology,116,10.2202/1544-6115.1329,Netherlands,Article,Amsterdam,0,Journal,2-s2.0-38849098283

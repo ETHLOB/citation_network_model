@@ -1,0 +1,35 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Li Y.,,The identification of cis-regulatory elements: A review from a machine learning perspective,2015,BioSystems,17,10.1016/j.biosystems.2015.10.002,Canada;Canada,Review,"Vancouver;Ottawa ON,",0,Journal,2-s2.0-84959350566
+Lecun Y.,,Deep learning,2015,Nature,19921,10.1038/nature14539,United States;United States,Review,Menlo Park;New York,0,Journal,2-s2.0-84930630277
+Popovic D.,,Problems with the nested granularity of feature domains in bioinformatics: The eXtasy case,2015,BMC Bioinformatics,5,10.1186/1471-2105-16-S4-S2,Belgium;Belgium,Article,3000 Leuven;Leuven,1,Journal,2-s2.0-84977474367
+Ritchie M.,,Methods of integrating data to uncover genotype-phenotype interactions,2015,Nature Reviews Genetics,420,10.1038/nrg3868,United States,Review,University Park,0,Journal,2-s2.0-84925031191
+Li Y.,,Versatile sparse matrix factorization: Theory and applications,2014,Neurocomputing,8,10.1016/j.neucom.2014.05.076,Canada,Article,Vancouver,0,Journal,2-s2.0-84906938126
+Zhou Z.H.,,Big data opportunities and challenges: Discussions from data analytics perspectives [Discussion Forum],2014,IEEE Computational Intelligence Magazine,127,10.1109/MCI.2014.2350953,China,Review,Nanjing,0,Journal,2-s2.0-84908019121
+Srivastava N.,,Multimodal learning with Deep Boltzmann Machines,2014,Journal of Machine Learning Research,208,,Canada,Article,Toronto,0,Journal,2-s2.0-84916911784
+Li Y.,,A decomposition method for large-scale sparse coding in representation learning,2014,Proceedings of the International Joint Conference on Neural Networks,3,10.1109/IJCNN.2014.6889394,Canada,Conference Paper,Vancouver,0,Conference Proceeding,2-s2.0-84908474112
+Graves A.,,Towards end-to-end speech recognition with recurrent neural networks,2014,"31st International Conference on Machine Learning, ICML 2014",377,,United Kingdom,Conference Paper,London,0,Conference Proceeding,2-s2.0-84919832465
+Woźniak M.,,A survey of multiple classifier systems as hybrid systems,2014,Information Fusion,554,10.1016/j.inffus.2013.04.006,Poland,Article,Wroclaw,0,Journal,2-s2.0-84887090067
+Li Y.,,The non-negative matrix factorization toolbox for biological data mining,2013,Source Code for Biology and Medicine,86,10.1186/1751-0473-8-10,Canada,Article,Windsor,1,Journal,2-s2.0-84876097941
+Klami A.,,Bayesian canonical correlation analysis,2013,Journal of Machine Learning Research,90,,Finland,Article,Espoo,0,Journal,2-s2.0-84877621868
+Kulis B.,,Metric learning: A survey,2012,Foundations and Trends in Machine Learning,366,10.1561/2200000019,United States,Review,Columbus,0,Journal,2-s2.0-84887890691
+Virtanen S.,,Bayesian group factor analysis,2012,Journal of Machine Learning Research,36,,Finland,Conference Paper,Espoo,0,Journal,2-s2.0-84877727222
+Wang J.,,Metric learning with multiple kernels,2011,"Advances in Neural Information Processing Systems 24: 25th Annual Conference on Neural Information Processing Systems 2011, NIPS 2011",61,,Switzerland,Conference Paper,Geneva,0,Conference Proceeding,2-s2.0-84860639542
+Gönen M.,,Multiple kernel learning algorithms,2011,Journal of Machine Learning Research,1121,,Turkey,Review,Istanbul,0,Journal,2-s2.0-80052213499
+Pique-Regi R.,,Accurate inference of transcription factor binding from DNA sequence and chromatin accessibility data,2011,Genome Research,324,10.1101/gr.112623.110,United States,Article,Chicago,1,Journal,2-s2.0-79952266465
+Li Y.,,Non-negative matrix and tensor factorization based classification of clinical microarray gene expression data,2010,"Proceedings - 2010 IEEE International Conference on Bioinformatics and Biomedicine, BIBM 2010",28,10.1109/BIBM.2010.5706606,Canada,Conference Paper,Windsor,0,Conference Proceeding,2-s2.0-79952383578
+Fertig E.J.,,CoGAPS: An R/C++ package to identify patterns and biological process activity in transcriptomic data,2010,Bioinformatics,31,10.1093/bioinformatics/btq503,United States,Article,Baltimore,0,Journal,2-s2.0-77958479692
+Kolda T.G.,,Tensor decompositions and applications,2009,SIAM Review,4180,10.1137/07070111X,United States,Review,Livermore,0,Journal,2-s2.0-68649096448
+Elidan G.,,"""Ideal parent"" structure learning for continuous variable Bayesian networks",2007,Journal of Machine Learning Research,27,,United States,Article,Palo Alto,0,Journal,2-s2.0-34548183010
+Polikar R.,,Bootstrap-inspired techniques in computation intelligence,2007,IEEE Signal Processing Magazine,103,10.1109/MSP.2007.4286565,United States,Article,Glassboro,0,Journal,2-s2.0-85032751446
+Kim S.,,Optimal kernel selection in kernel fisher discriminant analysis,2006,ICML 2006 - Proceedings of the 23rd International Conference on Machine Learning,80,,United States,Conference Paper,Palo Alto,0,Conference Proceeding,2-s2.0-33749246584
+Polikar R.,,Ensemble based systems in decision making,2006,IEEE Circuits and Systems Magazine,1557,10.1109/MCAS.2006.1688199,United States,Review,Glassboro,0,Journal,2-s2.0-33748611921
+Hinton G.,,A fast learning algorithm for deep belief nets,2006,Neural Computation,8546,10.1162/neco.2006.18.7.1527,Canada,Article,Toronto,0,Journal,2-s2.0-33745805403
+Pittman J.,,Integrated modeling of clinical and gene expression information for personalized prediction of disease outcomes,2004,Proceedings of the National Academy of Sciences of the United States of America,160,10.1073/pnas.0401736101,United States,Article,Durham,1,Journal,2-s2.0-2942534096
+Xing E.P.,,"Distance metric learning, with application to clustering with side-information",2003,Advances in Neural Information Processing Systems,1089,,United States,Conference Paper,Berkeley,0,Conference Proceeding,2-s2.0-84879571292
+Lee D.,,Learning the parts of objects by non-negative matrix factorization,1999,Nature,7530,10.1038/44565,United States,Article,Murray,0,Journal,2-s2.0-0033592606
+Opitz D.,,Popular Ensemble Methods: An Empirical Study,1999,Journal of Artificial Intelligence Research,1354,10.1613/jair.614,United States,Article,Missoula,1,Journal,2-s2.0-0000551189
+Breiman L.,,Arcing classifiers,1998,Annals of Statistics,880,,United States,Article,Berkeley,0,Journal,2-s2.0-0346786584
+Friedman N.,,Bayesian Network Classifiers,1997,Machine Learning,3083,10.1023/a:1007465528199,United States,Article,Berkeley,1,Journal,2-s2.0-0031276011
+Breiman L.,,Bagging predictors,1996,Machine Learning,13227,10.1023/A:1018054314350,United States,Article,Berkeley,1,Journal,2-s2.0-0030211964
+Cortes C.,,Support-Vector Networks,1995,Machine Learning,25951,10.1023/A:1022627411411,United States,Article,Murray,1,Journal,2-s2.0-34249753618
+Langley P.,,Analysis of Bayesian classifiers,1992,Proceedings Tenth National Conference on Artificial Intelligence,829,,United States,Conference Paper,Moffett Field,0,Conference Proceeding,2-s2.0-0026992322

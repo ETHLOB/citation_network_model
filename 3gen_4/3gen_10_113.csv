@@ -1,0 +1,28 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Donoho D.,,For most large underdetermined systems of linear equations the minimal ℓ <inf>1</inf>-norm solution is also the sparsest solution,2006,Communications on Pure and Applied Mathematics,1793,10.1002/cpa.20132,United States,Article,Palo Alto,0,Journal,2-s2.0-33646365077
+Tropp J.,,Just relax: Convex programming methods for identifying sparse signals in noise,2006,IEEE Transactions on Information Theory,856,10.1109/TIT.2005.864420,United States;United States;United States,Article,Ann Arbor;Austin;New York,0,Journal,2-s2.0-33645712308
+Candès E.,,Robust uncertainty principles: Exact signal reconstruction from highly incomplete frequency information,2006,IEEE Transactions on Information Theory,11015,10.1109/TIT.2005.862083,United States,Article,Pasadena,0,Journal,2-s2.0-31744440684
+Donoho D.L.,,Stable recovery of sparse overcomplete representations in the presence of noise,2006,IEEE Transactions on Information Theory,1510,10.1109/TIT.2005.860430,United States,Article,Palo Alto,0,Journal,2-s2.0-33144483155
+Tropp J.,,Greed is good: Algorithmic results for sparse approximation,2004,IEEE Transactions on Information Theory,2311,10.1109/TIT.2004.834793,United States,Article,Ann Arbor,0,Journal,2-s2.0-5444237123
+Fuchs J.,,On sparse representations in arbitrary redundant bases,2004,IEEE Transactions on Information Theory,350,10.1109/TIT.2004.828141,France,Letter,Rennes,0,Journal,2-s2.0-2942640138
+Candès E.J.,,New tight frames of curvelets and optimal representations of objects with piecewise C<sup>2</sup> singularities,2004,Communications on Pure and Applied Mathematics,1205,10.1002/cpa.10116,United States,Article,Pasadena,0,Journal,2-s2.0-2442458882
+Gribonval R.,,Sparse Representations in Unions of Bases,2003,IEEE Transactions on Information Theory,603,10.1109/TIT.2003.820031,France,Article,Rennes,0,Journal,2-s2.0-0347968052
+Donoho D.,,Optimally sparse representation in general (nonorthogonal) dictionaries via ℓ<sup>1</sup> minimization,2003,Proceedings of the National Academy of Sciences of the United States of America,1907,10.1073/pnas.0437847100,United States,Article,Palo Alto,1,Journal,2-s2.0-0037418225
+Elad M.,,A generalized uncertainty principle and sparse representation in pairs of bases,2002,IEEE Transactions on Information Theory,407,10.1109/TIT.2002.801410,United States,Article,Palo Alto,0,Journal,2-s2.0-0036714214
+Gilbert A.C.,,Near-optimal sparse Fourier representations via sampling,2002,Conference Proceedings of the Annual ACM Symposium on Theory of Computing,178,10.1145/509907.509933,,Conference Paper,,0,Conference Proceeding,2-s2.0-0036041770
+Donoho D.,,Sparse components of images and optimal atomic decompositions,2001,Constructive Approximation,134,10.1007/s003650010032,United States,Article,Palo Alto,0,Journal,2-s2.0-0035533162
+Donoho D.,,Uncertainty principles and ideal atomic decomposition,2001,IEEE Transactions on Information Theory,1271,10.1109/18.959265,United States;United States,Article,Palo Alto;New York,0,Journal,2-s2.0-0035504028
+Kühn T.,,A Lower Estimate for Entropy Numbers,2001,Journal of Approximation Theory,50,10.1006/jath.2000.3554,Germany,Article,Leipzig,1,Journal,2-s2.0-0000677724
+Cohen A.,,Nonlinear approximation and the space BV (ℝ<sup>2</sup>),1999,American Journal of Mathematics,122,,France,Article,Paris,0,Journal,2-s2.0-0033147693
+Donoho D.,,Data compression and harmonic analysis,1998,IEEE Transactions on Information Theory,286,10.1109/18.720544,United States,Article,Palo Alto,0,Journal,2-s2.0-0032182894
+Chen S.,,Atomic decomposition by basis pursuit,1998,SIAM Journal of Scientific Computing,4827,10.1137/S1064827596304010,United States,Article,Yorktown Heights,0,Journal,2-s2.0-0032131292
+Novak E.,,On the power of adaption,1996,Journal of Complexity,35,10.1006/jcom.1996.0015,Germany,Article,Erlangen,1,Journal,2-s2.0-0030242131
+Donoho D.,,Unconditional bases and bit-level compression,1996,Applied and Computational Harmonic Analysis,35,10.1006/acha.1996.0032,United States,Editorial,Palo Alto,1,Journal,2-s2.0-0000468364
+Donoho D.,,Unconditional bases are optimal bases for data compression and for statistical estimation,1993,Applied and Computational Harmonic Analysis,257,10.1006/acha.1993.1008,United States,Article,Palo Alto,1,Journal,2-s2.0-0027873602
+Szarek S.,,Condition numbers of random matrices,1991,Journal of Complexity,68,10.1016/0885-064X(91)90002-F,United States,Article,Cleveland,1,Journal,2-s2.0-0009400517
+Kon M.A.,,The adaption problem for approximating linear operators,1990,Bulletin of the American Mathematical Society,6,10.1090/S0273-0979-1990-15924-5,United States;Germany,Article,Boston;Erlangen,1,Journal,2-s2.0-84968488122
+Schütt C.,,Entropy numbers of diagonal operators between symmetric Banach spaces,1984,Journal of Approximation Theory,101,10.1016/0021-9045(84)90021-2,Germany,Article,Kiel,1,Journal,2-s2.0-0000581036
+Carl B.,,"Entropy numbers, s-numbers, and eigenvalue problems",1981,Journal of Functional Analysis,122,10.1016/0022-1236(81)90076-8,Germany,Article,Jena,1,Journal,2-s2.0-0000474305
+Gal S.,,Optimal Sequential and Non-Sequential Procedures for Evaluating a Functional,1980,Applicable Analysis,30,10.1080/00036818008839292,Israel;United States,Article,Haifa;Yorktown Heights,0,Journal,2-s2.0-0001633186
+Figiel T.,,The dimension of almost spherical sections of convex bodies,1977,Acta Mathematica,240,10.1007/BF02392234,Poland,Article,Warszawa,1,Journal,2-s2.0-0002649030
+Peetre J.,,Interpolation of normed abelian groups,1972,"Annali di Matematica Pura ed Applicata, Series 4",86,10.1007/BF02417949,,Article,,0,Journal,2-s2.0-0000400863

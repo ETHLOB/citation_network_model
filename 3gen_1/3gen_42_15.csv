@@ -1,0 +1,8 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Dhillon I.S.,,Co-clustering documents and words using bipartite spectral graph partitioning,2001,Proceedings of the Seventh ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,1022,10.1145/502512.502550,United States,Conference Paper,Austin,0,Conference Proceeding,2-s2.0-0035789644
+Nigam K.,,Text classification from labeled and unlabeled documents using EM,2000,Machine Learning,1883,10.1023/a:1007692713085,United States,Article,Pittsburgh,1,Journal,2-s2.0-0033886806
+Shi J.,,Normalized cuts and image segmentation,2000,IEEE Transactions on Pattern Analysis and Machine Intelligence,9925,10.1109/34.868688,United States,Article,Pittsburgh,0,Journal,2-s2.0-0034244751
+Kleinberg J.,,Approximation algorithms for classification problems with pairwise relationships: metric labeling and Markov random fields,1999,Annual Symposium on Foundations of Computer Science - Proceedings,95,,United States,Conference Paper,Ithaca,0,Conference Proceeding,2-s2.0-0033335479
+Blum A.,,Combining labeled and unlabeled data with co-training,1998,Proceedings of the Annual ACM Conference on Computational Learning Theory,3259,10.1145/279943.279962,United States,Conference Paper,Pittsburgh,0,Conference Proceeding,2-s2.0-0031620208
+Hagen L.,,New Spectral Methods for Ratio Cut Partitioning and Clustering,1992,IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems,625,10.1109/43.159993,United States,Article,Los Angeles,0,Journal,2-s2.0-0026925324
+Gander W.,,A constrained eigenvalue problem,1989,Linear Algebra and Its Applications,121,10.1016/0024-3795(89)90494-1,Switzerland,Article,"Zurich ZH,",1,Journal,2-s2.0-38249023522

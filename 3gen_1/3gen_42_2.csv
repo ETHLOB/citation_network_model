@@ -1,0 +1,12 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Ham J.,,A kernel view of the dimensionality reduction of manifolds,2004,"Proceedings, Twenty-First International Conference on Machine Learning, ICML 2004",247,,United States,Conference Paper,Philadelphia,0,Conference Proceeding,2-s2.0-11144299132
+Saul L.,,"Think globally, fit locally: Unsupervised learning of low dimensional manifolds",2004,Journal of Machine Learning Research,1201,10.1162/153244304322972667,United States,Article,Philadelphia,0,Journal,2-s2.0-2342517502
+Verbeek J.,,Non-linear CCA and PCA by alignment of local models,2004,Advances in Neural Information Processing Systems,30,,Netherlands,Conference Paper,Amsterdam,0,Conference Proceeding,2-s2.0-38049139291
+Belkin M.,,Regularization and semi-supervised learning on large graphs,2004,Lecture Notes in Artificial Intelligence (Subseries of Lecture Notes in Computer Science),276,10.1007/978-3-540-27819-1_43,United States,Conference Paper,Chicago,0,Conference Proceeding,2-s2.0-9444289383
+Zhu X.,,Semi-Supervised Learning Using Gaussian Fields and Harmonic Functions,2003,"Proceedings, Twentieth International Conference on Machine Learning",2480,,United States,Conference Paper,Pittsburgh,0,Conference Proceeding,2-s2.0-1942484430
+Belkin M.,,Laplacian eigenmaps for dimensionality reduction and data representation,2003,Neural Computation,4760,10.1162/089976603321780317,United States,Article,Chicago,0,Journal,2-s2.0-0042378381
+Donoho D.,,Hessian eigenmaps: Locally linear embedding techniques for high-dimensional data,2003,Proceedings of the National Academy of Sciences of the United States of America,1010,10.1073/pnas.1031596100,United States,Article,Palo Alto,1,Journal,2-s2.0-0037948870
+Brand M.,,Charting a manifold,2003,Advances in Neural Information Processing Systems,198,,United States,Conference Paper,Cambridge,0,Conference Proceeding,2-s2.0-84898990205
+Tenenbaum J.,,A global geometric framework for nonlinear dimensionality reduction,2000,Science,8778,10.1126/science.290.5500.2319,United States,Article,Palo Alto,0,Journal,2-s2.0-0034704229
+Roweis S.T.,,Nonlinear dimensionality reduction by locally linear embedding,2000,Science,10053,10.1126/science.290.5500.2323,United Kingdom,Article,London,0,Journal,2-s2.0-0034704222
+Chandra A.K.,,Electrical resistance of a graph captures its commute and cover times,1989,,196,10.1145/73007.73062,United States,Conference Paper,Yorktown Heights,0,Conference Proceeding,2-s2.0-0024864589

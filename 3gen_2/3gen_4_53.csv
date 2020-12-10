@@ -1,0 +1,16 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Ford L.,,Flows in networks,2015,Flows in Networks,2984,,United States,Book,Houston,0,Book,2-s2.0-84957946170
+Wagner R.,,A Shortest Path Algorithm for Edge-Sparse Graphs,1976,Journal of the ACM (JACM),27,10.1145/321921.321927,United States,Article,Nashville,0,Journal,2-s2.0-0016893332
+Fredman M.,,On the decision tree complexity of the shortest path problems,1975,"Proceedings - Annual IEEE Symposium on Foundations of Computer Science, FOCS",4,10.1109/SFCS.1975.22,United States,Conference Paper,Cambridge,0,Conference Proceeding,2-s2.0-70350631151
+Pierce A.,,"BIBLIOGRAPHY ON ALGORITHMS FOR SHORTEST PATH, SHORTEST SPANNING TREE, AND RELATED CIRCUIT ROUTING PROBLEMS (1956-1974).",Apr,Networks,37,10.1002/net.1975.5.2.129,,Article,,0,Journal,2-s2.0-0016493485
+Johnson D.,,Priority queues with update and finding minimum spanning trees,1975,Information Processing Letters,43,10.1016/0020-0190(75)90001-0,United States,Article,University Park,0,Journal,2-s2.0-0016643163
+Johnson D.,,A Note on Dijkstra's Shortest Path Algorithm,1973,Journal of the ACM (JACM),142,10.1145/321765.321768,United States,Article,Ithaca,0,Journal,2-s2.0-84976828623
+Johnson E.L.,,On shortest paths and sorting,1972,"Proceedings of the ACM Annual Conference, ACM 1972",23,10.1145/800193.569965,United States,Conference Paper,Armonk,0,Conference Proceeding,2-s2.0-84986985608
+Yen J.Y.,,Finding the Lengths of All Shortest paths in N -Node Nonnegative-Distance Complete Networks Using ½N<sup>3</sup> Additions and N<sup>3</sup> Comparisons,1972,Journal of the ACM (JACM),23,10.1145/321707.321712,United States,Article,Santa Clara,0,Journal,2-s2.0-84976783287
+Edmonds J.,,Theoretical Improvements in Algorithmic Efficiency for Network Flow Problems,1972,Journal of the ACM (JACM),1367,10.1145/321694.321699,Canada,Article,Waterloo,0,Journal,2-s2.0-0015330635
+Nemhauser G.,,A generalized permanent label setting algorithm for the shortest path between specified nodes,1972,Journal of Mathematical Analysis and Applications,24,10.1016/0022-247X(72)90091-1,United States,Article,Ithaca,1,Journal,2-s2.0-0000821531
+Morávek J.,,A note upon minimal path problem,1970,Journal of Mathematical Analysis and Applications,10,10.1016/0022-247X(70)90154-X,Czech Republic,Article,Prague,1,Journal,2-s2.0-0014793968
+YEN JY ,,ALGORITHM FOR FINDING SHORTEST ROUTES FROM ALL SOURCE NODES TO A GIVEN DESTINATION IN GENERAL NETWORKS,Jan,Quarterly of Applied Mathematics,122,10.1090/qam/253822,,Article,,1,Journal,2-s2.0-0014724359
+Floyd R.,,Algorithm 97: Shortest path,1962,Communications of the ACM,2153,10.1145/367766.368168,United States,Article,Chicago,0,Journal,2-s2.0-84945709831
+Warshall S.,,A Theorem on Boolean Matrices,1962,Journal of the ACM (JACM),918,10.1145/321105.321107,United States,Article,Woburn,0,Journal,2-s2.0-84945708259
+Dijkstra E.,,A note on two problems in connexion with graphs,1959,Numerische Mathematik,13103,10.1007/BF01386390,Netherlands,Article,Amsterdam,0,Journal,2-s2.0-34147120474

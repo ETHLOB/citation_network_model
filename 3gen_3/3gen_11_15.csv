@@ -1,0 +1,39 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Jiang L.,,Spreading of cooperative behaviour across interdependent groups,2013,Scientific Reports,112,10.1038/srep02483,China,Article,Wenzhou,1,Journal,2-s2.0-84883151986
+Singh P.,,Threshold-limited spreading in social networks with multiple initiators,2013,Scientific Reports,58,10.1038/srep02330,United States,Article,Troy,1,Journal,2-s2.0-84881357427
+Wang Z.,,Interdependent network reciprocity in evolutionary games,2013,Scientific Reports,295,10.1038/srep01183,Hong Kong,Article,,1,Journal,2-s2.0-84873674447
+Gómez S.,,Diffusion dynamics on multiplex networks,2013,Physical Review Letters,518,10.1103/PhysRevLett.110.028701,Spain,Article,Tarragona,0,Journal,2-s2.0-84872146751
+Muchnik L.,,Origins of power-law degree distribution in the heterogeneity of human activity in social networks,2013,Scientific Reports,88,10.1038/srep01783,Israel,Article,Jerusalem,1,Journal,2-s2.0-84877734662
+Baxter G.J.,,Avalanche collapse of interdependent networks,2012,Physical Review Letters,194,10.1103/PhysRevLett.109.248701,Portugal,Article,Aveiro,0,Journal,2-s2.0-84870877026
+Gallos L.,,How people interact in evolving online affiliation networks,2012,Physical Review X,56,10.1103/PhysRevX.2.031014,United States,Article,New York,1,Journal,2-s2.0-84864852403
+Morris R.,,Transport on coupled spatial networks,2012,Physical Review Letters,147,10.1103/PhysRevLett.109.128703,France,Article,Gif-sur-Yvette,0,Journal,2-s2.0-84866550018
+Son S.,,Percolation theory on interdependent networks based on epidemic spreading,2012,EPL,197,10.1209/0295-5075/97/16006,Canada,Article,Calgary,0,Journal,2-s2.0-84855560656
+Buldyrev S.V.,,Interdependent networks with identical degrees of mutually dependent nodes,2011,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",181,10.1103/PhysRevE.83.016112,United States,Article,New York,0,Journal,2-s2.0-79951699459
+Parshani R.,,Critical effect of dependency groups on the function of networks,2011,Proceedings of the National Academy of Sciences of the United States of America,205,10.1073/pnas.1008404108,Israel,Article,Ramat Gan,1,Journal,2-s2.0-79551638843
+Sun X.,,Burst synchronization transitions in a neuronal network of subnetworks,2011,Chaos,142,10.1063/1.3559136,China,Article,Beijing,0,Journal,2-s2.0-79953288977
+Nagler J.,,Impact of single links in competitive percolation,2011,Nature Physics,142,10.1038/nphys1860,Germany;Germany,Article,Gottingen;Gottingen,0,Journal,2-s2.0-79952448113
+Newman M.,,Networks: An Introduction,2010,Networks: An Introduction,6212,10.1093/acprof:oso/9780199206650.001.0001,United States,Book,Ann Arbor,0,Book,2-s2.0-77954826067
+Szell M.,,Multirelational organization of large-scale social networks in an online world,2010,Proceedings of the National Academy of Sciences of the United States of America,502,10.1073/pnas.1004008107,Austria,Article,Vienna,1,Journal,2-s2.0-77956372873
+Rozenfeld H.,,Explosive percolation in the Human Protein Homology Network,2010,European Physical Journal B,54,10.1140/epjb/e2010-00156-8,United States,Article,New York,0,Journal,2-s2.0-77954565132
+Mucha P.,,"Community structure in time-dependent, multiscale, and multiplex networks",2010,Science,1009,10.1126/science.1184819,United States,Article,Chapel Hill,0,Journal,2-s2.0-77952328459
+Buldyrev S.,,Catastrophic cascade of failures in interdependent networks,2010,Nature,2341,10.1038/nature08932,United States;United States,Article,New York;Boston,0,Journal,2-s2.0-77951126500
+Caldarelli G.,,Scale-Free Networks: Complex Webs in Nature and Technology,2010,Scale-Free Networks: Complex Webs in Nature and Technology,390,10.1093/acprof:oso/9780199211517.001.0001,Italy,Book,Rome,0,Book,2-s2.0-84921882515
+Clauset A.,,Power-law distributions in empirical data,2009,SIAM Review,4486,10.1137/070710111,United States;United States,Review,Albuquerque;Santa Fe,0,Journal,2-s2.0-65549085067
+Newman M.,,Random Graphs with Clustering,2009,Physical Review Letters,252,10.1103/PhysRevLett.103.058701,United States;United States,Article,Santa Fe;Ann Arbor,0,Journal,2-s2.0-68649124583
+Castellano C.,,Statistical physics of social dynamics,2009,Reviews of Modern Physics,2176,10.1103/RevModPhys.81.591,Italy,Article,Rome,0,Journal,2-s2.0-65549108449
+Goltsev A.V.,,Percolation on correlated networks,2008,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",76,10.1103/PhysRevE.78.051105,Portugal;Russian Federation,Article,Aveiro;Saint Petersburg (ex Leningrad),0,Journal,2-s2.0-56649115608
+Hunter D.R.,,"ergm: A package to fit, simulate and diagnose exponential-family models for networks",2008,Journal of Statistical Software,369,10.18637/jss.v024.i03,France;United States,Article,Orleans;University Park,1,Journal,2-s2.0-45349102044
+Kurant M.,,Layered complex networks,2006,Physical Review Letters,285,10.1103/PhysRevLett.96.138701,Switzerland,Article,Lausanne,0,Journal,2-s2.0-33645660621
+Boguñá M.,,Generalized percolation in random directed networks,2005,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",81,10.1103/PhysRevE.72.016106,Spain,Article,Barcelona,0,Journal,2-s2.0-27244434945
+Kempe D.,,Maximizing the spread of influence through a social network,2003,Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,4461,10.1145/956750.956769,United States,Conference Paper,Ithaca,0,Conference Proceeding,2-s2.0-33747172362
+Boguñá M.,,Absence of Epidemic Threshold in Scale-Free Networks with Degree Correlations,2003,Physical Review Letters,407,10.1103/PhysRevLett.90.028701,Spain,Article,Barcelona,0,Journal,2-s2.0-0037449781
+Schwartz N.,,Percolation in directed scale-free networks,2002,"Physical Review E - Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics",144,10.1103/PhysRevE.66.015104,Israel,Article,Ramat Gan,0,Journal,2-s2.0-41349101495
+Newman M.E.J.,,Spread of epidemic disease on networks,2002,"Physical Review E - Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics",1841,10.1103/PhysRevE.66.016128,United States;United States,Article,Santa Fe;Ann Arbor,1,Journal,2-s2.0-41349106348
+Watts D.,,A simple model of global cascades on random networks,2002,Proceedings of the National Academy of Sciences of the United States of America,1444,10.1073/pnas.082090499,United States,Article,New York,1,Journal,2-s2.0-0037197979
+Newman M.E.J.,,Random graphs with arbitrary degree distributions and their applications,2001,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",2213,,United States;United States,Article,Santa Fe;Ithaca,0,Journal,2-s2.0-0035420732
+Newman M.E.J.,,Scientific collaboration networks. I. Network construction and fundamental results,2001,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",1361,,United States,Article,Santa Fe,0,Journal,2-s2.0-0035395881
+Pastor-Satorras R.,,Epidemic spreading in scale-free networks,2001,Physical Review Letters,3738,10.1103/PhysRevLett.86.3200,Spain,Article,Barcelona,0,Journal,2-s2.0-0035794256
+Callaway D.,,Network robustness and fragility: percolation on random graphs,2000,Physical Review Letters,1632,10.1103/PhysRevLett.85.5468,United States,Article,Ithaca,0,Journal,2-s2.0-4243939794
+Cohen R.,,Resilience of the Internet to random breakdowns,2000,Physical Review Letters,1644,10.1103/PhysRevLett.85.4626,Israel,Article,Ramat Gan,0,Journal,2-s2.0-0034323311
+Albert R.,,Error and attack tolerance of complex networks,2000,Nature,5597,10.1038/35019019,United States,Article,Notre Dame,0,Journal,2-s2.0-0034721164
+Wasserman S.,,Logit models and logistic regressions for social networks: I. An introduction to markov graphs and p,1996,Psychometrika,708,10.1007/BF02294547,United States,Article,Urbana,0,Journal,2-s2.0-0030491229

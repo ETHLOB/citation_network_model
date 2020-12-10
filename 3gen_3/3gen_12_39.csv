@@ -1,0 +1,13 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Airoldi E.,,Mixed membership stochastic blockmodels,2008,Journal of Machine Learning Research,906,,United States;,Article,Princeton;,0,Journal,2-s2.0-54249110594
+Hofman J.,,Bayesian approach to network modularity,2008,Physical Review Letters,195,10.1103/PhysRevLett.100.258701,United States,Article,New York,0,Journal,2-s2.0-45749117949
+Kumpula J.,,Limited resolution in complex network community detection with Potts model approach,2007,European Physical Journal B,118,10.1140/epjb/e2007-00088-4,Finland,Article,Espoo,0,Journal,2-s2.0-34047224656
+Reichardt J.,,Statistical mechanics of community detection,2006,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",924,10.1103/PhysRevE.74.016110,Germany,Article,Bremen,0,Journal,2-s2.0-33746227724
+Newman M.E.J.,,Finding community structure in networks using the eigenvectors of matrices,2006,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",2559,10.1103/PhysRevE.74.036104,United States,Article,Ann Arbor,0,Journal,2-s2.0-33749468596
+Danon L.,,Comparing community structure identification,2005,Journal of Statistical Mechanics: Theory and Experiment,1482,10.1088/1742-5468/2005/09/P09008,Spain;Spain,Article,Tarragona;Barcelona,0,Journal,2-s2.0-26244464025
+Fei-Fei L.,,A bayesian hierarchical model for learning natural scene categories,2005,"Proceedings - 2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition, CVPR 2005",2802,10.1109/CVPR.2005.16,United States,Conference Paper,Pasadena,0,Conference Proceeding,2-s2.0-33745155436
+Newman M.,,Detecting community structure in networks,2004,European Physical Journal B,1360,10.1140/epjb/e2004-00124-y,United States,Conference Paper,Ann Arbor,0,Journal,2-s2.0-2942564706
+Newman M.E.J.,,Finding and evaluating community structure in networks,2004,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",7687,10.1103/PhysRevE.69.026113,United States;United States,Article,Santa Fe;Ann Arbor,0,Journal,2-s2.0-37649028224
+Girvan M.,,Community structure in social and biological networks,2002,Proceedings of the National Academy of Sciences of the United States of America,8662,10.1073/pnas.122653799,United States;United States,Article,Santa Fe;Ithaca,1,Journal,2-s2.0-0037062448
+Nowicki K.,,Estimation and prediction for stochastic blockstructures,2001,Journal of the American Statistical Association,565,10.1198/016214501753208735,Sweden,Article,Lund,0,Journal,2-s2.0-0442296603
+Jordan M.I.,,Introduction to variational methods for graphical models,1999,Machine Learning,1533,10.1023/A:1007665907178,United States,Article,Berkeley,1,Journal,2-s2.0-0033225865

@@ -1,0 +1,25 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Parkhomenko E.,,Sparse canonical correlation analysis with application to genomic data integration,2009,Statistical Applications in Genetics and Molecular Biology,189,10.2202/1544-6115.1406,Canada,Article,Toronto,0,Journal,2-s2.0-62449336277
+Owen A.,,Bi-cross-validation of the SVD and the nonnegative matrix factorization,2009,Annals of Applied Statistics,86,10.1214/08-AOAS227,United States,Article,Palo Alto,1,Journal,2-s2.0-71549165598
+Shen H.,,Sparse principal component analysis via regularized low rank matrix approximation,2008,Journal of Multivariate Analysis,366,10.1016/j.jmva.2007.06.007,United States,Article,Chapel Hill,1,Journal,2-s2.0-43049086717
+Waaijenborg S.,,Quantifying the association between gene expressions and DNA-markers by penalized canonical correlation analysis,2008,Statistical Applications in Genetics and Molecular Biology,115,10.2202/1544-6115.1329,Netherlands,Article,Amsterdam,0,Journal,2-s2.0-38849098283
+Tibshirani R.,,Spatial smoothing and hot spot detection for CGH data using the fused lasso,2008,Biostatistics,205,10.1093/biostatistics/kxm013,United States,Article,Palo Alto,1,Journal,2-s2.0-37249032736
+Stranger B.,,Relative impact of nucleotide and copy number variation on gene phenotypes,2007,Science,1226,10.1126/science.1136678,United Kingdom,Article,Hinxton,0,Journal,2-s2.0-33846978695
+Chin K.,,Genomic and transcriptional aberrations linked to breast cancer pathophysiologies,2006,Cancer Cell,931,10.1016/j.ccr.2006.10.009,United States,Article,San Francisco,1,Journal,2-s2.0-33845191779
+Zou H.,,Sparse principal component analysis,2006,Journal of Computational and Graphical Statistics,1460,10.1198/106186006X113430,United States,Article,Minneapolis,0,Journal,2-s2.0-33745309913
+Trendafilov N.,,Projected gradient approach to the numerical solution of the SCoTLASS,2006,Computational Statistics and Data Analysis,35,10.1016/j.csda.2004.07.017,United Kingdom,Article,Bristol,0,Journal,2-s2.0-24644479207
+Stranger B.,,Genome-wide associations of gene expression variation in humans,2005,PLoS Genetics,408,10.1371/journal.pgen.0010078,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-55449112185
+Tibshirani R.,,Sparsity and smoothness via the fused lasso,2005,Journal of the Royal Statistical Society. Series B: Statistical Methodology,1263,10.1111/j.1467-9868.2005.00490.x,United States,Article,Palo Alto,0,Journal,2-s2.0-12844266177
+Hoyer P.,,Non-negative matrix factorization with sparseness constraints,2004,Journal of Machine Learning Research,1874,,Finland,Article,Helsinki,0,Journal,2-s2.0-84900510076
+Morloy M.,,Genetic analysis of genome-wide variation in human gene expression,2004,Nature,919,10.1038/nature02797,United States;United States,Article,Philadelphia;Philadelphia,0,Journal,2-s2.0-4043128071
+Jolliffe I.,,A Modified Principal Component Technique Based on the LASSO,2003,Journal of Computational and Graphical Statistics,402,10.1198/1061860032148,United Kingdom,Article,Aberdeen,0,Journal,2-s2.0-0141941674
+Tibshirani R.,,"Class prediction by nearest shrunken centroids, with applications to DNA microarrays",2003,Statistical Science,279,10.1214/ss/1056397488,United States,Review,Palo Alto,1,Journal,2-s2.0-2342533421
+Pollack J.,,Microarray analysis reveals a major direct role of DNA copy number alteration in the transcriptional program of human breast tumors,2002,Proceedings of the National Academy of Sciences of the United States of America,911,10.1073/pnas.162471999,United States,Article,Stanford,1,Journal,2-s2.0-13844250828
+Lazzeroni L.,,Plaid models for gene expression data,2002,Statistica Sinica,357,,United States,Article,Stanford,0,Journal,2-s2.0-0036012349
+Hyman E.,,Impact of DNA amplification on gene expression patterns in breast cancer,2002,Cancer Research,395,,United States;United States,Article,Bethesda;Chevy Chase,0,Journal,2-s2.0-0036829790
+Hoyer P.,,Non-negative sparse coding,2002,Neural Networks for Signal Processing - Proceedings of the IEEE Workshop,596,10.1109/NNSP.2002.1030067,Finland,Conference Paper,Espoo,0,Conference Proceeding,2-s2.0-84857841726
+Troyanskaya O.,,Missing value estimation methods for DNA microarrays,2001,Bioinformatics,1999,10.1093/bioinformatics/17.6.520,United States,Article,Stanford,1,Journal,2-s2.0-0034960264
+Lee D.,,Algorithms for non-negative matrix factorization,2001,Advances in Neural Information Processing Systems,4037,,United States,Conference Paper,Murray,0,Conference Proceeding,2-s2.0-84898964201
+Lee D.,,Learning the parts of objects by non-negative matrix factorization,1999,Nature,7530,10.1038/44565,United States,Article,Murray,0,Journal,2-s2.0-0033592606
+Wold S.,,Cross-Validatory Estimation of the Number of Components in Factor and Principal Components Models,1978,Technometrics,2139,10.1080/00401706.1978.10489693,Sweden,Article,Umea,0,Journal,2-s2.0-84951601886
+Eckart C.,,The approximation of one matrix by another of lower rank,1936,Psychometrika,1596,10.1007/BF02288367,United States,Article,Chicago,0,Journal,2-s2.0-0000802374

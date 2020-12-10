@@ -1,0 +1,32 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Spirin V.,,Protein complexes and functional modules in molecular networks,2003,Proceedings of the National Academy of Sciences of the United States of America,1067,10.1073/pnas.2032324100,United States,Article,Cambridge,1,Journal,2-s2.0-0142059836
+Rives A.,,Modular organization of cellular networks,2003,Proceedings of the National Academy of Sciences of the United States of America,524,10.1073/pnas.0237338100,United States,Article,Seattle,1,Journal,2-s2.0-0037417817
+Agrawal H.,,Potts Ferromagnets on Coexpressed Gene Networks: Identifying Maximally Stable Partitions,2003,Physical Review Letters,16,10.1103/PhysRevLett.90.158102,Israel,Article,Rehovot,0,Journal,2-s2.0-0037712598
+Oltvai Z.,,Systems biology: Life's complexity pyramid,2002,Science,342,10.1126/science.1078563,United States,Short Survey,Evanston,0,Journal,2-s2.0-0037174638
+Lee T.I.,,Transcriptional regulatory networks in Saccharomyces cerevisiae,2002,Science,2264,10.1126/science.1075090,United States,Article,Cambridge,0,Journal,2-s2.0-0037174671
+Zhou X.,,Transitive functional annotation by shortest-path analysis of gene expression data,2002,Proceedings of the National Academy of Sciences of the United States of America,260,10.1073/pnas.192159399,United States,Article,Boston,1,Journal,2-s2.0-0036790999
+von Mering C.,,Comparative assessment of large-scale data sets of protein-protein interactions,2002,Nature,1785,10.1038/nature750,Germany,Article,Heidelberg,0,Journal,2-s2.0-0037161731
+Maslov S.,,Specificity and stability in topology of protein networks,2002,Science,1956,10.1126/science.1065103,United States,Article,Upton,0,Journal,2-s2.0-0037012880
+Jansen R.,,Relating whole-genome expression data with protein-protein interactions,2002,Genome Research,492,10.1101/gr.205602,United States,Article,New Haven,1,Journal,2-s2.0-0036141992
+Agrawal H.,,Extreme Self-Organization in Networks Constructed from Gene Expression Data,2002,Physical Review Letters,66,10.1103/PhysRevLett.89.268702,Israel,Article,Rehovot,0,Journal,2-s2.0-13744265233
+Pavlidis P.,,Learning gene functional classifications from multiple data types,2002,Journal of Computational Biology,173,10.1089/10665270252935539,United States,Article,New York,0,Journal,2-s2.0-0036100116
+Hanisch D.,,Co-clustering of biological networks and gene expression data,2002,Bioinformatics,229,10.1093/bioinformatics/18.suppl_1.S145,Germany,Conference Paper,Sankt Augustin,1,Journal,2-s2.0-0038014879
+Mewes H.W.,,MIPS: A database for genomes and protein sequences,2002,Nucleic Acids Research,732,10.1093/nar/30.1.31,Germany;Germany,Article,Freising;Neuherberg,1,Journal,2-s2.0-0036081347
+Shen-Orr S.S.,,Network motifs in the transcriptional regulation network of Escherichia coli,2002,Nature Genetics,1952,10.1038/ng881,,Article,,0,Journal,2-s2.0-0036578795
+Gavin A.C.,,Functional organization of the yeast proteome by systematic analysis of protein complexes,2002,Nature,3691,10.1038/415141a,United Kingdom,Article,Brentford,0,Journal,2-s2.0-0037050026
+Ito T.,,A comprehensive two-hybrid analysis to explore the yeast protein interactome,2001,Proceedings of the National Academy of Sciences of the United States of America,2800,10.1073/pnas.061034498,Japan,Article,Kanazawa,1,Journal,2-s2.0-0035836765
+Vendruscolo M.,,Three key residues form a critical contact network in a protein folding transition state,2001,Nature,361,10.1038/35054591,United Kingdom,Article,Oxford,0,Journal,2-s2.0-0035252350
+Ge H.,,Correlation between transcriptome and interactome mapping data from Saccharomyces cerevisiae,2001,Nature Genetics,442,10.1038/ng776,United States,Article,Boston,0,Journal,2-s2.0-0035733690
+Getz G.,,Coupled two-way clustering analysis of gene microarray data,2000,Proceedings of the National Academy of Sciences of the United States of America,577,10.1073/pnas.210134797,Israel,Article,Rehovot,1,Journal,2-s2.0-0034710876
+Jeong H.,,The large-scale organization of metabolic networks,2000,Nature,3529,10.1038/35036627,United States,Article,Notre Dame,0,Journal,2-s2.0-0034609791
+Hughes T.,,Functional discovery via a compendium of expression profiles,2000,Cell,2000,10.1016/S0092-8674(00)00015-5,United States,Article,Seattle,1,Journal,2-s2.0-0034616930
+Getz G.,,Super-paramagnetic clustering of yeast gene expression profiles,2000,Physica A: Statistical Mechanics and its Applications,46,10.1016/S0378-4371(99)00524-5,Israel,Article,Rehovot,0,Journal,2-s2.0-0033746670
+Fellenberg M.,,Integrative analysis of protein interaction data.,2000,Proceedings / ... International Conference on Intelligent Systems for Molecular Biology ; ISMB. International Conference on Intelligent Systems for Molecular Biology,34,,Germany,Article,Planegg,0,Journal,2-s2.0-0034566478
+Hartwell L.H.,,From molecular to modular cell biology,1999,Nature,2539,10.1038/35011540,United States,Article,Seattle,0,Journal,2-s2.0-0033518234
+Marcotte E.,,A combined algorithm for genome-wide prediction of protein function,1999,Nature,716,10.1038/47048,United States,Article,Los Angeles,0,Journal,2-s2.0-0033523854
+Barabási A.,,Emergence of scaling in random networks,1999,Science,22102,10.1126/science.286.5439.509,United States,Article,Notre Dame,0,Journal,2-s2.0-0038483826
+Domany E.,,Superparamagnetic clustering of data - The definitive solution of an ill-posed problem,1999,Physica A: Statistical Mechanics and its Applications,45,10.1016/S0378-4371(98)00494-4,Israel,Article,Rehovot,0,Journal,2-s2.0-0000269043
+Cho R.,,A genome-wide transcriptional analysis of the mitotic cell cycle,1998,Molecular Cell,1661,10.1016/S1097-2765(00)80114-8,United States,Article,Stanford,1,Journal,2-s2.0-0032112293
+Spellman P.,,Comprehensive identification of cell cycle-regulated genes of the yeast Saccharomyces cerevisiae by microarray hybridization,1998,Molecular Biology of the Cell,3724,10.1091/mbc.9.12.3273,United States,Article,Stanford,0,Journal,2-s2.0-0031742022
+Blatt M.,,Superparamagnetic clustering of data,1996,Physical Review Letters,403,10.1103/PhysRevLett.76.3251,Israel,Article,Rehovot,0,Journal,2-s2.0-0000521616
+Swendsen R.,,Nonuniversal critical dynamics in Monte Carlo simulations,1987,Physical Review Letters,2034,10.1103/PhysRevLett.58.86,United States;United States,Article,Athens;Pittsburgh,0,Journal,2-s2.0-33747349191

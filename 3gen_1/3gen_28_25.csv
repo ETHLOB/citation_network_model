@@ -1,0 +1,32 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Okoniewski M.J.,,Hybridization interactions between probesets in short oligo microarrays lead to spurious correlations,2006,BMC Bioinformatics,113,10.1186/1471-2105-7-276,United Kingdom,Article,Manchester,1,Journal,2-s2.0-33746361200
+Irizarry R.,,Comparison of Affymetrix GeneChip expression measures,2006,Bioinformatics,223,10.1093/bioinformatics/btk046,United States,Article,Baltimore,1,Journal,2-s2.0-33645326509
+Draghici S.,,Reliability and reproducibility issues in DNA microarray measurements,2006,Trends in Genetics,435,10.1016/j.tig.2005.12.005,United States,Review,Detroit,0,Journal,2-s2.0-31444431754
+Thierry-Mieg D.,,AceView: a comprehensive cDNA-supported gene and transcripts annotation.,2006,Genome biology,447,,United States,Article,Bethesda,0,Journal,2-s2.0-33748486517
+Dai M.,,Evolving gene/transcript definitions significantly alter the interpretation of GeneChip data,2005,Nucleic Acids Research,1253,10.1093/nar/gni179,United States,Article,Ann Arbor,1,Journal,2-s2.0-29144535372
+Neverov A.,,Alternative splicing and protein function,2005,BMC Bioinformatics,34,10.1186/1471-2105-6-266,Russian Federation,Article,Moscow,1,Journal,2-s2.0-27844543371
+Zhou L.,,An expression index for Affymetrix GeneChips based on the generalized logarithm,2005,Bioinformatics,24,10.1093/bioinformatics/bti665,United States,Article,Thousand Oaks,1,Journal,2-s2.0-27744579507
+Perez-Iratxeta C.,,Inconsistencies over time in 5% of NetAffx probe-to-gene annotations,2005,BMC Bioinformatics,22,10.1186/1471-2105-6-183,Canada,Article,Ottawa,1,Journal,2-s2.0-25444438425
+Irizarry R.A.,,Multiple-laboratory comparison of microarray platforms,2005,Nature Methods,676,10.1038/nmeth756,United States,Article,Baltimore,0,Journal,2-s2.0-18244384210
+Carter S.L.,,Redefinition of Affymetrix probe sets by sequence overlap with cDNA microarray probes reduces cross-platform inconsistencies in cancer-associated gene expression measurements,2005,BMC Bioinformatics,100,10.1186/1471-2105-6-107,United States,Article,Boston,1,Journal,2-s2.0-25444515422
+Nielsen H.,,Implementation of a gene expression index calculation method based on the PDNN model,2005,Bioinformatics,7,10.1093/bioinformatics/bti078,Denmark,Article,Lyngby,1,Journal,2-s2.0-15844396393
+Zhang J.,,Detecting false expression signals in high-density oligonucleotide arrays by an in silico approach,2005,Genomics,48,10.1016/j.ygeno.2004.11.004,United States,Article,Bethesda,0,Journal,2-s2.0-13844256710
+Harbig J.,,A sequence-based identification of the genes detected by probesets on the Affymetrix U133 plus 2.0 array,2005,Nucleic Acids Research,97,10.1093/nar/gni027,United States,Article,Tampa,1,Journal,2-s2.0-26444454986
+Pruitt K.D.,,"NCBI Reference Sequence (RefSeq): A curated non-redundant sequence database of genomes, transcripts and proteins",2005,Nucleic Acids Research,1056,10.1093/nar/gki025,United States,Article,Bethesda,0,Journal,2-s2.0-13444306641
+Feingold E.A.,,The ENCODE (ENCyclopedia of DNA Elements) Project,2004,Science,1378,10.1126/science.1105136,United States,Review,Bethesda,0,Journal,2-s2.0-7444260846
+Gautier L.,,Alternative mapping of probes to genes for Affymetrix chips,2004,BMC Bioinformatics,94,10.1186/1471-2105-5-111,Denmark,Article,Lyngby,1,Journal,2-s2.0-13244277565
+Cope L.,,A benchmark for Affymetrix GeneChip expression measures,2004,Bioinformatics,225,10.1093/bioinformatics/btg410,United States,Article,Baltimore,1,Journal,2-s2.0-1342330572
+Gautier L.,,Affy - Analysis of Affymetrix GeneChip data at the probe level,2004,Bioinformatics,3052,10.1093/bioinformatics/btg405,Denmark,Article,Lyngby,1,Journal,2-s2.0-1342288026
+Mecham B.H.,,Sequence-matched probes produce increased cross-platform consistency and more reproducible biological results in microarray-based gene expression measurements.,2004,Nucleic acids research,150,10.1093/nar/gnh071,United States,Article,Boston,0,Journal,2-s2.0-2442691827
+Smyth G.K.,,Linear models and empirical bayes methods for assessing differential expression in microarray experiments,2004,Statistical Applications in Genetics and Molecular Biology,7977,10.2202/1544-6115.1027,Australia,Article,Melbourne,0,Journal,2-s2.0-4544341015
+Gentleman R.,,Bioconductor: open software development for computational biology and bioinformatics.,2004,Genome biology,8430,,United States,Article,Boston,0,Journal,2-s2.0-28744458859
+Tan P.,,Evaluation of gene expression measurements from commercial microarray platforms,2003,Nucleic Acids Research,602,10.1093/nar/gkg763,United States,Article,Bethesda,1,Journal,2-s2.0-0141905890
+Zhang L.,,A model of molecular interactions on short oligonucleotide microarrays,2003,Nature Biotechnology,264,10.1038/nbt836,United States,Article,Houston,0,Journal,2-s2.0-0038729666
+Irizarry R.,,Summaries of Affymetrix GeneChip probe level data,2003,Nucleic acids research,3770,10.1093/nar/gng015,United States,Article,Baltimore,0,Journal,2-s2.0-12344280017
+Wheeler D.L.,,Database resources of the national center for biotechnology,2003,Nucleic Acids Research,667,10.1093/nar/gkg033,United States,Review,Bethesda,1,Journal,2-s2.0-0037252705
+Irizarry R.,,"Exploration, normalization, and summaries of high density oligonucleotide array probe level data.",2003,"Biostatistics (Oxford, England)",7656,10.1093/biostatistics/4.2.249,United States,Article,Baltimore,1,Journal,2-s2.0-0142121516
+Tsai J.,,Resourcerer: A database for annotating and linking microarray resources within and across species,2001,Genome Biology,82,,United States,Article,Rockville,0,Journal,2-s2.0-0035181665
+Li C.,,Model-based analysis of oligonucleotide arrays: Expression index computation and outlier detection,2001,Proceedings of the National Academy of Sciences of the United States of America,2639,10.1073/pnas.98.1.31,United States,Article,Los Angeles,1,Journal,2-s2.0-0035793042
+Pruitt K.D.,,Introducing RefSeq and LocusLink: Curated human genome resources at the NCBI,2000,Trends in Genetics,196,10.1016/S0168-9525(99)01882-X,United States,Note,Bethesda,0,Journal,2-s2.0-0033967692
+Wodicka L.,,Genome-wide expression monitoring in Saccharomyces cerevisiae,1997,Nature Biotechnology,841,10.1038/nbt1297-1359,United States,Article,Waltham,0,Journal,2-s2.0-0031453850
+Lockhart D.,,Expression monitoring by hybridization to high-density oligonucleotide arrays,1996,Nature Biotechnology,2741,10.1038/nbt1296-1675,United States,Article,Waltham,0,Journal,2-s2.0-10544256600

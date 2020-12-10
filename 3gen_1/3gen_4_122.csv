@@ -1,0 +1,18 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Hubert M.,,ROBPCA: A new approach to robust principal component analysis,2005,Technometrics,558,10.1198/004017004000000563,Belgium,Article,3000 Leuven,0,Trade Journal,2-s2.0-13444287831
+Rousseeuw P.,,Robust multivariate regression,2004,Technometrics,82,10.1198/004017004000000329,Belgium,Article,Antwerpen,0,Trade Journal,2-s2.0-4544275029
+Hubert M.,,A robust PCR method for high-dimensional regressors,2003,Journal of Chemometrics,63,10.1002/cem.783,Belgium,Conference Paper,3000 Leuven,0,Journal,2-s2.0-0242322774
+Hubert M.,,A fast method for robust principal components with applications to chemometrics,2002,Chemometrics and Intelligent Laboratory Systems,180,10.1016/S0169-7439(01)00188-5,Belgium,Conference Paper,Antwerpen,0,Journal,2-s2.0-0037185465
+Pell R.,,Multiple outlier detection for multivariate calibration using robust statistical techniques,2000,Chemometrics and Intelligent Laboratory Systems,85,10.1016/S0169-7439(00)00082-4,United States,Article,Midland,0,Journal,2-s2.0-0034648388
+Rousseeuw P.,,A fast algorithm for the minimum covariance determinant estimator,1999,Technometrics,1247,10.1080/00401706.1999.10485670,Belgium,Article,Antwerpen,0,Journal,2-s2.0-0032680362
+Gil J.A.,,On robust partial least squares (PLS) methods,1998,Journal of Chemometrics,42,10.1002/(SICI)1099-128X(199811/12)12:6<365::AID-CEM519>3.0.CO;2-G,Spain,Article,Madrid,0,Journal,2-s2.0-0342397620
+Ronchetti E.,,Robust linear model selection by cross-validation,1997,Journal of the American Statistical Association,83,10.1080/01621459.1997.10474057,Switzerland,Article,Geneva,0,Journal,2-s2.0-21744461994
+Hardy A.,,Double-case diagnostic for outliers identification,1996,Chemometrics and Intelligent Laboratory Systems,14,10.1016/0169-7439(96)00012-3,United Kingdom,Article,Hull,0,Journal,2-s2.0-0030221835
+Cummins D.J.,,Iteratively reweighted partial least squares: A performance analysis by monte carlo simulation,1995,Journal of Chemometrics,77,10.1002/cem.1180090607,United States,Article,Raleigh,0,Journal,2-s2.0-84984395166
+de Jong S.,,SIMPLS: An alternative approach to partial least squares regression,1993,Chemometrics and Intelligent Laboratory Systems,1192,10.1016/0169-7439(93)85002-X,Netherlands,Article,Vlaardingen,0,Journal,2-s2.0-0027530250
+Rousseeuw P.,,Unmasking multivariate outliers and leverage points,1990,Journal of the American Statistical Association,873,10.1080/01621459.1990.10474920,Belgium,Article,Antwerpen,0,Journal,2-s2.0-84950439147
+Næs T.,,Multivariate calibration when the error covariance matrix is structured,1985,Technometrics,43,10.1080/00401706.1985.10488055,Norway,Article,As,0,Journal,2-s2.0-0022111477
+Li G.,,Projection-pursuit approach to robust dispersion matrices and principal components: Primary theory and Monte Carlo,1985,Journal of the American Statistical Association,194,10.1080/01621459.1985.10478181,China,Article,Beijing,0,Journal,2-s2.0-0001337027
+Osborne B.,,Application of near infrared reflectance spectroscopy to the compositional analysis of biscuits and biscuit doughs,1984,Journal of the Science of Food and Agriculture,89,10.1002/jsfa.2740350116,United Kingdom,Article,Chorleywood,0,Journal,2-s2.0-84986745987
+Rousseeuw P.,,Least median of squares regression,1984,Journal of the American Statistical Association,2137,10.1080/01621459.1984.10477105,Netherlands,Article,Delft,0,Journal,2-s2.0-84950968334
+Tucker L.,,An inter-battery method of factor analysis,1958,Psychometrika,201,10.1007/BF02289009,United States;United States,Article,Princeton;Princeton,0,Journal,2-s2.0-0000503256

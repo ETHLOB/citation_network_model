@@ -1,0 +1,19 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Kingma D.,,Regularized estimation of image statistics by Score Matching,2010,"Advances in Neural Information Processing Systems 23: 24th Annual Conference on Neural Information Processing Systems 2010, NIPS 2010",16,,Netherlands,Conference Paper,Utrecht,0,Conference Proceeding,2-s2.0-84860630952
+Marlin B.,,Inductive principles for restricted Boltzmann machine learning,2010,Journal of Machine Learning Research,76,,Canada,Conference Paper,Vancouver,0,Journal,2-s2.0-80053455323
+Vincent P.,,Stacked denoising autoencoders: Learning Useful Representations in a Deep Network with a Local Denoising Criterion,2010,Journal of Machine Learning Research,3229,,Canada,Article,Montreal,0,Journal,2-s2.0-79551480483
+Erhan D.,,Why does unsupervised pre-training help deep learning?,2010,Journal of Machine Learning Research,1245,,Canada,Article,Montreal,0,Journal,2-s2.0-77949522811
+Lyu S.,,Interpretation and generalization of score matching,2009,"Proceedings of the 25th Conference on Uncertainty in Artificial Intelligence, UAI 2009",21,,United States,Conference Paper,Albany,0,Conference Proceeding,2-s2.0-80053159994
+Movellan J.,,Contrastive divergence in Gaussian diffusions,2008,Neural Computation,4,10.1162/neco.2008.01-07-430,United States,Article,San Diego,0,Journal,2-s2.0-51349123206
+Hyvärinen A.,,Optimal approximation of signal priors,2008,Neural Computation,10,10.1162/neco.2008.10-06-384,Finland,Article,Helsinki,0,Journal,2-s2.0-57349101724
+Vincent P.,,Extracting and composing robust features with denoising autoencoders,2008,Proceedings of the 25th International Conference on Machine Learning,2749,10.1145/1390156.1390294,Canada,Conference Paper,Montreal,0,Conference Proceeding,2-s2.0-56449089103
+Bengio Y.,,Greedy layer-wise training of deep networks,2007,Advances in Neural Information Processing Systems,2736,,Canada,Conference Paper,Montreal,0,Conference Proceeding,2-s2.0-84864073449
+Hyvarinen A.,,"Connections between score matching, contrastive divergence, and pseudolikelihood for continuous-valued variables",2007,IEEE Transactions on Neural Networks,21,10.1109/TNN.2007.895819,Finland,Article,Helsinki,0,Journal,2-s2.0-34548644434
+Hyvärinen A.,,Some extensions of score matching,2007,Computational Statistics and Data Analysis,87,10.1016/j.csda.2006.09.003,Finland,Article,Helsinki,0,Journal,2-s2.0-33750982683
+Hinton G.,,A fast learning algorithm for deep belief nets,2006,Neural Computation,8546,10.1162/neco.2006.18.7.1527,Canada,Article,Toronto,0,Journal,2-s2.0-33745805403
+Hyvärinen A.,,Estimation of non-normalized statistical models by score matching,2005,Journal of Machine Learning Research,197,,Finland,Article,Helsinki,0,Journal,2-s2.0-22044434800
+Welling M.,,Exponential family harmoniums with an application to information retrieval,2005,Advances in Neural Information Processing Systems,180,,United States,Conference Paper,Irvine,0,Conference Proceeding,2-s2.0-84899000641
+Hinton G.E.,,Training products of experts by minimizing contrastive divergence,2002,Neural Computation,2671,10.1162/089976602760128018,United Kingdom,Article,London,0,Journal,2-s2.0-0013344078
+Welling M.,,A new learning algorithm for Mean Field Boltzmann Machines,2002,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),64,10.1007/3-540-46084-5_57,Canada,Conference Paper,Toronto,0,Book Series,2-s2.0-84862289622
+Seung H.,,Learning continuous attractors in recurrent networks,1998,Advances in Neural Information Processing Systems,53,,United States,Conference Paper,Murray,0,Conference Proceeding,2-s2.0-0000938157
+Duane S.,,Hybrid Monte Carlo,1987,Physics Letters B,1962,10.1016/0370-2693(87)91197-X,United Kingdom,Article,London,0,Journal,2-s2.0-4243137056

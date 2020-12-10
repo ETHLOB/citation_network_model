@@ -1,0 +1,16 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Park S.,,Co-trained support vector machines for large scale unstructured document classification using unlabeled data and syntactic information,2004,Information Processing and Management,24,10.1016/j.ipm.2003.09.003,South Korea,Article,Seoul,0,Journal,2-s2.0-1842843693
+Zhu X.,,Semi-Supervised Learning Using Gaussian Fields and Harmonic Functions,2003,"Proceedings, Twentieth International Conference on Machine Learning",2480,,United States,Conference Paper,Pittsburgh,0,Conference Proceeding,2-s2.0-1942484430
+Levin A.,,Unsupervised improvement of visual detectors using co-training,2003,Proceedings of the IEEE International Conference on Computer Vision,174,10.1109/iccv.2003.1238406,Israel,Conference Paper,Jerusalem,0,Conference Proceeding,2-s2.0-0344982834
+Dunagan J.,,Optimal outlier removal in high-dimensional spaces,2001,Conference Proceedings of the Annual ACM Symposium on Theory of Computing,12,,United States,Conference Paper,Cambridge,0,Conference Proceeding,2-s2.0-0034818590
+Boucheron S.,,A sharp concentration inequality with applications,2000,Random Structures and Algorithms,110,10.1002/(SICI)1098-2418(200005)16:3<277::AID-RSA4>3.0.CO;2-1,France,Article,Gif-sur-Yvette,0,Journal,2-s2.0-0034344120
+Nigam K.,,Text classification from labeled and unlabeled documents using EM,2000,Machine Learning,1883,10.1023/a:1007692713085,United States,Article,Pittsburgh,1,Journal,2-s2.0-0033886806
+Shawe-Taylor J.,,Structural risk minimization over data-dependent hierarchies,1998,IEEE Transactions on Information Theory,299,10.1109/18.705570,United Kingdom;Australia,Article,Egham;Canberra,0,Journal,2-s2.0-0032166068
+Blum A.,,A polynomial-time algorithm for learning noisy linear threshold functions,1998,Algorithmica (New York),66,10.1007/PL00013833,United States,Article,Pittsburgh,0,Journal,2-s2.0-0001926474
+Blum A.,,Combining labeled and unlabeled data with co-training,1998,Proceedings of the Annual ACM Conference on Computational Learning Theory,3259,10.1145/279943.279962,United States,Conference Paper,Pittsburgh,0,Conference Proceeding,2-s2.0-0031620208
+Castelli V.,,The relative value of labeled and unlabeled samples in pattern recognition with an unknown mixing parameter,1996,IEEE Transactions on Information Theory,124,10.1109/18.556600,United States;United States,Article,Yorktown Heights;New York,0,Journal,2-s2.0-0001662441
+Castelli V.,,On the exponential value of labeled samples,1995,Pattern Recognition Letters,124,10.1016/0167-8655(94)00074-D,United States,Article,Palo Alto,0,Journal,2-s2.0-0029195475
+Benedek G.,,Learnability with respect to fixed distributions,1991,Theoretical Computer Science,54,10.1016/0304-3975(91)90026-X,Israel,Article,Haifa,1,Journal,2-s2.0-0026414013
+Blumer A.,,Learnability and the Vapnik-Chervonenkis Dimension,1989,Journal of the ACM (JACM),946,10.1145/76359.76371,United States,Article,Medford,0,Journal,2-s2.0-0024750852
+Ehrenfeucht A.,,A general lower bound on the number of examples needed for learning,1989,Information and Computation,207,10.1016/0890-5401(89)90002-3,United States,Article,Boulder,1,Journal,2-s2.0-0024739191
+Valiant L.,,A theory of the learnable,1984,Communications of the ACM,2665,10.1145/1968.1972,United States,Article,Cambridge,0,Journal,2-s2.0-0021518106

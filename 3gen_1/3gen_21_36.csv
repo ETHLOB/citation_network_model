@@ -1,0 +1,9 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Ranzato M.A.,,Generating more realistic images using gated MRF's,2010,"Advances in Neural Information Processing Systems 23: 24th Annual Conference on Neural Information Processing Systems 2010, NIPS 2010",39,,Canada,Conference Paper,Toronto,0,Conference Proceeding,2-s2.0-84860624016
+Ranzato M.,,Modeling pixel means and covariances using factorized third-order Boltzmann machines,2010,Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition,144,10.1109/CVPR.2010.5539962,Canada,Conference Paper,Toronto,0,Conference Proceeding,2-s2.0-77955989954
+Salakhutdinov R.,,Deep Boltzmann machines,2009,Journal of Machine Learning Research,894,,Canada,Conference Paper,Toronto,0,Journal,2-s2.0-84862286946
+Tieleman T.,,Training restricted boltzmann machines using approximations to the likelihood gradient,2008,Proceedings of the 25th International Conference on Machine Learning,497,10.1145/1390156.1390290,Canada,Conference Paper,Toronto,0,Conference Proceeding,2-s2.0-56449086223
+Hinton G.E.,,Training products of experts by minimizing contrastive divergence,2002,Neural Computation,2671,10.1162/089976602760128018,United Kingdom,Article,London,0,Journal,2-s2.0-0013344078
+Williams C.,,Products of Gaussians and Probabilistic Minor Component Analysis,2002,Neural Computation,19,10.1162/089976602753633439,United Kingdom,Article,Edinburgh,0,Journal,2-s2.0-0036581055
+Hyvärinen A.,,Independent component analysis: Algorithms and applications,2000,Neural Networks,5268,10.1016/S0893-6080(00)00026-5,Finland,Article,Espoo,0,Journal,2-s2.0-0042826822
+Mitchell T.,,Bayesian variable selection in linear regression,1988,Journal of the American Statistical Association,548,10.1080/01621459.1988.10478694,United States,Article,Oak Ridge,0,Journal,2-s2.0-0000130839

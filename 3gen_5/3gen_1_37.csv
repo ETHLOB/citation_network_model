@@ -1,0 +1,28 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Chen H.,,Similarity-based methods for potential human microRNA-disease association prediction,2013,BMC Medical Genomics,74,10.1186/1755-8794-6-12,China;China,Article,Loudi;Changsha,1,Journal,2-s2.0-84875900653
+Liu X.,,SM2miR: A database of the experimentally validated small molecules' effects on microRNA expression,2013,Bioinformatics,76,10.1093/bioinformatics/bts698,China,Article,Harbin,1,Journal,2-s2.0-84873314356
+Bhattacharya A.,,SomamiR: A database for somatic mutations impacting microRNA function in cancer,2013,Nucleic Acids Research,58,10.1093/nar/gks1138,United States,Article,Memphis,1,Journal,2-s2.0-84875362088
+Yang J.,,ChIPBase: A database for decoding the transcriptional regulation of long non-coding RNA and microRNA genes from ChIP-Seq data,2013,Nucleic Acids Research,240,10.1093/nar/gks1060,China,Article,Guangzhou,1,Journal,2-s2.0-84876566914
+Qiu C.,,Towards the understanding of microRNA and environmental factor interactions and their relationships to human diseases,2012,Scientific Reports,54,10.1038/srep00318,China,Article,Beijing,1,Journal,2-s2.0-84859748673
+Creemers E.,,Circulating MicroRNAs: Novel biomarkers and extracellular communicators in cardiovascular disease?,2012,Circulation Research,643,10.1161/CIRCRESAHA.111.247452,Netherlands,Review,Amsterdam,1,Journal,2-s2.0-84856695673
+Ziebarth J.,,PolymiRTS database 2.0: Linking polymorphisms in microRNA target sites with human diseases and complex traits,2012,Nucleic Acids Research,97,10.1093/nar/gkr1026,United States,Article,Memphis,1,Journal,2-s2.0-84862162057
+Chen X.,,RWRMDA: Predicting novel human microRNA-disease associations,2012,Molecular BioSystems,225,10.1039/c2mb25180a,China;China,Article,Beijing;Beijing,0,Journal,2-s2.0-84865786695
+Gong J.,,Genome-wide identification of SNPs in MicroRNA genes and the SNP effects on MicroRNA target binding and biogenesis,2012,Human Mutation,247,10.1002/humu.21641,China;China,Article,Wuhan;Wuhan,1,Journal,2-s2.0-84857691987
+Vergoulis T.,,TarBase 6.0: Capturing the exponential growth of miRNA targets with experimental support,2012,Nucleic Acids Research,413,10.1093/nar/gkr1161,Greece,Article,Athens,1,Journal,2-s2.0-84862176128
+Yang Q.,,"Mirenvironment database: Providing a bridge for micrornas, environmental factors and phenotypes",2011,Bioinformatics,55,10.1093/bioinformatics/btr556,China;China,Article,Tianjin;Beijing,1,Journal,2-s2.0-82255185481
+Hsu S.,,MiRTarBase: A database curates experimentally validated microRNA-target interactions,2011,Nucleic Acids Research,722,10.1093/nar/gkq1107,Taiwan,Article,Hsinchu,1,Journal,2-s2.0-78651266827
+Yang Z.,,DbDEMC: A database of differentially expressed miRNAs in human cancers,2010,BMC Genomics,148,10.1186/1471-2164-11-S4-S5,China;China;China,Article,Shanghai;Beijing;Beijing,1,Journal,2-s2.0-78649778244
+Lu M.,,TAM: A method for enrichment and depletion analysis of a microRNA category in a list of microRNAs,2010,BMC Bioinformatics,102,10.1186/1471-2105-11-419,China,Article,Beijing,1,Journal,2-s2.0-77955286897
+Wang D.,,Inferring the human microRNA functional similarity and functional network based on microRNA-associated diseases,2010,Bioinformatics,319,10.1093/bioinformatics/btq241,China;China,Article,Beijing;Beijing,1,Journal,2-s2.0-77954193356
+Ruepp A.,,PhenomiR: A knowledgebase for microRNA expression in diseases and biological processes,2010,Genome Biology,182,10.1186/gb-2010-11-1-r6,Germany,Article,Neuherberg,1,Journal,2-s2.0-77349120755
+Wang J.,,TransmiR: A transcription factor microRNA regulation database,2009,Nucleic Acids Research,289,10.1093/nar/gkp803,China,Article,Beijing,1,Journal,2-s2.0-75549092303
+Bartel D.,,MicroRNAs: Target Recognition and Regulatory Functions,2009,Cell,13027,10.1016/j.cell.2009.01.002,United States;United States,Review,Cambridge;Cambridge,1,Journal,2-s2.0-58249088751
+Jiang Q.,,miR2Disease: A manually curated database for microRNA deregulation in human disease,2009,Nucleic Acids Research,883,10.1093/nar/gkn714,China,Article,Harbin,1,Journal,2-s2.0-58149179989
+Xiao F.,,miRecords: An integrated resource for microRNA-target interactions,2009,Nucleic Acids Research,970,10.1093/nar/gkn851,United States,Article,Minneapolis,1,Journal,2-s2.0-58149186499
+Lu M.,,An analysis of human microRNA and disease associations,2008,PLoS ONE,630,10.1371/journal.pone.0003420,China;China,Article,Beijing;Beijing,1,Journal,2-s2.0-54849408182
+Latronico M.,,Emerging role of microRNAs in cardiovascular biology,2007,Circulation Research,218,10.1161/CIRCRESAHA.107.163147,Italy,Review,Milan,1,Journal,2-s2.0-37349042225
+Calin G.,,MicroRNA signatures in human cancers,2006,Nature Reviews Cancer,5856,10.1038/nrc1997,United States,Review,Columbus,0,Journal,2-s2.0-33750370444
+Esquela-Kerscher A.,,Oncomirs - MicroRNAs with a role in cancer,2006,Nature Reviews Cancer,5573,10.1038/nrc1840,United States,Review,New Haven,0,Journal,2-s2.0-33645294070
+Ambros V.,,The functions of animal microRNAs,2004,Nature,7817,10.1038/nature02871,United States,Review,Hanover,0,Journal,2-s2.0-4644309196
+Bartel D.,,"MicroRNAs: Genomics, Biogenesis, Mechanism, and Function",2004,Cell,25003,10.1016/S0092-8674(04)00045-5,United States;United States,Review,Cambridge;Cambridge,1,Journal,2-s2.0-0347444723
+Griffiths-Jones S.,,The microRNA registry,2004,Nucleic Acids Research,1627,,United Kingdom,Article,Hinxton,0,Journal,2-s2.0-0347755643

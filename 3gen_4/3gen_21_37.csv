@@ -1,0 +1,13 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Li H.,,Text classification using ESC-based stochastic decision lists,2002,Information Processing and Management,18,10.1016/S0306-4573(01)00038-3,China;Japan,Article,Beijing;Tokyo,0,Journal,2-s2.0-0036567933
+Li H.,,Mining from open answers in questionnaire data,2001,Proceedings of the Seventh ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,36,10.1145/502512.502579,China;Japan,Conference Paper,Beijing;Tokyo,0,Conference Proceeding,2-s2.0-0035789645
+Prager J.,,Question-answering by predictive annotation,2000,SIGIR Forum (ACM Special Interest Group on Information Retrieval),116,10.1145/345508.345574,United States,Conference Paper,Yorktown Heights,0,Journal,2-s2.0-0033650324
+Voorhees E.M.,,Building a question answering test collection,2000,SIGIR Forum (ACM Special Interest Group on Information Retrieval),150,10.1145/345508.345577,United States,Conference Paper,Gaithersburg,0,Journal,2-s2.0-0033661290
+Craven M.,,Learning to construct knowledge bases from the World Wide Web,2000,Artificial Intelligence,258,10.1016/S0004-3702(00)00004-7,United States,Article,Pittsburgh,1,Journal,2-s2.0-0034172483
+Yamanishi K.,,A decision-theoretic extension of stochastic complexity and its applications to learning,1998,IEEE Transactions on Information Theory,54,10.1109/18.681319,Japan;United States,Article,Tokyo;Princeton,0,Journal,2-s2.0-0032121805
+Adelberg B.,,NoDoSE - A tool for semi-automatically extracting structured and semistructured data from text documents,1998,SIGMOD Record,236,10.1145/276305.276330,United States,Article,Evanston,0,Journal,2-s2.0-0032092761
+Florescu D.,,Database Techniques for the World-Wide Web: A Survey,1998,SIGMOD Record (ACM Special Interest Group on Management of Data),328,10.1145/290593.290605,,Article,,0,Journal,2-s2.0-0343421094
+Ashish N.,,Wrapper Generation for Semi-structured Internet Sources,1997,SIGMOD Record (ACM Special Interest Group on Management of Data),131,10.1145/271074.271078,United States,Article,Marina del Rey,0,Journal,2-s2.0-0001867886
+Doorenbos R.,,Scalable comparison-shopping agent for the World-Wide Web,1997,Proceedings of the International Conference on Autonomous Agents,273,,United States,Conference Paper,Seattle,0,Conference Proceeding,2-s2.0-0030687845
+Rissanen J.,,Fisher information and stochastic complexity,1996,IEEE Transactions on Information Theory,491,10.1109/18.481776,United States;United States,Article,San Jose;New York,0,Journal,2-s2.0-0029777083
+Yamanishi K.,,A Learning Criterion for Stochastic Rules,1992,Machine Learning,54,10.1023/A:1022641132503,Japan,Article,Tokyo,1,Journal,2-s2.0-0000819141

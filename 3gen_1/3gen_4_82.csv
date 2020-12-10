@@ -1,0 +1,18 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Schmidberger M.,,State of the art in parallel computing with R,2009,Journal of Statistical Software,70,10.18637/jss.v031.i01,Germany,Article,Munich,1,Journal,2-s2.0-69849112020
+Kalisch M.,,Estimating high-dimensional directed acyclic graphs with the PC-algorithm,2007,Journal of Machine Learning Research,349,,Switzerland,Article,"Zurich ZH,",0,Journal,2-s2.0-33947524259
+Højsgaard S.,,Inference in graphical Gaussian models with edge and vertex symmetries with the gRc package for R,2007,Journal of Statistical Software,11,10.18637/jss.v023.i06,Denmark;Denmark,Article,Aarhus;Tjele,1,Journal,2-s2.0-40549129689
+Tsamardinos I.,,The max-min hill-climbing Bayesian network structure learning algorithm,2006,Machine Learning,774,10.1007/s10994-006-6889-7,United States,Article,Nashville,1,Journal,2-s2.0-33746035971
+Yaramakala S.,,Speculative Markov blanket discovery for optimal feature selection,2005,"Proceedings - IEEE International Conference on Data Mining, ICDM",96,10.1109/ICDM.2005.134,United States,Conference Paper,Ames,0,Conference Proceeding,2-s2.0-34548559167
+Dethlefsen C.,,A common platform for graphical models in R: The gRbase package,2005,Journal of Statistical Software,17,10.18637/jss.v014.i17,Denmark,Article,Aalborg,1,Journal,2-s2.0-28844468911
+Acid S.,,A comparison of learning algorithms for Bayesian networks: A case study based on data from an emergency medical service,2004,Artificial Intelligence in Medicine,62,10.1016/j.artmed.2003.11.002,Spain,Article,Granada,0,Journal,2-s2.0-1842815776
+Moore A.,,Optimal Reinsertion: A new search operator for accelerated and more accurate Bayesian network structure learning,2003,"Proceedings, Twentieth International Conference on Machine Learning",66,,United States,Conference Paper,Pittsburgh,0,Conference Proceeding,2-s2.0-1942452317
+Bøttcher S.G.,,Deal: A package for learning bayesian networks,2003,Journal of Statistical Software,78,,Denmark,Article,Aalborg,0,Journal,2-s2.0-4544365481
+Chickering D.,,Optimal structure identification with greedy search,2003,Journal of Machine Learning Research,581,10.1162/153244303321897717,United States,Conference Paper,Redmond,0,Journal,2-s2.0-0042967741
+Bach F.R.,,Learning graphical models with mercer kernels,2003,Advances in Neural Information Processing Systems,17,,United States,Conference Paper,Berkeley,0,Conference Proceeding,2-s2.0-84898934907
+Friedman N.,,Using Bayesian networks to analyze expression data,2000,Journal of Computational Biology,2116,10.1089/106652700750050961,Israel,Conference Paper,Jerusalem,0,Journal,2-s2.0-0033707946
+Legendre P.,,Comparison of permutation methods for the partial correlation and partial Mantel tests,2000,Journal of Statistical Computation and Simulation,180,10.1080/00949650008812035,Canada,Review,Montreal,0,Journal,2-s2.0-0034350102
+Heckerman D.,,Learning Bayesian Networks: The Combination of Knowledge and Statistical Data,1995,Machine Learning,2099,10.1023/A:1022623210503,United States,Article,Redmond,1,Journal,2-s2.0-34249761849
+Lam W.,,LEARNING BAYESIAN BELIEF NETWORKS: AN APPROACH BASED ON THE MDL PRINCIPLE,1994,Computational Intelligence,526,10.1111/j.1467-8640.1994.tb00166.x,Canada,Article,Waterloo,0,Journal,2-s2.0-0028482006
+Cooper G.,,A Bayesian Method for the Induction of Probabilistic Networks from Data,1992,Machine Learning,2718,10.1023/A:1022649401552,United States,Article,Pittsburgh,1,Journal,2-s2.0-34249832377
+Rissanen J.,,Modeling by shortest data description,1978,Automatica,3678,10.1016/0005-1098(78)90005-5,United States,Article,San Jose,0,Journal,2-s2.0-0018015137

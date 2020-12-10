@@ -1,0 +1,49 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Von Luxburg U.,,A compression approach to support vector model selection,2004,Journal of Machine Learning Research,41,,Germany,Article,Tubingen,0,Journal,2-s2.0-15844406872
+Panchenko D.,,Symmetrization approach to concentration inequalities for empirical processes,2003,Annals of Probability,16,10.1214/aop/1068646378,United States,Article,Cambridge,1,Journal,2-s2.0-0347593390
+Luczak M.,,Concentration for locally acting permutations,2003,Discrete Mathematics,8,10.1016/S0012-365X(02)00628-3,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-84867925611
+Bartlett P.,,Rademacher and Gaussian complexities: Risk bounds and structural results,2003,Journal of Machine Learning Research,839,10.1162/153244303321897690,Australia,Conference Paper,Canberra,0,Journal,2-s2.0-0038453192
+Antos A.,,Data-dependent margin-based generalization bounds for classification,2003,Journal of Machine Learning Research,22,10.1162/153244303768966111,Canada,Article,Kingston,0,Journal,2-s2.0-0042967689
+Boucheron S.,,Concentration inequalities using the entropy method,2003,Annals of Probability,107,10.1214/aop/1055425791,France,Article,Gif-sur-Yvette,1,Journal,2-s2.0-0038373013
+Bousquet O.,,A Bennett concentration inequality and its application to suprema of empirical processes,2002,Comptes Rendus Mathematique,121,10.1016/S1631-073X(02)02292-6,France,Article,Palaiseau,0,Journal,2-s2.0-0037561860
+McDiarmid C.,,Concentration for independent permutations,2002,Combinatorics Probability and Computing,34,10.1017/S0963548301005089,United Kingdom,Article,Oxford,0,Journal,2-s2.0-0036004171
+Koltchinskii V.,,Empirical margin distributions and bounding the generalization error of combined classifiers,2002,Annals of Statistics,236,,United States,Article,Albuquerque,0,Journal,2-s2.0-0036104545
+Bousquet O.,,Some local measures of complexity of convex hulls and generalization bounds,2002,Lecture Notes in Artificial Intelligence (Subseries of Lecture Notes in Computer Science),15,10.1007/3-540-45435-7_5,France,Conference Paper,Palaiseau,0,Conference Proceeding,2-s2.0-26444452739
+Panchenko D.,,Some extensions of an inequality of vapnik and chervonenkis,2002,Electronic Communications in Probability,16,10.1214/ECP.v7-1047,United States,Article,Albuquerque,1,Journal,2-s2.0-0347349284
+Bartlett P.L.,,Localized rademacher complexities,2002,Lecture Notes in Artificial Intelligence (Subseries of Lecture Notes in Computer Science),28,10.1007/3-540-45435-7_4,Australia;United States,Conference Paper,Canberra;Berkeley,0,Conference Proceeding,2-s2.0-84937440359
+Bartlett P.L.,,Model selection and error estimation,2002,Machine Learning,207,10.1023/A:1013999503812,United States,Article,Berkeley,1,Journal,2-s2.0-0036643049
+Koltchinskii V.,,Rademacher penalties and structural risk minimization,2001,IEEE Transactions on Information Theory,188,10.1109/18.930926,United States,Article,Albuquerque,0,Journal,2-s2.0-0035397715
+Panchenko D.,,A note on talagrand’s concentration inequality,2001,Electronic Communications in Probability,9,10.1214/ECP.v6-1034,United States,Article,Albuquerque,1,Journal,2-s2.0-0347979483
+Rio E.,,Concentration inequalities for set-indexed empirical processes,2001,Probability Theory and Related Fields,30,10.1007/pl00008756,France,Article,Versailles,0,Journal,2-s2.0-0040437027
+Boucheron S.,,A sharp concentration inequality with applications,2000,Random Structures and Algorithms,110,10.1002/(SICI)1098-2418(200005)16:3<277::AID-RSA4>3.0.CO;2-1,France,Article,Gif-sur-Yvette,0,Journal,2-s2.0-0034344120
+Massart P.,,About the constants in talagrand's concentration inequalities for empirical processes,2000,Annals of Probability,124,10.1214/aop/1019160263,France,Article,Paris,1,Journal,2-s2.0-0034345597
+Kulkarni S.,,Learning pattern classification-A survey,1998,IEEE Transactions on Information Theory,104,10.1109/18.720536,United States;United States,Article,Princeton;New York,0,Journal,2-s2.0-0032182920
+Cesa-Bianchi N.,,A graph-theoretic generalization of the Sauer-Shelah lemma,1998,Discrete Applied Mathematics,6,10.1016/S0166-218X(98)00012-2,Italy,Article,Milan,1,Journal,2-s2.0-0345767185
+Szarek S.,,On the Convexified Sauer-Shelah Theorem,1997,Journal of Combinatorial Theory. Series B,4,10.1006/jctb.1996.1736,United States,Article,Cleveland,1,Journal,2-s2.0-0040655284
+Alesker S.,,A Remark on the Szarek-Talagrand Theorem,1997,Combinatorics Probability and Computing,5,10.1017/S0963548396002866,Israel,Article,Tel Aviv-Yafo,0,Journal,2-s2.0-0031519029
+Koiran P.,,Neural Networks with Quadratic VC Dimension,1997,Journal of Computer and System Sciences,33,10.1006/jcss.1997.1479,France,Article,Lyon,1,Journal,2-s2.0-0031077291
+Dembo A.,,Information inequalities and concentration of measure,1997,Annals of Probability,40,10.1214/aop/1024404424,United States,Article,Palo Alto,1,Journal,2-s2.0-0031514634
+Bobkov S.,,Poincaré's inequalities and Talagrand's concentration phenomenon for the exponential distribution,1997,Probability Theory and Related Fields,77,10.1007/s004400050090,Russian Federation,Article,Syktyvkar,0,Journal,2-s2.0-0031484536
+Karpinski M.,,Polynomial Bounds for VC Dimension of Sigmoidal and General Pfaffian Neural Networks,1997,Journal of Computer and System Sciences,78,10.1006/jcss.1997.1477,Germany,Article,Bonn,1,Journal,2-s2.0-0031077292
+Ledoux M.,,On talagrand’s deviation inequalities for product measures,1997,ESAIM - Probability and Statistics,137,10.1051/ps:1997103,France,Article,Toulouse,1,Journal,2-s2.0-84996133877
+Alon N.,,"Scale-sensitive dimensions, uniform convergence, and learnability",1997,Journal of the ACM,185,10.1145/263867.263927,Israel,Article,Tel Aviv-Yafo,0,Journal,2-s2.0-0031176507
+Giné E.,,Empirical processes and applications: An overview,1996,Bernoulli,11,10.3150/bj/1193758786,United States,Article,Storrs,0,Journal,2-s2.0-0002957273
+Marton K.,,Bounding d̄-distance by informational divergence: A method to prove measure concentration,1996,Annals of Probability,120,10.1214/aop/1039639365,Hungary,Article,Budapest,1,Journal,2-s2.0-0030514042
+Talagrand M.,,A new look at independence,1996,Annals of Probability,170,10.1214/aop/1042644705,France;United States,Article,Paris;Columbus,1,Journal,2-s2.0-0030522124
+Talagrand M.,,New concentration inequalities in product spaces,1996,Inventiones Mathematicae,251,10.1007/s002220050108,France;United States,Article,Paris;Columbus,0,Journal,2-s2.0-0030489977
+Talagrand M.,,Concentration of measure and isoperimetric inequalities in product spaces,1995,Publications Mathématiques de l'Institut des Hautes Scientifiques,442,10.1007/BF02699376,France,Article,Paris,0,Journal,2-s2.0-51249165477
+Goldberg P.,,Bounding the Vapnik-Chervonenkis Dimension of Concept Classes Parameterized by Real Numbers,1995,Machine Learning,73,10.1023/A:1022847329178,,Article,,1,Journal,2-s2.0-0029256399
+Haussler D.,,Sphere packing numbers for subsets of the Boolean n-cube with bounded Vapnik-Chervonenkis dimension,1995,"Journal of Combinatorial Theory, Series A",152,10.1016/0097-3165(95)90052-7,United States;United States,Article,Santa Cruz;Berkeley,1,Journal,2-s2.0-0000996139
+Macintyre A.,,"Finiteness results for sigmoidal ""neural"" networks",1993,Proceedings of the Annual ACM Symposium on Theory of Computing,42,10.1145/167088.167192,United Kingdom,Conference Paper,Oxford,0,Conference Proceeding,2-s2.0-0027205881
+Blumer A.,,Learnability and the Vapnik-Chervonenkis Dimension,1989,Journal of the ACM (JACM),946,10.1145/76359.76371,United States,Article,Medford,0,Journal,2-s2.0-0024750852
+Ehrenfeucht A.,,A general lower bound on the number of examples needed for learning,1989,Information and Computation,207,10.1016/0890-5401(89)90002-3,United States,Article,Boulder,1,Journal,2-s2.0-0024739191
+Marton K.,,A Simple Proof of the Blowing-Up Lemma,1986,IEEE Transactions on Information Theory,94,10.1109/TIT.1986.1057176,Hungary,Article,Budapest,0,Journal,2-s2.0-0022720166
+Frankl P.,,On the trace of finite sets,1983,"Journal of Combinatorial Theory, Series A",60,10.1016/0097-3165(83)90038-9,India,Article,Mumbai,1,Journal,2-s2.0-0037600798
+Wenocur R.,,Some special vapnik-chervonenkis classes,1981,Discrete Mathematics,85,10.1016/0012-365X(81)90274-0,United States,Article,Philadelphia,1,Journal,2-s2.0-0000392470
+Dudley R.,,Balls in R<sup>k</sup> do not cut all subsets of k + 2 points,1979,Advances in Mathematics,26,10.1016/0001-8708(79)90047-1,United States,Article,Cambridge,1,Journal,2-s2.0-0011275803
+Steele J.M.,,Existence of submatrices with all possible columns,1978,"Journal of Combinatorial Theory, Series A",18,10.1016/0097-3165(78)90046-8,Canada,Article,Vancouver,1,Journal,2-s2.0-0041525684
+Ahlswede R.,,Bounds on conditional probabilities with applications in multi-user communication,1976,Zeitschrift für Wahrscheinlichkeitstheorie und Verwandte Gebiete,96,10.1007/BF00535682,United States,Article,Columbus,0,Journal,2-s2.0-0000911221
+Shelah S.,,A combinatorial problem; Stability and order for models and theories in infinitary languages,1972,Pacific Journal of Mathematics,270,10.2140/pjm.1972.41.247,United States;Israel,Article,Los Angeles;Jerusalem,1,Journal,2-s2.0-84972576948
+Sauer N.,,On the density of families of sets,1972,"Journal of Combinatorial Theory, Series A",477,10.1016/0097-3165(72)90019-2,Canada,Article,Calgary,1,Journal,2-s2.0-0001703864
+Cover T.,,Geometrical and Statistical Properties of Systems of Linear Inequalities with Applications in Pattern Recognition,1965,IEEE Transactions on Electronic Computers,1126,10.1109/PGEC.1965.264137,United States,Letter,Palo Alto,0,Journal,2-s2.0-84918441630
+Hoeffding W.,,Probability Inequalities for Sums of Bounded Random Variables,1963,Journal of the American Statistical Association,4180,10.1080/01621459.1963.10500830,United States,Article,Chapel Hill,0,Journal,2-s2.0-84947403595

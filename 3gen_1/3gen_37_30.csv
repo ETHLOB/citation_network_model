@@ -1,0 +1,13 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Strehl A.,,Cluster ensembles - A knowledge reuse framework for combining multiple partitions,2003,Journal of Machine Learning Research,2803,10.1162/153244303321897735,United States,Conference Paper,Austin,0,Journal,2-s2.0-0041965980
+Kleinberg J.,,An impossibility theorem for clustering,2003,Advances in Neural Information Processing Systems,137,,United States,Conference Paper,Ithaca,0,Conference Proceeding,2-s2.0-84898936045
+Fred A.,,Data clustering using evidence accumulation,2002,Proceedings - International Conference on Pattern Recognition,365,,Portugal,Conference Paper,Lisbon,0,Conference Proceeding,2-s2.0-33845229615
+Johnson E.L.,,"Collective, hierarchical clustering from distributed, heterogeneous data",2002,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),50,,United States,Article,Pullman,0,Journal,2-s2.0-84949523513
+Mirkin B.,,Reinterpreting the Category Utility Function,2001,Machine Learning,65,10.1023/A:1010924920739,United States;United Kingdom,Article,New Brunswick;London,1,Journal,2-s2.0-0042763812
+Dimitriadou E.,,Voting-merging: An ensemble method for clustering,2001,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),49,10.1007/3-540-44668-0_31,Austria,Conference Paper,Vienna,0,Book Series,2-s2.0-84958955890
+Fred A.,,Finding consistent clusters in data partitions,2001,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),190,10.1007/3-540-48219-9_31,Portugal,Conference Paper,Lisbon,0,Book Series,2-s2.0-84957012677
+Jain A.,,Data clustering: A review,1999,ACM Computing Surveys,8744,10.1145/331499.331504,United States,Conference Paper,East Lansing,0,Journal,2-s2.0-84893405732
+Quinlan J.,,"Bagging, boosting, and C4.5",1996,Proceedings of the National Conference on Artificial Intelligence,990,,Australia,Conference Paper,Sydney,0,Conference Proceeding,2-s2.0-0030370417
+Odewahn S.,,Automated star/galaxy discrimination with neural networks,1992,Astronomical Journal,141,10.1086/116063,United States,Article,Minneapolis,0,Journal,2-s2.0-0038614486
+Kleinberg E.,,Stochastic discrimination,1990,Annals of Mathematics and Artificial Intelligence,74,10.1007/BF01531079,United States,Article,Buffalo,0,Journal,2-s2.0-0001284939
+Fisher D.,,Knowledge Acquisition Via Incremental Conceptual Clustering,1987,Machine Learning,1145,10.1023/A:1022852608280,,Article,,1,Journal,2-s2.0-0343442766

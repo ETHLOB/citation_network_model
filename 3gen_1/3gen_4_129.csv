@@ -1,0 +1,20 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Bauer E.,,"Empirical comparison of voting classification algorithms: bagging, boosting, and variants",1999,Machine Learning,1533,10.1023/a:1007515423169,United States,Article,Palo Alto,1,Journal,2-s2.0-0032645080
+Maclin R.,,Boosting classifiers regionally,1998,Proceedings of the National Conference on Artificial Intelligence,19,,United States,Conference Paper,Duluth,0,Conference Proceeding,2-s2.0-0031641798
+Grove A.,,Boosting in the limit: Maximizing the margin of learned ensembles,1998,Proceedings of the National Conference on Artificial Intelligence,164,,United States,Conference Paper,Princeton,0,Conference Proceeding,2-s2.0-0031638384
+Asker L.,,Ensembles as a sequence of classifiers,1997,IJCAI International Joint Conference on Artificial Intelligence,17,,Sweden;United States,Conference Paper,Stockholm;Pasadena,0,Conference Proceeding,2-s2.0-84880681658
+Maclin R.,,Empirical evaluation of bagging and boosting,1997,Proceedings of the National Conference on Artificial Intelligence,127,,United States,Conference Paper,Duluth,0,Conference Proceeding,2-s2.0-0031347022
+Hashem S.,,Optimal linear combinations of neural networks,1997,Neural Networks,306,10.1016/S0893-6080(96)00098-6,United States;Egypt,Article,Richland;Cairo,0,Journal,2-s2.0-0031171679
+Friedman J.,,"On bias, variance, 0/1-loss, and the curse-of-dimensionality",1997,Data Mining and Knowledge Discovery,548,10.1023/A:1009778005914,United States;United States,Article,Menlo Park;Palo Alto,0,Journal,2-s2.0-21744462998
+Quinlan J.,,"Bagging, boosting, and C4.5",1996,Proceedings of the National Conference on Artificial Intelligence,990,,Australia,Conference Paper,Sydney,0,Conference Proceeding,2-s2.0-0030370417
+Breiman L.,,Bagging predictors,1996,Machine Learning,13227,10.1023/A:1018054314350,United States,Article,Berkeley,1,Journal,2-s2.0-0030211964
+Breiman L.,,Stacked regressions,1996,Machine Learning,663,10.1023/A:1018046112532,United States,Article,Berkeley,1,Journal,2-s2.0-0030196364
+Opitz D.,,Actively Searching for an Effective Neural Network Ensemble,1996,Connection Science,223,10.1080/095400996116802,United States;United States,Article,Missoula;Duluth,0,Journal,2-s2.0-0030356238
+Ali K.M.,,Error Reduction through Learning Multiple Descriptions,1994,Machine Learning,172,10.1023/A:1018249309965,,Article,,1,Journal,2-s2.0-0030235637
+Alpaydin E.,,Multiple networks for function learning,1993,1993 IEEE International Conference on Neural Networks,57,,Turkey,Conference Paper,Istanbul,0,Conference Proceeding,2-s2.0-0027307868
+Zhang X.,,Hybrid system for protein secondary structure prediction,1992,Journal of Molecular Biology,151,10.1016/0022-2836(92)90104-R,United States,Article,Santa Clara,0,Journal,2-s2.0-0026771388
+Wolpert D.,,Stacked generalization,1992,Neural Networks,3005,10.1016/S0893-6080(05)80023-1,United States,Article,Los Alamos,0,Journal,2-s2.0-0026692226
+Hansen L.K.,,Neural Network Ensembles,1990,IEEE Transactions on Pattern Analysis and Machine Intelligence,2525,10.1109/34.58871,United States,Article,San Diego,0,Journal,2-s2.0-0025507176
+Schapire R.,,The Strength of Weak Learnability,1990,Machine Learning,2547,10.1023/A:1022648800760,United States,Article,Cambridge,1,Journal,2-s2.0-0025448521
+Granger C.W.J.,,Invited review combining forecasts—twenty years later,1989,Journal of Forecasting,211,10.1002/for.3980080303,United States,Article,Amherst,0,Journal,2-s2.0-84984516669
+Clemen R.,,Combining forecasts: A review and annotated bibliography,1989,International Journal of Forecasting,1215,10.1016/0169-2070(89)90012-5,United States,Article,Eugene,0,Journal,2-s2.0-45249128876

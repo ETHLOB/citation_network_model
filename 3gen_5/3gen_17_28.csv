@@ -1,0 +1,27 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Dweep H.,,"MiRWalk - Database: Prediction of possible miRNA binding sites by "" walking"" the genes of three genomes",2011,Journal of Biomedical Informatics,1151,10.1016/j.jbi.2011.05.002,Germany,Article,Mannheim,1,Journal,2-s2.0-79959805164
+Thomson D.,,Experimental strategies for microRNA target identification,2011,Nucleic Acids Research,383,10.1093/nar/gkr330,Australia;Australia,Review,Adelaide;Adelaide,1,Journal,2-s2.0-80052451056
+Maragkakis M.,,DIANA-microT Web server upgrade supports Fly and Worm miRNA target prediction and bibliographic miRNA to disease association,2011,Nucleic Acids Research,87,10.1093/nar/gkr294,Greece;Germany,Article,Vari;Halle,1,Journal,2-s2.0-79960003009
+Huntzinger E.,,Gene silencing by microRNAs: Contributions of translational repression and mRNA decay,2011,Nature Reviews Genetics,1413,10.1038/nrg2936,Germany,Review,Tubingen,0,Journal,2-s2.0-78751477191
+Yang J.,,StarBase: A database for exploring microRNA-mRNA interaction maps from Argonaute CLIP-Seq and Degradome-Seq data,2011,Nucleic Acids Research,493,10.1093/nar/gkq1056,China,Article,Guangzhou,1,Journal,2-s2.0-78651307694
+Hsu S.,,MiRTarBase: A database curates experimentally validated microRNA-target interactions,2011,Nucleic Acids Research,722,10.1093/nar/gkq1107,Taiwan,Article,Hsinchu,1,Journal,2-s2.0-78651266827
+Hafner M.,,Transcriptome-wide Identification of RNA-Binding Protein and MicroRNA Target Sites by PAR-CLIP,2010,Cell,1756,10.1016/j.cell.2010.03.009,United States,Article,New York,1,Journal,2-s2.0-77950920903
+Naeem H.,,MiRSel: Automated extraction of associations between microRNAs and genes from the biomedical literature,2010,BMC Bioinformatics,56,10.1186/1471-2105-11-135,Germany,Article,Munich,1,Journal,2-s2.0-77952304446
+Zisoulis D.,,Comprehensive discovery of endogenous Argonaute binding sites in Caenorhabditis elegans,2010,Nature Structural and Molecular Biology,225,10.1038/nsmb.1745,United States,Article,San Diego,0,Journal,2-s2.0-76349122201
+Alexiou P.,,Lost in translation: An assessment and perspective for computational microrna target identification,2009,Bioinformatics,241,10.1093/bioinformatics/btp565,Greece,Review,Vari,1,Journal,2-s2.0-74049088856
+Chi S.,,Argonaute HITS-CLIP decodes microRNA-mRNA interaction maps,2009,Nature,1247,10.1038/nature08170,United States,Article,New York,0,Journal,2-s2.0-67749132423
+Gennarino V.,,MicroRNA target prediction by expression analysis of host genes,2009,Genome Research,137,10.1101/gr.084129.108,Italy,Article,Naples,1,Journal,2-s2.0-61849143920
+Bartel D.,,MicroRNAs: Target Recognition and Regulatory Functions,2009,Cell,13032,10.1016/j.cell.2009.01.002,United States;United States,Review,Cambridge;Cambridge,1,Journal,2-s2.0-58249088751
+Papadopoulos G.,,The database of experimentally supported targets: A functional update of TarBase,2009,Nucleic Acids Research,311,10.1093/nar/gkn809,Greece,Article,Vari,1,Journal,2-s2.0-58149203235
+Jiang Q.,,miR2Disease: A manually curated database for microRNA deregulation in human disease,2009,Nucleic Acids Research,883,10.1093/nar/gkn714,China,Article,Harbin,1,Journal,2-s2.0-58149179989
+Xiao F.,,miRecords: An integrated resource for microRNA-target interactions,2009,Nucleic Acids Research,970,10.1093/nar/gkn851,United States,Article,Minneapolis,1,Journal,2-s2.0-58149186499
+Selbach M.,,Widespread changes in protein synthesis induced by microRNAs,2008,Nature,2487,10.1038/nature07228,Germany,Article,Berlin,0,Journal,2-s2.0-49949117302
+Baek D.,,The impact of microRNAs on protein output,2008,Nature,2648,10.1038/nature07242,United States;United States,Article,Cambridge;Cambridge,0,Journal,2-s2.0-49949116902
+Smith L.,,Overview of BioCreative II gene mention recognition,2008,Genome Biology,207,10.1186/gb-2008-9-s2-s2,United States,Review,Bethesda,1,Journal,2-s2.0-51049088874
+Friedländer M.,,Discovering microRNAs from deep sequencing data using miRDeep,2008,Nature Biotechnology,805,10.1038/nbt1394,Germany,Article,Berlin,0,Journal,2-s2.0-41849084855
+Hsu S.D.,,miRNAMap 2.0: Genomic maps of microRNAs in metazoan genomes,2008,Nucleic Acids Research,193,10.1093/nar/gkm1012,Taiwan,Article,Hsinchu,1,Journal,2-s2.0-38549120729
+Kuhn D.,,Experimental validation of miRNA targets,2008,Methods,250,10.1016/j.ymeth.2007.09.005,United States,Article,Columbus,0,Journal,2-s2.0-37349042903
+Grimson A.,,MicroRNA Targeting Specificity in Mammals: Determinants beyond Seed Pairing,2007,Molecular Cell,2720,10.1016/j.molcel.2007.06.017,United States;United States,Article,Cambridge;Cambridge,1,Journal,2-s2.0-34250805982
+Linsley P.S.,,Transcripts targeted by the microRNA-16 family cooperatively regulate cell cycle progression,2007,Molecular and Cellular Biology,430,10.1128/MCB.02005-06,United States,Article,Seattle,1,Journal,2-s2.0-33947224690
+Wang X.,,Systematic identification of microRNA functions by combining target prediction and expression profiling,2006,Nucleic Acids Research,177,10.1093/nar/gkl068,United States,Article,Foster City,1,Journal,2-s2.0-33645472191
+Sethupathy P.,,TarBase: A comprehensive database of experimentally supported animal microRNA targets,2006,RNA,459,10.1261/rna.2239606,United States,Article,Philadelphia,1,Journal,2-s2.0-31044444975

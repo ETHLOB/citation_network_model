@@ -1,0 +1,26 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Krieger C.,,MetaCyc: A multiorganism database of metabolic pathways and enzymes,2004,Nucleic Acids Research,215,,United States,Article,Menlo Park,0,Journal,2-s2.0-0346494819
+Apweiler R.,,UniProt: The universal protein knowledgebase,2004,Nucleic Acids Research,1879,,United Kingdom,Article,Cambridge,0,Journal,2-s2.0-9144232912
+Draghici S.,,"Onto-Tools, the toolkit of the modern biologist: Onto-Express, Onto-Compare, Onto-Design and Onto-Translate",2003,Nucleic Acids Research,291,10.1093/nar/gkg624,United States,Article,Detroit,1,Journal,2-s2.0-0042121055
+Draghici S.,,Assessing the functional bias of commercial microarrays using the onto-compare database,2003,BioTechniques,17,10.2144/mar03draghici,United States,Article,Detroit,1,Journal,2-s2.0-0037337623
+Drǎghici S.,,Global functional profiling of gene expression,2003,Genomics,463,10.1016/S0888-7543(02)00021-6,United States,Article,Detroit,0,Journal,2-s2.0-0037293075
+Zeeberg B.,,GoMiner: a resource for biological interpretation of genomic and proteomic data.,2003,Genome biology,961,,United States,Article,Bethesda,0,Journal,2-s2.0-0038175144
+Hosack D.,,Identifying biological themes within lists of genes with EASE.,2003,Genome biology,1553,,United States,Article,Frederick,0,Journal,2-s2.0-0344319833
+Dennis G.,,"DAVID: Database for Annotation, Visualization, and Integrated Discovery.",2003,Genome biology,6167,,United States,Article,Frederick,0,Journal,2-s2.0-0038005018
+Khatri P.,,Profiling gene expression using Onto-Express,2002,Genomics,368,10.1006/geno.2002.6698,United States,Article,Detroit,0,Journal,2-s2.0-0035704901
+Kanehisa M.,,Thed KEGG databases at GenomeNet,2002,Nucleic Acids Research,904,,Japan,Article,Kyoto,0,Journal,2-s2.0-0036081062
+Craig Venter J.,,The sequence of the human genome,2001,Science,9648,10.1126/science.1058040,United States,Article,Rockville,1,Journal,2-s2.0-0035895505
+Bankier A.T.,,Shotgun DNA sequencing.,2001,"Methods in molecular biology (Clifton, N.J.)",5,10.1385/1-59259-113-2:089,United Kingdom,Review,Cambridge,0,Journal,2-s2.0-0035221664
+Vukmirovic O.,,Exploring genome space,2000,Nature,85,10.1038/35015690,United States,Review,Princeton,0,Journal,2-s2.0-0034659945
+Eisenberg D.,,Protein function the post-genomic era,2000,Nature,560,10.1038/35015694,United States,Review,Los Angeles,0,Journal,2-s2.0-0034660322
+Lockhart D.J.,,"Genomics, gene expression and DNA arrays",2000,Nature,1623,10.1038/35015701,United States,Review,San Diego,0,Journal,2-s2.0-0034659898
+Ashburner M.,,Gene ontology: Tool for the unification of biology,2000,Nature Genetics,21253,10.1038/75556,,Review,,0,Journal,2-s2.0-0034069495
+Man M.,,POWERGE: Comparing statistical tests for SAGE experiments,2000,Bioinformatics,129,10.1093/bioinformatics/16.11.953,United States,Article,Ann Arbor,1,Journal,2-s2.0-0034352940
+Kanehisa M.,,KEGG: Kyoto Encyclopedia of Genes and Genomes,2000,Nucleic Acids Research,11174,10.1093/nar/28.1.27,Japan,Short Survey,Kyoto,1,Journal,2-s2.0-0033982936
+Golub T.,,Molecular classification of cancer: Class discovery and class prediction by gene expression monitoring,1999,Science,8578,10.1126/science.286.5439.531,United States;United States,Article,Cambridge;Boston,0,Journal,2-s2.0-0033569406
+Tamayo P.,,Interpreting patterns of gene expression with self-organizing maps: Methods and application to hematopoietic differentiation,1999,Proceedings of the National Academy of Sciences of the United States of America,2308,10.1073/pnas.96.6.2907,United States,Conference Paper,Cambridge,1,Journal,2-s2.0-0033027794
+Ogata H.,,KEGG: Kyoto encyclopedia of genes and genomes,1999,Nucleic Acids Research,2465,10.1093/nar/27.1.29,Japan,Review,Uji,1,Journal,2-s2.0-0032919364
+Eisen M.,,Cluster analysis and display of genome-wide expression patterns,1998,Proceedings of the National Academy of Sciences of the United States of America,12582,10.1073/pnas.95.25.14863,United States,Article,Stanford,0,Journal,2-s2.0-0032441150
+Shalon D.,,A DNA microarray system for analyzing complex DNA samples using two-color fluorescent probe hybridization,1996,Genome Research,847,10.1101/gr.6.7.639,United States;United States,Article,Palo Alto;Palo Alto,1,Journal,2-s2.0-0029812283
+Lockhart D.,,Expression monitoring by hybridization to high-density oligonucleotide arrays,1996,Nature Biotechnology,2741,10.1038/nbt1296-1675,United States,Article,Waltham,0,Journal,2-s2.0-10544256600
+Schena M.,,Quantitative monitoring of gene expression patterns with a complementary DNA microarray,1995,Science,7244,10.1126/science.270.5235.467,United States,Article,Stanford,0,Journal,2-s2.0-0028806048

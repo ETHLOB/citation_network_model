@@ -1,0 +1,46 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Xu S.,,Identifying important nodes by adaptive LeaderRank,2017,Physica A: Statistical Mechanics and its Applications,27,10.1016/j.physa.2016.11.034,China;China,Article,Xi'an;Kaifeng,0,Journal,2-s2.0-85001948854
+Xu Z.,,The influence of uncontrolled nodes in complex networks,2016,"Proceedings of the 28th Chinese Control and Decision Conference, CCDC 2016",1,10.1109/CCDC.2016.7531106,China,Conference Paper,Shanghai,0,Conference Proceeding,2-s2.0-84983752878
+Xu S.,,Coarse graining of complex networks: A k-means clustering approach,2016,"Proceedings of the 28th Chinese Control and Decision Conference, CCDC 2016",7,10.1109/CCDC.2016.7531703,China,Conference Paper,Kaifeng,0,Conference Proceeding,2-s2.0-84983740869
+Verma T.,,Emergence of core-peripheries in networks,2016,Nature Communications,43,10.1038/ncomms10441,Switzerland,Article,"Zurich ZH,",1,Journal,2-s2.0-84961338263
+Lü L.,,The H-index of a network node and its relation to degree and coreness,2016,Nature Communications,220,10.1038/ncomms10168,China,Article,Hangzhou,1,Journal,2-s2.0-84954349791
+Lü L.,,Vital nodes identification in complex networks,2016,Physics Reports,437,10.1016/j.physrep.2016.06.007,China;China,Review,Hangzhou;Chengdu,1,Journal,2-s2.0-84994052317
+Wang Z.,,A new mutually reinforcing network node and link ranking algorithm,2015,Scientific Reports,5,10.1038/srep15141,United States,Article,Houston,1,Journal,2-s2.0-84945279258
+Pastor-Satorras R.,,Epidemic processes in complex networks,2015,Reviews of Modern Physics,1119,10.1103/RevModPhys.87.925,Spain,Article,Barcelona,1,Journal,2-s2.0-84942305442
+De Domenico M.,,Ranking in interconnected multilayer networks reveals versatile nodes,2015,Nature Communications,156,10.1038/ncomms7868,Spain,Article,Tarragona,1,Journal,2-s2.0-84928563708
+Lin J.H.,,Identifying the node spreading influence with largest k-core values,2014,"Physics Letters, Section A: General, Atomic and Solid State Physics",36,10.1016/j.physleta.2014.09.054,China,Article,Shanghai,0,Journal,2-s2.0-84908431589
+Wang P.,,Identification of important nodes in directed biological networks: A network motif approach,2014,PLoS ONE,56,10.1371/journal.pone.0106132,Australia;China,Article,Melbourne;Kaifeng,1,Journal,2-s2.0-84915798929
+Li Q.,,Identifying influential spreaders by weighted LeaderRank,2014,Physica A: Statistical Mechanics and its Applications,139,10.1016/j.physa.2014.02.041,China;China;China,Article,Guilin;Chengdu;Beijing,0,Journal,2-s2.0-84896305205
+Bae J.,,Identifying and ranking influential spreaders in complex networks by neighborhood coreness,2014,Physica A: Statistical Mechanics and its Applications,169,10.1016/j.physa.2013.10.047,South Korea,Article,Daegu,0,Journal,2-s2.0-84889888532
+Wang P.,,Identifying influential spreaders in artificial complex networks,2014,Journal of Systems Science and Complexity,17,10.1007/s11424-014-2236-4,China,Article,Kaifeng,0,Journal,2-s2.0-84905647049
+Wang P.,,Identification and evolution of structurally dominant nodes in protein-protein interaction networks,2014,IEEE Transactions on Biomedical Circuits and Systems,41,10.1109/TBCAS.2014.2303160,Australia;China,Article,Melbourne;Kaifeng,0,Journal,2-s2.0-84897959305
+Chen D.B.,,Identifying influential nodes in large-scale directed networks: The role of clustering,2013,PLoS ONE,158,10.1371/journal.pone.0077455,Switzerland;China,Article,Fribourg;Chengdu,1,Journal,2-s2.0-84896285267
+Zhu Z.,,Discovering the influential users oriented to viral marketing based on online social networks,2013,Physica A: Statistical Mechanics and its Applications,34,10.1016/j.physa.2013.03.035,China;China,Article,Dalian;Dalian,0,Journal,2-s2.0-84878015841
+Brin S.,,Reprint of: The anatomy of a large-scale hypertextual web search engine,2012,Computer Networks,477,10.1016/j.comnet.2012.10.007,United States,Article,Palo Alto,0,Journal,2-s2.0-84870444130
+Liu Y.,,Control Centrality and Hierarchical Structure in Complex Networks,2012,PLoS ONE,178,10.1371/journal.pone.0044459,United States;United States,Article,Boston;Boston,1,Journal,2-s2.0-84866895984
+Chen D.,,Identifying influential nodes in complex networks,2012,Physica A: Statistical Mechanics and its Applications,594,10.1016/j.physa.2011.09.017,China,Article,Chengdu,0,Journal,2-s2.0-84655175098
+Lü L.,,"Leaders in social networks, the delicious case",2011,PLoS ONE,437,10.1371/journal.pone.0021202,Switzerland;China;China,Article,Fribourg;Shanghai;Chengdu,1,Journal,2-s2.0-79959575935
+Castellano C.,,Thresholds for epidemic spreading in networks,2010,Physical Review Letters,370,10.1103/PhysRevLett.105.218701,Italy,Article,Rome,0,Journal,2-s2.0-78349292558
+Kitsak M.,,Identification of influential spreaders in complex networks,2010,Nature Physics,1473,10.1038/nphys1746,United States;United States,Article,San Diego;Boston,1,Journal,2-s2.0-78149283685
+Barabási A.,,Scale-free networks: A decade and beyond,2009,Science,1087,10.1126/science.1173299,United States;United States,Short Survey,Boston;Boston,0,Journal,2-s2.0-67749140118
+Onnela J.,,Structure and tie strengths in mobile communication networks,2007,Proceedings of the National Academy of Sciences of the United States of America,1134,10.1073/pnas.0610245104,Finland;United Kingdom,Article,Espoo;Oxford,1,Journal,2-s2.0-34250628484
+Newman M.E.J.,,Finding community structure in networks using the eigenvectors of matrices,2006,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",2559,10.1103/PhysRevE.74.036104,United States,Article,Ann Arbor,0,Journal,2-s2.0-33749468596
+Albert R.,,Scale-free networks in cell biology,2005,Journal of Cell Science,727,10.1242/jcs.02714,United States,Note,University Park,1,Journal,2-s2.0-27944493925
+Adamic L.,,The political blogosphere and the 2004 U.S. Election: Divided they blog,2005,"3rd International Workshop on Link Discovery, LinkKDD 2005 - in conjunction with 10th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining",1265,10.1145/1134271.1134277,United States,Conference Paper,Palo Alto,0,Conference Proceeding,2-s2.0-84958161527
+Steyvers M.,,The large-scale structure of semantic networks: Statistical analyses and a model of semantic growth,2005,Cognitive Science,665,10.1207/s15516709cog2901_3,United States,Article,Irvine,1,Journal,2-s2.0-14044268098
+Spring N.,,Measuring ISP Topologies With Rocketfuel,2004,IEEE/ACM Transactions on Networking,557,10.1109/TNET.2003.822655,United States,Article,Seattle,0,Journal,2-s2.0-1642408605
+Barabási A.,,Network biology: Understanding the cell's functional organization,2004,Nature Reviews Genetics,5033,10.1038/nrg1272,United States,Review,Notre Dame,0,Journal,2-s2.0-0742305866
+Guimerà R.,,Self-similar community structure in a network of human interactions,2003,"Physical Review E - Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics",85,10.1103/PhysRevE.68.065103,Spain;United States,Article,Tarragona;Evanston,0,Journal,2-s2.0-84923227908
+Newman M.E.J.,,Spread of epidemic disease on networks,2002,"Physical Review E - Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics",1841,10.1103/PhysRevE.66.016128,United States;United States,Article,Santa Fe;Ann Arbor,1,Journal,2-s2.0-41349106348
+Holme P.,,Attack vulnerability of complex networks,2002,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",1090,10.1103/PhysRevE.65.056109,Sweden,Article,Umea,0,Journal,2-s2.0-41349120887
+Goh K.I.,,Fluctuation-driven dynamics of the Internet topology,2002,Physical Review Letters,115,,South Korea,Article,Seoul,0,Journal,2-s2.0-19044383203
+Newman M.,,Assortative Mixing in Networks,2002,Physical Review Letters,3012,10.1103/PhysRevLett.89.208701,United States,Article,Ann Arbor,0,Journal,2-s2.0-18744389789
+Jeong H.,,Lethality and centrality in protein networks,2001,Nature,3479,10.1038/35075138,United States,Article,Notre Dame,0,Journal,2-s2.0-0035799707
+Pastor-Satorras R.,,Epidemic spreading in scale-free networks,2001,Physical Review Letters,3738,10.1103/PhysRevLett.86.3200,Spain,Article,Barcelona,0,Journal,2-s2.0-0035794256
+Cohen R.,,Resilience of the Internet to random breakdowns,2000,Physical Review Letters,1644,10.1103/PhysRevLett.85.4626,Israel,Article,Ramat Gan,0,Journal,2-s2.0-0034323311
+Barabási A.,,Emergence of scaling in random networks,1999,Science,22122,10.1126/science.286.5439.509,United States,Article,Notre Dame,0,Journal,2-s2.0-0038483826
+Watts D.J.,,Collective dynamics of 'small-world9 networks,1998,Nature,25779,10.1038/30918,United States,Article,Ithaca,0,Journal,2-s2.0-0032482432
+Keener J.,,Perron-Frobenius theorem and the ranking of football teams,Mar,SIAM Review,141,10.1137/1035004,United States,Article,Salt Lake City,0,Journal,2-s2.0-0027557918
+Seidman S.,,Network structure and minimum degree,1983,Social Networks,901,10.1016/0378-8733(83)90028-X,United States,Article,Fairfax,0,Journal,2-s2.0-0000488788
+Sabidussi G.,,The centrality index of a graph,1966,Psychometrika,1175,10.1007/BF02289527,Canada,Article,Hamilton,0,Journal,2-s2.0-0013987194
+Perron O.,,Zur Theorie der Matrices,1907,Mathematische Annalen,393,10.1007/BF01449896,,Article,,0,Journal,2-s2.0-0000790899

@@ -1,0 +1,10 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Boissonnat J.,,Manifold reconstruction using tangential Delaunay complexes,2010,Proceedings of the Annual Symposium on Computational Geometry,18,10.1145/1810959.1811013,France,Conference Paper,Sophia Antipolis,0,Conference Proceeding,2-s2.0-77954923302
+Baraniuk R.,,Random projections of smooth manifolds,2009,Foundations of Computational Mathematics,229,10.1007/s10208-007-9011-z,United States,Article,Houston,0,Journal,2-s2.0-58849146227
+Chazal F.,,Smooth manifold reconstruction from noisy and non-uniform approximation with guarantees,2008,Computational Geometry: Theory and Applications,32,10.1016/j.comgeo.2007.07.001,France,Article,Orsay,1,Journal,2-s2.0-84867940824
+Niyogi P.,,Finding the homology of submanifolds with high confidence from random samples,2008,Discrete and Computational Geometry,235,10.1007/s00454-008-9053-2,United States,Conference Paper,Chicago,1,Journal,2-s2.0-40349102105
+Cheng S.,,Manifold reconstruction from point samples,2005,Proceedings of the Annual ACM-SIAM Symposium on Discrete Algorithms,66,,Hong Kong,Conference Paper,Hong Kong,0,Conference Proceeding,2-s2.0-20744446730
+Cuevas A.,,On boundary estimation,2004,Advances in Applied Probability,55,10.1239/aap/1086957575,Spain,Article,Madrid,0,Journal,2-s2.0-3142766901
+Dey T.K.,,Provable surface reconstruction from noisy samples,2004,Proceedings of the Annual Symposium on Computational Geometry,101,10.1145/997817.997867,United States,Conference Paper,Columbus,0,Conference Proceeding,2-s2.0-4544246241
+Gonzalez O.,,"Global curvature, thickness, and the ideal shapes of knots",1999,Proceedings of the National Academy of Sciences of the United States of America,160,10.1073/pnas.96.9.4769,Switzerland,Review,Lausanne,1,Journal,2-s2.0-0033608997
+Federer H.,,Curvature measures,1959,Transactions of the American Mathematical Society,728,10.1090/S0002-9947-1959-0110078-1,United States;United States,Article,Princeton;Providence,1,Journal,2-s2.0-84968469617

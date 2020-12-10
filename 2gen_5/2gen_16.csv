@@ -1,0 +1,17 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Friedlander T.,,Evolution of Bow-Tie Architectures in Biology,2015,PLoS Computational Biology,52,10.1371/journal.pcbi.1004055,Austria;Israel,Article,Klosterneuburg;Rehovot,1,Journal,2-s2.0-84926370637
+Kamapantula B.,,Leveraging the robustness of genetic networks: A case study on bio-inspired wireless sensor network topologies,2014,Journal of Ambient Intelligence and Humanized Computing,10,10.1007/s12652-013-0180-0,United States,Article,Richmond,0,Journal,2-s2.0-84901608660
+Mayo M.,,Motif participation by genes in E. coli transcriptional networks,2012,Frontiers in Physiology,8,10.3389/fphys.2012.00357,United States,Article,Vicksburg,1,Journal,2-s2.0-84867117068
+Kamapantula B.,,Performance of wireless sensor topologies inspired by E. coli genetic networks,2012,"2012 IEEE International Conference on Pervasive Computing and Communications Workshops, PERCOM Workshops 2012",12,10.1109/PerComW.2012.6197500,United States,Conference Paper,Richmond,0,Conference Proceeding,2-s2.0-84861566206
+Pedregosa F.,,Scikit-learn: Machine learning in Python,2011,Journal of Machine Learning Research,17042,,France,Article,Gif-sur-Yvette,0,Journal,2-s2.0-80555140075
+Schaffter T.,,GeneNetWeaver: In silico benchmark generation and performance profiling of network inference methods,2011,Bioinformatics,277,10.1093/bioinformatics/btr373,Switzerland,Article,Lausanne,1,Journal,2-s2.0-79961200389
+Ghosh P.,,Principles of genomic robustness inspire fault-tolerant WSN topologies: A network science based case study,2011,"2011 IEEE International Conference on Pervasive Computing and Communications Workshops, PERCOM Workshops 2011",19,10.1109/PERCOMW.2011.5766861,United States,Conference Paper,Hattiesburg,0,Conference Proceeding,2-s2.0-79958052750
+Liu Y.,,Controllability of complex networks,2011,Nature,1734,10.1038/nature10011,United States;United States,Article,Boston;Boston,0,Journal,2-s2.0-79955879494
+Isalan M.,,Evolvability and hierarchy in rewired bacterial gene networks,2008,Nature,217,10.1038/nature06847,Spain,Article,Barcelona,0,Journal,2-s2.0-42249098422
+Ghosh S.,,GaMa: An evolutionary algorithmic approach for the design of mesh-based radio access networks,2005,"Proceedings - Conference on Local Computer Networks, LCN",10,10.1109/LCN.2005.72,United States,Conference Paper,Arlington,0,Conference Proceeding,2-s2.0-33751439551
+Prill R.,,Dynamic properties of network motifs contribute to biological network organization,2005,PLoS Biology,253,10.1371/journal.pbio.0030343,United States,Article,Baltimore,1,Journal,2-s2.0-27844551326
+Mangan S.,,Structure and function of the feed-forward loop network motif,2003,Proceedings of the National Academy of Sciences of the United States of America,1131,10.1073/pnas.2133841100,Israel,Article,Rehovot,1,Journal,2-s2.0-0142027814
+Shen-Orr S.S.,,Network motifs in the transcriptional regulation network of Escherichia coli,2002,Nature Genetics,1953,10.1038/ng881,,Article,,0,Journal,2-s2.0-0036578795
+Breiman L.,,Random forests,2001,Machine Learning,38822,10.1023/A:1010933404324,United States,Article,Berkeley,1,Journal,2-s2.0-0035478854
+Albert R.,,Error and attack tolerance of complex networks,2000,Nature,5598,10.1038/35019019,United States,Article,Notre Dame,0,Journal,2-s2.0-0034721164
+Barabási A.,,Emergence of scaling in random networks,1999,Science,22132,10.1126/science.286.5439.509,United States,Article,Notre Dame,0,Journal,2-s2.0-0038483826

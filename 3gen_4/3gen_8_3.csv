@@ -1,0 +1,27 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Parsegov S.E.,,Novel Multidimensional Models of Opinion Dynamics in Social Networks,2017,IEEE Transactions on Automatic Control,93,10.1109/TAC.2016.2613905,Russian Federation,Article,Moscow,0,Journal,2-s2.0-85019240797
+Proskurnikov A.,,Opinion Dynamics in Social Networks with Hostile Camps: Consensus vs. Polarization,2016,IEEE Transactions on Automatic Control,139,10.1109/TAC.2015.2471655,Russian Federation;Netherlands,Article,Saint Petersburg (ex Leningrad);Groningen,0,Journal,2-s2.0-84973124561
+Frasca P.,,"Distributed randomized algorithms for opinion formation, centrality computation and power systems estimation: A tutorial overview",2015,European Journal of Control,32,10.1016/j.ejcon.2015.04.002,Netherlands,Conference Paper,Enschede,0,Journal,2-s2.0-84931008430
+Friedkin N.,,The problem of social control and coordination of complex systems in sociology: A look at the community cleavage problem,2015,IEEE Control Systems,88,10.1109/MCS.2015.2406655,United States,Article,Santa Barbara,0,Journal,2-s2.0-84929377268
+Parsegov S.E.,,A new model of opinion dynamics for social actors with multiple interdependent attitudes and prejudices,2015,Proceedings of the IEEE Conference on Decision and Control,15,10.1109/CDC.2015.7402757,Russian Federation,Conference Paper,Moscow,0,Conference Proceeding,2-s2.0-84962030717
+Ravazzi C.,,Ergodic randomized algorithms and dynamics over networks,2015,IEEE Transactions on Control of Network Systems,62,10.1109/TCNS.2014.2367571,Italy,Article,Turin,0,Journal,2-s2.0-84926059271
+Jia P.,,Opinion dynamics and the evolution of social power in influence networks,2015,SIAM Review,105,10.1137/130913250,United States,Article,Santa Barbara,0,Journal,2-s2.0-84938938517
+Friedkin N.,,Two steps to obfuscation,2014,Social Networks,12,10.1016/j.socnet.2014.03.008,United States,Article,Santa Barbara,0,Journal,2-s2.0-84900518693
+Ishii H.,,"The pagerank problem, multiagent consensus, and web aggregation: A systems and control viewpoint",2014,IEEE Control Systems,54,10.1109/MCS.2014.2308672,Japan,Article,Tokyo,0,Journal,2-s2.0-84901286854
+Altafini C.,,Consensus problems on networks with antagonistic interactions,2013,IEEE Transactions on Automatic Control,602,10.1109/TAC.2012.2224251,Italy,Article,Trieste,0,Journal,2-s2.0-84875588811
+Acemoǧlu D.,,Opinion fluctuations and disagreement in social networks,2013,Mathematics of Operations Research,201,10.1287/moor.1120.0570,United States,Article,Cambridge,0,Journal,2-s2.0-84875408980
+Polyak B.,,Regularization-based solution of the pagerank problem for large matrices,2012,Automation and Remote Control,12,10.1134/S0005117912110094,Russian Federation,Article,Moscow,0,Journal,2-s2.0-84870528714
+Como G.,,Scaling limits for continuous opinion dynamics systems,2011,Annals of Applied Probability,48,10.1214/10-AAP739,United States,Article,Cambridge,1,Journal,2-s2.0-80051604036
+Franceschet M.,,PageRank: Standing on the shoulders of Giants,2011,Communications of the ACM,112,10.1145/1953122.1953146,Italy,Review,Udine,0,Journal,2-s2.0-79960027018
+Flache A.,,Small worlds and cultural polarization,2011,Journal of Mathematical Sociology,96,10.1080/0022250X.2010.532261,Netherlands,Article,Groningen,0,Journal,2-s2.0-79551601874
+Ishii H.,,Distributed randomized algorithms for the PageRank computation,2010,IEEE Transactions on Automatic Control,93,10.1109/TAC.2010.2042984,Japan,Article,Tokyo,0,Journal,2-s2.0-77956541733
+Boldi P.,,Page rank: Functional dependencies,2009,ACM Transactions on Information Systems,67,10.1145/1629096.1629097,Italy,Conference Paper,Milan,0,Journal,2-s2.0-75149152869
+Blondel V.,,On Krause's multi-agent consensus model with state-dependent connectivity,2009,IEEE Transactions on Automatic Control,268,10.1109/TAC.2009.2031211,Belgium,Article,Louvain-la-Neuve,0,Journal,2-s2.0-78649554917
+Ren W.,,Distributed consensus in multi-vehicle cooperative control: Theory and applications,2008,Communications and Control Engineering,1575,,United States,Chapter,Logan,0,Book Series,2-s2.0-85030956522
+Radlinski F.,,Query chains: Learning to rank from implicit feedback,2005,Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,342,10.1145/1081870.1081899,United States,Conference Paper,Ithaca,0,Conference Proceeding,2-s2.0-32344431861
+Newman M.,,The structure and function of complex networks,2003,SIAM Review,11538,10.1137/S003614450342480,United States,Review,Ann Arbor,0,Journal,2-s2.0-0038718854
+Bonacich P.,,Eigenvector-like measures of centrality for asymmetric relations,2001,Social Networks,512,10.1016/S0378-8733(01)00038-7,United States,Article,Los Angeles,0,Journal,2-s2.0-0042761757
+Page L.,,The anatomy of a large-scale hypertextual Web search engine,1998,Computer Networks,7265,,United States,Article,Palo Alto,0,Journal,2-s2.0-0038589165
+Degroot M.,,Reaching a consensus,1974,Journal of the American Statistical Association,1641,10.1080/01621459.1974.10480137,United States,Article,Pittsburgh,0,Journal,2-s2.0-84909522870
+Wolfowitz J.,,Products of indecomposable aperiodic stochastic matrices<sup>1</sup>,1963,Proceedings of the American Mathematical Society,363,10.1090/S0002-9939-1963-0154756-3,United States,Article,Ithaca,1,Journal,2-s2.0-84966219276
+French J.,,A formal theory of social power,1956,Psychological Review,491,10.1037/h0046123,United States,Article,Ann Arbor,0,Journal,2-s2.0-0001661241

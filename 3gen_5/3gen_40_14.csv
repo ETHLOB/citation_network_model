@@ -1,0 +1,50 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Newman J.,,Single-cell proteomic analysis of S. cerevisiae reveals the architecture of biological noise,2006,Nature,1042,10.1038/nature04785,United States,Article,San Francisco,0,Journal,2-s2.0-33745220278
+Lim J.,,A Protein-Protein Interaction Network for Human Inherited Ataxias and Disorders of Purkinje Cell Degeneration,2006,Cell,597,10.1016/j.cell.2006.03.032,United States,Article,Houston,1,Journal,2-s2.0-33646687963
+Grelle G.,,"Identification of VCP/p97, carboxyl terminus of Hsp70-interacting protein (CHIP), and amphiphysin II interaction partners using membrane-based human proteome arrays",2006,Molecular and Cellular Proteomics,45,10.1074/mcp.M500198-MCP200,Germany,Article,Berlin,1,Journal,2-s2.0-33644674937
+Thierry-Mieg N.,,A new pooling strategy for high-throughput screening: The Shifted Transversal Design,2006,BMC Bioinformatics,47,10.1186/1471-2105-7-28,France,Article,Grenoble,1,Journal,2-s2.0-33645151681
+Jones R.B.,,A quantitative protein interaction network for the ErbB receptors using protein microarrays,2006,Nature,569,10.1038/nature04177,United States,Review,Cambridge,0,Journal,2-s2.0-30544449081
+Jin F.,,A pooling-deconvolution strategy for biological network elucidation.,2006,Nature methods,32,10.1038/nmeth859,United States,Article,Los Angeles,0,Journal,2-s2.0-33646381658
+Aloy P.,,Structural systems biology: Modelling protein interactions,2006,Nature Reviews Molecular Cell Biology,257,10.1038/nrm1859,Germany;Spain,Review,Heidelberg;Barcelona,0,Journal,2-s2.0-33644550021
+Mewes H.W.,,MIPS: analysis and annotation of proteins from whole genomes in 2005.,2006,Nucleic acids research,275,10.1093/nar/gkj148,Germany,Article,Neuherberg,1,Journal,2-s2.0-33644875537
+Collins M.O.,,Molecular characterization and comparison of the components and multiprotein complexes in the postsynaptic proteome.,2006,Journal of neurochemistry,311,10.1111/j.1471-4159.2005.03507.x,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-33646823604
+Bader G.D.,,Pathguide: a pathway resource list.,2006,Nucleic acids research,292,10.1093/nar/gkj126,United States,Article,New York,1,Journal,2-s2.0-33644873677
+Gandhi T.,,"Analysis of the human protein interactome and comparison with yeast, worm and fly interaction datasets",2006,Nature Genetics,345,10.1038/ng1747,India,Article,Bangalore,0,Journal,2-s2.0-33644617753
+Han J.,,Effect of sampling on topology predictions of protein-protein interaction networks,2005,Nature Biotechnology,246,10.1038/nbt1116,United States;China;United States,Review,Boston;Beijing;Boston,0,Journal,2-s2.0-24944442468
+Uhlén M.,,A human protein atlas for normal and cancer tissues based on antibody proteomics,2005,Molecular and Cellular Proteomics,804,10.1074/mcp.M500279-MCP200,Sweden,Article,Stockholm,1,Journal,2-s2.0-29244477844
+Rual J.F.,,Towards a proteome-scale map of the human protein-protein interaction network,2005,Nature,2023,10.1038/nature04209,United States;United States,Article,Boston;Boston,0,Journal,2-s2.0-27144530248
+Calvano S.E.,,A network-based analysis of systemic inflammation in humans,2005,Nature,1118,10.1038/nature03985,United States,Article,New Brunswick,0,Journal,2-s2.0-27144509163
+Cokol M.,,Emergent behavior of growing knowledge about molecular interactions,2005,Nature Biotechnology,40,10.1038/nbt1005-1243,United States,Review,New York,0,Journal,2-s2.0-27144469033
+Stelzl U.,,A human protein-protein interaction network: A resource for annotating the proteome,2005,Cell,1693,10.1016/j.cell.2005.08.029,Germany,Article,Berlin,1,Journal,2-s2.0-25144498379
+Miller J.,,Large-scale identification of yeast integral membrane protein interactions,2005,Proceedings of the National Academy of Sciences of the United States of America,206,10.1073/pnas.0505482102,United States,Article,Seattle,1,Journal,2-s2.0-24744436626
+Kersten B.,,Multiplex approaches in protein microarray technology,2005,Expert Review of Proteomics,36,10.1586/14789450.2.4.499,Germany,Review,Berlin,0,Journal,2-s2.0-23744517168
+Rhodes D.,,Probabilistic model of the human protein-protein interaction network,2005,Nature Biotechnology,323,10.1038/nbt1103,United States,Article,Ann Arbor,0,Journal,2-s2.0-23444452564
+Brown K.,,Online predicted human interaction database,2005,Bioinformatics,445,10.1093/bioinformatics/bti273,Canada,Article,Toronto,1,Journal,2-s2.0-18744376914
+Barrios-Rodiles M.,,High-throughput mapping of a dynamic signaling network in mammalian cells,2005,Science,534,10.1126/science.1105776,Canada,Article,Toronto,0,Journal,2-s2.0-20144372620
+Zhao R.,,Navigating the chaperone network: An integrative map of physical and genetic interactions mediated by the hsp90 chaperone,2005,Cell,585,10.1016/j.cell.2004.12.024,,Article,,1,Journal,2-s2.0-20044382800
+Dunn R.,,The use of edge-betweenness clustering to investigate biological function in protein interaction networks,2005,BMC Bioinformatics,144,10.1186/1471-2105-6-39,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-25444490121
+De Lichtenberg U.,,Dynamic complex formation during the yeast cell cycle,2005,Science,324,10.1126/science.1105103,Denmark,Article,Lyngby,0,Journal,2-s2.0-13244284551
+Albers M.,,Automated yeast two-hybrid screening for nuclear receptor-interacting proteins,2005,Molecular and Cellular Proteomics,100,10.1074/mcp.M400169-MCP200,Germany,Article,Ludwigshafen,1,Journal,2-s2.0-14944383217
+Ramani A.,,Consolidating the set of known human protein-protein interactions in preparation for large-scale mapping of the human interactome.,2005,Genome biology,183,,United States,Article,Austin,0,Journal,2-s2.0-25144516911
+Jansen R.,,Analyzing protein function on a genomic scale: The importance of gold-standard positives and negatives for network prediction,2004,Current Opinion in Microbiology,135,10.1016/j.mib.2004.08.012,United States,Review,New York,0,Journal,2-s2.0-4644306020
+Goehler H.,,"A protein interaction network links GIT1, an enhancer of huntingtin aggregation, to Huntington's disease",2004,Molecular Cell,326,10.1016/j.molcel.2004.09.016,Germany,Article,Berlin,1,Journal,2-s2.0-4644231870
+Ramachandran N.,,Self-assembling protein microarrays,2004,Science,470,10.1126/science.1097639,United States,Article,Boston,0,Journal,2-s2.0-3042757210
+Lehner B.,,A protein interaction framework for human mRNA degradation,2004,Genome Research,117,10.1101/gr.2122004,United Kingdom;United Kingdom,Article,Hinxton;Cambridge (ex Galt),1,Journal,2-s2.0-3543111496
+Colland F.,,Functional proteomics mapping of a human signaling pathway,2004,Genome Research,221,10.1101/gr.2334104,France,Article,Paris,1,Journal,2-s2.0-3543143101
+Fraser A.,,A probabilistic view of gene function,2004,Nature Genetics,92,10.1038/ng1370,United Kingdom,Review,Hinxton,1,Journal,2-s2.0-2642566695
+Steinmetz L.,,Maximizing the potential of functional genomics,2004,Nature Reviews Genetics,69,10.1038/nrg1293,Germany,Review,Heidelberg,0,Journal,2-s2.0-1542350628
+Pržulj N.,,Functional topology in a network of protein interactions,2004,Bioinformatics,262,10.1093/bioinformatics/btg415,Canada,Article,Toronto,1,Journal,2-s2.0-1342330546
+Barabási A.,,Network biology: Understanding the cell's functional organization,2004,Nature Reviews Genetics,5035,10.1038/nrg1272,United States,Review,Notre Dame,0,Journal,2-s2.0-0742305866
+Lehner B.,,Analysis of a high-throughput yeast two-hybrid system and its use to predict the function of intracellular proteins encoded within the human MHC class III region,2004,Genomics,77,10.1016/S0888-7543(03)00235-0,United Kingdom,Article,Cambridge,0,Journal,2-s2.0-0344688165
+Lehner B.,,A first-draft human protein-interaction map.,2004,Genome biology,170,,United Kingdom,Article,Hinxton,0,Journal,2-s2.0-14744270216
+Gerhard D.S.,,"The status, quality, and expansion of the NIH full-length cDNA project: The Mammalian Gene Collection (MGC)",2004,Genome Research,378,10.1101/gr.2596504,United States,Article,Bethesda,1,Journal,2-s2.0-7444262496
+Zhong J.,,A strategy for constructing large protein interaction maps using the yeast two-hybrid system: Regulated expression arrays and two-phase mating,2003,Genome Research,42,10.1101/gr.1134603,United States,Article,Detroit,1,Journal,2-s2.0-0346752097
+Ghaemmaghami S.,,Global analysis of protein expression in yeast,2003,Nature,2798,10.1038/nature02046,United States,Article,San Francisco,0,Journal,2-s2.0-0142215475
+Huh W.,,Global analysis of protein localization in budding yeast,2003,Nature,2994,10.1038/nature02026,United States,Article,San Francisco,0,Journal,2-s2.0-0142184341
+Peri S.,,Development of human protein reference database as an initial platform for approaching systems biology in humans,2003,Genome Research,776,10.1101/gr.1680803,Denmark;United States,Article,Odense;Baltimore,1,Journal,2-s2.0-10744224197
+Suzuki H.,,The mammalian protein-protein interaction database and its viewing system that is linked to the main FANTOM2 Viewer,2003,Genome Research,21,10.1101/gr.956303,Japan;Japan,Article,Kawaguchi;Yokohama,1,Journal,2-s2.0-0038349339
+Bader G.,,An automated method for finding molecular complexes in large protein interaction networks,2003,BMC Bioinformatics,2457,10.1186/1471-2105-4-2,Canada;Canada;United States,Article,Toronto;Toronto;New York,1,Journal,2-s2.0-2942552459
+Nakayama M.,,Protein-protein interactions between large proteins: Two-hybrid screening using a functionally classified library composed of long cDNAs,2002,Genome Research,76,10.1101/gr.406902,Japan,Article,Kisarazu,1,Journal,2-s2.0-0036851301
+Stagljar I.,,Analysis of membrane protein interactions using yeast-based technologies,2002,Trends in Biochemical Sciences,79,10.1016/S0968-0004(02)02197-7,Switzerland,Review,Zurich,0,Journal,2-s2.0-0036849482
+Kumar A.,,Subcellular localization of the yeast proteome,2002,Genes and Development,614,10.1101/gad.970902,United States,Article,New Haven,1,Journal,2-s2.0-0037087575
+Suzuki H.,,Protein-protein interaction panel using mouse full-length cDNAs,2001,Genome Research,96,10.1101/gr.180101,Japan,Article,Yokohama,1,Journal,2-s2.0-0034756446

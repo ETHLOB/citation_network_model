@@ -1,0 +1,37 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Wen J.,,MicroRNA transfection and AGO-bound CLIP-seq data sets reveal distinct determinants of miRNA action,2011,RNA,50,10.1261/rna.2387911,Denmark;Denmark,Article,Copenhagen;Copenhagen,1,Journal,2-s2.0-79954993788
+Saito T.,,A two-step site and mRNA-level model for predicting microRNA targets,2010,BMC Bioinformatics,12,10.1186/1471-2105-11-612,Norway,Article,Trondheim,1,Journal,2-s2.0-78650649986
+Larsson E.,,MRNA turnover rate limits siRNA and microRNA efficacy,2010,Molecular Systems Biology,66,10.1038/msb.2010.89,United States,Article,New York,1,Journal,2-s2.0-78449310037
+Guo H.,,Mammalian microRNAs predominantly act to decrease target mRNA levels,2010,Nature,2680,10.1038/nature09267,United States;United States,Article,Cambridge;Cambridge,0,Journal,2-s2.0-77955644289
+Arvey A.,,Target mRNA abundance dilutes microRNA and siRNA activity,2010,Molecular Systems Biology,226,10.1038/msb.2010.24,United States,Article,New York,1,Journal,2-s2.0-77951474125
+Hafner M.,,Transcriptome-wide Identification of RNA-Binding Protein and MicroRNA Target Sites by PAR-CLIP,2010,Cell,1756,10.1016/j.cell.2010.03.009,United States,Article,New York,1,Journal,2-s2.0-77950920903
+Hausser J.,,Relative contribution of sequence and structure features to the mRNA binding of Argonaute/EIF2C-miRNA complexes and the degradation of miRNA targets,2009,Genome Research,67,10.1101/gr.091181.109,Switzerland,Article,Basel,1,Journal,2-s2.0-70350707749
+Croce C.,,Causes and consequences of microRNA dysregulation in cancer,2009,Nature Reviews Genetics,2270,10.1038/nrg2634,United States,Review,Columbus,0,Journal,2-s2.0-70349320158
+Hong X.,,Immunopurification of Ago1 miRNPs selects for a distinct class of microRNA targets,2009,Proceedings of the National Academy of Sciences of the United States of America,39,10.1073/pnas.0908149106,Singapore,Article,Singapore City,1,Journal,2-s2.0-70349293700
+Khan A.,,Transfection of small RNAs globally perturbs gene regulation by endogenous microRNAs,2009,Nature Biotechnology,342,10.1038/nbt.1543,United States;United States,Article,New York;New York,0,Journal,2-s2.0-67149115119
+Shkumatava A.,,Coherent but overlapping expression of microRNAs and their targets during vertebrate development,2009,Genes and Development,85,10.1101/gad.1745709,United States;United States,Article,Cambridge;Cambridge,1,Journal,2-s2.0-61449224546
+Bartel D.,,MicroRNAs: Target Recognition and Regulatory Functions,2009,Cell,13032,10.1016/j.cell.2009.01.002,United States;United States,Review,Cambridge;Cambridge,1,Journal,2-s2.0-58249088751
+Friedman R.,,Most mammalian mRNAs are conserved targets of microRNAs,2009,Genome Research,5184,10.1101/gr.082701.108,United States;United States,Article,Cambridge;Chevy Chase,1,Journal,2-s2.0-60149095444
+Selbach M.,,Widespread changes in protein synthesis induced by microRNAs,2008,Nature,2487,10.1038/nature07228,Germany,Article,Berlin,0,Journal,2-s2.0-49949117302
+Baek D.,,The impact of microRNAs on protein output,2008,Nature,2648,10.1038/nature07242,United States;United States,Article,Cambridge;Cambridge,0,Journal,2-s2.0-49949116902
+Sandberg R.,,Proliferating cells express mRNAs with shortened 3′ untranslated regions and fewer microRNA target sites,2008,Science,846,10.1126/science.1155390,United States;Sweden,Article,Cambridge;Stockholm,0,Journal,2-s2.0-46249092601
+Sinha S.,,Systematic functional characterization of cis-regulatory motifs in human core promoters,2008,Genome Research,45,10.1101/gr.6828808,United States,Article,Urbana,1,Journal,2-s2.0-40449124692
+Stefani G.,,Small non-coding RNAs in animal development,2008,Nature Reviews Molecular Cell Biology,1034,10.1038/nrm2347,United States,Review,New Haven,0,Journal,2-s2.0-39749110083
+Griffiths-Jones S.,,miRBase: Tools for microRNA genomics,2008,Nucleic Acids Research,3220,10.1093/nar/gkm952,United Kingdom,Article,Manchester,1,Journal,2-s2.0-38549150275
+Grimson A.,,MicroRNA Targeting Specificity in Mammals: Determinants beyond Seed Pairing,2007,Molecular Cell,2720,10.1016/j.molcel.2007.06.017,United States;United States,Article,Cambridge;Cambridge,1,Journal,2-s2.0-34250805982
+Landgraf P.,,A Mammalian microRNA Expression Atlas Based on Small RNA Library Sequencing,2007,Cell,2644,10.1016/j.cell.2007.04.040,United States,Article,New York,1,Journal,2-s2.0-34250877841
+Birney E.,,Identification and analysis of functional elements in 1% of the human genome by the ENCODE pilot project,2007,Nature,3658,10.1038/nature05874,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-34250305146
+Weber M.,,"Distribution, silencing potential and evolutionary impact of promoter DNA methylation in the human genome",2007,Nature Genetics,1473,10.1038/ng1990,Switzerland,Article,Basel,0,Journal,2-s2.0-34047116826
+Linsley P.S.,,Transcripts targeted by the microRNA-16 family cooperatively regulate cell cycle progression,2007,Molecular and Cellular Biology,430,10.1128/MCB.02005-06,United States,Article,Seattle,1,Journal,2-s2.0-33947224690
+Barrett T.,,NCBI GEO: Mining tens of millions of expression profiles - Database and tools update,2007,Nucleic Acids Research,933,10.1093/nar/gkl887,United States,Article,Bethesda,1,Journal,2-s2.0-33846064113
+De Ferrari L.,,Mining housekeeping genes with a Naive Bayes classifier,2006,BMC Genomics,50,10.1186/1471-2164-7-277,United Kingdom,Article,Edinburgh,1,Journal,2-s2.0-33750959359
+Jackson A.,,"Widespread siRNA ""off-target"" transcript silencing mediated by seed region sequence complementarity",2006,RNA,653,10.1261/rna.25706,United States,Article,Seattle,1,Journal,2-s2.0-33745612464
+Birmingham A.,,"3' UTR seed matches, but not overall identity, are associated with RNAi off-targets.",2006,Nature methods,633,10.1038/nmeth854,United States,Article,Lafayette,0,Journal,2-s2.0-33646188259
+Stark A.,,Animal microRNAs confer robustness to gene expression and have a significant impact on 3′UTR evolution,2005,Cell,823,10.1016/j.cell.2005.11.023,Germany;United States;United States,Article,Heidelberg;Cambridge;Cambridge,1,Journal,2-s2.0-28944439309
+Lim L.,,Microarray analysis shows that some microRNAs downregulate large numbers of-target mRNAs,2005,Nature,3652,10.1038/nature03315,United States,Article,Seattle,0,Journal,2-s2.0-13944282215
+Ambros V.,,The functions of animal microRNAs,2004,Nature,7823,10.1038/nature02871,United States,Review,Hanover,0,Journal,2-s2.0-4644309196
+Blanchette M.,,Aligning multiple genomic sequences with the threaded blockset aligner,2004,Genome Research,798,10.1101/gr.1933104,United States;Canada,Article,Santa Cruz;Montreal,1,Journal,2-s2.0-1542748076
+Bartel D.,,"MicroRNAs: Genomics, Biogenesis, Mechanism, and Function",2004,Cell,25016,10.1016/S0092-8674(04)00045-5,United States;United States,Review,Cambridge;Cambridge,1,Journal,2-s2.0-0347444723
+Evans S.J.,,"Evaluation of sensitivity, performance and reproducibility of microarray technology in neuronal tissue",2003,Integrative and Comparative Biology,6,10.1093/icb/43.6.780,United States,Conference Paper,Ann Arbor,1,Journal,2-s2.0-3042703385
+James Kent W.,,The human genome browser at UCSC,2002,Genome Research,5354,10.1101/gr.229102. Article published online before print in May 2002,United States,Article,Santa Cruz,0,Journal,2-s2.0-0036079158
+Ashburner M.,,Gene ontology: Tool for the unification of biology,2000,Nature Genetics,21253,10.1038/75556,,Review,,0,Journal,2-s2.0-0034069495

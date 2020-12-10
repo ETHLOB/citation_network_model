@@ -1,0 +1,15 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Li Y.,,Sparse representation approaches for the classification of high-dimensional biological data,2013,BMC Systems Biology,32,10.1186/1752-0509-7-S4-S6,Canada,Article,Windsor,1,Journal,2-s2.0-84880712800
+Li Y.,,Classification approach based on non-negative least squares,2013,Neurocomputing,31,10.1016/j.neucom.2013.02.012,Canada,Article,Windsor,0,Journal,2-s2.0-84881249254
+Li Y.,,Nonnegative least-squares methods for the classification of high-dimensional biological data,2013,IEEE/ACM Transactions on Computational Biology and Bioinformatics,27,10.1109/TCBB.2013.30,Canada,Article,Windsor,0,Journal,2-s2.0-84882931754
+Bengio Y.,,Representation learning: A review and new perspectives,2013,IEEE Transactions on Pattern Analysis and Machine Intelligence,4108,10.1109/TPAMI.2013.50,Canada,Article,Montreal,0,Journal,2-s2.0-84879854889
+Jenatton R.,,Proximal methods for hierarchical sparse coding,2011,Journal of Machine Learning Research,196,,France,Article,Paris,0,Journal,2-s2.0-80052234083
+Dawany N.,,Large-scale integration of microarray data reveals genes and pathways common to multiple cancer types,2011,International Journal of Cancer,27,10.1002/ijc.25854,United States,Article,Philadelphia,0,Journal,2-s2.0-79955471281
+Elad M.,,Sparse and redundant representations: From theory to applications in signal and image processing,2010,Sparse and Redundant Representations: From Theory to Applications in Signal and Image Processing,1880,10.1007/978-1-4419-7011-4,Israel,Book,Haifa,0,Book,2-s2.0-84892329327
+Wright J.,,Robust face recognition via sparse representation,2009,IEEE Transactions on Pattern Analysis and Machine Intelligence,7400,10.1109/TPAMI.2008.79,United States,Article,Urbana,0,Journal,2-s2.0-61549128441
+Bruckstein A.,,From sparse solutions of systems of equations to sparse modeling of signals and images,2009,SIAM Review,1463,10.1137/060657704,Israel,Review,Haifa,0,Journal,2-s2.0-59749104367
+Kim S.,,An interior-point method for large-scale ℓ<inf>1</inf>-regularized least squares,2007,IEEE Journal on Selected Topics in Signal Processing,1513,10.1109/JSTSP.2007.910971,United States,Article,Palo Alto,0,Journal,2-s2.0-39449109476
+Lee H.,,Efficient sparse coding algorithms,2007,Advances in Neural Information Processing Systems,1839,,United States,Conference Paper,Palo Alto,0,Conference Proceeding,2-s2.0-84864036295
+Zou H.,,Regularization and variable selection via the elastic net,2005,Journal of the Royal Statistical Society. Series B: Statistical Methodology,6708,10.1111/j.1467-9868.2005.00503.x,United States,Article,Palo Alto,0,Journal,2-s2.0-16244401458
+Hoyer P.O.,,Modeling receptive fields with non-negative sparse coding,2003,Neurocomputing,70,10.1016/s0925-2312(02)00782-8,Finland,Article,Espoo,0,Journal,2-s2.0-0037780988
+Lee D.,,Learning the parts of objects by non-negative matrix factorization,1999,Nature,7530,10.1038/44565,United States,Article,Murray,0,Journal,2-s2.0-0033592606

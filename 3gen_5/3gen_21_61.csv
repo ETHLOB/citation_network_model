@@ -1,0 +1,10 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Irizarry R.,,"Exploration, normalization, and summaries of high density oligonucleotide array probe level data.",2003,"Biostatistics (Oxford, England)",7668,10.1093/biostatistics/4.2.249,United States,Article,Baltimore,1,Journal,2-s2.0-0142121516
+Sidorov I.,,Oligonucleotide microarray data distribution and normalization,2002,Information Sciences,26,10.1016/S0020-0255(02)00215-3,United States,Article,Frederick,0,Journal,2-s2.0-0036796818
+Dudoit S.,,Statistical methods for identifying differentially expressed genes in replicated cDNA microarray experiments,2002,Statistica Sinica,934,,United States,Article,Berkeley,0,Journal,2-s2.0-0036376993
+Schadt E.,,Feature extraction and normalization algorithms for high-density oligonucleotide gene expression array data,2001,Journal of Cellular Biochemistry,274,10.1002/jcb.10073,United States;United States,Conference Paper,Los Angeles;Kirkland,0,Journal,2-s2.0-0035752668
+Schadt E.E.,,Analyzing high-density oligonucleotide gene expression array data,01-Feb-01,Journal of Cellular Biochemistry,140,10.1002/1097-4644(20010201)80:2<192::AID-JCB50>3.0.CO;2-W,United States;United States,Article,Palo Alto;Los Angeles,0,Journal,2-s2.0-0034536614
+Li C.,,"Model-based analysis of oligonucleotide arrays: model validation, design issues and standard error application.",2001,Genome biology,668,,United States,Article,Boston,0,Journal,2-s2.0-17744413236
+Lipshutz R.,,High density synthetic oligonucleotide arrays,1999,Nature Genetics,1799,10.1038/4447,,Article,,0,Journal,2-s2.0-84984933234
+Ihaka R.,,R: A Language for Data Analysis and Graphics,1996,Journal of Computational and Graphical Statistics,7489,10.1080/10618600.1996.10474713,New Zealand,Article,Auckland,0,Journal,2-s2.0-0030305457
+Cleveland W.,,Locally weighted regression: An approach to regression analysis by local fitting,1988,Journal of the American Statistical Association,3299,10.1080/01621459.1988.10478639,United States,Article,Murray,0,Journal,2-s2.0-84947318637

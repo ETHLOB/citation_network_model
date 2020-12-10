@@ -1,0 +1,103 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Kadelka C.,,Stabilizing gene regulatory networks through feedforward loops,2013,Chaos,6,10.1063/1.4808248,United States;United States,Article,Blacksburg;Blacksburg,0,Journal,2-s2.0-84880345811
+Rodrigo G.,,Theoretical and experimental analysis of the forced LacI-AraC oscillator with a minimal gene regulatory model,2013,Chaos,6,10.1063/1.4809786,France;France,Article,Evry;Paris,0,Journal,2-s2.0-84880341541
+Machina A.,,Sensitive dependence on initial conditions in gene networks,2013,Chaos,7,10.1063/1.4807480,Canada,Article,Victoria,0,Journal,2-s2.0-84880358809
+Phenix H.,,Identifiability and inference of pathway motifs by epistasis analysis,2013,Chaos,7,10.1063/1.4807483,Canada,Article,Ottawa,0,Journal,2-s2.0-84880358132
+Lomnitz J.,,Phenotypic deconstruction of gene circuitry,2013,Chaos,8,10.1063/1.4809776,United States,Article,Davis,0,Journal,2-s2.0-84880352483
+Fiore G.,,An experimental approach to identify dynamical models of transcriptional regulation in living cells,2013,Chaos,9,10.1063/1.4808247,Italy,Article,Naples,0,Journal,2-s2.0-84880393486
+Robinson-Mosher A.,,Dynamics simulations for engineering macromolecular interactions,2013,Chaos,9,10.1063/1.4810915,United States;United States,Article,Cambridge;Boston,1,Journal,2-s2.0-84880351891
+Kim Y.,,Context-dependent transcriptional interpretation of mitogen activated protein kinase signaling in the Drosophila embryo,2013,Chaos,10,10.1063/1.4808157,United States,Article,Princeton,0,Journal,2-s2.0-84880369254
+Sun M.,,Causal structure of oscillations in gene regulatory networks: Boolean analysis of ordinary differential equation attractors,2013,Chaos,11,10.1063/1.4807733,United States,Article,Durham,1,Journal,2-s2.0-84880366252
+Chaves M.,,Hierarchy of models: From qualitative to quantitative analysis of circadian rhythms in cyanobacteria,2013,Chaos,13,10.1063/1.4810922,France,Article,Sophia Antipolis,0,Journal,2-s2.0-84880388275
+Rosin D.,,Experiments on autonomous Boolean networks,2013,Chaos,20,10.1063/1.4807481,Germany;United States,Article,Berlin;Durham,0,Journal,2-s2.0-84880363964
+Purcell O.,,Towards a whole-cell modeling approach for synthetic biology,2013,Chaos,32,10.1063/1.4811182,United States,Article,Cambridge,0,Journal,2-s2.0-84880371084
+Bérenguier D.,,Dynamical modeling and analysis of large cellular regulatory networks,2013,Chaos,41,10.1063/1.4809783,France,Article,Marseille,1,Journal,2-s2.0-84880340067
+Zañudo J.,,An effective network reduction approach to find the dynamical repertoire of discrete dynamic networks,2013,Chaos,55,10.1063/1.4809777,United States,Article,University Park,0,Journal,2-s2.0-84880350921
+Moon T.,,Genetic programs constructed from layered logic gates in single cells,2012,Nature,331,10.1038/nature11516,United States;United States,Article,Cambridge;St. Louis,0,Journal,2-s2.0-84868619337
+Wang R.,,Boolean modeling in systems biology: An overview of methodology and applications,2012,Physical Biology,194,10.1088/1478-3975/9/5/055001,United States,Review,University Park,0,Journal,2-s2.0-84867272347
+Gerstein M.B.,,Architecture of the human regulatory network derived from ENCODE data,2012,Nature,911,10.1038/nature11245,United States,Article,New Haven,1,Journal,2-s2.0-84865739425
+Khalil A.,,A synthetic biology framework for programming eukaryotic transcription functions,2012,Cell,192,10.1016/j.cell.2012.05.045,United States,Article,Boston,1,Journal,2-s2.0-84864634066
+Cheng A.,,Synthetic biology: An emerging engineering discipline,2012,Annual Review of Biomedical Engineering,138,10.1146/annurev-bioeng-071811-150118,United States,Review,Cambridge,0,Book Series,2-s2.0-84864258391
+Burrill D.,,Synthetic memory circuits for tracking human cell fate,2012,Genes and Development,48,10.1101/gad.189035.112,United States,Article,Boston,1,Journal,2-s2.0-84863644753
+Slusarczyk A.,,Foundations for the design and implementation of synthetic genetic circuits,2012,Nature Reviews Genetics,159,10.1038/nrg3227,United States,Review,Cambridge,0,Journal,2-s2.0-84862081641
+Edwards R.,,Explicit construction of chaotic attractors in glass networks,2012,"Chaos, Solitons and Fractals",13,10.1016/j.chaos.2012.02.018,Canada,Article,Victoria,0,Journal,2-s2.0-84876207162
+Mondragón-Palomino O.,,Entrainment of a population of synthetic genetic oscillators,2011,Science,113,10.1126/science.1205369,United States,Article,San Diego,0,Journal,2-s2.0-80052498962
+Ironi L.,,Dynamics of actively regulated gene networks,2011,Physica D: Nonlinear Phenomena,28,10.1016/j.physd.2010.12.010,Italy,Article,Rome,0,Journal,2-s2.0-79951509581
+Kim J.,,Synthetic in vitro transcriptional oscillators,2011,Molecular Systems Biology,190,10.1038/msb.2010.119,United States,Article,Pasadena,1,Journal,2-s2.0-79551599731
+Newman M.,,Networks: An Introduction,2010,Networks: An Introduction,6203,10.1093/acprof:oso/9780199206650.001.0001,United States,Book,Ann Arbor,0,Book,2-s2.0-77954826067
+Khalil A.S.,,Synthetic biology: Applications come of age,2010,Nature Reviews Genetics,763,10.1038/nrg2775,United States,Review,Boston,0,Journal,2-s2.0-77951107086
+Ravasi T.,,An Atlas of Combinatorial Transcriptional Regulation in Mouse and Man,2010,Cell,479,10.1016/j.cell.2010.01.044,,Article,,1,Journal,2-s2.0-77649299348
+Farcot E.,,Limit cycles in piecewise-affine gene network models with multiple interaction loops,2010,International Journal of Systems Science,16,10.1080/00207720903144552,France,Article,Montpellier,0,Journal,2-s2.0-77649266972
+Lu T.K.,,Next-generation synthetic gene networks,2009,Nature Biotechnology,253,10.1038/nbt.1591,United States;United States;United States,Review,Cambridge;Cambridge;Boston,0,Journal,2-s2.0-71849110893
+Zhang R.,,Boolean chaos,2009,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",57,10.1103/PhysRevE.80.045202,United States,Article,Durham,0,Journal,2-s2.0-70449122577
+Drossel B.,,Critical Boolean networks with scale-free in-degree distribution,2009,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",14,10.1103/PhysRevE.80.026102,Germany,Article,Darmstadt,0,Journal,2-s2.0-68949189705
+Tabor J.,,A Synthetic Genetic Edge Detection Program,2009,Cell,320,10.1016/j.cell.2009.04.048,United States,Article,San Francisco,1,Journal,2-s2.0-67549145283
+Friedland A.E.,,Synthetic gene networks that count,2009,Science,378,10.1126/science.1172005,United States,Article,Boston,0,Journal,2-s2.0-66349125024
+Ellis T.,,"Diversity-based, model-guided construction of synthetic gene networks with predicted functions",2009,Nature Biotechnology,336,10.1038/nbt.1536,United States,Article,Boston,0,Journal,2-s2.0-66149172363
+Tigges M.,,A tunable synthetic mammalian oscillator,2009,Nature,406,10.1038/nature07616,Switzerland,Article,"Zurich ZH,",0,Journal,2-s2.0-58249117722
+Stricker J.,,"A fast, robust and tunable synthetic gene oscillator",2008,Nature,731,10.1038/nature07389,United States,Article,San Diego,0,Journal,2-s2.0-57049159362
+Remy E.,,Graphic requirements for multistability and attractive cycles in a Boolean dynamical framework,2008,Advances in Applied Mathematics,104,10.1016/j.aam.2007.11.003,France,Article,Marseille,1,Journal,2-s2.0-49549085003
+Mettetal J.,,The frequency dependence of osmo-adaptation in Saccharomyces cerevisiae,2008,Science,258,10.1126/science.1151582,United States,Article,Cambridge,0,Journal,2-s2.0-38549084632
+Wilds R.,,Evolution of complex dynamics,2008,Chaos,5,10.1063/1.2962223,Canada,Article,Montreal,0,Journal,2-s2.0-54749129952
+Sánchez L.,,Segmenting the fly embryo: Logical analysis of the role of the segment polarity cross-regulatory module,2008,International Journal of Developmental Biology,61,10.1387/ijdb.072439ls,Spain,Article,Madrid,1,Journal,2-s2.0-61449309306
+Di Bernardo M.,,Piecewise-smooth dynamical systems theory and applications,2008,Applied Mathematical Sciences (Switzerland),286,10.1007/978-1-84628-708-4,United Kingdom;Italy,Chapter,Bristol;Naples,0,Book Series,2-s2.0-85031812230
+Deans T.L.,,A Tunable Genetic Switch Based on RNAi and Repressor Proteins for Regulating Gene Expression in Mammalian Cells,2007,Cell,196,10.1016/j.cell.2007.05.045,United States,Article,Boston,1,Journal,2-s2.0-34447505900
+Janssens H.,,Quantitative and predictive model of transcriptional control of the Drosophila melanogaster even skipped gene,2006,Nature Genetics,151,10.1038/ng1886,United States,Article,Stony Brook,0,Journal,2-s2.0-33749137281
+Kim J.,,Construction of an in vitro bistable circuit from synthetic transcriptional switches,2006,Molecular Systems Biology,193,10.1038/msb4100099,United States,Article,Pasadena,0,Journal,2-s2.0-33846116559
+Perkins T.,,Reverse engineering the gap gene network of Drosophila melanogaster,2006,PLoS Computational Biology,132,10.1371/journal.pcbi.0020051,Canada,Article,Montreal,1,Journal,2-s2.0-33646901020
+Farcot E.,,Geometric properties of a class of piecewise affine biological network models,2006,Journal of Mathematical Biology,29,10.1007/s00285-005-0360-4,France,Article,Sophia Antipolis,0,Journal,2-s2.0-32544456601
+Casey R.,,Piecewise-linear models of genetic regulatory networks: Equilibria and their stability,2006,Journal of Mathematical Biology,133,10.1007/s00285-005-0338-2,France,Article,Sophia Antipolis,0,Journal,2-s2.0-29244452623
+Prill R.,,Dynamic properties of network motifs contribute to biological network organization,2005,PLoS Biology,253,10.1371/journal.pbio.0030343,United States,Article,Baltimore,1,Journal,2-s2.0-27844551326
+Chaves M.,,Robustness and fragility of Boolean models for genetic regulatory networks,2005,Journal of Theoretical Biology,252,10.1016/j.jtbi.2005.01.023,United States,Article,Piscataway,0,Journal,2-s2.0-18844380444
+Ma'ayan A.,,Toward predictive models of mammalian cells,2005,Annual Review of Biophysics and Biomolecular Structure,72,10.1146/annurev.biophys.34.040204.144415,United States,Review,New York,0,Book Series,2-s2.0-20544474049
+Balázsi G.,,Topological units of environmental signal processing in the transcriptional regulatory network of Escherichia coli,2005,Proceedings of the National Academy of Sciences of the United States of America,149,10.1073/pnas.0500365102,United States;United States,Article,Boston;Evanston,1,Journal,2-s2.0-20344379457
+Istrail S.,,Logic functions of the genomic cis-regulatory code,2005,Proceedings of the National Academy of Sciences of the United States of America,135,10.1073/pnas.0409624102,United States;United States,Article,Pasadena;Rockville,1,Journal,2-s2.0-17044396348
+Plahte E.,,Analysis and generic properties of gene regulatory networks with graded response functions,2005,Physica D: Nonlinear Phenomena,74,10.1016/j.physd.2004.11.014,Norway,Article,As,0,Journal,2-s2.0-13244279645
+Perkins T.,,Inferring models of gene expression dynamics,2004,Journal of Theoretical Biology,54,10.1016/j.jtbi.2004.05.022,Canada,Article,Montreal,0,Journal,2-s2.0-4143051643
+Yook S.,,Functional and topological characterization of protein interaction networks,2004,Proteomics,471,10.1002/pmic.200300636,United States,Article,Notre Dame,0,Journal,2-s2.0-1842580761
+Giot L.,,A Protein Interaction Map of Drosophila melanogaster,2003,Science,1781,10.1126/science.1090289,United States,Article,Branford,0,Journal,2-s2.0-0345600247
+Wuchty S.,,Evolutionary conservation of motif constituents in the yeast protein interaction network,2003,Nature Genetics,306,10.1038/ng1242,United States,Article,Notre Dame,0,Journal,2-s2.0-0141484611
+Albert R.,,The topology of the regulatory interactions predicts the expression pattern of the segment polarity genes in Drosophila melanogaster,2003,Journal of Theoretical Biology,656,10.1016/S0022-5193(03)00035-3,United States,Review,Minneapolis,0,Journal,2-s2.0-0037686112
+Samuelsson B.,,Superpolynomial growth in the number of attractors in Kauffman networks,2003,Physical Review Letters,194,,Sweden,Article,Lund,0,Journal,2-s2.0-0037799461
+Socolar J.,,Scaling in ordered and critical random Boolean networks,2003,Physical Review Letters,97,10.1103/PhysRevLett.90.068702,United States;United States,Article,Santa Fe;Durham,0,Journal,2-s2.0-3343006617
+de Jong H.,,Genetic network analyzer: Qualitative simulation of genetic regulatory networks,2003,Bioinformatics,192,10.1093/bioinformatics/btf851,France,Article,Saint-Ismier,0,Journal,2-s2.0-0345269975
+Lee T.I.,,Transcriptional regulatory networks in Saccharomyces cerevisiae,2002,Science,2264,10.1126/science.1075090,United States,Article,Cambridge,0,Journal,2-s2.0-0037174671
+De Jong H.,,Modeling and simulation of genetic regulatory systems: A literature review,2002,Journal of Computational Biology,1895,10.1089/10665270252833208,France,Article,Saint-Ismier,0,Journal,2-s2.0-0036207347
+Guelzim N.,,Topological and causal structure of the yeast transcriptional regulatory network,2002,Nature Genetics,426,10.1038/ng873,France;France,Article,Paris;Paris,0,Journal,2-s2.0-0036578654
+Shen-Orr S.S.,,Network motifs in the transcriptional regulation network of Escherichia coli,2002,Nature Genetics,1952,10.1038/ng881,,Article,,0,Journal,2-s2.0-0036578795
+Sánchez L.,,A logical analysis of the Drosophila gap-gene system,2001,Journal of Theoretical Biology,157,10.1006/jtbi.2001.2335,Spain,Article,Madrid,0,Journal,2-s2.0-0035928464
+Edwards R.,,Symbolic dynamics and computation in model gene networks,2001,Chaos,62,10.1063/1.1336498,Canada,Review,Victoria,0,Journal,2-s2.0-0013387906
+Edwards R.,,Analysis of continuous-time switching networks,2000,Physica D: Nonlinear Phenomena,100,10.1016/S0167-2789(00)00130-5,Canada,Article,Victoria,0,Journal,2-s2.0-0034315476
+Von Dassow G.,,The segment polarity network is a robust developmental module,2000,Nature,836,10.1038/35018085,United States,Article,Seattle,0,Journal,2-s2.0-0034644270
+Becskel A.,,Engineering stability in gene networks by autoregulation,2000,Nature,1073,10.1038/35014651,Germany,Article,Heidelberg,0,Journal,2-s2.0-0034212551
+Gardner T.S.,,Construction of a genetic toggle switch in Escherichia coli,2000,Nature,2733,10.1038/35002131,United States,Article,Boston,0,Journal,2-s2.0-0034688174
+Elowitz M.,,A synthetic oscillatory network of transcriptional regulators,2000,Nature,2922,10.1038/35002125,United States,Article,Princeton,0,Journal,2-s2.0-0034688173
+Edwards R.,,Combinatorial explosion in model gene networks,2000,Chaos,66,10.1063/1.1286997,Canada,Article,Victoria,0,Journal,2-s2.0-0034404253
+Hartwell L.H.,,From molecular to modular cell biology,1999,Nature,2539,10.1038/35011540,United States,Article,Seattle,0,Journal,2-s2.0-0033518234
+Barabási A.,,Emergence of scaling in random networks,1999,Science,22102,10.1126/science.286.5439.509,United States,Article,Notre Dame,0,Journal,2-s2.0-0038483826
+Mendoza L.,,Dynamics of the genetic regulatory network for Arabidopsis thaliana flower morphogenesis,1998,Journal of Theoretical Biology,174,10.1006/jtbi.1998.0701,Mexico,Article,Ciudad de México,0,Journal,2-s2.0-0032555224
+Watts D.J.,,Collective dynamics of 'small-world9 networks,1998,Nature,25754,10.1038/30918,United States,Article,Ithaca,0,Journal,2-s2.0-0032482432
+Thieffry D.,,From specific gene regulation to genomic networks: A global analysis of transcriptional regulation in Escherichia coli,1998,BioEssays,368,10.1002/(SICI)1521-1878(199805)20:5<433::AID-BIES10>3.0.CO;2-2,Mexico,Review,Cuernavaca,0,Journal,2-s2.0-0032077377
+Yuh C.,,Genomic cis-regulatory logic: Experimental and computational analysis of a sea urchin gene,1998,Science,541,10.1126/science.279.5358.1896,United States,Article,Pasadena,0,Journal,2-s2.0-0032549745
+Glass L.,,Ordered and disordered dynamics in random networks,1998,Europhysics Letters,57,10.1209/epl/i1998-00199-0,Canada,Article,Montreal,0,Journal,2-s2.0-0032520557
+Bastolla U.,,The modular structure of Kauffman networks,1998,Physica D: Nonlinear Phenomena,77,10.1016/S0167-2789(97)00242-X,Italy;Germany,Article,Rome;Jülich,0,Journal,2-s2.0-0000676885
+Plahte E.,,A methodological basis for description and analysis of systems with complex switch-like interactions,1998,Journal of Mathematical Biology,83,10.1007/s002850050103,Norway,Article,As,0,Journal,2-s2.0-0032020122
+Snoussi E.H.,,Necessary conditions for multistationarity and stable periodicity,1998,Journal of Biological Systems,168,10.1142/S0218339098000042,Morocco,Article,Rabat,0,Journal,2-s2.0-0001923376
+Mestl T.,,Chaos in high-dimensional neural and gene networks,1996,Physica D: Nonlinear Phenomena,76,10.1016/0167-2789(96)00086-3,Norway,Article,As,0,Journal,2-s2.0-0002501173
+Mestl T.,,Periodic solutions in systems of piecewise-linear differential equations,1995,Dynamics and Stability of Systems,57,10.1080/02681119508806202,Norway,Article,As,0,Journal,2-s2.0-0001511149
+Thieffry D.,,Dynamical behaviour of biological regulatory networks-II. Immunity control in bacteriophage lambda,1995,Bulletin of Mathematical Biology,155,10.1007/BF02460619,Belgium,Article,Brussels,0,Journal,2-s2.0-0029267492
+Thomas R.,,Dynamical behaviour of biological regulatory networks-I. Biological role of feedback loops and practical use of the concept of the loop-characteristic state,1995,Bulletin of Mathematical Biology,377,10.1007/BF02460618,Belgium,Article,Brussels,0,Journal,2-s2.0-0029267491
+Thomas R.,,Regulatory networks seen as asynchronous automata: A logical description,1991,Journal of Theoretical Biology,317,10.1016/S0022-5193(05)80350-9,Belgium,Short Survey,Brussels,0,Journal,2-s2.0-0025948178
+Mjolsness E.,,A connectionist model of development,1991,Journal of Theoretical Biology,294,10.1016/S0022-5193(05)80391-1,United States,Article,New Haven,0,Journal,2-s2.0-0025991216
+Derrida B.,,Random networks of automata: A simple annealed approximation,1986,EPL,466,10.1209/0295-5075/1/2/001,France,Article,Gif-sur-Yvette,0,Journal,2-s2.0-84956252965
+Meinhardt H.,,Hierarchical inductions of cell states: A model for segmentation in Drosophila,1986,Journal of Cell Science,100,10.1242/jcs.1986.supplement_4.20,Germany,Article,Tubingen,1,Journal,2-s2.0-0022511960
+Ghil M.,,Boolean delay equations. II. Periodic and aperiodic solutions,1985,Journal of Statistical Physics,40,10.1007/BF01020607,United States;United States,Article,Los Angeles;New York,0,Journal,2-s2.0-0039051999
+Thomas R.,,Logical analysis of systems comprising feedback loops,1978,Journal of Theoretical Biology,122,10.1016/0022-5193(78)90127-3,Belgium,Article,Brussels,0,Journal,2-s2.0-0018080896
+Glass L.,,Prediction of limit cycles in mathematical models of biological oscillations,1978,Bulletin of Mathematical Biology,61,10.1007/BF02463128,Canada,Article,Montreal,0,Journal,2-s2.0-0017834347
+Glass L.,,Stable oscillations in mathematical models of biological control systems,1978,Journal of Mathematical Biology,118,10.1007/BF02547797,Canada,Article,Montreal,0,Journal,2-s2.0-0018168876
+Glass L.,,Classification of biological networks by their qualitative dynamics,1975,Journal of Theoretical Biology,176,10.1016/S0022-5193(75)80056-7,United States,Article,Rochester,0,Journal,2-s2.0-0016758861
+Thomas R.,,Boolean formalization of genetic control circuits,1973,Journal of Theoretical Biology,546,10.1016/0022-5193(73)90247-6,Belgium,Article,Brussels,0,Journal,2-s2.0-0015823097
+Glass L.,,"The logical analysis of continuous, non-linear biochemical control networks",1973,Journal of Theoretical Biology,692,10.1016/0022-5193(73)90208-7,United States,Article,Rochester,0,Journal,2-s2.0-0015609281
+Kauffman S.,,Metabolic stability and epigenesis in randomly constructed genetic nets,1969,Journal of Theoretical Biology,2875,10.1016/0022-5193(69)90015-0,United States;United States,Article,San Francisco;Cambridge,0,Journal,2-s2.0-0014489272
+Sugita M.,,Functional analysis of chemical systems in vivo using a logical circuit equivalent. II. The idea of a molecular automaton,1963,Journal of Theoretical Biology,51,10.1016/0022-5193(63)90027-4,Japan,Article,Kunitachi,0,Journal,2-s2.0-0013768153
+MONOD J.,,"Teleonomic mechanisms in cellular metabolism, growth, and differentiation.",1961,Cold Spring Harbor symposia on quantitative biology,548,10.1101/sqb.1961.026.01.048,,Article,,0,Journal,2-s2.0-73049167504

@@ -1,0 +1,37 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Elsik C.,,Creating a honey bee consensus gene set,2007,Genome Biology,215,10.1186/gb-2007-8-1-r13,United States,Article,College Station,1,Journal,2-s2.0-34147180390
+DeLuca T.F.,,Roundup: A multi-genome repository of orthologs and evolutionary distances,2006,Bioinformatics,84,10.1093/bioinformatics/btl286,United States,Article,Boston,1,Journal,2-s2.0-33747817416
+Alexeyenko A.,,Automatic clustering of orthologs and inparalogs shared by multiple proteomes,2006,Bioinformatics,197,10.1093/bioinformatics/btl213,Sweden;Sweden,Conference Paper,Stockholm;Stockholm,1,Journal,2-s2.0-33747892409
+Hulsen T.,,Benchmarking ortholog identification methods using functional genomics data,2006,Genome Biology,113,10.1186/gb-2006-7-4-r31,Netherlands,Article,Nijmegen,1,Journal,2-s2.0-33745022802
+Bandyopadhyay S.,,Systematic identification of functional orthologs based on protein network comparison,2006,Genome Research,155,10.1101/gr.4526006,United States;United States,Article,San Diego;San Diego,1,Journal,2-s2.0-33644656793
+Chen F.,,OrthoMCL-DB: querying a comprehensive multi-species collection of ortholog groups.,2006,Nucleic acids research,599,10.1093/nar/gkj123,United States,Article,Philadelphia,1,Journal,2-s2.0-33644787447
+Koonin E.,,"Orthologs, paralogs, and evolutionary genomics",2005,Annual Review of Genetics,686,10.1146/annurev.genet.39.073003.114725,United States,Review,Bethesda,0,Book Series,2-s2.0-27644472372
+O'Brien K.,,Inparanoid: A comprehensive database of eukaryotic orthologs,2005,Nucleic Acids Research,525,10.1093/nar/gki107,Sweden,Article,Stockholm,1,Journal,2-s2.0-13444256478
+Koonin E.,,A comprehensive evolutionary classification of proteins encoded in complete eukaryotic genomes.,2004,Genome biology,472,,United States,Article,Bethesda,0,Journal,2-s2.0-16444381885
+Storm C.,,Comprehensive analysis of orthologous protein domains using the HOPS database,2003,Genome Research,37,10.1101/gr1305203,Sweden,Article,Stockholm,1,Journal,2-s2.0-0142028973
+Tatusov R.,,The COG database: An updated vesion includes eukaryotes,2003,BMC Bioinformatics,2968,10.1186/1471-2105-4-41,United States,Article,Bethesda,1,Journal,2-s2.0-0042902833
+Wall D.,,Detecting putative orthologs,2003,Bioinformatics,185,10.1093/bioinformatics/btg213,United States,Article,Palo Alto,1,Journal,2-s2.0-0141626909
+Li L.,,OrthoMCL: Identification of ortholog groups for eukaryotic genomes,2003,Genome Research,3189,10.1101/gr.1224503,United States,Article,Philadelphia,1,Journal,2-s2.0-0141519279
+Sonnhammer E.,,"Orthology, paralogy and proposed classification for paralog subtypes",2002,Trends in Genetics,248,10.1016/S0168-9525(02)02793-2,Sweden,Letter,Stockholm,0,Journal,2-s2.0-0036889686
+Zmasek C.,,RIO: Analyzing proteomes by automated phylogenomics using resampled inference of orthologs,2002,BMC Bioinformatics,138,10.1186/1471-2105-3-14,United States,Article,St. Louis,1,Journal,2-s2.0-0013017592
+Enright A.J.,,An efficient algorithm for large-scale detection of protein families,2002,Nucleic Acids Research,2117,10.1093/nar/30.7.1575,United Kingdom,Review,Cambridge,1,Journal,2-s2.0-0036529479
+Lee Y.,,Cross-referencing eukaryotic genomes: TIGR orthologous gene alignments (TOGA),2002,Genome Research,121,10.1101/gr.212002,United States,Article,Rockville,1,Journal,2-s2.0-0036125446
+Storm C.,,Automated ortholog inference from phylogenetic trees and calculation of orthology reliability,2002,Bioinformatics,133,10.1093/bioinformatics/18.1.92,Sweden,Article,Stockholm,1,Journal,2-s2.0-0036173130
+Remm M.,,Automatic clustering of orthologs and in-paralogs from pairwise species comparisons,2001,Journal of Molecular Biology,882,10.1006/jmbi.2000.5197,Estonia;Sweden,Article,Tartu;Stockholm,0,Journal,2-s2.0-0035861990
+Hegyi H.,,Annotation transfer for genomics: Measuring functional divergence in multi-domain proteins,2001,Genome Research,103,10.1101/gr. 183801,United States,Article,New Haven,0,Journal,2-s2.0-0034767547
+Zmasek C.,,A simple algorithm to infer gene duplication and speciation events on a gene tree,2001,Bioinformatics,140,10.1093/bioinformatics/17.9.821,United States,Article,St. Louis,1,Journal,2-s2.0-0034791426
+Enright A.,,BioLayout - An automatic graph layout algorithm for similarity visualization,2001,Bioinformatics,113,10.1093/bioinformatics/17.9.853,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-0034786143
+Koski L.,,The closest BLAST hit is often not the nearest neighbor,2001,Journal of Molecular Evolution,357,10.1007/s002390010184,Canada,Article,Hamilton,0,Journal,2-s2.0-0034992826
+Tatusov R.L.,,The COG database: New developments in phylogenetic classification of proteins from complete genomes,2001,Nucleic Acids Research,1417,10.1093/nar/29.1.22,United States,Article,Bethesda,1,Journal,2-s2.0-0035162592
+Fitch W.,,Homologya personal view on some of the problems,2000,Trends in Genetics,382,10.1016/S0168-9525(00)02005-9,United States,Review,Irvine,0,Journal,2-s2.0-0034178257
+Tatusov R.L.,,The COG database: A tool for genome-scale analysis of protein functions and evolution,2000,Nucleic Acids Research,2214,10.1093/nar/28.1.33,United States,Short Survey,Bethesda,0,Journal,2-s2.0-0033956060
+Gouzy J.,,Whole genome protein domain analysis using a new method for domain clustering,1999,Computers and Chemistry,57,10.1016/S0097-8485(99)00011-X,France,Article,Castanet-Tolosan,0,Journal,2-s2.0-0033563522
+Hadgu A.,,A biomedical application of latent class models with random effects,1998,Journal of the Royal Statistical Society. Series C: Applied Statistics,73,10.1111/1467-9876.00131,United States,Article,Atlanta,0,Journal,2-s2.0-0039986428
+Hui S.L.,,Evaluation of diagnostic tests without gold standards,1998,Statistical Methods in Medical Research,187,10.1177/096228029800700404,United States;United States,Review,Indianapolis;Indianapolis,0,Journal,2-s2.0-0031772593
+Henikoff S.,,Gene families: The taxonomy of protein paralogs and chimeras,1997,Science,293,10.1126/science.278.5338.609,United States,Article,Chevy Chase,0,Journal,2-s2.0-0030660580
+Tatusov R.,,A genomic perspective on protein families,1997,Science,2543,10.1126/science.278.5338.631,United States,Article,Bethesda,0,Journal,2-s2.0-0030660581
+Altschul S.,,Gapped BLAST and PSI-BLAST: A new generation of protein database search programs,1997,Nucleic Acids Research,54811,10.1093/nar/25.17.3389,United States,Review,Bethesda,1,Journal,2-s2.0-0030801002
+Qu Y.,,Random effects models in latent class analysis for evaluating accuracy of diagnostic tests,1996,Biometrics,267,10.2307/2533043,United States,Article,Cleveland,0,Journal,2-s2.0-0029795558
+Doolittle R.,,The multiplicity of domains in proteins,1995,Annual Review of Biochemistry,394,10.1146/annurev.bi.64.070195.001443,United States,Review,San Diego,0,Book Series,2-s2.0-0029006062
+Thompson J.,,"CLUSTAL W: Improving the sensitivity of progressive multiple sequence alignment through sequence weighting, position-specific gap penalties and weight matrix choice",1994,Nucleic Acids Research,51767,10.1093/nar/22.22.4673,Germany,Article,Heidelberg,0,Journal,2-s2.0-0027968068
+Fitch W.,,Distinguishing homologous from analogous proteins,1970,Systematic Zoology,926,10.2307/2412448,United States,Article,Madison,0,Journal,2-s2.0-0014800108

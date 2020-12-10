@@ -1,0 +1,4 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Albert R.,,Statistical mechanics of complex networks,2002,Reviews of Modern Physics,13645,10.1103/RevModPhys.74.47,United States;United States,Article,Minneapolis;Notre Dame,0,Journal,2-s2.0-0036013593
+Mitzenmacher M.,,Compressed bloom filters,2001,Proceedings of the Annual ACM Symposium on Principles of Distributed Computing,115,10.1145/383962.384004,United States,Conference Paper,Cambridge,0,Conference Proceeding,2-s2.0-0034782095
+Bloom B.,,Space/time trade-offs in hash coding with allowable errors,1970,Communications of the ACM,4322,10.1145/362686.362692,United States,Article,,0,Journal,2-s2.0-0014814325

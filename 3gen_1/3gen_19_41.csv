@@ -1,0 +1,12 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Mendelson S.,,Rademacher averages and phase transitions in Glivenko-Cantelli classes,2002,IEEE Transactions on Information Theory,52,10.1109/18.971753,Australia,Article,Canberra,0,Journal,2-s2.0-0036160893
+Bartlett P.L.,,Model selection and error estimation,2002,Machine Learning,207,10.1023/A:1013999503812,United States,Article,Berkeley,1,Journal,2-s2.0-0036643049
+Koltchinskii V.,,Rademacher penalties and structural risk minimization,2001,IEEE Transactions on Information Theory,188,10.1109/18.930926,United States,Article,Albuquerque,0,Journal,2-s2.0-0035397715
+Mendelson S.,,ℓ-norm and its application to learning theory,2001,Positivity,5,10.1023/A:1011430329313,Australia,Article,Canberra,0,Journal,2-s2.0-0035376934
+Bartlett P.L.,,Rademacher and Gaussian complexities: Risk bounds and structural results,2001,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),24,10.1007/3-540-44581-1_15,United States,Conference Paper,Berkeley,0,Book Series,2-s2.0-84943261848
+Mason L.,,Improved generalization through explicit optimization of margins,2000,Machine Learning,82,10.1023/A:1007697429651,Australia,Article,Canberra,1,Journal,2-s2.0-0033870982
+Shawe-Taylor J.,,Structural risk minimization over data-dependent hierarchies,1998,IEEE Transactions on Information Theory,299,10.1109/18.705570,United Kingdom;Australia,Article,Egham;Canberra,0,Journal,2-s2.0-0032166068
+Bartlett P.,,The sample complexity of pattern classification with neural networks: The size of the weights is more important than the size of the network,1998,IEEE Transactions on Information Theory,702,10.1109/18.661502,Australia;United States,Article,Canberra;New York,0,Journal,2-s2.0-0032028728
+Golea M.,,Generalization in decision trees and DNF: Does size matter?,1998,Advances in Neural Information Processing Systems,12,,Australia,Conference Paper,Canberra,0,Conference Proceeding,2-s2.0-0041494283
+Schapire R.,,Boosting the margin: A new explanation for the effectiveness of voting methods,1998,Annals of Statistics,1388,10.1214/aos/1024691352,United States,Article,Florham Park,1,Journal,2-s2.0-0032280519
+Kearns M.,,An Experimental and Theoretical Comparison of Model Selection Methods,1997,Machine Learning,73,10.1023/A:1007344726582,United States,Review,San Antonio,1,Journal,2-s2.0-0031122049

@@ -1,0 +1,33 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Liu J.,,Ranking the spreading influence in complex networks,2013,Physica A: Statistical Mechanics and its Applications,171,10.1016/j.physa.2013.04.037,China,Article,Shanghai,0,Journal,2-s2.0-84879684235
+Zeng A.,,Ranking spreaders by decomposing complex networks,2013,"Physics Letters, Section A: General, Atomic and Solid State Physics",199,10.1016/j.physleta.2013.02.039,China;Switzerland,Article,Hangzhou;Fribourg,0,Journal,2-s2.0-84875220788
+Basaras P.,,"Detecting influential spreaders in complex, dynamic networks",2013,Computer,71,10.1109/MC.2013.75,Greece,Article,Volos,0,Trade Journal,2-s2.0-84876105204
+Zhang X.,,Identifying influential nodes in complex networks with community structure,2013,Knowledge-Based Systems,121,10.1016/j.knosys.2013.01.017,China,Article,Beijing,0,Journal,2-s2.0-84874652140
+Montresor A.,,Distributed k-core decomposition,2013,IEEE Transactions on Parallel and Distributed Systems,78,10.1109/TPDS.2012.124,Italy,Article,Trento,0,Journal,2-s2.0-84871774837
+Sariyüce A.,,Streaming algorithms for k-core decomposition,2013,Proceedings of the VLDB Endowment,67,10.14778/2536336.2536344,United States,Article,Columbus,0,Conference Proceeding,2-s2.0-84881231485
+Hou B.,,Identifying all-around nodes for spreading dynamics in complex networks,2012,Physica A: Statistical Mechanics and its Applications,86,10.1016/j.physa.2012.02.033,China,Article,Changsha,0,Journal,2-s2.0-84860527781
+Garas A.,,A κ-shell decomposition method for weighted networks,2012,New Journal of Physics,140,10.1088/1367-2630/14/8/083030,Switzerland,Article,"Zurich ZH,",1,Journal,2-s2.0-84865790046
+Chen D.,,Identifying influential nodes in complex networks,2012,Physica A: Statistical Mechanics and its Applications,594,10.1016/j.physa.2011.09.017,China,Article,Chengdu,0,Journal,2-s2.0-84655175098
+Castellano C.,,Thresholds for epidemic spreading in networks,2010,Physical Review Letters,370,10.1103/PhysRevLett.105.218701,Italy,Article,Rome,0,Journal,2-s2.0-78349292558
+Fortunato S.,,Community detection in graphs,2010,Physics Reports,5864,10.1016/j.physrep.2009.11.002,Italy,Review,Turin,0,Journal,2-s2.0-74049087026
+Kitsak M.,,Identification of influential spreaders in complex networks,2010,Nature Physics,1473,10.1038/nphys1746,United States;United States,Article,San Diego;Boston,1,Journal,2-s2.0-78149283685
+Leskovec J.,,Community structure in large networks: Natural cluster sizes and the absence of large well-defined clusters,2009,Internet Mathematics,895,10.1080/15427951.2009.10129177,United States,Article,Palo Alto,1,Journal,2-s2.0-84924178998
+Lancichinetti A.,,Benchmark graphs for testing community detection algorithms,2008,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",1641,10.1103/PhysRevE.78.046110,Italy,Article,Turin,0,Journal,2-s2.0-55849088356
+Carmi S.,,A model of Internet topology using k-shell decomposition,2007,Proceedings of the National Academy of Sciences of the United States of America,419,10.1073/pnas.0701175104,Israel,Article,Ramat Gan,1,Journal,2-s2.0-34547413871
+Leskovec J.,,Graph evolution: Densification and shrinking diameters,2007,ACM Transactions on Knowledge Discovery from Data,1331,10.1145/1217299.1217301,United States,Article,Pittsburgh,0,Journal,2-s2.0-34248205060
+Dorogovtsev S.,,K-core organization of complex networks,2006,Physical Review Letters,374,10.1103/PhysRevLett.96.040601,Portugal;Russian Federation,Article,Aveiro;Saint Petersburg (ex Leningrad),0,Journal,2-s2.0-33144463206
+Newman M.E.J.,,Finding community structure in networks using the eigenvectors of matrices,2006,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",2559,10.1103/PhysRevE.74.036104,United States,Article,Ann Arbor,0,Journal,2-s2.0-33749468596
+Duch J.,,Community detection in complex networks using extremal optimization,2005,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",1096,10.1103/PhysRevE.72.027104,Spain,Article,Tarragona,0,Journal,2-s2.0-27244441304
+Newman M.,,A measure of betweenness centrality based on random walks,2005,Social Networks,1183,10.1016/j.socnet.2004.11.009,United States,Article,Ann Arbor,0,Journal,2-s2.0-13944252976
+Boguñá M.,,Models of social networks based on social distance attachment,2004,"Physical Review E - Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics",437,10.1103/PhysRevE.70.056122,Spain,Article,Barcelona,0,Journal,2-s2.0-41349112960
+Guimerà R.,,Self-similar community structure in a network of human interactions,2003,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",769,,Spain;United States,Article,Tarragona;Evanston,0,Journal,2-s2.0-1842616539
+Lusseau D.,,The bottlenose dolphin community of doubtful sound features a large proportion of long-lasting associations: Can geographic isolation explain this unique trait?,2003,Behavioral Ecology and Sociobiology,1311,10.1007/s00265-003-0651-y,New Zealand;United Kingdom,Article,Dunedin;Aberdeen,0,Journal,2-s2.0-0042311400
+Albert R.,,Statistical mechanics of complex networks,2002,Reviews of Modern Physics,13645,10.1103/RevModPhys.74.47,United States;United States,Article,Minneapolis;Notre Dame,0,Journal,2-s2.0-0036013593
+Newman M.E.J.,,Spread of epidemic disease on networks,2002,"Physical Review E - Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics",1841,10.1103/PhysRevE.66.016128,United States;United States,Article,Santa Fe;Ann Arbor,1,Journal,2-s2.0-41349106348
+Pastor-Satorras R.,,Epidemic spreading in scale-free networks,2001,Physical Review Letters,3738,10.1103/PhysRevLett.86.3200,Spain,Article,Barcelona,0,Journal,2-s2.0-0035794256
+Albert R.,,Error and attack tolerance of complex networks,2000,Nature,5597,10.1038/35019019,United States,Article,Notre Dame,0,Journal,2-s2.0-0034721164
+Barabási A.,,Emergence of scaling in random networks,1999,Science,22122,10.1126/science.286.5439.509,United States,Article,Notre Dame,0,Journal,2-s2.0-0038483826
+Watts D.J.,,Collective dynamics of 'small-world9 networks,1998,Nature,25779,10.1038/30918,United States,Article,Ithaca,0,Journal,2-s2.0-0032482432
+Knight W.,,A Computer Method for Calculating Kendall's Tau with Ungrouped Data,1966,Journal of the American Statistical Association,131,10.1080/01621459.1966.10480879,Canada,Article,Ottawa,0,Journal,2-s2.0-29844453303
+Sabidussi G.,,The centrality index of a graph,1966,Psychometrika,1175,10.1007/BF02289527,Canada,Article,Hamilton,0,Journal,2-s2.0-0013987194
+KENDALL M.,,The treatment of ties in ranking problems.,1945,Biometrika,198,10.1093/biomet/33.3.239,,Article,,0,Journal,2-s2.0-84872481598

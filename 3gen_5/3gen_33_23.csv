@@ -1,0 +1,16 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Pesquita C.,,Semantic similarity in biomedical ontologies,2009,PLoS Computational Biology,496,10.1371/journal.pcbi.1000443,Portugal,Review,Lisbon,1,Journal,2-s2.0-68249087607
+Xu T.,,Evaluation of GO-based functional similarity measures using S. cerevisiae protein interaction and expression profile data,2008,BMC Bioinformatics,73,10.1186/1471-2105-9-472,China;China,Article,Shanghai;Chengdu,1,Journal,2-s2.0-58149312546
+Mistry M.,,Gene Ontology term overlap as a measure of gene functional similarity,2008,BMC Bioinformatics,133,10.1186/1471-2105-9-327,Canada,Article,Vancouver,1,Journal,2-s2.0-49949096013
+Pesquita C.,,Metrics for GO based protein semantic similarity: A systematic evaluation,2008,BMC Bioinformatics,214,10.1186/1471-2105-9-S5-S4,Portugal,Article,Lisbon,1,Journal,2-s2.0-47149083877
+Tao Y.,,Information theory applied to the sparse gene ontology annotation network to predict novel gene function,2007,Bioinformatics,123,10.1093/bioinformatics/btm195,United States,Conference Paper,New York,1,Journal,2-s2.0-34547840224
+Fröhlich H.,,GOSim - An R-package for computation of information theoretic GO similarities between terms and gene products,2007,BMC Bioinformatics,132,10.1186/1471-2105-8-166,Germany,Article,Heidelberg,1,Journal,2-s2.0-34250764323
+Wang J.,,A new method to measure the semantic similarity of GO terms,2007,Bioinformatics,613,10.1093/bioinformatics/btm087,United States,Article,Clemson,0,Journal,2-s2.0-34447294237
+Wolting C.,,Cluster analysis of protein array results via similarity of Gene Ontology annotation,2006,BMC Bioinformatics,26,10.1186/1471-2105-7-338,Canada;Canada,Article,Toronto;Toronto,1,Journal,2-s2.0-33847103528
+Lei Z.,,Assessing protein similarity with Gene Ontology and its use in subnuclear localization prediction,2006,BMC Bioinformatics,90,10.1186/1471-2105-7-491,United States,Article,Chicago,1,Journal,2-s2.0-33751393465
+Schlicker A.,,A new measure for functional similarity of gene products based on gene ontology,2006,BMC Bioinformatics,434,10.1186/1471-2105-7-302,Germany,Article,Saarbrucken,1,Journal,2-s2.0-33748335463
+Sevilla J.,,Correlation between gene expression and GO semantic similarity,2005,IEEE/ACM Transactions on Computational Biology and Bioinformatics,176,10.1109/TCBB.2005.50,Kenya;Kenya;Kenya;Kenya,Article,Nairobi;Nairobi;Nairobi;Nairobi,0,Journal,2-s2.0-30344446931
+Bolshakova N.,,A knowledge-driven approach to cluster validity assessment,2005,Bioinformatics,46,10.1093/bioinformatics/bti317,Ireland,Article,Dublin,1,Journal,2-s2.0-19544366640
+Gentleman R.,,Bioconductor: open software development for computational biology and bioinformatics.,2004,Genome biology,8443,,United States,Article,Boston,0,Journal,2-s2.0-28744458859
+Lord P.,,Investigating semantic similarity measures across the gene ontology: The relationship between sequence and annotation,2003,Bioinformatics,599,10.1093/bioinformatics/btg153,United Kingdom,Article,Manchester,1,Journal,2-s2.0-0037480738
+Resnik P.,,Semantic Similarity in a Taxonomy: An Information-Based Measure and its Application to Problems of Ambiguity in Natural Language,1999,Journal of Artificial Intelligence Research,1392,10.1613/jair.514,United States,Article,College Park,1,Journal,2-s2.0-0002016474

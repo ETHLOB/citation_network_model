@@ -1,0 +1,22 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Dabney A.,,A new approach to intensity-dependent normalization of two-channel microarrays,2007,Biostatistics,18,10.1093/biostatistics/kxj038,United States,Article,Seattle,1,Journal,2-s2.0-33845413333
+Jaeger J.,,Selecting normalization genes for small diagnostic microarrays,2006,BMC Bioinformatics,9,10.1186/1471-2105-7-388,Germany,Article,Berlin,1,Journal,2-s2.0-33748367419
+Pohjanvirta R.,,Evaluation of various housekeeping genes for their applicability for normalization of mRNA expression in dioxin-treated rats,2006,Chemico-Biological Interactions,49,10.1016/j.cbi.2006.01.001,Finland;Finland;Finland,Article,Helsinki;Helsinki;Helsinki,0,Journal,2-s2.0-33644752604
+Newton S.,,Production of custom microarrays for neuroscience research,2005,Methods,11,10.1016/j.ymeth.2005.09.004,United States,Article,New Haven,0,Journal,2-s2.0-27844488637
+De Wit N.,,Analysis of differential gene expression in human melanocytic tumour lesions by custom made oligonucleotide arrays,2005,British Journal of Cancer,62,10.1038/sj.bjc.6602612,Netherlands,Article,Nijmegen,1,Journal,2-s2.0-22044454883
+Takahashi M.,,Monitoring synaptogenesis in the developing mouse cerebellum with an original oligonucleotide microarray,2005,Journal of Neuroscience Research,13,10.1002/jnr.20533,Japan,Article,Tokyo,0,Journal,2-s2.0-21844439512
+Khimani A.,,Housekeeping genes in cancer: Normalization of array data,2005,BioTechniques,50,10.2144/05385ST04,United States,Article,Waltham,1,Journal,2-s2.0-20844458965
+Held M.,,Microarrays in ecological research: A case study of a cDNA microarray for plant-herbivore interactions,2004,BMC Ecology,20,10.1186/1472-6785-4-13,Germany;Germany,Article,Jena;Jena,1,Journal,2-s2.0-5444242571
+Lin D.,,Spatial patterns of gene expression in the olfactory bulb,2004,Proceedings of the National Academy of Sciences of the United States of America,22,10.1073/pnas.0404872101,United States;United States,Article,Berkeley;Ithaca,1,Journal,2-s2.0-4344587134
+Gentleman R.,,Bioconductor: open software development for computational biology and bioinformatics.,2004,Genome biology,8443,,United States,Article,Boston,0,Journal,2-s2.0-28744458859
+Wilson D.,,New normalization methods for cDNA microarray data,2003,Bioinformatics,76,10.1093/bioinformatics/btg146,Australia,Article,North Ryde,1,Journal,2-s2.0-0042594501
+Beneš V.,,Standardization of protocols in cDNA microarray analysis,2003,Trends in Biochemical Sciences,49,10.1016/S0968-0004(03)00068-9,Germany,Review,Heidelberg,0,Journal,2-s2.0-0038403678
+Wurmbach E.,,Focused microarray analysis,2003,Methods,63,10.1016/S1046-2023(03)00161-0,United States,Article,New York,0,Journal,2-s2.0-0142142672
+Smyth G.,,Normalization of cDNA microarray data,2003,Methods,1396,10.1016/S1046-2023(03)00155-5,Australia,Article,Melbourne,0,Journal,2-s2.0-0242333835
+Irizarry R.,,"Exploration, normalization, and summaries of high density oligonucleotide array probe level data.",2003,"Biostatistics (Oxford, England)",7668,10.1093/biostatistics/4.2.249,United States,Article,Baltimore,1,Journal,2-s2.0-0142121516
+Dudoit S.,,Statistical methods for identifying differentially expressed genes in replicated cDNA microarray experiments,2002,Statistica Sinica,934,,United States,Article,Berkeley,0,Journal,2-s2.0-0036376993
+Quackenbush J.,,Microarray data normalization and transformation,2002,Nature Genetics,1375,10.1038/ng1032,United States,Review,Rockville,0,Journal,2-s2.0-0036898577
+Yang Y.H.,,Normalization for cDNA microarray data: a robust composite method addressing single and multiple slide systematic variation.,2002,Nucleic acids research,2728,10.1093/nar/30.4.e15,United States,Article,Berkeley,0,Journal,2-s2.0-1342294092
+Tanaka T.,,"Genome-wide expression profiling of mid-gestation placenta and embryo using a 15,000 mouse developmental cDNA microarray",2000,Proceedings of the National Academy of Sciences of the United States of America,355,10.1073/pnas.97.16.9127,United States,Article,Bethesda,1,Journal,2-s2.0-12944257429
+Schubart D.,,B-cell-specific coactivator OBF-1/OCA-B/Bob1 required for immune response and germinal centre formation,1996,Nature,225,10.1038/383538a0,Switzerland,Article,Basel,0,Journal,2-s2.0-0029967024
+Cleveland W.,,Robust locally weighted regression and smoothing scatterplots,1979,Journal of the American Statistical Association,6311,10.1080/01621459.1979.10481038,United States,Article,Murray,0,Journal,2-s2.0-84936916896

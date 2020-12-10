@@ -1,0 +1,15 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Grossmann S.,,An improved statistic for detecting over-represented gene ontology annotations in gene sets,2006,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),29,10.1007/11732990_9,Germany,Conference Paper,Berlin,0,Book Series,2-s2.0-33745622100
+Subramanian A.,,Gene set enrichment analysis: A knowledge-based approach for interpreting genome-wide expression profiles,2005,Proceedings of the National Academy of Sciences of the United States of America,16249,10.1073/pnas.0506580102,United States,Article,Cambridge,1,Journal,2-s2.0-27344435774
+Khatri P.,,"Ontological analysis of gene expression data: Current tools, limitations, and open problems",2005,Bioinformatics,624,10.1093/bioinformatics/bti565,United States,Review,Detroit,1,Journal,2-s2.0-24644470505
+Cario G.,,Distinct gene expression profiles determine molecular treatment response in childhood acute lymphoblastic leukemia,2005,Blood,118,10.1182/blood-2004-04-1552,,Article,,0,Journal,2-s2.0-19944429477
+Balasubramanian R.,,A graph-theoretic approach to testing associations between disparate sources of functional genomics data,2004,Bioinformatics,31,10.1093/bioinformatics/bth405,United States,Article,Boston,1,Journal,2-s2.0-12344316947
+Joslyn C.A.,,The gene ontology categorizer,2004,Bioinformatics,58,10.1093/bioinformatics/bth921,United States,Conference Paper,Los Alamos,1,Journal,2-s2.0-15544388510
+Beißbarth T.,,GOstat: Find statistically overrepresented Gene Ontologies with a group of genes,2004,Bioinformatics,943,10.1093/bioinformatics/bth088,Australia,Article,Melbourne,1,Journal,2-s2.0-3142665525
+Chiaretti S.,,Gene expression profile of adult T-cell acute lymphocytic leukemia identifies distinct subsets of patients with different response to therapy and survival,2004,Blood,229,10.1182/blood-2003-09-3243,,Article,,0,Journal,2-s2.0-1642317557
+Al-Shahrour F.,,FatiGO: A web tool for finding significant associations of Gene Ontology terms with groups of genes,2004,Bioinformatics,823,10.1093/bioinformatics/btg455,Spain,Article,Madrid,0,Journal,2-s2.0-1542399989
+Harris M.,,The Gene Oncology (GO) database and informatics resource,2004,Nucleic Acids Research,2478,,United Kingdom,Article,London,0,Journal,2-s2.0-0346801873
+Drǎghici S.,,Global functional profiling of gene expression,2003,Genomics,463,10.1016/S0888-7543(02)00021-6,United States,Article,Detroit,0,Journal,2-s2.0-0037293075
+Zeeberg B.,,GoMiner: a resource for biological interpretation of genomic and proteomic data.,2003,Genome biology,961,,United States,Article,Bethesda,0,Journal,2-s2.0-0038175144
+Benjamini Y.,,The control of the false discovery rate in multiple testing under dependency,2001,Annals of Statistics,5328,10.1214/aos/1013699998,Israel,Article,Tel Aviv-Yafo,1,Journal,2-s2.0-0035733108
+Ashburner M.,,Gene ontology: Tool for the unification of biology,2000,Nature Genetics,21184,10.1038/75556,,Review,,0,Journal,2-s2.0-0034069495

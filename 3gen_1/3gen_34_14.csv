@@ -1,0 +1,51 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Stumpf M.,,Subnets of scale-free networks are not scale-free: Sampling properties of networks,2005,Proceedings of the National Academy of Sciences of the United States of America,335,10.1073/pnas.0501179102,United Kingdom,Article,London,1,Journal,2-s2.0-15444372528
+Apic G.,,Illuminating drug discovery with biological pathways,2005,FEBS Letters,89,10.1016/j.febslet.2005.02.023,United Kingdom,Short Survey,Cambridge,1,Journal,2-s2.0-14844289540
+Pereira-Leal J.,,An exponential core in the heart of the yeast protein interaction network,2005,Molecular Biology and Evolution,39,10.1093/molbev/msi024,United Kingdom;United Kingdom,Article,Cambridge;Cambridge,1,Journal,2-s2.0-14544283040
+Dunn R.,,The use of edge-betweenness clustering to investigate biological function in protein interaction networks,2005,BMC Bioinformatics,144,10.1186/1471-2105-6-39,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-25444490121
+Formstecher E.,,Protein interaction mapping: A Drosophila case study,2005,Genome Research,383,10.1101/gr.2659105,France,Article,Paris,1,Journal,2-s2.0-20144379646
+Pržulj N.,,Modeling interactome: Scale-free or geometric?,2004,Bioinformatics,396,10.1093/bioinformatics/bth436,Canada,Article,Toronto,1,Journal,2-s2.0-12344273375
+Han J.D.J.,,Evidence for dynamically organized modularity in the yeast protein-protein interaction network,2004,Nature,1241,10.1038/nature02555,United States;United States,Article,Boston;Boston,0,Journal,2-s2.0-3042848952
+Bork P.,,Protein interaction networks from yeast to human,2004,Current Opinion in Structural Biology,263,10.1016/j.sbi.2004.05.003,Germany,Review,Heidelberg,0,Journal,2-s2.0-2942544498
+Vidalain P.,,Increasing specificity in high-throughput yeast two-hybrid experiments,2004,Methods,115,10.1016/j.ymeth.2003.10.001,United States,Article,Boston,0,Journal,2-s2.0-1542345539
+Yook S.,,Functional and topological characterization of protein interaction networks,2004,Proteomics,471,10.1002/pmic.200300636,United States,Article,Notre Dame,0,Journal,2-s2.0-1842580761
+Barabási A.,,Network biology: Understanding the cell's functional organization,2004,Nature Reviews Genetics,5028,10.1038/nrg1272,United States,Review,Notre Dame,0,Journal,2-s2.0-0742305866
+Li S.,,A Map of the Interactome Network of the Metazoan C. elegans,2004,Science,1334,10.1126/science.1091403,United States,Article,Boston,0,Journal,2-s2.0-9144264169
+Poyatos J.,,How biologically relevant are interaction-based modules in protein networks?,2004,Genome biology,39,,Spain,Article,Madrid,0,Journal,2-s2.0-14844289956
+Lappe M.,,Unraveling protein interaction networks with near-optimal efficiency,2004,Nature Biotechnology,67,10.1038/nbt921,United Kingdom;United Kingdom,Article,Cambridge;Cambridge,0,Journal,2-s2.0-0346725930
+Pereira-Leal J.,,Detection of Functional Modules from Protein Interaction Networks,2004,"Proteins: Structure, Function and Genetics",314,10.1002/prot.10505,United Kingdom,Article,Cambridge,0,Journal,2-s2.0-0346156102
+Giot L.,,A Protein Interaction Map of Drosophila melanogaster,2003,Science,1781,10.1126/science.1090289,United States,Article,Branford,0,Journal,2-s2.0-0345600247
+Qint H.,,Evolution of the yeast protein interaction network,2003,Proceedings of the National Academy of Sciences of the United States of America,56,10.1073/pnas.2235584100,United States,Article,Chicago,1,Journal,2-s2.0-0242300098
+Grigoriev A.,,On the number of protein-protein interactions in the yeast proteome,2003,Nucleic Acids Research,103,10.1093/nar/gkg466,Germany,Article,Planegg,1,Journal,2-s2.0-0242317678
+Reboul J.,,C. elegans ORFeome version 1.1: Experimental verification of the genome annotation and resource for proteomescale protein expression,2003,Nature Genetics,272,10.1038/ng1140,France;United States,Article,Marseille;Boston,0,Journal,2-s2.0-0038708337
+Rives A.,,Modular organization of cellular networks,2003,Proceedings of the National Academy of Sciences of the United States of America,524,10.1073/pnas.0237338100,United States,Article,Seattle,1,Journal,2-s2.0-0037417817
+Bader G.,,An automated method for finding molecular complexes in large protein interaction networks,2003,BMC Bioinformatics,2446,10.1186/1471-2105-4-2,Canada;Canada;United States,Article,Toronto;Toronto;New York,1,Journal,2-s2.0-2942552459
+Thomas A.,,On the structure of protein-protein interaction networks,2003,Biochemical Society Transactions,63,10.1042/bst0311491,United States,Conference Paper,Salt Lake City,0,Journal,2-s2.0-0346245913
+Eisenberg E.,,Preferential attachment in the protein network evolution,2003,Physical Review Letters,161,10.1103/PhysRevLett.91.138701,Israel,Article,Tel Aviv-Yafo,0,Journal,2-s2.0-0642285840
+Yook S.,,Modeling the internet's large-scale topology,2002,Proceedings of the National Academy of Sciences of the United States of America,482,10.1073/pnas.172501399,United States,Article,Notre Dame,1,Journal,2-s2.0-0037108908
+Edwards A.,,Bridging structural biology and genomics: Assessing protein interaction data with known complexes,2002,Trends in Genetics,228,10.1016/S0168-9525(02)02763-4,Canada,Review,Toronto,0,Journal,2-s2.0-0036805329
+Bader G.,,Analyzing yeast protein-protein interaction data obtained from different sources,2002,Nature Biotechnology,436,10.1038/nbt1002-991,Canada,Article,Toronto,0,Journal,2-s2.0-0036789265
+von Mering C.,,Comparative assessment of large-scale data sets of protein-protein interactions,2002,Nature,1785,10.1038/nature750,Germany,Article,Heidelberg,0,Journal,2-s2.0-0037161731
+Tong A.,,A combined experimental and computational strategy to define protein interaction networks for peptide recognition modules,2002,Science,557,10.1126/science.1064987,United States,Article,Seattle,0,Journal,2-s2.0-0037059461
+Ito T.,,Roles for the two-hybrid system in exploration of the yeast protein interactome.,2002,Molecular &amp; cellular proteomics : MCP,96,10.1074/mcp.R200005-MCP200,Japan,Review,Kanazawa,1,Journal,2-s2.0-0036691946
+Shen-Orr S.S.,,Network motifs in the transcriptional regulation network of Escherichia coli,2002,Nature Genetics,1952,10.1038/ng881,,Article,,0,Journal,2-s2.0-0036578795
+Ho Y.,,Systematic identification of protein complexes in Saccharomyces cerevisiae by mass spectrometry,2002,Nature,2837,10.1038/415180a,Canada,Letter,Toronto,0,Journal,2-s2.0-0037050004
+Gavin A.C.,,Functional organization of the yeast proteome by systematic analysis of protein complexes,2002,Nature,3691,10.1038/415141a,United Kingdom,Article,Brentford,0,Journal,2-s2.0-0037050026
+Zhu H.,,Global analysis of protein activities using proteome chips,2001,Science,1830,10.1126/science.1062191,United States,Article,New Haven,0,Journal,2-s2.0-0035860499
+Legrain P.,,Protein-protein interaction maps: A lead towards cellular functions,2001,Trends in Genetics,141,10.1016/S0168-9525(01)02323-X,France,Review,Paris,0,Journal,2-s2.0-0035369531
+Jeong H.,,Lethality and centrality in protein networks,2001,Nature,3476,10.1038/35075138,United States,Article,Notre Dame,0,Journal,2-s2.0-0035799707
+Ito T.,,A comprehensive two-hybrid analysis to explore the yeast protein interactome,2001,Proceedings of the National Academy of Sciences of the United States of America,2800,10.1073/pnas.061034498,Japan,Article,Kanazawa,1,Journal,2-s2.0-0035836765
+Strogatz S.,,Exploring complex networks,2001,Nature,5559,10.1038/35065725,United States,Review,Ithaca,1,Journal,2-s2.0-0035826155
+Schwikowski B.,,A network of protein-protein interactions in yeast,2000,Nature Biotechnology,987,10.1038/82360,United States;United States,Article,Seattle;Seattle,0,Journal,2-s2.0-0033669189
+Albert R.,,Error and attack tolerance of complex networks,2000,Nature,5589,10.1038/35019019,United States,Article,Notre Dame,0,Journal,2-s2.0-0034721164
+Barabási A.,,Scale-free characteristics of random networks: The topology of the world-wide web,2000,Physica A: Statistical Mechanics and its Applications,866,10.1016/S0378-4371(00)00018-2,United States,Article,Notre Dame,0,Journal,2-s2.0-0342521525
+Wagner A.,,Robustness against mutations in genetic networks of yeast,2000,Nature Genetics,290,10.1038/74174,United States,Article,Albuquerque,0,Journal,2-s2.0-0034029892
+Adams M.D.,,The genome sequence of Drosophila melanogaster,2000,Science,4416,10.1126/science.287.5461.2185,United States,Review,Rockville,0,Journal,2-s2.0-0034708480
+Uetz P.,,A comprehensive analysis of protein-protein interactions in Saccharomyces cerevisiae,2000,Nature,3756,10.1038/35001009,United States,Article,Seattle,0,Journal,2-s2.0-0034628508
+Walhout A.J.M.,,Yeast two-hybrid systems and protein interaction mapping projects for yeast and worm,2000,Yeast,92,10.1002/1097-0061(20000630)17:2<88::aid-yea20>3.0.co;2-y,United States,Article,Boston,1,Journal,2-s2.0-0001818091
+Vogelstein B.,,Surfing the p53 network,2000,Nature,5348,10.1038/35042675,United States,Article,Baltimore,0,Journal,2-s2.0-0034676455
+Hartwell L.H.,,From molecular to modular cell biology,1999,Nature,2539,10.1038/35011540,United States,Article,Seattle,0,Journal,2-s2.0-0033518234
+Walhout A.J.M.,,A genetic strategy to eliminate self-activator baits prior to high-throughput yeast two-hybrid screens,1999,Genome Research,45,10.1101/gr.9.11.1128,United States,Article,Boston,1,Journal,2-s2.0-0032703169
+Barabási A.,,Emergence of scaling in random networks,1999,Science,22102,10.1126/science.286.5439.509,United States,Article,Notre Dame,0,Journal,2-s2.0-0038483826
+,,Genome sequence of the nematode C. elegans: A platform for investigating biology,1998,Science,3146,10.1126/science.282.5396.2012,,Review,,0,Journal,2-s2.0-0032509302
+Goffeau A.,,Life with 6000 genes,1996,Science,2967,10.1126/science.274.5287.546,,Article,,0,Journal,2-s2.0-10244239321

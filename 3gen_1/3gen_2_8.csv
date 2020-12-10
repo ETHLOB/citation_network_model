@@ -1,0 +1,24 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Dietze H.,,TermGenie - a web-application for pattern-based ontology class generation,2014,Journal of Biomedical Semantics,30,10.1186/2041-1480-5-48,United States,Article,Berkeley,1,Journal,2-s2.0-84922586184
+Masson P.,,An integrated ontology resource to explore and study host-virus relationships,2014,PLoS ONE,11,10.1371/journal.pone.0108075,Switzerland,Article,Geneva,1,Journal,2-s2.0-84907190238
+Huntley R.,,A method for increasing expressivity of Gene Ontology annotations using a compositional approach,2014,BMC Bioinformatics,40,10.1186/1471-2105-15-155,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-84901691051
+Wick H.,,DFLAT: Functional annotation for human development,2014,BMC Bioinformatics,19,10.1186/1471-2105-15-45,United States,Article,Medford,1,Journal,2-s2.0-84893701540
+Mungall C.,,Use of OWL within the Gene Ontology,2014,CEUR Workshop Proceedings,7,,United States,Conference Paper,Berkeley,0,Conference Proceeding,2-s2.0-84909639772
+Monaco M.,,Gramene 2013: Comparative plant genomics resources,2014,Nucleic Acids Research,126,10.1093/nar/gkt1110,United States,Article,Cold Spring Harbor,1,Journal,2-s2.0-84891793130
+Tripathi S.,,Gene Ontology annotation of sequence-specific DNA binding transcription factors: Setting the stage for a large-scale curation effort,2013,Database,17,10.1093/database/bat062,Norway,Article,Trondheim,1,Journal,2-s2.0-84891821006
+Roncaglia P.,,The Gene Ontology (GO) Cellular Component Ontology: Integration with SAO (Subcellular Anatomy Ontology) and other recent developments,2013,Journal of Biomedical Semantics,25,10.1186/2041-1480-4-20,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-84891749740
+Van Dam T.J.P.,,The SYSCILIA gold standard (SCGSv1) of known ciliary components and its applications within a systems biology consortium,2013,Cilia,71,10.1186/2046-2530-2-7,Netherlands,Review,Nijmegen,1,Journal,2-s2.0-84901432405
+Cooper L.,,The plant ontology as a tool for comparative plant anatomy and genomic analyses,2013,Plant and Cell Physiology,88,10.1093/pcp/pcs163,United States,Article,Corvallis,0,Journal,2-s2.0-84874265271
+Hastings J.,,The ChEBI reference database and ontology for biologically relevant chemistry: Enhancements for 2013,2013,Nucleic Acids Research,365,10.1093/nar/gks1146,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-84876560358
+Blake J.,,Gene ontology annotations and resources,2013,Nucleic Acids Research,371,10.1093/nar/gks1050,United States,Article,Bar Harbor,1,Journal,2-s2.0-84874253819
+Mi H.,,"PANTHER in 2013: Modeling the evolution of gene function, and other gene attributes, in the context of phylogenetic trees",2013,Nucleic Acids Research,969,10.1093/nar/gks1118,United States,Article,Los Angeles,1,Journal,2-s2.0-84874969184
+Dönitz J.,,The ontology-based answers (OBA) service: A connector for embedded usage of ontologies in applications,2012,Frontiers in Genetics,10,10.3389/fgene.2012.00197,Germany;Germany,Article,Gottingen;Gottingen,1,Journal,2-s2.0-84876079732
+Mungall C.,,"Uberon, an integrative multi-species anatomy ontology",2012,Genome Biology,283,10.1186/gb-2012-13-1-r5,United States,Article,Berkeley,1,Journal,2-s2.0-84856316836
+Blake J.,,The Gene Ontology: Enhancements for 2011,2012,Nucleic Acids Research,174,10.1093/nar/gkr1028,United States,Article,Bar Harbor,1,Journal,2-s2.0-84859699831
+Dimmer E.,,The UniProt-GO Annotation database in 2011,2012,Nucleic Acids Research,221,10.1093/nar/gkr1048,United Kingdom,Article,London,1,Journal,2-s2.0-84862192725
+Gaudet P.,,Phylogenetic-based propagation of functional annotations within the Gene Ontology consortium,2011,Briefings in Bioinformatics,168,10.1093/bib/bbr042,Switzerland,Article,Geneva,1,Journal,2-s2.0-80053180122
+Mungall C.,,Cross-product extensions of the Gene Ontology,2011,Journal of Biomedical Informatics,87,10.1016/j.jbi.2010.02.002,United States,Article,Berkeley,1,Journal,2-s2.0-79952016835
+Natale D.,,The Protein Ontology: A structured representation of protein forms and complexes,2011,Nucleic Acids Research,85,10.1093/nar/gkq907,United States,Article,"Washington, D.C.",1,Journal,2-s2.0-78651286167
+Bard J.,,An ontology for cell types.,2005,Genome biology,257,,United Kingdom,Article,Edinburgh,0,Journal,2-s2.0-21944445759
+Eilbeck K.,,The Sequence Ontology: a tool for the unification of genome annotations.,2005,Genome biology,447,,United States,Article,Berkeley,0,Journal,2-s2.0-22044443709
+Ashburner M.,,Gene ontology: Tool for the unification of biology,2000,Nature Genetics,21184,10.1038/75556,,Review,,0,Journal,2-s2.0-0034069495

@@ -1,0 +1,34 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Newman M.,,The structure and dynamics of networks,2011,The Structure and Dynamics of Networks,1018,,,Book,,0,Book,2-s2.0-84884073625
+Jalili M.,,Enhancing synchronizability of weighted dynamical networks using betweenness centrality,2008,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",45,10.1103/PhysRevE.78.016105,Switzerland,Article,Lausanne,0,Journal,2-s2.0-47749151818
+Donetti L.,,Network synchronization: Optimal and pessimal scale-free topologies,2008,Journal of Physics A: Mathematical and Theoretical,18,10.1088/1751-8113/41/22/224008,Spain,Article,Granada,0,Journal,2-s2.0-44449164994
+Jalili M.,,Enhancing synchronizability of dynamical networks using the connection graph stability method,2007,International Journal of Circuit Theory and Applications,35,10.1002/cta.436,Switzerland,Article,Lausanne,0,Journal,2-s2.0-34748849578
+Barbarossa S.,,Decentralized maximum-likelihood estimation for sensor networks composed of nonlinearly coupled dynamical systems,2007,IEEE Transactions on Signal Processing,110,10.1109/TSP.2007.893921,Italy,Article,Rome,0,Journal,2-s2.0-34347370852
+Wang X.,,Enhancing synchronization based on complex gradient networks,2007,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",83,10.1103/PhysRevE.75.056205,Singapore,Article,Singapore City,0,Journal,2-s2.0-34347224787
+Olfati-Saber R.,,Consensus and cooperation in networked multi-agent systems,2007,Proceedings of the IEEE,6411,10.1109/JPROC.2006.887293,United States,Article,Hanover,0,Journal,2-s2.0-64149119332
+Wang B.,,Optimization of network structure to random failures,2006,Physica A: Statistical Mechanics and its Applications,37,10.1016/j.physa.2005.12.050,China,Article,Dalian,0,Journal,2-s2.0-33744822172
+Donetti L.,,"Optimal network topologies: Expanders, cages, Ramanujan graphs, entangled networks and all that",2006,Journal of Statistical Mechanics: Theory and Experiment,86,10.1088/1742-5468/2006/08/P08007,Spain,Review,Granada,0,Journal,2-s2.0-42749105641
+Boccaletti S.,,Complex networks: Structure and dynamics,2006,Physics Reports,6606,10.1016/j.physrep.2005.10.009,Italy,Review,Sesto Fiorentino,0,Journal,2-s2.0-31344474880
+Ghosh A.,,Growing well-connected graphs,2006,Proceedings of the IEEE Conference on Decision and Control,211,10.1109/cdc.2006.377282,United States,Conference Paper,Palo Alto,0,Conference Proceeding,2-s2.0-39649095594
+Donetti L.,,"Entangled networks, synchronization, and optimal network topology",2005,Physical Review Letters,275,10.1103/PhysRevLett.95.188701,Spain,Article,Granada,0,Journal,2-s2.0-28844496387
+Chavez M.,,Synchronization is enhanced in weighted complex networks,2005,Physical Review Letters,391,10.1103/PhysRevLett.94.218701,France;Italy,Article,Paris;Florence,0,Journal,2-s2.0-27744507117
+Motter A.,,Enhancing complex-network synchronization,2005,Europhysics Letters,296,10.1209/epl/i2004-10365-4,Germany,Article,Dresden,0,Journal,2-s2.0-13444278557
+Motter A.E.,,"Network synchronization, diffusion, and the paradox of heterogeneity",2005,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",428,10.1103/PhysRevE.71.016116,Germany,Article,Dresden,0,Journal,2-s2.0-37649031501
+Belykh V.,,Connection graph stability method for synchronized coupled chaotic systems,2004,Physica D: Nonlinear Phenomena,369,10.1016/j.physd.2004.03.012,Russian Federation,Article,Nizhny Novgorod,0,Journal,2-s2.0-3042858242
+Hong H.,,Factors that predict better synchronizability on complex networks,2004,"Physical Review E - Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics",202,10.1103/PhysRevE.69.067105,South Korea,Article,Seoul,0,Journal,2-s2.0-42749099223
+Nishikawa T.,,Heterogeneity in Oscillator Networks: Are Smaller Worlds Easier to Synchronize?,2003,Physical Review Letters,707,10.1103/PhysRevLett.91.014101,United States,Article,Tempe,0,Journal,2-s2.0-0041707963
+Korniss G.,,Suppressing roughness of virtual times in parallel discrete-event simulations,2003,Science,121,10.1126/science.1079382,United States,Article,Troy,0,Journal,2-s2.0-0037474118
+Newman M.,,The structure and function of complex networks,2003,SIAM Review,11537,10.1137/S003614450342480,United States,Review,Ann Arbor,0,Journal,2-s2.0-0038718854
+Albert R.,,Statistical mechanics of complex networks,2002,Reviews of Modern Physics,13645,10.1103/RevModPhys.74.47,United States;United States,Article,Minneapolis;Notre Dame,0,Journal,2-s2.0-0036013593
+Barahona M.,,Synchronization in small-world systems,2002,Physical Review Letters,1250,10.1103/PhysRevLett.89.054101,United States,Article,Pasadena,0,Journal,2-s2.0-3343010976
+Hong H.,,Synchronization on small-world networks,2002,"Physical Review E - Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics",354,10.1103/PhysRevE.65.026139,South Korea,Article,Seoul,0,Journal,2-s2.0-33646968991
+Wang X.,,Synchronization in small-world dynamical networks,2002,International Journal of Bifurcation and Chaos in Applied Sciences and Engineering,749,10.1142/S0218127402004292,China,Article,Shanghai,0,Journal,2-s2.0-0036340313
+Wang X.,,Synchronization in scale-free dynamical networks: Robustness and fragility,2002,IEEE Transactions on Circuits and Systems I: Fundamental Theory and Applications,981,10.1109/81.974874,China;United Kingdom;United States,Article,Shanghai;Bristol;New York,0,Journal,2-s2.0-0036125429
+Strogatz S.,,Exploring complex networks,2001,Nature,5562,10.1038/35065725,United States,Review,Ithaca,1,Journal,2-s2.0-0035826155
+Brandes U.,,A faster algorithm for betweenness centrality,2001,Journal of Mathematical Sociology,2218,10.1080/0022250X.2001.9990249,Germany,Article,Konstanz,0,Journal,2-s2.0-0035648637
+Brown R.,,A unifying definition of synchronization for dynamical systems,2000,Chaos,199,10.1063/1.166500,United States,Article,Williamsburg,0,Journal,2-s2.0-0034195313
+Watts D.J.,,Collective dynamics of 'small-world9 networks,1998,Nature,25779,10.1038/30918,United States,Article,Ithaca,0,Journal,2-s2.0-0032482432
+Fallat S.,,Extremizing algebraic connectivity subject to graph theoretic constraints,1998,Electronic Journal of Linear Algebra,79,10.13001/1081-3810.1014,United States,Article,Williamsburg,0,Journal,2-s2.0-0042566832
+Pecora L.,,Master stability functions for synchronized coupled systems,1998,Physical Review Letters,1764,10.1103/PhysRevLett.80.2109,United States,Article,"Washington, D.C.",0,Journal,2-s2.0-4243241129
+Pecora L.,,Synchronization in chaotic systems,1990,Physical Review Letters,8806,10.1103/PhysRevLett.64.821,United States,Article,"Washington, D.C.",0,Journal,2-s2.0-0343689904
+Anderson W.,,Eigenvalues of the Laplacian of a Graph,1985,Linear and Multilinear Algebra,302,10.1080/03081088508817681,United States,Article,Teaneck,0,Journal,2-s2.0-0000395883

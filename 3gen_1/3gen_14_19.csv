@@ -1,0 +1,27 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Dorff K.,,BDVal: Reproducible large-scale predictive model development and validation in high-throughput datasets,2010,Bioinformatics,6,10.1093/bioinformatics/btq463,United States,Article,New York,1,Journal,2-s2.0-77957228454
+Segata N.,,Fast and scalable Local Kernel machines,2010,Journal of Machine Learning Research,59,,Italy,Article,Trento,0,Journal,2-s2.0-77954672890
+List N.,,SVM-optimization and steepest-descent line search,2009,COLT 2009 - The 22nd Conference on Learning Theory,16,,Germany,Conference Paper,Bochum,0,Conference Proceeding,2-s2.0-84898078873
+Hanke M.,,PyMVPA: A python toolbox for multivariate pattern analysis of fMRI data,2009,Neuroinformatics,244,10.1007/s12021-008-9041-y,Germany;Germany,Article,Magdeburg;Magdeburg,0,Journal,2-s2.0-64049085419
+Lin H.,,A note on Platt's probabilistic outputs for support vector machines,2007,Machine Learning,511,10.1007/s10994-007-5018-6,Taiwan,Article,Taipei,1,Journal,2-s2.0-34548160247
+Nivre J.,,MaltParser: A language-independent system for data-driven dependency parsing,2007,Natural Language Engineering,421,10.1017/S1351324906004505,Sweden;Sweden,Article,Uppsala;Vaxjo,0,Journal,2-s2.0-34447620889
+List N.,,General polynomial time decomposition algorithms,2007,Journal of Machine Learning Research,13,,Germany,Article,Bochum,0,Journal,2-s2.0-33847123716
+Chen P.,,A study on SMO-type decomposition methods for support vector machines,2006,IEEE Transactions on Neural Networks,188,10.1109/TNN.2006.875973,Taiwan,Article,Taipei,0,Journal,2-s2.0-33746932071
+Keerthi S.,,Building support vector machines with reduced classifier complexity,2006,Journal of Machine Learning Research,186,,United States,Article,Sunnyvale,0,Journal,2-s2.0-33745789043
+Glasmachers T.,,Maximum-gain working set selection for SVMs,2006,Journal of Machine Learning Research,59,,Germany,Article,Bochum,0,Journal,2-s2.0-33745784639
+Grauman K.,,The pyramid match kernel: Discriminative classification with sets of image features,2005,Proceedings of the IEEE International Conference on Computer Vision,1052,10.1109/ICCV.2005.239,United States,Conference Paper,Cambridge,0,Conference Proceeding,2-s2.0-33745855044
+Fan R.,,Working set selection using second order information for training support vector machines,2005,Journal of Machine Learning Research,1199,,Taiwan,Article,Taipei,0,Journal,2-s2.0-29144499905
+Chen P.,,A tutorial on v-support vector machines,2005,Applied Stochastic Models in Business and Industry,252,10.1002/asmb.537,Taiwan,Article,Taipei,0,Journal,2-s2.0-17444371247
+Palagi L.,,On the convergence of a modified version of SVM<sup>light</sup> algorithm,2005,Optimization Methods and Software,33,10.1080/10556780512331318209,Italy,Conference Paper,Rome,0,Journal,2-s2.0-12444281083
+Wu T.,,Probability estimates for multi-class classification by pairwise coupling,2004,Journal of Machine Learning Research,1369,,Taiwan,Article,Taipei,0,Journal,2-s2.0-51349159085
+Chang C.,,Training v-support vector regression: Theory and algorithms,2002,Neural Computation,205,10.1162/089976602760128081,,Article,,0,Journal,2-s2.0-0038895405
+Hsu C.,,A comparison of methods for multiclass support vector machines,2002,IEEE Transactions on Neural Networks,5452,10.1109/72.991427,Taiwan,Article,Taipei,0,Journal,2-s2.0-0036505670
+Hsu C.,,A simple decomposition method for support vector machines,2002,Machine Learning,240,10.1023/A:1012427100071,Taiwan,Article,Taipei,1,Journal,2-s2.0-0036158552
+Chang C.,,Training ν-support vector classifiers: Theory and algorithms,2001,Neural Computation,344,10.1162/089976601750399335,Taiwan,Article,Taipei,0,Journal,2-s2.0-0000667930
+Schölkopf B.,,Estimating the support of a high-dimensional distribution,2001,Neural Computation,2750,10.1162/089976601750264965,United Kingdom,Article,Cambridge,0,Journal,2-s2.0-0000487102
+Keerthi S.S.,,Improvements to Platt's SMO algorithm for SVM classifier design,2001,Neural Computation,1152,10.1162/089976601300014493,Singapore,Article,Singapore City,0,Journal,2-s2.0-0000545946
+Crisp D.,,A geometric interpretation of ν-SVM classifiers,2000,Advances in Neural Information Processing Systems,126,,Australia,Conference Paper,Adelaide,0,Conference Proceeding,2-s2.0-84898984811
+Schölkopf B.,,New support vector algorithms,2000,Neural Computation,1864,10.1162/089976600300015565,United Kingdom;Germany;Australia,Article,Cambridge;Berlin;Canberra,0,Journal,2-s2.0-17444438778
+Osuna E.,,Training support vector machines: An application to face detection,1997,Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition,1801,,United States,Conference Paper,Cambridge,0,Conference Proceeding,2-s2.0-0030673582
+Cortes C.,,Support-Vector Networks,1995,Machine Learning,25951,10.1023/A:1022627411411,United States,Article,Murray,1,Journal,2-s2.0-34249753618
+Boser B.,,Training algorithm for optimal margin classifiers,1992,Proceedings of the Fifth Annual ACM Workshop on Computational Learning Theory,6217,,United States,Conference Paper,Berkeley,0,Conference Proceeding,2-s2.0-0026966646

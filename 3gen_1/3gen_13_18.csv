@@ -1,0 +1,16 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Jain A.,,Data clustering: A review,1999,ACM Computing Surveys,8744,10.1145/331499.331504,United States,Conference Paper,East Lansing,0,Journal,2-s2.0-84893405732
+Guha S.,,ROCK: a robust clustering algorithm for categorical attributes,1999,Proceedings - International Conference on Data Engineering,629,10.1109/icde.1999.754967,United States,Article,Palo Alto,0,Conference Proceeding,2-s2.0-0032652570
+Ramze Rezaee M.,,A new cluster validity index for the fuzzy c-mean,1998,Pattern Recognition Letters,312,10.1016/S0167-8655(97)00168-2,Netherlands,Article,Leiden,0,Journal,2-s2.0-0032023174
+Guha S.,,CURE: An efficient clustering algorithm for large databases,1998,SIGMOD Record,1658,10.1145/276305.276312,United States,Article,Palo Alto,0,Journal,2-s2.0-0032091595
+Pal N.,,Cluster validation using graph theoretic concepts,1997,Pattern Recognition,112,10.1016/S0031-3203(96)00127-6,India,Article,Kolkata,0,Journal,2-s2.0-0031166291
+Wang W.,,STING : A statistical information grid approach to spatial data mining,1997,"Proceedings of the 23rd International Conference on Very Large Databases, VLDB 1997",869,,United States,Conference Paper,Los Angeles,0,Conference Proceeding,2-s2.0-84994158589
+Dave R.,,Validating fuzzy partitions obtained through c-shells clustering,1996,Pattern Recognition Letters,182,10.1016/0167-8655(96)00026-8,United States,Article,Newark,0,Journal,2-s2.0-0030141444
+Krishnapuram R.,,The Fuzzy C Quadric Shell clustering algorithm and the detection of second-degree curves,1993,Pattern Recognition Letters,51,10.1016/0167-8655(93)90103-K,United States,Article,Columbia,0,Journal,2-s2.0-0000916750
+Xie X.,,A validity measure for fuzzy clustering,1991,IEEE Transactions on Pattern Analysis and Machine Intelligence,2400,10.1109/34.85677,United States,Article,Santa Barbara,0,Journal,2-s2.0-0026204245
+Gath I.,,Unsupervised Optimal Fuzzy Clustering,1989,IEEE Transactions on Pattern Analysis and Machine Intelligence,1270,10.1109/34.192473,Israel,Article,Haifa,0,Journal,2-s2.0-0024701488
+Milligan G.,,An examination of procedures for determining the number of clusters in a data set,1985,Psychometrika,2254,10.1007/BF02294245,United States,Article,Columbus,0,Journal,2-s2.0-34250115918
+Bezdek J.C.,,FCM: The fuzzy c-means clustering algorithm,1984,Computers and Geosciences,3271,10.1016/0098-3004(84)90020-7,United States,Article,Logan,0,Journal,2-s2.0-0021583718
+Milligan G.,,"The Effect of Cluster Size, Dimensionality, and the Number of Clusters on Recovery of True Cluster Structure",1983,IEEE Transactions on Pattern Analysis and Machine Intelligence,120,10.1109/TPAMI.1983.4767342,United States,Article,Columbus,0,Journal,2-s2.0-0020496932
+Davies D.,,A Cluster Separation Measure,1979,IEEE Transactions on Pattern Analysis and Machine Intelligence,3791,10.1109/TPAMI.1979.4766909,United States,Article,Leuven,0,Journal,2-s2.0-0017953820
+Dunn J.,,Well-separated clusters and optimal fuzzy partitions,1974,Journal of Cybernetics,1297,10.1080/01969727408546059,United States,Article,Ithaca,0,Journal,2-s2.0-84941155240

@@ -1,0 +1,13 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Korf R.,,Linear-space best-first search,1993,Artificial Intelligence,198,10.1016/0004-3702(93)90045-D,United States,Article,Los Angeles,0,Journal,2-s2.0-0027623753
+Spiegelhalter D.,,Bayesian analysis in expert systems,1993,Statistical Science,411,10.1214/ss/1177010888,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-84972488038
+Heckerman D.,,An evaluation of the diagnostic accuracy of Pathfinder,1992,Computers and Biomedical Research,32,10.1016/0010-4809(92)90035-9,United States,Article,Los Angeles,0,Journal,2-s2.0-0026531680
+Cooper G.,,A Bayesian Method for the Induction of Probabilistic Networks from Data,1992,Machine Learning,2718,10.1023/A:1022649401552,United States,Article,Pittsburgh,1,Journal,2-s2.0-34249832377
+Spiegelhalter D.,,Sequential updating of conditional probabilities on directed graphical structures,1990,Networks,286,10.1002/net.3230200507,United Kingdom,Article,Cambridge,0,Journal,2-s2.0-84986980101
+Howard R.,,Uncertainty about Probability: A Decision Analysis Perspective,1988,Risk Analysis,43,10.1111/j.1539-6924.1988.tb01156.x,United States,Article,Palo Alto,0,Journal,2-s2.0-0023822855
+Camerini P.,,The k best spanning arborescences of a network,1980,Networks,29,10.1002/net.3230100202,Italy,Article,Milan,0,Journal,2-s2.0-84987014188
+Tarjan R.,,Finding optimum branchings,1977,Networks,224,10.1002/net.3230070103,United States,Article,Palo Alto,0,Journal,2-s2.0-0017465744
+Karp R.,,A simple derivation of edmonds' algorithm for optimum branchings,1971,Networks,57,10.1002/net.3230010305,United States,Article,Berkeley,0,Journal,2-s2.0-84981575514
+Chow C.,,Approximating Discrete Probability Distributions with Dependence Trees,1968,IEEE Transactions on Information Theory,1531,10.1109/TIT.1968.1054142,United States,Article,Yorktown Heights,0,Journal,2-s2.0-84933530882
+Winkler R.L.,,The Assessment of Prior Distributions in Bayesian Analysis,1967,Journal of the American Statistical Association,228,10.1080/01621459.1967.10500894,United States,Article,Bloomington,0,Journal,2-s2.0-84947355523
+Metropolis N.,,Equation of state calculations by fast computing machines,1953,The Journal of Chemical Physics,24112,10.1063/1.1699114,United States,Article,Los Alamos,0,Journal,2-s2.0-5744249209

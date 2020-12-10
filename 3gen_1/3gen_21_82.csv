@@ -1,0 +1,21 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Lee H.,,Efficient sparse coding algorithms,2007,Advances in Neural Information Processing Systems,1839,,United States,Conference Paper,Palo Alto,0,Conference Proceeding,2-s2.0-84864036295
+Hinton G.,,Reducing the dimensionality of data with neural networks,2006,Science,8836,10.1126/science.1127647,Canada,Article,Toronto,0,Journal,2-s2.0-33746600649
+Hinton G.,,A fast learning algorithm for deep belief nets,2006,Neural Computation,8546,10.1162/neco.2006.18.7.1527,Canada,Article,Toronto,0,Journal,2-s2.0-33745805403
+Osindero S.,,Topographic product models applied to natural scene statistics,2006,Neural Computation,72,10.1162/089976606775093936,Canada,Article,Toronto,0,Journal,2-s2.0-33644900506
+Hyvärinen A.,,Statistical model of natural stimuli predicts edge-like pooling of spatial frequency channels in V2,2005,BMC Neuroscience,29,10.1186/1471-2202-6-12,Finland,Article,Helsinki,1,Journal,2-s2.0-26444552966
+Karklin Y.,,A hierarchical Bayesian model for learning nonlinear statistical regularities in nonstationary natural signals,2005,Neural Computation,113,10.1162/0899766053011474,United States,Article,Pittsburgh,0,Journal,2-s2.0-13244255412
+Boynton G.,,Visual cortex: The continuing puzzle of area V2,2004,Current Biology,33,10.1016/j.cub.2004.06.044,United States,Review,San Diego,1,Journal,2-s2.0-3142611133
+Ito M.,,Representation of Angles Embedded within Contour Stimuli in Area V2 of Macaque Monkeys,2004,Journal of Neuroscience,193,10.1523/JNEUROSCI.4364-03.2004,Japan,Article,Okazaki,1,Journal,2-s2.0-1842506510
+Hinton G.E.,,Training products of experts by minimizing contrastive divergence,2002,Neural Computation,2671,10.1162/089976602760128018,United Kingdom,Article,London,0,Journal,2-s2.0-0013344078
+Hoyer P.,,A multi-layer sparse coding network learns contour coding from natural images,2002,Vision Research,121,10.1016/S0042-6989(02)00017-2,Finland,Article,Espoo,1,Journal,2-s2.0-0036284161
+Wiskott L.,,Slow feature analysis: Unsupervised learning of invariances,2002,Neural Computation,618,10.1162/089976602317318938,United States;Germany;Germany,Article,San Diego;Berlin;Berlin,0,Journal,2-s2.0-0036546660
+Hyvärinen A.,,Topographic independent component analysis,2001,Neural Computation,320,10.1162/089976601750264992,Finland,Article,Espoo,0,Journal,2-s2.0-0035409349
+Hegdé J.,,Selectivity for complex shapes in primate visual area V2.,2000,The Journal of neuroscience : the official journal of the Society for Neuroscience,192,10.1523/jneurosci.20-05-j0001.2000,United States,Article,St. Louis,1,Journal,2-s2.0-0034152994
+Hyvärinen A.,,Emergence of phase- and shift-invariant features by decomposition of natural images into independent feature subspaces,2000,Neural Computation,403,10.1162/089976600300015312,Finland,Article,Espoo,0,Journal,2-s2.0-0034222304
+Van Hateren J.,,Independent component filters of natural images compared with simple cells in primary visual cortex,1998,Proceedings of the Royal Society B: Biological Sciences,767,10.1098/rspb.1998.0303,Netherlands,Article,Groningen,0,Journal,2-s2.0-0032492432
+Bell A.,,The 'independent components' of natural scenes are edge filters,1997,Vision Research,1419,10.1016/S0042-6989(97)00121-1,United States,Article,Chevy Chase,1,Journal,2-s2.0-0030832881
+Olshausen B.,,Emergence of simple-cell receptive field properties by learning a sparse code for natural images,1996,Nature,3545,10.1038/381607a0,United States;United States,Article,Davis;Ithaca,0,Journal,2-s2.0-0029938380
+Levitt J.,,Receptive fields and functional architecture of macaque V2,1994,Journal of Neurophysiology,249,10.1152/jn.1994.71.6.2517,United States,Article,New York,0,Journal,2-s2.0-0028336014
+De Valois R.,,The orientation and direction selectivity of cells in macaque visual cortex,1982,Vision Research,526,10.1016/0042-6989(82)90112-2,United States,Article,Berkeley,0,Journal,2-s2.0-0020047781
+Hubel D.,,Receptive fields and functional architecture of monkey striate cortex,1968,The Journal of Physiology,3882,10.1113/jphysiol.1968.sp008455,,Article,,1,Journal,2-s2.0-0014266913

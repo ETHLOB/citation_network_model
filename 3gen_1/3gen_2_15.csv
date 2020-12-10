@@ -1,0 +1,49 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Ji J.,,Survey: Functional module detection from protein-protein interaction networks,2014,IEEE Transactions on Knowledge and Data Engineering,72,10.1109/TKDE.2012.225,China,Article,Beijing,0,Journal,2-s2.0-84891785632
+Bertolazzi P.,,On the functional and structural characterization of hubs in protein-protein interaction networks,2013,Biotechnology Advances,31,10.1016/j.biotechadv.2012.12.002,Italy,Review,Rome,0,Journal,2-s2.0-84873737672
+Patro R.,,Global network alignment using multiscale spectral signatures,2012,Bioinformatics,112,10.1093/bioinformatics/bts592,United States,Article,College Park,1,Journal,2-s2.0-84870396392
+Shih Y.,,Identifying functional modules in interaction networks through overlapping Markov clustering,2012,Bioinformatics,66,10.1093/bioinformatics/bts370,United States,Article,Columbus,1,Journal,2-s2.0-84866443433
+Guzzi P.,,Semantic similarity analysis of protein data: Assessment with biological features and issues,2012,Briefings in Bioinformatics,142,10.1093/bib/bbr066,Italy,Article,Catanzaro,1,Journal,2-s2.0-84862298784
+Ciriello G.,,AlignNemo: A local network alignment method to integrate homology and topology,2012,PLoS ONE,71,10.1371/journal.pone.0038107,United States;Italy,Article,New York;Padua,1,Journal,2-s2.0-84862164356
+Pache R.,,A novel framework for the comparative analysis of biological networks,2012,PLoS ONE,31,10.1371/journal.pone.0031220,Spain,Article,Barcelona,1,Journal,2-s2.0-84857402984
+Schaefer M.,,Hippie: Integrating protein interaction networks with experiment based quality scores,2012,PLoS ONE,202,10.1371/journal.pone.0031826,Germany,Article,Berlin,1,Journal,2-s2.0-84856918212
+Jancura P.,,A methodology for detecting the orthology signal in a PPI network at a functional complex level.,2012,BMC bioinformatics,9,10.1186/1471-2105-13-S10-S18,Netherlands,Article,Nijmegen,1,Journal,2-s2.0-84877119068
+Barabási A.,,The network takeover,2012,Nature Physics,261,10.1038/nphys2188,United States;United States;United States,Note,Boston;Boston;Boston,0,Journal,2-s2.0-84255194219
+Morris J.H.,,ClusterMaker: A multi-algorithm clustering plugin for Cytoscape,2011,BMC Bioinformatics,237,10.1186/1471-2105-12-436,United States,Article,San Francisco,1,Journal,2-s2.0-80655132169
+Guruharsha K.,,A protein complex network of Drosophila melanogaster,2011,Cell,397,10.1016/j.cell.2011.08.047,United States,Article,Boston,1,Journal,2-s2.0-80155171417
+Hu Y.,,An integrative approach to ortholog prediction for disease-focused and other functional studies,2011,BMC Bioinformatics,221,10.1186/1471-2105-12-357,United States,Article,Boston,1,Journal,2-s2.0-80052142945
+Kuchaiev O.,,Integrative network alignment reveals large regions of global network similarity in yeast and human,2011,Bioinformatics,162,10.1093/bioinformatics/btr127,United States,Article,Irvine,0,Journal,2-s2.0-79955751671
+Milenković T.,,Optimal network alignment with graphlet degree vectors,2010,Cancer Informatics,116,10.4137/cin.s4744,United Kingdom,Article,London,1,Journal,2-s2.0-77955499935
+Camacho C.,,BLAST+: Architecture and applications,2009,BMC Bioinformatics,5409,10.1186/1471-2105-10-421,United States,Article,Bethesda,1,Journal,2-s2.0-74049108922
+Ruepp A.,,CORUM: The comprehensive resource of mammalian protein complexes-2009,2009,Nucleic Acids Research,478,10.1093/nar/gkp914,Germany,Article,Neuherberg,1,Journal,2-s2.0-75549091794
+Erten S.,,Phylogenetic analysis of modularity in protein interaction networks,2009,BMC Bioinformatics,23,10.1186/1471-2105-10-333,United States,Article,Cleveland,1,Journal,2-s2.0-70450237111
+Ali W.,,Functionally guided alignment of protein interaction networks for module detection,2009,Bioinformatics,30,10.1093/bioinformatics/btp569,United Kingdom,Article,Oxford,1,Journal,2-s2.0-75949097286
+Flannick J.,,Automatic parameter learning for multiple local network alignment,2009,Journal of Computational Biology,61,10.1089/cmb.2009.0099,United States,Conference Paper,Stanford,0,Journal,2-s2.0-70349215207
+Pu S.,,Up-to-date catalogues of yeast protein complexes,2009,Nucleic Acids Research,415,10.1093/nar/gkn1005,Canada,Article,Toronto,1,Journal,2-s2.0-63349085550
+Huang D.,,Bioinformatics enrichment tools: Paths toward the comprehensive functional analysis of large gene lists,2009,Nucleic Acids Research,7573,10.1093/nar/gkn923,United States,Article,Frederick,1,Journal,2-s2.0-58549112996
+Simonis N.,,Empirically controlled mapping of the Caenorhabditis elegans protein-protein interactome network,2009,Nature Methods,194,10.1038/nmeth.1279,United States;United States,Article,Boston;Boston,0,Journal,2-s2.0-58149218155
+Yu J.,,"DroID: The Drosophila Interactions Database, a comprehensive resource for annotated gene and protein interactions",2008,BMC Genomics,84,10.1186/1471-2164-9-461,United States,Article,Detroit,1,Journal,2-s2.0-54949120007
+Yu H.,,High-quality binary protein interaction map of the yeast interactome network,2008,Science,970,10.1126/science.1158684,United States;United States,Article,Boston;Boston,0,Journal,2-s2.0-53349117774
+Singh R.,,Global alignment of multiple protein interaction networks with application to functional orthology detection,2008,Proceedings of the National Academy of Sciences of the United States of America,324,10.1073/pnas.0806627105,United States,Article,Cambridge,1,Journal,2-s2.0-51349087811
+Pesquita C.,,Metrics for GO based protein semantic similarity: A systematic evaluation,2008,BMC Bioinformatics,214,10.1186/1471-2105-9-S5-S4,Portugal,Article,Lisbon,1,Journal,2-s2.0-47149083877
+Hakes L.,,Protein-protein interaction networks and biology - What's the connection?,2008,Nature Biotechnology,145,10.1038/nbt0108-69,United Kingdom,Note,Manchester,0,Journal,2-s2.0-38049079362
+Futschik M.,,Comparison of human protein-protein interaction maps,2007,Bioinformatics,72,10.1093/bioinformatics/btl683,Germany,Article,Berlin,1,Journal,2-s2.0-34047168855
+Hirsh E.,,Identification of conserved protein complexes based on a model of protein network evolution,2007,Bioinformatics,74,10.1093/bioinformatics/btl295,Israel,Conference Paper,Tel Aviv-Yafo,1,Journal,2-s2.0-33846680167
+Brohée S.,,Evaluation of clustering algorithms for protein-protein interaction networks,2006,BMC Bioinformatics,586,10.1186/1471-2105-7-488,Belgium,Article,Brussels,1,Journal,2-s2.0-33751255087
+de Silva E.,,The effects of incomplete protein interaction data on structural and evolutionary inferences,2006,BMC Biology,55,10.1186/1741-7007-4-39,United Kingdom,Article,London,1,Journal,2-s2.0-33845262280
+Flannick J.,,Græmlin: General and robust alignment of multiple large interaction networks,2006,Genome Research,236,10.1101/gr.5235706,United States,Article,Palo Alto,1,Journal,2-s2.0-33748257786
+Berg J.,,Cross-species analysis of biological networks by Bayesian alignment,2006,Proceedings of the National Academy of Sciences of the United States of America,102,10.1073/pnas.0602294103,Germany,Article,Koln,1,Journal,2-s2.0-33746616867
+Guo X.,,Assessing semantic similarity measures for the characterization of human regulatory pathways,2006,Bioinformatics,138,10.1093/bioinformatics/btl042,United States,Article,Windber,1,Journal,2-s2.0-33645821454
+Sharan R.,,Modeling cellular machinery through biological network comparison,2006,Nature Biotechnology,399,10.1038/nbt1196,Israel,Review,Tel Aviv-Yafo,0,Journal,2-s2.0-33645732240
+Gavin A.,,Proteome survey reveals modularity of the yeast cell machinery,2006,Nature,1939,10.1038/nature04532,United Kingdom;Germany,Article,Brentford;Heidelberg,0,Journal,2-s2.0-33644555054
+Koyutürk M.,,Pairwise alignment of protein interaction networks,2006,Journal of Computational Biology,191,10.1089/cmb.2006.13.182,United States,Conference Paper,West Lafayette,0,Journal,2-s2.0-33645985807
+Sharan R.,,Identification of protein complexes by comparative analysis of yeast and bacterial protein interaction data,2005,Journal of Computational Biology,126,10.1089/cmb.2005.12.835,Israel,Conference Paper,Tel Aviv-Yafo,0,Journal,2-s2.0-23844447959
+Brown K.,,Online predicted human interaction database,2005,Bioinformatics,445,10.1093/bioinformatics/bti273,Canada,Article,Toronto,1,Journal,2-s2.0-18744376914
+King A.,,Protein complex prediction via cost-based clustering,2004,Bioinformatics,513,10.1093/bioinformatics/bth351,Canada,Article,Toronto,1,Journal,2-s2.0-10244264813
+Kelley B.,,Conserved pathways within bacteria and yeast as revealed by global protein network alignment,2003,Proceedings of the National Academy of Sciences of the United States of America,401,10.1073/pnas.1534710100,United States,Article,Cambridge,1,Journal,2-s2.0-0141593601
+Bader G.,,An automated method for finding molecular complexes in large protein interaction networks,2003,BMC Bioinformatics,2446,10.1186/1471-2105-4-2,Canada;Canada;United States,Article,Toronto;Toronto;New York,1,Journal,2-s2.0-2942552459
+Edwards A.,,Bridging structural biology and genomics: Assessing protein interaction data with known complexes,2002,Trends in Genetics,228,10.1016/S0168-9525(02)02763-4,Canada,Review,Toronto,0,Journal,2-s2.0-0036805329
+Enright A.J.,,An efficient algorithm for large-scale detection of protein families,2002,Nucleic Acids Research,2117,10.1093/nar/30.7.1575,United Kingdom,Review,Cambridge,1,Journal,2-s2.0-0036529479
+Xenarios I.,,DIP: The Database of Interacting Proteins,2000,Nucleic Acids Research,684,10.1093/nar/28.1.289,United States,Short Survey,Los Angeles,1,Journal,2-s2.0-0033971642
+Blatt M.,,Superparamagnetic clustering of data,1996,Physical Review Letters,403,10.1103/PhysRevLett.76.3251,Israel,Article,Rehovot,0,Journal,2-s2.0-0000521616
+Altschul S.,,Basic local alignment search tool,1990,Journal of Molecular Biology,60311,10.1016/S0022-2836(05)80360-2,United States,Article,Bethesda,0,Journal,2-s2.0-0025183708

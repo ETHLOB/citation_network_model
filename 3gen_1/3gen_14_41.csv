@@ -1,0 +1,5 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Rigoll G.,,A NN/HMM hybrid for continuous speech recognition with a discriminant nonlinear feature extraction,1998,"ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings",8,10.1109/ICASSP.1998.674354,Germany,Conference Paper,Essen,0,Conference Proceeding,2-s2.0-0031630638
+Kingsbury B.,,Recognizing reverberant speech with RASTA-PLP,1997,"ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings",71,,United States,Conference Paper,Berkeley,0,Conference Proceeding,2-s2.0-0030682292
+Bengio Y.,,Global Optimization of a Neural Network-Hidden Markov Model Hybrid,1992,IEEE Transactions on Neural Networks,97,10.1109/72.125866,Canada,Article,Montreal,0,Journal,2-s2.0-0026835134
+Hermansky H.,,Perceptual linear predictive (PLP) analysis of speech,1990,Journal of the Acoustical Society of America,1681,10.1121/1.399423,United States,Article,Princeton,0,Journal,2-s2.0-0025041264

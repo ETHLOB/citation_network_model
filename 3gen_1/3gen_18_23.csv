@@ -1,0 +1,107 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Brusco M.,,Clustering binary data in the presence of masking variables,2004,Psychological Methods,31,10.1037/1082-989X.9.4.510,United States,Article,Tallahassee,0,Journal,2-s2.0-10844257374
+Steinley D.,,Properties of the Hubert-Arabie adjusted Rand index,2004,Psychological Methods,251,10.1037/1082-989X.9.3.386,United States;United States,Article,Columbia;Urbana,0,Journal,2-s2.0-4344611435
+Steinley D.,,Local Optima in K-Means Clustering: What You Don't Know May Hurt You,2003,Psychological Methods,171,10.1037/1082-989X.8.3.294,United States,Review,Urbana,0,Journal,2-s2.0-0142136684
+Likas A.,,The global k-means clustering algorithm,2003,Pattern Recognition,1027,10.1016/S0031-3203(02)00060-2,Greece,Article,Ioannina,0,Journal,2-s2.0-0036487280
+Huang Z.,,A Note on K-modes Clustering,2003,Journal of Classification,45,10.1007/s00357-003-0014-4,Hong Kong,Article,Pokfulam,0,Journal,2-s2.0-0742288813
+Fraley C.,,"Model-based clustering, discriminant analysis, and density estimation",2002,Journal of the American Statistical Association,2309,10.1198/016214502760047131,United States,Article,Seattle,0,Journal,2-s2.0-0035998835
+Kanungo T.,,An efficient k-means clustering algorithms: Analysis and implementation,2002,IEEE Transactions on Pattern Analysis and Machine Intelligence,3146,10.1109/TPAMI.2002.1017616,United States;United States,Article,San Jose;New York,0,Journal,2-s2.0-0036647190
+Dimitriadou E.,,An examination of indexes for determining the number of clusters in binary data sets,2002,Psychometrika,173,10.1007/BF02294713,Austria,Article,Vienna,0,Journal,2-s2.0-0036011451
+Maitra R.,,Clustering massive datasets with applications in software metrics and tomography,2001,Technometrics,25,10.1198/004017001316975925,United States,Article,Baltimore,0,Trade Journal,2-s2.0-0035420381
+Vichi M.,,Factorial k-means analysis for two-way data,2001,Computational Statistics and Data Analysis,85,10.1016/S0167-9473(00)00064-5,Italy,Article,Rome,0,Journal,2-s2.0-0035963877
+Vesanto J.,,Importance of individual variables in the k-means algorithm,2001,Lecture Notes in Artificial Intelligence (Subseries of Lecture Notes in Computer Science),5,10.1007/3-540-45357-1_54,Finland,Conference Paper,Espoo,0,Conference Proceeding,2-s2.0-84942904298
+Makarenkov V.,,Optimal variable weighting for ultrametric and additive trees and K-means partitioning: Methods and software,2001,Journal of Classification,82,10.1007/s00357-001-0018-x,Canada;Russian Federation,Article,Montreal;Moscow,0,Journal,2-s2.0-0035619721
+Brusco M.,,A variable-selection heuristic for K-means clustering,2001,Psychometrika,90,10.1007/BF02294838,United States,Article,Tallahassee,0,Journal,2-s2.0-0035534927
+Chaturvedi A.,,K-modes clustering,2001,Journal of Classification,137,10.1007/s00357-001-0004-3,,Article,,0,Journal,2-s2.0-0035534111
+Tibshirani R.,,Estimating the number of clusters in a data set via the gap statistic,2001,Journal of the Royal Statistical Society. Series B: Statistical Methodology,2424,10.1111/1467-9868.00293,United States,Article,Palo Alto,0,Journal,2-s2.0-0035532141
+Zhang B.,,Generalized K-Harmonic means - Boosting in unsupervised learning,2000,HP Laboratories Technical Report,17,,United States;United States,Article,Atlanta;Palo Alto,0,Journal,2-s2.0-84862447320
+García-Escudero L.,,Robustness Properties of k Means and Trimmed k Means,1999,Journal of the American Statistical Association,97,10.1080/01621459.1999.10474200,Spain,Article,Valladolid,0,Journal,2-s2.0-1542532405
+García-Escudero L.,,A central limit theorem for multivariate generalized trimmed k-means,1999,Annals of Statistics,20,,Spain,Article,Valladolid,0,Journal,2-s2.0-0033248629
+De Backer S.,,Competitive elliptical clustering algorithm,1999,Pattern Recognition Letters,8,10.1016/S0167-8655(99)00081-1,Belgium,Article,Antwerpen,0,Journal,2-s2.0-0033220731
+Carmone F.J.,,HINoV: A new model to improve market segment definition by identifying noisy variables,1999,Journal of Marketing Research,36,10.1177/002224379903600408,,Article,,0,Journal,2-s2.0-0033229533
+Bischof H.,,MDL principle for robust vector quantisation,1999,Pattern Analysis and Applications,59,10.1007/s100440050015,Austria;Austria;Austria,Article,Vienna;;,0,Journal,2-s2.0-0033448562
+Schaffer C.M.,,Cluster-based market segmentation: Some further comparisons of alternative approaches,1998,International Journal of Market Research,29,10.1177/147078539804000206,United States,Article,Philadelphia,0,Journal,2-s2.0-3242820009
+Hansen P.,,Minimum sum of squares clustering in a low dimensional space,1998,Journal of Classification,36,10.1007/s003579900019,Canada,Article,Montreal,0,Journal,2-s2.0-0032395795
+Waller N.,,A comparison of the classification capabilities of the 1-dimensional Kohonen neural network with two partitioning and three hierarchical cluster analysis algorithms,1998,Psychometrika,49,10.1007/BF02295433,United States,Review,Davis,0,Journal,2-s2.0-0032342923
+Huang Z.,,Extensions to the k-means algorithm for clustering large data sets with categorical values,1998,Data Mining and Knowledge Discovery,1345,10.1023/A:1009769707641,Australia;Australia,Article,North Ryde;Melbourne,0,Journal,2-s2.0-27144536001
+Kiers H.,,Discrimination by means of components that are orthogonal in the data space,1997,Journal of Chemometrics,5,10.1002/(SICI)1099-128X(199711/12)11:6<533::AID-CEM493>3.0.CO;2-1,Netherlands,Article,Groningen,0,Journal,2-s2.0-0000928401
+Huberty C.,,Behavioral clustering of school children,1997,Multivariate Behavioral Research,43,10.1207/s15327906mbr3202_2,United States,Article,Athens,0,Journal,2-s2.0-0031478505
+Heiser W.,,Cluster differences scaling with a within-clusters loss component and a fuzzy successive approximation strategy to avoid local minima,1997,Psychometrika,63,10.1007/BF02294781,Netherlands,Article,Leiden,0,Journal,2-s2.0-0031508490
+Chaturvedi A.,,A feature-based approach to market segmentation via overlapping K-centroids clustering,1997,Journal of Marketing Research,66,10.2307/3151899,,Article,,0,Journal,2-s2.0-0031484950
+Cuesta-Albertos J.,,Trimmed k-means: An attempt to robustify quantizers,1997,Annals of Statistics,147,10.1214/aos/1031833664,Spain,Article,Santander,1,Journal,2-s2.0-0031493778
+Cheng R.,,K-means clustering methods with influence detection,1996,Educational and Psychological Measurement,13,10.1177/0013164496056005010,,Article,,0,Journal,2-s2.0-0030509643
+Schaffer C.,,An empirical comparison of variable standardization methods in cluster analysis,1996,Multivariate Behavioral Research,17,10.1207/s15327906mbr3102_1,,Article,,0,Journal,2-s2.0-0030305550
+Cheng R.,,Measuring the influence of individual data points in a cluster analysis,1996,Journal of Classification,37,10.1007/bf01246105,,Article,,0,Journal,2-s2.0-0030376226
+Celeux G.,,An entropy criterion for assessing the number of clusters in a mixture model,1996,Journal of Classification,907,10.1007/BF01246098,France,Article,Saint-Ismier,0,Journal,2-s2.0-0030351528
+Donoghue J.,,Univariate Screening Measures for Cluster Analysis,1995,Multivariate Behavioral Research,9,10.1207/s15327906mbr3003_5,United States,Article,Princeton,0,Journal,2-s2.0-21844523554
+Gnanadesikan R.,,Weighting and selection of variables for cluster analysis,1995,Journal of Classification,95,10.1007/BF01202271,United States;United States,Article,New Brunswick;Piscataway,0,Journal,2-s2.0-21844501258
+Kass R.,,A reference Bayesian test for nested hypotheses and its relationship to the schwarz criterion,1995,Journal of the American Statistical Association,676,10.1080/01621459.1995.10476592,United States,Article,Pittsburgh,0,Journal,2-s2.0-27944462549
+Banfield J.,,Model-based Gaussian and non-Gaussian clustering,1993,Biometrics,1301,10.2307/2532201,United States,Review,Bozeman,0,Journal,2-s2.0-0027453616
+Arabie P.,,Combinatorial data analysis,1992,Annual Review of Psychology,47,10.1146/annurev.ps.43.020192.001125,United States,Article,Newark,0,Book Series,2-s2.0-0000377058
+Bajgier S.,,Powers of goodness-of-Fit tests in detecting balanced mixed normal distributions,1991,Educational and Psychological Measurement,10,10.1177/0013164491512001,United States,Article,Philadelphia,0,Journal,2-s2.0-84973815858
+Flury B.,,Principal points,1990,Biometrika,91,10.2307/2336047,United States,Article,Bloomington,0,Journal,2-s2.0-78751701140
+Mirkin B.,,A sequential fitting procedure for linear data analysis models,1990,Journal of Classification,28,10.1007/BF01908715,Russian Federation,Article,Moscow,0,Journal,2-s2.0-0001090009
+Green P.,,A preliminary study of optimal variable weighting in k-means clustering,1990,Journal of Classification,43,10.1007/BF01908720,United States,Article,Philadelphia,0,Journal,2-s2.0-0000710590
+van Buuren S.,,Clustering n objects into k groups under optimal scaling of variables,1989,Psychometrika,47,10.1007/BF02296404,Netherlands,Article,Utrecht,0,Journal,2-s2.0-0001543785
+Fowlkes E.,,Variable selection in clustering,1988,Journal of Classification,75,10.1007/BF01897164,United States,Article,Piscataway,0,Journal,2-s2.0-0001739908
+Milligan G.,,A study of standardization of variables in cluster analysis,1988,Journal of Classification,414,10.1007/BF01897163,United States,Article,Columbus,0,Journal,2-s2.0-0000235019
+De Soete G.,,OVWTRE: A program for optimal variable weighting for ultrametric and additive tree fitting,1988,Journal of Classification,43,10.1007/BF01901677,Belgium,Article,Ghent,0,Journal,2-s2.0-0000962917
+Krzanowski W.,,A criterion for determining the number of groups in a data set using sum-of-squares clustering,1988,Biometrics,372,10.2307/2531893,United Kingdom,Article,Reading,0,Journal,2-s2.0-0023905024
+Windham M.,,Parameter modification for clustering criteria,1987,Journal of Classification,20,10.1007/BF01896986,United States,Article,Logan,0,Journal,2-s2.0-0001403983
+Jain A.,,Bootstrap technique in cluster analysis,1987,Pattern Recognition,97,10.1016/0031-3203(87)90081-1,United States,Article,East Lansing,0,Journal,2-s2.0-0023491749
+Milligan G.,,Methodology Review: Clustering Methods,1987,Applied Psychological Measurement,387,10.1177/014662168701100401,United States,Review,Columbus,0,Journal,2-s2.0-84965559165
+Friedman J.,,Exploratory projection pursuit,1987,Journal of the American Statistical Association,530,10.1080/01621459.1987.10478427,United States;United States,Article,Menlo Park;Palo Alto,0,Journal,2-s2.0-84950754164
+De Soete G.,,Optimal variable weighting for ultrametric and additive tree clustering,1986,Quality and Quantity,59,10.1007/BF00227423,Belgium,Article,Ghent,0,Journal,2-s2.0-33947177850
+Bock H.,,On some significance tests in cluster analysis,1985,Journal of Classification,91,10.1007/BF01908065,Germany,Article,Aachen,0,Journal,2-s2.0-0003158632
+Hartigan J.,,Statistical theory in clustering,1985,Journal of Classification,217,10.1007/BF01908064,United States,Article,New Haven,0,Journal,2-s2.0-33748888529
+Hubert L.,,Comparing partitions,1985,Journal of Classification,3864,10.1007/BF01908075,United States,Article,Santa Barbara,0,Journal,2-s2.0-0000008146
+Wong M.,,A bootstrap testing procedure for investigating the number of subpopulations,1985,Journal of Statistical Computation and Simulation,18,10.1080/00949658508810837,United States,Article,Cambridge,0,Journal,2-s2.0-0004776832
+Milligan G.,,An examination of procedures for determining the number of clusters in a data set,1985,Psychometrika,2254,10.1007/BF02294245,United States,Article,Columbus,0,Journal,2-s2.0-34250115918
+Milligan G.,,An algorithm for generating artificial test clusters,1985,Psychometrika,94,10.1007/BF02294153,United States,Article,Columbus,0,Journal,2-s2.0-0000272920
+Wong M.,,Asymptotic properties of univariate sample k-means clusters,1984,Journal of Classification,5,10.1007/BF01890126,United States,Article,Cambridge,0,Journal,2-s2.0-0001042639
+DeSarbo W.,,Constrained classification: The use of a priori information in cluster analysis,1984,Psychometrika,43,10.1007/BF02294172,United States,Article,Murray,0,Journal,2-s2.0-0000727780
+DeSarbo W.,,Synthesized clustering: A method for amalgamating alternative clustering bases with differential weighting of variables,1984,Psychometrika,98,10.1007/BF02294206,United States,Article,Murray,0,Journal,2-s2.0-0002414638
+Selim S.,,K-Means-Type Algorithms: A Generalized Convergence Theorem and Characterization of Local Optimality,1984,IEEE Transactions on Pattern Analysis and Machine Intelligence,759,10.1109/TPAMI.1984.4767478,Saudi Arabia,Article,Dhahran,0,Journal,2-s2.0-0021202650
+Massart D.L.,,Non-hierarchical clustering with masloc,1983,Pattern Recognition,18,10.1016/0031-3203(83)90055-9,Belgium,Article,Brussels,0,Journal,2-s2.0-0020970261
+Chang W.C.,,ON USING PRINCIPAL COMPONENTS BEFORE SEPARATING A MIXTURE OF TWO MULTIVARIATE NORMAL DISTRIBUTIONS.,1983,Applied Statistics,173,10.2307/2347949,,Article,,0,Journal,2-s2.0-0020998698
+Wong M.,,A hybrid clustering method for identifying high-density clusters,1982,Journal of the American Statistical Association,76,10.1080/01621459.1982.10477896,United States,Article,Cambridge,0,Journal,2-s2.0-0000645837
+Milligan G.,,A monte carlo study of thirty internal criterion measures for cluster analysis,1981,Psychometrika,226,10.1007/BF02293899,United States,Article,Columbus,0,Journal,2-s2.0-0000228352
+Milligan G.,,An examination of the effect of six types of error perturbation on fifteen clustering algorithms,1980,Psychometrika,736,10.1007/BF02293907,United States,Article,Columbus,0,Journal,2-s2.0-33847457966
+Bayne C.K.,,Monte Carlo comparisons of selected clustering procedures,1980,Pattern Recognition,72,10.1016/0031-3203(80)90002-3,United States,Article,Bound Brook,0,Journal,2-s2.0-0018910526
+Milligan G.,,A two-stage clustering algorithm with robust recovery characteristics,1980,Educational and Psychological Measurement,105,10.1177/001316448004000320,United States,Article,Columbus,0,Journal,2-s2.0-84965875255
+Bezdek J.,,A Convergence Theorem for the Fuzzy ISODATA Clustering Algorithms,1980,IEEE Transactions on Pattern Analysis and Machine Intelligence,725,10.1109/TPAMI.1980.4766964,United States,Article,Logan,0,Journal,2-s2.0-0018918224
+Stoddard A.M.,,Standardization of measures prior to cluster analysis,1979,Biometrics,13,10.2307/2530108,United States,Article,Amherst MA,0,Journal,2-s2.0-0018604771
+Everitt B.,,Unresolved problems in cluster analysis,1979,Biometrics,233,10.2307/2529943,United Kingdom,Article,London,0,Journal,2-s2.0-0018332017
+Davies D.,,A Cluster Separation Measure,1979,IEEE Transactions on Pattern Analysis and Machine Intelligence,3791,10.1109/TPAMI.1979.4766909,United States,Article,Leuven,0,Journal,2-s2.0-0017953820
+Mezzich J.,,Evaluating clustering methods for psychiatric diagnosis,1978,Biological Psychiatry,42,,United States,Article,Stanford,0,Journal,2-s2.0-0017810723
+Blashfield R.,,The equivalence of three statistical packages for performing hierarchical cluster analysis,1977,Psychometrika,12,10.1007/BF02293659,United States,Article,University Park,0,Journal,2-s2.0-0343414755
+Gordon A.D.,,An algorithm for Euclidean sum of squares classification,1977,Biometrics,47,10.2307/2529785,United Kingdom,Article,St Andrews,0,Journal,2-s2.0-0017402076
+Hubert L.,,A general statistical framework for assessing categorical clustering in free recall,1976,Psychological Bulletin,189,10.1037/0033-2909.83.6.1072,United States,Article,Madison,0,Journal,2-s2.0-0001518855
+Dubes R.,,Clustering techniques: The user's dilemma,1976,Pattern Recognition,225,10.1016/0031-3203(76)90045-5,United States,Article,East Lansing,0,Journal,2-s2.0-0017010058
+Gower J.,,Generalized procrustes analysis,1975,Psychometrika,1708,10.1007/BF02291478,United Kingdom,Article,Harpenden,0,Journal,2-s2.0-0001886818
+Mardia K.V.,,ASSESSMENT OF MULTINORMALITY AND THE ROBUSTNESS OF HOTELLING`S T<sup>2</sup> TEST.,1975,Journal of Applied Statistics,128,10.2307/2346563,,Article,,0,Journal,2-s2.0-0016458841
+Maronna R.,,Multivariate clustering procedures with variable metrics,1974,Biometrics,31,10.2307/2529203,Argentina,Article,Buenos Aires,0,Journal,2-s2.0-0016203667
+Caliñski T.,,A Dendrite Method Foe Cluster Analysis,1974,Communications in Statistics,2941,10.1080/03610927408827101,Poland,Article,Poznan,0,Journal,2-s2.0-84972893020
+Akaike H.,,A New Look at the Statistical Model Identification,1974,IEEE Transactions on Automatic Control,29455,10.1109/TAC.1974.1100705,Japan,Article,Tokyo,0,Journal,2-s2.0-0016355478
+Van Ness J.,,Admissible clustering procedures,1973,Biometrika,17,10.1093/biomet/60.2.422,United States,Article,Pittsburgh,0,Journal,2-s2.0-85041932705
+Cooper L.,,N‐DIMENSIONAL LOCATION MODELS: AN APPLICATION TO CLUSTER ANALYSIS,1973,Journal of Regional Science,9,10.1111/j.1467-9787.1973.tb00376.x,Japan,Article,Dallas,0,Journal,2-s2.0-0002937787
+Bezdek J.C.,,Cluster validity with fuzzy sets,1973,Journal of Cybernetics,881,10.1080/01969727308546047,United States,Article,Oneonta,0,Journal,2-s2.0-0015644823
+Dunn J.,,A fuzzy relative of the ISODATA process and its use in detecting compact well-separated clusters,1973,Journal of Cybernetics,3809,10.1080/01969727308546046,United States,Article,Ithaca,0,Journal,2-s2.0-0015644825
+Fisher L.,,Admissible clustering procedures,1971,Biometrika,111,10.1093/biomet/58.1.91,United States,Article,Seattle,0,Journal,2-s2.0-0001925540
+Everitt B.,,An attempt at validation of traditional psychiatric syndromes by cluster analysis.,1971,The British journal of psychiatry : the journal of mental science,65,10.1192/bjp.119.551.399,,Article,,0,Journal,2-s2.0-0015138786
+Marriott F.,,Practical problems in a method of cluster analysis.,1971,Biometrics,128,10.2307/2528592,,Article,,0,Journal,2-s2.0-0015113659
+Rao M.R.,,Cluster analysis and mathematical programming,1971,Journal of the American Statistical Association,241,10.1080/01621459.1971.10482319,United States,Article,Rochester,0,Journal,2-s2.0-84950648422
+Mardia K.,,Measures of multivariate skewness and kurtosis with applications,1970,Biometrika,2121,10.1093/biomet/57.3.519,United Kingdom,Article,Hull,0,Journal,2-s2.0-2942611661
+Elias P.,,Bounds on Performance of Optimum Quantizers,1970,IEEE Transactions on Information Theory,20,10.1109/TIT.1970.1054415,United States,Article,Cambridge,0,Journal,2-s2.0-0014749505
+Gitman I.,,An Algorithm for Detecting Unimodal Fuzzy Sets and its Application as a Clustering Technique,1970,IEEE Transactions on Computers,72,10.1109/T-C.1970.222992,Canada,Article,Toronto,0,Journal,2-s2.0-0014818322
+Wolfe J.,,Pattern clustering by multivariate mixture analysis,1970,Multivariate Behavioral Research,367,10.1207/s15327906mbr0503_6,United States,Article,,0,Journal,2-s2.0-0012393308
+Engelman L.,,Percentage Points of a Test for Clusters,1969,Journal of the American Statistical Association,96,10.1080/01621459.1969.10501084,United States,Article,Los Angeles,0,Journal,2-s2.0-0001516463
+Vinod H.,,Integer Programming and the Theory of Grouping,1969,Journal of the American Statistical Association,158,10.1080/01621459.1969.10500990,,Article,,0,Journal,2-s2.0-0000217783
+Friedman H.,,On Some Invariant Criteria for Grouping Data,1967,Journal of the American Statistical Association,324,10.1080/01621459.1967.10500923,United States,Article,Armonk,0,Journal,2-s2.0-34247969087
+EDWARDS A.,,A METHOD FOR CLUSTER ANALYSIS.,1965,Biometrics,243,10.2307/2528096,,Article,,0,Journal,2-s2.0-70449538986
+Zadeh L.,,Fuzzy sets,1965,Information and Control,48925,10.1016/S0019-9958(65)90241-X,United States,Article,Berkeley,1,Journal,2-s2.0-34248666540
+Ward J.,,Hierarchical Grouping to Optimize an Objective Function,1963,Journal of the American Statistical Association,10600,10.1080/01621459.1963.10500845,United States,Article,San Antonio,0,Journal,2-s2.0-84944178665
+Fisher W.,,On Grouping for Maximum Homogeneity,1958,Journal of the American Statistical Association,423,10.1080/01621459.1958.10501479,United States,Article,Pittsburg,0,Journal,2-s2.0-34248971907
+Cox D.R.,,Note on Grouping,1957,Journal of the American Statistical Association,189,10.1080/01621459.1957.10501411,United Kingdom,Article,London,0,Journal,2-s2.0-0001075751
+SNEATH P.H.,,The application of computers to taxonomy.,1957,Journal of general microbiology,426,10.1099/00221287-17-1-201,,Article,,1,Journal,2-s2.0-9444222978
+Thorndike R.,,Who belongs in the family?,1953,Psychometrika,427,10.1007/BF02289263,United States,Article,New York,0,Journal,2-s2.0-0010063566

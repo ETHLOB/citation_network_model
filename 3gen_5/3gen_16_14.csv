@@ -1,0 +1,9 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Kleinberg E.,,On the algorithmic implementation of stochastic discrimination,2000,IEEE Transactions on Pattern Analysis and Machine Intelligence,63,10.1109/34.857004,United States,Article,Buffalo,0,Journal,2-s2.0-0034186937
+Bauer E.,,"Empirical comparison of voting classification algorithms: bagging, boosting, and variants",1999,Machine Learning,1535,10.1023/a:1007515423169,United States,Article,Palo Alto,1,Journal,2-s2.0-0032645080
+Ho T.K.,,The random subspace method for constructing decision forests,1998,IEEE Transactions on Pattern Analysis and Machine Intelligence,3433,10.1109/34.709601,United States,Article,Murray,0,Journal,2-s2.0-0032139235
+Breiman L.,,Arcing classifiers,1998,Annals of Statistics,881,,United States,Article,Berkeley,0,Journal,2-s2.0-0346786584
+Grove A.,,Boosting in the limit: Maximizing the margin of learned ensembles,1998,Proceedings of the National Conference on Artificial Intelligence,164,,United States,Conference Paper,Princeton,0,Conference Proceeding,2-s2.0-0031638384
+Schapire R.,,Boosting the margin: A new explanation for the effectiveness of voting methods,1998,Annals of Statistics,1388,10.1214/aos/1024691352,United States,Article,Florham Park,1,Journal,2-s2.0-0032280519
+Amit Y.,,Shape Quantization and Recognition with Randomized Trees,1997,Neural Computation,628,10.1162/neco.1997.9.7.1545,United States,Article,Chicago,0,Journal,2-s2.0-0001492549
+Breiman L.,,Bagging predictors,1996,Machine Learning,13261,10.1023/A:1018054314350,United States,Article,Berkeley,1,Journal,2-s2.0-0030211964

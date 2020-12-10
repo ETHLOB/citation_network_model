@@ -1,0 +1,16 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Yang B.,,A novel slow coherency based graph theoretic islanding strategy,2007,"2007 IEEE Power Engineering Society General Meeting, PES",44,10.1109/PES.2007.386173,United States,Conference Paper,Tempe,0,Conference Proceeding,2-s2.0-42549172676
+Yang B.,,"Slow-coherency-based controlled islanding - A demonstration of the approach on the August 14, 2003 blackout scenario",2006,IEEE Transactions on Power Systems,156,10.1109/TPWRS.2006.881126,United States,Article,Tempe,0,Journal,2-s2.0-33847689443
+Wang X.,,System islanding using minimal cutsets with minimum net flow,2004,2004 IEEE PES Power Systems Conference and Exposition,94,,United States,Conference Paper,Ames,0,Conference Proceeding,2-s2.0-15944372286
+You H.,,Slow Coherency-Based Islanding,2004,IEEE Transactions on Power Systems,294,10.1109/TPWRS.2003.818729,United States,Review,Ames,0,Journal,2-s2.0-1442265461
+Sun K.,,Splitting strategies for islanding operation of large-scale power systems using OBDD-based methods,2003,IEEE Transactions on Power Systems,246,10.1109/TPWRS.2003.810995,China,Article,Beijing,0,Journal,2-s2.0-0037843072
+You H.,,Self-healing in power systems: An approach using islanding and rate of frequency decline-based load shedding,2003,IEEE Transactions on Power Systems,230,10.1109/TPWRS.2002.807111,United States,Article,Ames,0,Journal,2-s2.0-0037291178
+Qian F.,,Parallel learning cellular automata for combinatorial optimization problems,1996,Proceedings of the IEEE Conference on Evolutionary Computation,6,,Japan,Conference Paper,Hiroshima,0,Conference Proceeding,2-s2.0-0029710030
+Chow J.,,Inertial and Slow Coherency Aggregation Algorithms for Power System Dynamic Model Reduction,1995,IEEE Transactions on Power Systems,162,10.1109/59.387903,United States,Article,Troy,0,Journal,2-s2.0-0029307588
+Tao L.,,Effective heuristic algorithms for VLSI circuit partition,Apr,"IEE Proceedings, Part G: Circuits, Devices and Systems",13,10.1049/ip-g-2.1993.0020,Canada,Article,Montreal,0,Journal,2-s2.0-0027580353
+Yusof S.,,Slow coherency based network partitioning including load buses,1993,IEEE Transactions on Power Systems,150,10.1109/59.260855,Canada,Article,Hamilton,0,Journal,2-s2.0-0027644110
+Date R.,,Aggregation Properties of Linearized Two-Time-Scale Power Networks,1991,IEEE Transactions on Circuits and Systems,41,10.1109/31.135744,United States,Article,Troy,0,Journal,2-s2.0-0026185771
+Chow J.,,Nodal aggregation algorithm for linearized two-time-scale power networks,1988,Proceedings - IEEE International Symposium on Circuits and Systems,5,,United States,Conference Paper,Troy,0,Conference Proceeding,2-s2.0-0024121894
+Donnett J.,,EFFECTIVE ALGORITHMS FOR PARTITIONING DISTRIBUTED PROGRAMS.,1988,Conference Proceedings - Annual Phoenix Conference,8,,Canada,Conference Paper,Kingston,0,Conference Proceeding,2-s2.0-0023861950
+Gilbert J.,,A parallel graph partitioning algorithm for a message-passing multiprocessor,1987,International Journal of Parallel Programming,44,10.1007/BF01388998,United States,Article,Ithaca,0,Journal,2-s2.0-0023458194
+Kernighan B.,,An Efficient Heuristic Procedure for Partitioning Graphs,1970,Bell System Technical Journal,3149,10.1002/j.1538-7305.1970.tb01770.x,,Article,,0,Journal,2-s2.0-84990479742

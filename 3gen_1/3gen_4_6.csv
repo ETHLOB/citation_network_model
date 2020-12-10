@@ -1,0 +1,20 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Chalise P.,,Integrative clustering methods for high-dimensional molecular data,2014,Translational Cancer Research,15,10.3978/j.issn.2218-676X.2014.06.03,United States,Review,Kansas City,0,Journal,2-s2.0-84962699589
+Ray P.,,Bayesian joint analysis of heterogeneous genomics data,2014,Bioinformatics,35,10.1093/bioinformatics/btu064,India,Article,Kharagpur,1,Journal,2-s2.0-84900827183
+Lock E.,,Bayesian consensus clustering,2013,Bioinformatics,84,10.1093/bioinformatics/btt425,United States;United States,Article,Durham;Durham,1,Journal,2-s2.0-84885617335
+Schouteden M.,,SCA with rotation to distinguish common and distinctive information in linked data,2013,Behavior Research Methods,31,10.3758/s13428-012-0295-9,Belgium,Article,3000 Leuven,0,Journal,2-s2.0-84881581739
+Löfstedt T.,,"Global, local and unique decompositions in OnPLS for multiblock data analysis",2013,Analytica Chimica Acta,27,10.1016/j.aca.2013.06.026,Sweden,Article,Umea,0,Journal,2-s2.0-84880953725
+Shen R.,,Sparse integrative clustering of multiple omics data sets,2013,Annals of Applied Statistics,35,10.1214/12-AOAS578,United States,Article,Madison,1,Journal,2-s2.0-84876068958
+Lock E.,,Joint and individual variation explained (JIVE) for integrated analysis of multiple data types,2013,Annals of Applied Statistics,139,10.1214/12-AOAS597,United States,Article,Chapel Hill,1,Journal,2-s2.0-84876058478
+Kirk P.,,Bayesian correlated clustering to integrate multiple datasets,2012,Bioinformatics,87,10.1093/bioinformatics/bts595,United Kingdom,Article,Coventry,1,Journal,2-s2.0-84870796415
+Koboldt D.C.,,Comprehensive molecular portraits of human breast tumours,2012,Nature,5986,10.1038/nature11412,United States,Article,St. Louis,1,Journal,2-s2.0-84877028141
+Zhang S.,,Discovery of multi-dimensional modules by integrative analysis of cancer genomic data,2012,Nucleic Acids Research,153,10.1093/nar/gks725,United States;China,Article,Los Angeles;Beijing,1,Journal,2-s2.0-84868152524
+Kormaksson M.,,Integrative model-based clustering of microarray methylation and expression data,2012,Annals of Applied Statistics,20,10.1214/11-AOAS533,,Article,,1,Journal,2-s2.0-84870001973
+Van Deun K.,,A flexible framework for sparse simultaneous component based data integration,2011,BMC Bioinformatics,37,10.1186/1471-2105-12-448,Belgium,Article,3000 Leuven,1,Journal,2-s2.0-81055127037
+Shen R.,,Integrative clustering of multiple genomic data types using a joint latent variable model with application to breast and lung cancer subtype analysis,2009,Bioinformatics,293,10.1093/bioinformatics/btp543,United States,Article,New York,1,Journal,2-s2.0-70449331456
+Van Deun K.,,A structured overview of simultaneous component based data integration,2009,BMC Bioinformatics,71,10.1186/1471-2105-10-246,Belgium,Article,3000 Leuven,1,Journal,2-s2.0-70349279640
+Tibshirani R.,,Cluster validation by prediction strength,2005,Journal of Computational and Graphical Statistics,275,10.1198/106186005X59243,United States,Article,Palo Alto,0,Journal,2-s2.0-26644472430
+Ding C.,,K-means clustering via principal component analysis,2004,"Proceedings, Twenty-First International Conference on Machine Learning, ICML 2004",627,,United States,Conference Paper,Berkeley,0,Conference Proceeding,2-s2.0-14344257496
+Yeung K.,,Principal component analysis for clustering gene expression data,2001,Bioinformatics,733,10.1093/bioinformatics/17.9.763,United States,Article,Seattle,1,Journal,2-s2.0-0034800371
+Tipping M.,,Probabilistic principal component analysis,1999,Journal of the Royal Statistical Society. Series B: Statistical Methodology,1841,10.1111/1467-9868.00196,United Kingdom,Article,Cambridge,0,Journal,2-s2.0-0038959172
+Chang W.C.,,ON USING PRINCIPAL COMPONENTS BEFORE SEPARATING A MIXTURE OF TWO MULTIVARIATE NORMAL DISTRIBUTIONS.,1983,Applied Statistics,173,10.2307/2347949,,Article,,0,Journal,2-s2.0-0020998698

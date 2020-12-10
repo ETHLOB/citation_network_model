@@ -1,0 +1,8 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Lanckriet G.R.G.,,Learning the kernel matrix with semidefinite programming,2004,Journal of Machine Learning Research,1651,,United States,Article,Berkeley,0,Journal,2-s2.0-8844278523
+Ong C.S.,,Hyperkerneis,2003,Advances in Neural Information Processing Systems,41,,Australia,Conference Paper,Canberra,0,Conference Proceeding,2-s2.0-84899013191
+Grandvalet Y.,,Adaptive scaling for feature selection in SVMs,2003,Advances in Neural Information Processing Systems,61,,France,Conference Paper,Compiegne,0,Conference Proceeding,2-s2.0-84899001870
+Chapelle O.,,Choosing multiple parameters for support vector machines,2002,Machine Learning,1810,10.1023/A:1012450327387,France,Article,Paris,1,Journal,2-s2.0-0036161011
+Keerthi S.S.,,Improvements to Platt's SMO algorithm for SVM classifier design,2001,Neural Computation,1152,10.1162/089976601300014493,Singapore,Article,Singapore City,0,Journal,2-s2.0-0000545946
+Lobo M.,,Applications of second-order cone programming,1998,Linear Algebra and Its Applications,1530,10.1016/S0024-3795(98)10032-0,,Article,,1,Journal,2-s2.0-0041940559
+Lemaréchal C.,,Practical aspects of the Moreau-Yosida regularization: Theoretical preliminaries,1997,SIAM Journal on Optimization,114,10.1137/S1052623494267127,France,Article,Le Chesnay,0,Journal,2-s2.0-0040165092

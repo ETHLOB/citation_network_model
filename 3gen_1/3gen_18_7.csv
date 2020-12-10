@@ -1,0 +1,21 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Giancarlo R.,,"Computational cluster validation for microarray data analysis: Experimental assessment of Clest, Consensus Clustering, Figure of Merit, Gap Statistics and Model Explorer",2008,BMC Bioinformatics,39,10.1186/1471-2105-9-462,Italy,Article,Palermo,1,Journal,2-s2.0-62849090487
+Priness I.,,Evaluation of gene-expression clustering via mutual information distance measure,2007,BMC Bioinformatics,109,10.1186/1471-2105-8-111,Israel,Article,Tel Aviv-Yafo,1,Journal,2-s2.0-34247875975
+Deza E.,,Dictionary of Distances,2006,Dictionary of Distances,223,10.1016/B978-0-444-52087-6.X5000-8,,Book,,0,Book,2-s2.0-85013932278
+Di Gesú V.,,GenClust: A genetic algorithm for clustering gene expression data,2005,BMC Bioinformatics,33,10.1186/1471-2105-6-289,Italy,Article,Palermo,1,Journal,2-s2.0-29244458348
+D'Haeseleer P.,,How does gene expression clustering work?,2005,Nature Biotechnology,332,10.1038/nbt1205-1499,United States,Short Survey,Livermore,0,Journal,2-s2.0-28644449917
+Handl J.,,Computational cluster validation in post-genomic data analysis,2005,Bioinformatics,555,10.1093/bioinformatics/bti517,United Kingdom,Review,Manchester,1,Journal,2-s2.0-25144456056
+Cover T.M.,,Elements of Information Theory,2005,Elements of Information Theory,27546,10.1002/047174882X,,Book,,0,Book,2-s2.0-84889281816
+Daub C.,,Estimating mutual information using B-spline functions - An improved similarity measure for analysing gene expression data,2004,BMC Bioinformatics,182,10.1186/1471-2105-5-118,Germany;Sweden,Article,Potsdam;Stockholm,1,Journal,2-s2.0-13244267007
+Costa I.,,Comparative analysis of clustering methods for gene expression time course data,2004,Genetics and Molecular Biology,43,10.1590/S1415-47572004000400025,Brazil,Article,Recife,1,Journal,2-s2.0-11344295027
+Gibbons F.,,Judging the quality of gene expression-based clustering methods using gene annotation,2002,Genome Research,237,10.1101/gr.397002,United States,Article,Boston,1,Journal,2-s2.0-0036798238
+Xu Y.,,Clustering gene expression data using a graph-theoretic approach: An application of minimum spanning trees,2002,Bioinformatics,187,10.1093/bioinformatics/18.4.536,United States,Article,Oak Ridge,1,Journal,2-s2.0-0035999974
+Dudoit S.,,A prediction-based resampling method for estimating the number of clusters in a dataset.,2002,Genome biology,481,,United States,Article,Berkeley,0,Journal,2-s2.0-0037172724
+Yeung K.,,Validating clustering for gene expression data,2001,Bioinformatics,494,10.1093/bioinformatics/17.4.309,United States,Article,Seattle,1,Journal,2-s2.0-0035024021
+Hartuv E.,,An algorithm for clustering cDNA fingerprints,2000,Genomics,73,10.1006/geno.2000.6187,Israel,Article,Tel Aviv-Yafo,0,Journal,2-s2.0-0034659448
+Alizadeh A.A.,,Distinct types of diffuse large B-cell lymphoma identified by gene expression profiling,2000,Nature,7183,10.1038/35000501,United States,Article,Stanford,0,Journal,2-s2.0-0034598746
+Jain A.,,Data clustering: A review,1999,ACM Computing Surveys,8744,10.1145/331499.331504,United States,Conference Paper,East Lansing,0,Journal,2-s2.0-84893405732
+Wen X.,,Large-scale temporal gene expression mapping of central nervous system development,1998,Proceedings of the National Academy of Sciences of the United States of America,508,10.1073/pnas.95.1.334,United States,Article,Bethesda,1,Journal,2-s2.0-0031915896
+Spellman P.,,Comprehensive identification of cell cycle-regulated genes of the yeast Saccharomyces cerevisiae by microarray hybridization,1998,Molecular Biology of the Cell,3724,10.1091/mbc.9.12.3273,United States,Article,Stanford,0,Journal,2-s2.0-0031742022
+Hanley J.,,The meaning and use of the area under a receiver operating characteristic (ROC) curve,1982,Radiology,13664,10.1148/radiology.143.1.7063747,Canada,Article,Montreal,0,Journal,2-s2.0-0020083498
+Metz C.,,Basic principles of ROC analysis,1978,Seminars in Nuclear Medicine,4050,10.1016/S0001-2998(78)80014-2,,Article,,0,Journal,2-s2.0-0018079655

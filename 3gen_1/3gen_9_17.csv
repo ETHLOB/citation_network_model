@@ -1,0 +1,19 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Carmeli C.,,Vector valued reproducing kernel hilbert spaces and universality,2010,Analysis and Applications,55,10.1142/S0219530510001503,Italy;Italy,Article,Genoa;Genoa,0,Journal,2-s2.0-77950188618
+Caponnetto A.,,Universal multi-task Kernels,2008,Journal of Machine Learning Research,81,,Hong Kong,Article,Kowloon,0,Journal,2-s2.0-48849098893
+Rabaoui A.,,Using one-class SVMs and wavelets for audio surveillance,2008,IEEE Transactions on Information Forensics and Security,102,10.1109/TIFS.2008.2008216,Tunisia,Article,Tunis,0,Journal,2-s2.0-56749102529
+Rifkin R.,,Noise robust phonetic classification with linear regularized least squares and second-order features,2007,"ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings",22,10.1109/ICASSP.2007.367211,United States,Conference Paper,Torrance,0,Conference Proceeding,2-s2.0-34547531458
+Reisert M.,,Learning equivariant functions with matrix valued kernels,2007,Journal of Machine Learning Research,17,,Germany,Article,Freiburg im Breisgau,0,Journal,2-s2.0-33947215991
+Lian H.,,Nonlinear functional models for functional responses in reproducing kernel Hilbert spaces,2007,Canadian Journal of Statistics,32,10.1002/cjs.5550350410,Singapore,Article,Singapore City,0,Journal,2-s2.0-40549143409
+Istrate D.,,Information extraction from sound for medical telemonitoring,2006,IEEE Transactions on Information Technology in Biomedicine,92,10.1109/TITB.2005.859889,France,Article,Fontainebleau,0,Journal,2-s2.0-33645712894
+Evgeniou T.,,Learning multiple tasks with kernel methods,2005,Journal of Machine Learning Research,546,,France,Article,Fontainebleau,0,Journal,2-s2.0-21844456299
+Müller H.,,Functional modelling and classification of longitudinal data,2005,Scandinavian Journal of Statistics,124,10.1111/j.1467-9469.2005.00429.x,United States,Review,Davis,0,Journal,2-s2.0-19744371683
+Micchelli C.A.,,Kernels for multi-task learning,2005,Advances in Neural Information Processing Systems,42,,United States,Conference Paper,Albany,0,Conference Proceeding,2-s2.0-84898994209
+Micchelli C.,,On learning vector-valued functions,2005,Neural Computation,265,10.1162/0899766052530802,United States,Article,Albany,0,Journal,2-s2.0-14544299611
+Zhao X.,,The functional data analysis view of longitudinal data,2004,Statistica Sinica,50,,United States,Conference Paper,Ithaca,0,Journal,2-s2.0-8644276476
+Zhang P.,,SVM vs regularized least squares classification,2004,Proceedings - International Conference on Pattern Recognition,53,10.1109/icpr.2004.1334050,United States,Conference Paper,New Orleans,0,Conference Proceeding,2-s2.0-10044277812
+Rifkin R.,,In defense of one-vs-all classification,2004,Journal of Machine Learning Research,1206,,United States,Article,Torrance,0,Journal,2-s2.0-56749117943
+Peltonen V.,,Computational auditory scene recognition,2002,"ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings",149,10.1109/ICASSP.2002.5745009,Finland,Article,Tampere,0,Journal,2-s2.0-2942626613
+Dufaux A.,,Automatic sound detection and recognition for noisy environment,2000,European Signal Processing Conference,49,,Switzerland,Conference Paper,Neuchatel,0,Conference Proceeding,2-s2.0-84937064885
+Schölkopf B.,,Input space versus feature space in kernel-based methods,1999,IEEE Transactions on Neural Networks,939,10.1109/72.788641,United Kingdom,Article,Cambridge,0,Journal,2-s2.0-0032594954
+Aronszajn N.,,Theory of reproducing kernels,1950,Transactions of the American Mathematical Society,3032,10.1090/s0002-9947-1950-0051437-7,United States,Article,Stillwater,1,Journal,2-s2.0-5844297152

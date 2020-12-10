@@ -1,0 +1,32 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Basso K.,,Reverse engineering of regulatory networks in human B cells,2005,Nature Genetics,985,10.1038/ng1532,United States,Article,New York,0,Journal,2-s2.0-16844376909
+De Lichtenberg U.,,Dynamic complex formation during the yeast cell cycle,2005,Science,324,10.1126/science.1105103,Denmark,Article,Lyngby,0,Journal,2-s2.0-13244284551
+Brenner C.,,Myc represses transcription through recruitment of DNA methyltransferase corepressor,2005,EMBO Journal,301,10.1038/sj.emboj.7600509,Belgium,Article,Brussels,0,Journal,2-s2.0-13444270415
+Patel J.,,The c-MYC oncoprotein is a substrate of the acetyltransferases hGCN5/PCAF and TIP60,2004,Molecular and Cellular Biology,228,10.1128/MCB.24.24.10826-10834.2004,United States,Article,Philadelphia,1,Journal,2-s2.0-10044262126
+Luscombe N.M.,,Genomic analysis of regulatory network dynamics reveals large topological changes,2004,Nature,730,10.1038/nature02782,United States,Article,New Haven,0,Journal,2-s2.0-4644326931
+Machida N.,,Mitogen-activated Protein Kinase Kinase Kinase Kinase 4 as a Putative Effector of Rap2 to Activate the c-Jun N-terminal Kinase,2004,Journal of Biological Chemistry,80,10.1074/jbc.C300542200,Japan,Article,Nishihara,1,Journal,2-s2.0-1942533655
+Friedman N.,,Inferring Cellular Networks Using Probabilistic Graphical Models,2004,Science,829,10.1126/science.1094068,Israel,Review,Jerusalem,0,Journal,2-s2.0-0842288337
+Gregory M.,,Phosphorylation by Glycogen Synthase Kinase-3 Controls c-Myc Proteolysis and Subnuclear Localization,2003,Journal of Biological Chemistry,283,10.1074/jbc.M310722200,United States,Article,Nashville,1,Journal,2-s2.0-0347695988
+Stuart J.,,A gene-coexpression network for global discovery of conserved genetic modules,2003,Science,1415,10.1126/science.1087447,United States;United States,Article,Stanford;Santa Cruz,0,Journal,2-s2.0-0141993704
+Gardner T.S.,,Inferring genetic networks and identifying compound mode of action via expression profiling,2003,Science,866,10.1126/science.1081900,United States,Article,Boston,0,Journal,2-s2.0-0038048325
+Segal E.,,Module networks: Identifying regulatory modules and their condition-specific regulators from gene expression data,2003,Nature Genetics,1226,10.1038/ng1165,United States,Article,Palo Alto,0,Journal,2-s2.0-0037941585
+Zeitlinger J.,,Program-specific distribution of a transcription factor dependent on partner transcription factor and MAPK signaling,2003,Cell,182,10.1016/S0092-8674(03)00301-5,United States,Article,Cambridge,1,Journal,2-s2.0-0037722938
+Levens D.,,Reconstructing MYC,2003,Genes and Development,127,10.1101/gad.1095203,United States,Review,Bethesda,1,Journal,2-s2.0-0037630079
+Elkon R.,,Genome-wide in silico identification of transcriptional regulators controlling the cell cycle in human cells,2003,Genome Research,258,10.1101/gr.947203,Israel,Article,Ramal Aviv,1,Journal,2-s2.0-0038444122
+Karolchik D.,,The UCSC Genome Browser Database,2003,Nucleic Acids Research,1107,10.1093/nar/gkg129,United States,Review,Santa Cruz,1,Journal,2-s2.0-0037250168
+Niiro H.,,Regulation of B-cell fate by antigen-receptor signals,2002,Nature Reviews Immunology,454,10.1038/nri955,United States,Review,Seattle,0,Journal,2-s2.0-0036884819
+Pe'er D.,,Minreg: Inferring an active regulator set,2002,Bioinformatics,51,10.1093/bioinformatics/18.suppl_1.S258,Israel,Conference Paper,Jerusalem,1,Journal,2-s2.0-11244318119
+Wingender E.,,The TRANSFAC system on gene expression regulation,2001,Nucleic Acids Research,532,10.1093/nar/29.1.281,Germany,Article,Braunschweig,1,Journal,2-s2.0-0035172256
+Friedman N.,,Using Bayesian networks to analyze expression data,2000,Journal of Computational Biology,2116,10.1089/106652700750050961,Israel,Conference Paper,Jerusalem,0,Journal,2-s2.0-0033707946
+Sears R.,,Multiple Ras-dependent phosphorylation pathways regulate Myc protein stability,2000,Genes and Development,813,10.1101/gad.836800,United States,Article,Durham,1,Journal,2-s2.0-0034306997
+Robertson K.,,"DNMT1 forms a complex with RB, E2F1 and HDAC1 and represses transcription from E2F-responsive promoters",2000,Nature Genetics,752,10.1038/77124,United States;United States,Article,Bethesda;Bethesda,0,Journal,2-s2.0-0033919595
+Ashburner M.,,Gene ontology: Tool for the unification of biology,2000,Nature Genetics,21184,10.1038/75556,,Review,,0,Journal,2-s2.0-0034069495
+Anant S.,,An AU-rich sequence element (UUUN[A/U]U) downstream of the edited C in apolipoprotein B mRNA is a high-affinity binding site for Apobec-1: Binding of Apobec-1 to this motif in the 3' untranslated region of c-myc increases mRNA stability,2000,Molecular and Cellular Biology,76,10.1128/MCB.20.6.1982-1992.2000,United States,Article,St. Louis,1,Journal,2-s2.0-0033998026
+Butte A.,,Mutual information relevance networks: functional genomic clustering using pairwise entropy measurements.,2000,Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing,600,,United States,Article,Boston,0,Journal,2-s2.0-0033655775
+Noguchi K.,,Regulation of c-Myc through phosphorylation at Ser-62 and Ser-71 by c- Jun N-terminal kinase,1999,Journal of Biological Chemistry,141,10.1074/jbc.274.46.32580,Japan,Article,Chuo-ku,1,Journal,2-s2.0-0032703216
+Salghetti S.,,Destruction of Myc by ubiquitin-mediated proteolysis: Cancer-associated and transforming mutations stabilize Myc,1999,EMBO Journal,352,10.1093/emboj/18.3.717,United States,Article,Cold Spring Harbor,0,Journal,2-s2.0-0033081027
+Peukert K.,,An alternative pathway for gene regulation by Myc,1997,EMBO Journal,273,10.1093/emboj/16.18.5672,Germany,Article,Jena,0,Journal,2-s2.0-0030799791
+Mendes P.,,Biochemistry by numbers: Simulation of biochemical pathways with Gepasi 3,1997,Trends in Biochemical Sciences,482,10.1016/S0968-0004(97)01103-1,United Kingdom,Note,Aberystwyth,0,Journal,2-s2.0-0030921160
+Amati B.,,Oncogenic activity of the c-Myc protein requires dimerization with Max,1993,Cell,410,10.1016/0092-8674(93)90663-B,United Kingdom,Article,London,0,Journal,2-s2.0-0027533679
+Bousset K.,,Identification of casein kinase II phosphorylation sites in Max: Effects on DNA-binding kinetics of Max homo- and Myc/Max heterodimers,1993,Oncogene,70,,Germany,Article,Hannover,0,Journal,2-s2.0-0027385033
+Luscher B.,,Myc oncoproteins are phorphorylated by casein kinase II,1989,EMBO Journal,201,10.1002/j.1460-2075.1989.tb03481.x,United States,Article,Seattle,1,Journal,2-s2.0-0024446021

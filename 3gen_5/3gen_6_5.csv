@@ -1,0 +1,55 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Georgakilas G.,,microTSS: Accurate microRNA transcription start site identification reveals a significant number of divergent pri-miRNAs,2014,Nature Communications,30,10.1038/ncomms6700,Greece,Article,Volos,1,Journal,2-s2.0-84923263791
+Hurst L.,,A simple metric of promoter architecture robustly predicts expression breadth of human genes suggesting that most transcription factors are positive regulators,2014,Genome Biology,14,10.1186/s13059-014-0413-3,United Kingdom,Article,Bath,1,Journal,2-s2.0-84956964144
+Hsu S.,,MiRTarBase update 2014: An information resource for experimentally validated miRNA-target interactions,2014,Nucleic Acids Research,534,10.1093/nar/gkt1266,Taiwan,Article,Hsinchu,1,Journal,2-s2.0-84891796290
+Saito T.L.,,The transcription start site landscape of C. elegans,2013,Genome Research,24,10.1101/gr.151571.112,Japan,Article,Tokyo,1,Journal,2-s2.0-84881174172
+Godnic I.,,"Genome-Wide and Species-Wide In Silico Screening for Intragenic MicroRNAs in Human, Mouse and Chicken",2013,PLoS ONE,50,10.1371/journal.pone.0065165,Slovenia,Article,Ljubljana,1,Journal,2-s2.0-84878770837
+Marsico A.,,PROmiRNA: A new miRNA promoter recognition method uncovers the complex regulation of intronic miRNAs,2013,Genome Biology,65,10.1186/gb-2013-14-8-r84,Germany,Article,Berlin,1,Journal,2-s2.0-84918542774
+Flicek P.,,Ensembl 2013,2013,Nucleic Acids Research,743,10.1093/nar/gks1236,United Kingdom;United Kingdom,Article,Cambridge;Hinxton,1,Journal,2-s2.0-84875391572
+Benson D.,,GenBank,2013,Nucleic Acids Research,1461,10.1093/nar/gks1195,United States,Article,Bethesda,1,Journal,2-s2.0-80053651587
+Bhattacharyya M.,,MiRT: A Database of Validated Transcription Start Sites of Human MicroRNAs,2012,"Genomics, Proteomics and Bioinformatics",16,10.1016/j.gpb.2012.08.005,India,Article,Kolkata,1,Journal,2-s2.0-84870330917
+Djebali S.,,Landscape of transcription in human cells,2012,Nature,2708,10.1038/nature11233,Spain,Article,Barcelona,1,Journal,2-s2.0-84865757142
+Dunham I.,,An integrated encyclopedia of DNA elements in the human genome,2012,Nature,8344,10.1038/nature11247,United Kingdom,Article,London,1,Journal,2-s2.0-84865790047
+Ribas J.,,A novel source for miR-21 expression through the alternative polyadenylation of VMP1 gene transcripts,2012,Nucleic Acids Research,59,10.1093/nar/gks308,Spain;United States,Article,Lleida;Baltimore,1,Journal,2-s2.0-84864941600
+Roux J.,,Comparative analysis of human and mouse expression data illuminates tissue-specific evolutionary patterns of miRNAs,2012,Nucleic Acids Research,32,10.1093/nar/gks279,Switzerland;Switzerland,Article,Geneva;Lausanne,1,Journal,2-s2.0-84864449330
+Vrba L.,,Epigenetic regulation of normal human mammary cell type-specific miRNAs,2011,Genome Research,65,10.1101/gr.123935.111,United States;Czech Republic,Article,Tucson;Ceske Budejovice,1,Journal,2-s2.0-83055182019
+Chien C.,,Identifying transcriptional start sites of human microRNAs based on high-throughput sequencing data,2011,Nucleic Acids Research,121,10.1093/nar/gkr604,Taiwan,Article,Hsinchu,1,Journal,2-s2.0-82255185653
+Chen C.,,Mechanisms of deadenylation-dependent decay,2011,Wiley Interdisciplinary Reviews: RNA,150,10.1002/wrna.40,United States,Review,Houston,0,Journal,2-s2.0-84858442444
+Kawaji H.,,Update of the FANTOM web resource: From mammalian transcriptional landscape to its dynamic regulation,2011,Nucleic Acids Research,42,10.1093/nar/gkq1112,Japan,Article,Yokohama,1,Journal,2-s2.0-78651314039
+Kozomara A.,,MiRBase: Integrating microRNA annotation and deep-sequencing data,2011,Nucleic Acids Research,2620,10.1093/nar/gkq1027,United Kingdom,Article,Manchester,1,Journal,2-s2.0-78651293534
+Wang G.,,RNA Polymerase II Binding Patterns Reveal Genomic Regions Involved in MicroRNA Gene Regulation,2010,PLoS ONE,43,10.1371/journal.pone.0013798,United States;China,Article,Indianapolis;Harbin,1,Journal,2-s2.0-78249233850
+Betel D.,,Comprehensive modeling of microRNA targets predicts functional non-conserved and non-canonical sites,2010,Genome Biology,973,10.1186/gb-2010-11-8-r90,United States,Article,New York,1,Journal,2-s2.0-77955963884
+Hermeking H.,,The miR-34 family in cancer and apoptosis,2010,Cell Death and Differentiation,879,10.1038/cdd.2009.56,Germany,Review,Munich,0,Journal,2-s2.0-74249123570
+Pollard K.,,Detection of nonneutral substitution rates on mammalian phylogenies,2010,Genome Research,970,10.1101/gr.097857.109,United States,Article,San Francisco,1,Journal,2-s2.0-74949092081
+Corcoran D.L.,,Features of mammalian microRNA promoters emerge from polymerase II chromatin immunoprecipitation data,2009,PLoS ONE,217,10.1371/journal.pone.0005279,United States;United States,Article,Pittsburgh;Durham,1,Journal,2-s2.0-65449183132
+Kawaji H.,,The FANTOM web resource: From mammalian transcriptional landscape to its dynamic regulation,2009,Genome Biology,57,10.1186/gb-2009-10-4-r40,Japan,Article,Yokohama,1,Journal,2-s2.0-65549128370
+Friedman R.,,Most mammalian mRNAs are conserved targets of microRNAs,2009,Genome Research,5184,10.1101/gr.082701.108,United States;United States,Article,Cambridge;Chevy Chase,1,Journal,2-s2.0-60149095444
+Saini H.,,Annotation of mammalian primary microRNAs,2008,BMC Genomics,98,10.1186/1471-2164-9-564,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-60849112259
+Ozsolak F.,,Chromatin structure analyses identify miRNA promoters,2008,Genes and Development,449,10.1101/gad.1706508,United States;United States,Article,Boston;Boston,1,Journal,2-s2.0-56549129538
+Marson A.,,Connecting microRNA Genes to the Core Transcriptional Regulatory Circuitry of Embryonic Stem Cells,2008,Cell,1121,10.1016/j.cell.2008.07.020,United States;United States,Article,Cambridge;Cambridge,1,Journal,2-s2.0-48449084118
+Wang X.,,Prediction of both conserved and nonconserved microRNA targets in animals,2008,Bioinformatics,425,10.1093/bioinformatics/btm595,United States,Article,St. Louis,1,Journal,2-s2.0-38849145861
+Guenther M.,,A Chromatin Landmark and Transcription Initiation at Most Promoters in Human Cells,2007,Cell,1362,10.1016/j.cell.2007.05.042,United States,Article,Cambridge,1,Journal,2-s2.0-34447098370
+Landgraf P.,,A Mammalian microRNA Expression Atlas Based on Small RNA Library Sequencing,2007,Cell,2644,10.1016/j.cell.2007.04.040,United States,Article,New York,1,Journal,2-s2.0-34250877841
+He L.,,A microRNA component of the p53 tumour suppressor network,2007,Nature,2086,10.1038/nature05939,United States,Article,Chevy Chase,0,Journal,2-s2.0-34250851115
+Liang Y.,,Characterization of microRNA expression profiles in normal human tissues,2007,BMC Genomics,778,10.1186/1471-2164-8-166,United States,Article,Foster City,1,Journal,2-s2.0-34347376692
+Chang T.,,Transactivation of miR-34a by p53 Broadly Influences Gene Expression and Promotes Apoptosis,2007,Molecular Cell,1546,10.1016/j.molcel.2007.05.010,United States,Article,Baltimore,1,Journal,2-s2.0-34249817549
+Mahony S.,,Regulatory conservation of protein coding and microRNA genes in vertebrates: Lessons from the opossum genome,2007,Genome Biology,23,10.1186/gb-2007-8-5-r84,United States,Article,Pittsburgh,1,Journal,2-s2.0-34548816770
+Fukao T.,,An Evolutionarily Conserved Mechanism for MicroRNA-223 Expression Revealed by MicroRNA Gene Profiling,2007,Cell,244,10.1016/j.cell.2007.02.048,Japan,Article,Tokyo,1,Journal,2-s2.0-34247483919
+Yong S.,,The tumor suppressor microRNA let-7 represses the HMGA2 oncogene,2007,Genes and Development,938,10.1101/gad.1540407,United States,Article,Charlottesville,1,Journal,2-s2.0-34247565615
+Chen K.,,The evolution of gene regulation by transcription factors and microRNAs,2007,Nature Reviews Genetics,1048,10.1038/nrg1990,United States,Review,New York,0,Journal,2-s2.0-33846283385
+Borchert G.M.,,RNA polymerase III transcribes human microRNAs,2006,Nature Structural and Molecular Biology,929,10.1038/nsmb1167,United States,Article,Iowa City,0,Journal,2-s2.0-33845370280
+Lee Y.,,Drosha in primary microRNA processing,2006,Cold Spring Harbor Symposia on Quantitative Biology,77,10.1101/sqb.2006.71.041,South Korea,Conference Paper,Seoul,1,Book Series,2-s2.0-34250670789
+Taganov K.,,"NF-κB-dependent induction of microRNA miR-146, an inhibitor targeted to signaling proteins of innate immune responses",2006,Proceedings of the National Academy of Sciences of the United States of America,2970,10.1073/pnas.0605298103,United States,Article,Pasadena,1,Journal,2-s2.0-33747608638
+Houseley J.,,RNA-quality control by the exosome,2006,Nature Reviews Molecular Cell Biology,474,10.1038/nrm1964,United Kingdom,Review,Edinburgh,0,Journal,2-s2.0-33745869788
+Han J.,,Molecular Basis for the Recognition of Primary microRNAs by the Drosha-DGCR8 Complex,2006,Cell,1051,10.1016/j.cell.2006.03.043,South Korea,Article,Seoul,1,Journal,2-s2.0-33744520104
+Kodzius R.,,Cage: Cap analysis of gene expression,2006,Nature Methods,266,10.1038/nmeth0306-211,Australia;Japan;Japan,Article,Adelaide;Yokohama;Saitama,0,Journal,2-s2.0-84988044467
+Kluiver J.,,"BIC and miR-155 are highly expressed in Hodgkin, primary mediastinal and diffuse large B cell lymphomas",2005,Journal of Pathology,537,10.1002/path.1825,Netherlands,Article,Groningen,0,Journal,2-s2.0-26044481464
+Siepel A.,,"Evolutionarily conserved elements in vertebrate, insect, worm, and yeast genomes",2005,Genome Research,2173,10.1101/gr.3715005,United States,Article,Santa Cruz,1,Journal,2-s2.0-23744458086
+Cai X.,,"Human microRNAs are processed from capped, polyadenylated transcripts that can also function as mRNAs",2004,RNA,1242,10.1261/rna.7135204,United States,Article,Durham,1,Journal,2-s2.0-9344235449
+Lee Y.,,MicroRNA genes are transcribed by RNA polymerase II,2004,EMBO Journal,2798,10.1038/sj.emboj.7600385,South Korea,Article,Seoul,0,Journal,2-s2.0-8144225486
+Rodriguez A.,,Identification of mammalian microRNA host genes and transcription units,2004,Genome Research,1363,10.1101/gr.2722704,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-6344281172
+Lee Y.,,The nuclear RNase III Drosha initiates microRNA processing,2003,Nature,3490,10.1038/nature01957,South Korea,Article,Seoul,0,Journal,2-s2.0-0141843656
+Lee Y.,,MicroRNA maturation: Stepwise processing and subcellular localization,2002,EMBO Journal,1490,10.1093/emboj/cdf476,South Korea,Article,Seoul,0,Journal,2-s2.0-0037009364
+Lagos-Quintana M.,,Identification of tissue-specific MicroRNAs from mouse,2002,Current Biology,2471,10.1016/S0960-9822(02)00809-6,Germany,Article,Gottingen,1,Journal,2-s2.0-0037197803
+Mignone F.,,Untranslated regions of mRNAs,2002,Genome Biology,596,,Italy,Review,Milan,0,Journal,2-s2.0-0036207282
+Down T.,,Computational detection and location of transcription start sites in mammalian genomic DNA,2002,Genome Research,207,10.1101/gr.216102,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-0036123111

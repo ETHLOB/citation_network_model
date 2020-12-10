@@ -1,0 +1,11 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Nair V.,,Implicit mixtures of Restricted Boltzmann machines,2009,Advances in Neural Information Processing Systems 21 - Proceedings of the 2008 Conference,60,,Canada,Conference Paper,Toronto,0,Conference Proceeding,2-s2.0-84858768016
+Bengio Y.,,Greedy layer-wise training of deep networks,2007,Advances in Neural Information Processing Systems,2736,,Canada,Conference Paper,Montreal,0,Conference Proceeding,2-s2.0-84864073449
+Ranzato M.,,Unsupervised learning of invariant feature hierarchies with applications to object recognition,2007,Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition,579,10.1109/CVPR.2007.383157,United States,Conference Paper,New York,0,Conference Proceeding,2-s2.0-34948870900
+Lauer F.,,A trainable feature extractor for handwritten digit recognition,2007,Pattern Recognition,191,10.1016/j.patcog.2006.10.011,France,Article,Vandoeouvre-les-Nancy,0,Journal,2-s2.0-33947170570
+Hinton G.,,Reducing the dimensionality of data with neural networks,2006,Science,8836,10.1126/science.1127647,Canada,Article,Toronto,0,Journal,2-s2.0-33746600649
+Steinkraus D.,,Using GPUs for machine learning algorithms,2005,"Proceedings of the International Conference on Document Analysis and Recognition, ICDAR",95,10.1109/ICDAR.2005.251,United States,Conference Paper,Redmond,0,Conference Proceeding,2-s2.0-33947399325
+Simard P.,,Best practices for convolutional neural networks applied to visual document analysis,2003,"Proceedings of the International Conference on Document Analysis and Recognition, ICDAR",1243,10.1109/ICDAR.2003.1227801,United States,Conference Paper,Redmond,0,Conference Proceeding,2-s2.0-84945900998
+Decoste D.,,Training invariant support vector machines,2002,Machine Learning,384,10.1023/A:1012454411458,United States;United States,Article,Pasadena;Pasadena,1,Journal,2-s2.0-0036161034
+LeCun Y.,,Gradient-based learning applied to document recognition,1998,Proceedings of the IEEE,16783,10.1109/5.726791,United States;United States,Article,San Antonio;New York,0,Journal,2-s2.0-0032203257
+Hochreiter S.,,Long Short-Term Memory,1997,Neural Computation,20411,10.1162/neco.1997.9.8.1735,Germany,Article,Munich,0,Journal,2-s2.0-0031573117

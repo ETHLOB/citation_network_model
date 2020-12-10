@@ -1,0 +1,19 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Mistry J.,,Predicting active site residue annotations in the Pfam database,2007,BMC Bioinformatics,83,10.1186/1471-2105-8-298,United Kingdom,Article,London,1,Journal,2-s2.0-35348873256
+Finn R.,,"ProServer: A simple, extensible Perl DAS server",2007,Bioinformatics,27,10.1093/bioinformatics/btl650,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-34547840169
+Bateman A.,,SCOOP: A simple method for identification of novel protein superfamily relationships,2007,Bioinformatics,31,10.1093/bioinformatics/btm034,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-34248590379
+Kulikova T.,,EMBL Nucleotide Sequence Database in 2006,2007,Nucleic Acids Research,110,10.1093/nar/gkl913,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-33846076975
+,,The Universal Protein Resource (UniProt),2007,Nucleic Acids Research,404,10.1093/nar/gkl929,,Article,,1,Journal,2-s2.0-33846041078
+Yooseph S.,,The Sorcerer II global ocean sampling expedition: Expanding the universe of protein families,2007,PLoS Biology,558,10.1371/journal.pbio.0050016,United States,Article,Rockville,1,Journal,2-s2.0-33947235074
+Wheeler D.L.,,Database resources of the National Center for Biotechnology Information,2007,Nucleic Acids Research,629,10.1093/nar/gkl1031,United States,Article,Bethesda,1,Journal,2-s2.0-33846062023
+Rusch D.,,The Sorcerer II Global Ocean Sampling expedition: Northwest Atlantic through eastern tropical Pacific,2007,PLoS Biology,1339,10.1371/journal.pbio.0050077,United States,Article,Rockville,1,Journal,2-s2.0-33947238287
+Finn R.D.,,"Pfam: clans, web tools and services.",2006,Nucleic acids research,1665,10.1093/nar/gkj149,United Kingdom,Article,London,1,Journal,2-s2.0-33644876020
+Schloss P.,,Metagenomics for studying unculturable microorganisms: Cutting the Gordian knot,2005,Genome Biology,239,10.1186/gb-2005-6-8-229,United States,Short Survey,Madison,1,Journal,2-s2.0-23944495106
+Söding J.,,Protein homology detection by HMM-HMM comparison,2005,Bioinformatics,1578,10.1093/bioinformatics/bti125,Germany,Article,Tubingen,1,Journal,2-s2.0-16344373015
+Finn R.,,iPfam: Visualization of protein-protein interactions in PDB at domain and amino acid resolutions,2005,Bioinformatics,247,10.1093/bioinformatics/bti011,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-13844264506
+Bru C.,,The ProDom database of protein domain families: More emphasis on 3D,2005,Nucleic Acids Research,220,10.1093/nar/gki034,France,Article,Castanet-Tolosan,1,Journal,2-s2.0-13444305296
+Käll L.,,A combined transmembrane topology and signal peptide prediction method,2004,Journal of Molecular Biology,1358,10.1016/j.jmb.2004.03.016,Sweden,Article,Stockholm,0,Journal,2-s2.0-2142657817
+Andreeva A.,,SCOP database in 2004: Refinements integrate structure and sequence family data,2004,Nucleic Acids Research,750,,United Kingdom,Article,Cambridge,0,Journal,2-s2.0-0346494941
+Dowell R.,,The distributed annotation system,2001,BMC Bioinformatics,330,10.1186/1471-2105-2-7,United States,Article,St. Louis,1,Journal,2-s2.0-2942547885
+Berman H.M.,,The Protein Data Bank,2000,Nucleic Acids Research,22516,10.1093/nar/28.1.235,United States,Review,New Brunswick,1,Journal,2-s2.0-0033954256
+Sonnhammer E.,,Pfam: A comprehensive database of protein domain families based on seed alignments,1997,"Proteins: Structure, Function and Genetics",842,10.1002/(SICI)1097-0134(199707)28:3<405::AID-PROT10>3.0.CO;2-L,United Kingdom,Article,Hinxton,0,Journal,2-s2.0-0030925920

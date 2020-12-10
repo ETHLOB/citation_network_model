@@ -1,0 +1,11 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Marlin B.,,Inductive principles for restricted Boltzmann machine learning,2010,Journal of Machine Learning Research,76,,Canada,Conference Paper,Vancouver,0,Journal,2-s2.0-80053455323
+Vickrey D.,,Non-local contrastive objectives,2010,"ICML 2010 - Proceedings, 27th International Conference on Machine Learning",13,,United States,Conference Paper,Palo Alto,0,Conference Proceeding,2-s2.0-77956521310
+Lyu S.,,Interpretation and generalization of score matching,2009,"Proceedings of the 25th Conference on Uncertainty in Artificial Intelligence, UAI 2009",21,,United States,Conference Paper,Albany,0,Conference Proceeding,2-s2.0-80053159994
+Liang P.,,"An asymptotic analysis of generative, discriminative, and pseudolikelihood estimators",2008,Proceedings of the 25th International Conference on Machine Learning,71,10.1145/1390156.1390230,United States,Conference Paper,Berkeley,0,Conference Proceeding,2-s2.0-56449098139
+Hyvärinen A.,,Some extensions of score matching,2007,Computational Statistics and Data Analysis,87,10.1016/j.csda.2006.09.003,Finland,Article,Helsinki,0,Journal,2-s2.0-33750982683
+Smith N.,,Contrastive estimation: Training log-linear models on unlabeled data,2005,"ACL-05 - 43rd Annual Meeting of the Association for Computational Linguistics, Proceedings of the Conference",176,,United States,Conference Paper,Baltimore,0,Conference Proceeding,2-s2.0-84859905260
+Welling M.,,Exponential family harmoniums with an application to information retrieval,2005,Advances in Neural Information Processing Systems,180,,United States,Conference Paper,Irvine,0,Conference Proceeding,2-s2.0-84899000641
+Younes L.,,Parametric Inference for imperfectly observed Gibbsian fields,1989,Probability Theory and Related Fields,112,10.1007/BF00341287,France,Article,Saint-Aubin,0,Journal,2-s2.0-0000355193
+Ackley D.,,A learning algorithm for boltzmann machines,1985,Cognitive Science,1704,10.1016/S0364-0213(85)80012-4,United States,Article,Pittsburgh,1,Journal,2-s2.0-0001578518
+Ising E.,,Beitrag zur Theorie des Ferromagnetismus,1925,Zeitschrift für Physik,1916,10.1007/BF02980577,,Article,,0,Journal,2-s2.0-33947716431

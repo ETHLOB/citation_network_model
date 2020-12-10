@@ -1,0 +1,34 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Cover T.M.,,Elements of Information Theory,2005,Elements of Information Theory,27546,10.1002/047174882X,,Book,,0,Book,2-s2.0-84889281816
+Karhunen J.,,A class of neural networks for independent component analysis,1997,IEEE Transactions on Neural Networks,303,10.1109/72.572090,Finland;United States,Article,Espoo;New York,0,Journal,2-s2.0-0031139249
+Lee T.,,Blind separation of delayed and convolved sources,1997,Advances in Neural Information Processing Systems,140,,United States;Germany,Conference Paper,Pittsburgh;Munich,0,Conference Proceeding,2-s2.0-84898994677
+Cardoso J.,,Equivariant adaptive source separation,1996,IEEE Transactions on Signal Processing,993,10.1109/78.553476,France,Article,Palaiseau,0,Journal,2-s2.0-0030417779
+Schmidhuber J.,,Semilinear Predictability Minimization Produces Well-Known Feature Detectors,1996,Neural Computation,28,10.1162/neco.1996.8.4.773,Switzerland,Article,Manno,0,Journal,2-s2.0-0039238512
+Ferster D.,,Orientation selectivity of thalamic input to simple cells of cat visual cortex,1996,Nature,397,10.1038/380249a0,United States,Article,Evanston,0,Journal,2-s2.0-0029933522
+Baddeley R.,,Searching for filters with 'interesting' output distributions: An uninteresting direction to explore?,1996,Network: Computation in Neural Systems,38,10.1088/0954-898X_7_2_021,United Kingdom,Article,Oxford,0,Journal,2-s2.0-0037599835
+Harpur G.,,Development of low entropy coding in a recurrent network,1996,Network: Computation in Neural Systems,58,10.1088/0954-898X_7_2_007,United Kingdom,Article,Cambridge,0,Journal,2-s2.0-0000852458
+Torkkola K.,,Blind separation of delayed sources based on information maximization,1996,"ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings",79,,United States,Conference Paper,Schaumburg,0,Conference Proceeding,2-s2.0-0029725825
+Bell A.J.,,Learning the higher-order structure of a natural sound,1996,Network: Computation in Neural Systems,144,10.1088/0954-898x/7/2/005,United States,Article,San Diego,0,Journal,2-s2.0-0000147501
+Olshausen B.,,Natural image statistics and efficient coding,1996,Network: Computation in Neural Systems,390,10.1088/0954-898X_7_2_014,United States,Article,Ithaca,0,Journal,2-s2.0-26444447071
+Fyfe C.,,Finding compact and sparse-distributed representations of visual images,1995,Network: Computation in Neural Systems,35,10.1088/0954-898X_6_3_002,United Kingdom,Article,Ayr,0,Journal,2-s2.0-0000435426
+Bell A.,,An information-maximization approach to blind separation and blind deconvolution.,1995,Neural computation,6025,10.1162/neco.1995.7.6.1129,United States,Article,Chevy Chase,0,Journal,2-s2.0-0029411030
+Cichocki A.,,Robust learning algorithm for blind separation of signals,1994,Electronics Letters,133,10.1049/el:19940956,Germany,Article,Erlangen,0,Journal,2-s2.0-0028498103
+Law C.,,"Formation of receptive fields in realistic visual environments according to the Bienenstock, Cooper, and Munro (BCM) theory",1994,Proceedings of the National Academy of Sciences of the United States of America,51,10.1073/pnas.91.16.7797,United States,Article,Providence,1,Journal,2-s2.0-0028050061
+Nadal J.P.,,Nonlinear neurons in the low-noise limit: A factorial code maximizes information transfer,1994,Network: Computation in Neural Systems,163,10.1088/0954-898X_5_4_008,France,Article,Paris,0,Journal,2-s2.0-0000772267
+Ruderman D.,,The statistics of natural images,1994,Network: Computation in Neural Systems,610,10.1088/0954-898X_5_4_006,United Kingdom,Article,Cambridge,0,Journal,2-s2.0-3042609133
+Comon P.,,"Independent component analysis, A new concept?",1994,Signal Processing,5727,10.1016/0165-1684(94)90029-9,France,Article,Valbonne,0,Journal,2-s2.0-0028416938
+van Hateren J.,,A theory of maximizing sensory information,1992,Biological Cybernetics,158,10.1007/BF00203134,Netherlands,Article,Groningen,0,Journal,2-s2.0-0027015278
+Hancock P.,,The principal components of natural images,1992,Network: Computation in Neural Systems,166,10.1088/0954-898X_3_1_008,United Kingdom,Article,Stirling,0,Journal,2-s2.0-36149034635
+Atick J.,,Could information theory provide an ecological theory of sensory processing?,1992,Network: Computation in Neural Systems,509,10.1088/0954-898X_3_2_009,United States,Review,Princeton,0,Journal,2-s2.0-34548281969
+Oja E.,,"Principal components, minor components, and linear neural networks",1992,Neural Networks,586,10.1016/S0893-6080(05)80089-9,Finland,Article,Lappeenranta,0,Journal,2-s2.0-0026954958
+Jutten C.,,"Blind separation of sources, part I: An adaptive algorithm based on neuromimetic architecture",1991,Signal Processing,1780,10.1016/0165-1684(91)90079-X,France,Article,Grenoble,0,Journal,2-s2.0-0026191274
+Földiák P.,,Forming sparse representations by local anti-Hebbian learning,1990,Biological Cybernetics,327,10.1007/BF02331346,United Kingdom,Article,Cambridge,0,Journal,2-s2.0-0025604930
+Sanger T.,,Optimal unsupervised learning in a single-layer linear feedforward neural network,1989,Neural Networks,963,10.1016/0893-6080(89)90044-0,United States,Article,Cambridge,0,Journal,2-s2.0-0024883243
+Linsker R.,,Self-Organization in a Perceptual Network,1988,Computer,716,10.1109/2.36,United States,Article,Yorktown Heights,0,Trade Journal,2-s2.0-0023981750
+Daugman J.,,"Uncertainty relation for resolution in space, spatial frequency, and orientation optimized by two-dimensional visual cortical filters",1985,"Journal of the Optical Society of America A: Optics and Image Science, and Vision",2366,10.1364/JOSAA.2.001160,United States,Article,Cambridge,0,Journal,2-s2.0-0022098435
+Bienenstock E.L.,,Theory for the development of neuron selectivity: Orientation specificity and binocular interaction in visual cortex,1982,Journal of Neuroscience,1779,10.1523/jneurosci.02-01-00032.1982,United States,Article,Providence,1,Journal,2-s2.0-0020074887
+Laughlin S.,,A simple coding procedure enhances a neuron’s information capacity,1981,Zeitschrift fur Naturforschung - Section C Journal of Biosciences,547,10.1515/znc-1981-9-1040,Australia,Note,Canberra,1,Journal,2-s2.0-0019620028
+Marr D.,,Theory of edge detection,1980,Proceedings of the Royal Society of London - Biological Sciences,4256,10.1098/rspb.1980.0020,United States,Article,Cambridge,0,Journal,2-s2.0-0018828706
+Hubel D.,,"Uniformity of monkey striate cortex: A parallel relationship between field size, scatter, and magnification factor",1974,Journal of Comparative Neurology,583,10.1002/cne.901580305,United States,Article,Boston,0,Journal,2-s2.0-0016278311
+Hubel D.,,Receptive fields and functional architecture of monkey striate cortex,1968,The Journal of Physiology,3882,10.1113/jphysiol.1968.sp008455,,Article,,1,Journal,2-s2.0-0014266913
+Goodall M.C.,,Performance of a stochastic net,1960,Nature,16,10.1038/185557a0,United States,Article,Ithaca,0,Journal,2-s2.0-0040920986

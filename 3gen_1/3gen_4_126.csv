@@ -1,0 +1,15 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Eriksson L.,,"Orthogonal signal correction, wavelet analysis, and multivariate calibration of complicated process fluorescence data",2000,Analytica Chimica Acta,80,10.1016/S0003-2670(00)00890-4,Sweden,Article,Umea,0,Journal,2-s2.0-0034648795
+Fearn T.,,On orthogonal signal correction,2000,Chemometrics and Intelligent Laboratory Systems,278,10.1016/S0169-7439(99)00045-3,United Kingdom,Article,London,0,Journal,2-s2.0-0033982350
+Geladi P.,,Calibration transfer for predicting lake-water pH from near infrared spectra of lake sediments,1999,Journal of Near Infrared Spectroscopy,45,10.1255/jnirs.256,Sweden,Article,Umea,0,Journal,2-s2.0-0347420263
+Sjöblom J.,,An evaluation of orthogonal signal correction applied to calibration transfer of near infrared spectra,1998,Chemometrics and Intelligent Laboratory Systems,243,10.1016/S0169-7439(98)00112-9,Sweden,Conference Paper,Sodertalje,0,Journal,2-s2.0-0141812475
+Wold S.,,Orthogonal signal correction of near-infrared spectra,1998,Chemometrics and Intelligent Laboratory Systems,889,10.1016/S0169-7439(98)00109-9,Sweden,Conference Paper,Umea,0,Journal,2-s2.0-0032517819
+Trygg J.,,PLS regression on wavelet compressed NIR spectra,1998,Chemometrics and Intelligent Laboratory Systems,168,10.1016/S0169-7439(98)00013-6,Sweden,Article,Umea,0,Journal,2-s2.0-0032563614
+Sun J.,,Statistical analysis of NIR data: Data pretreatment,1997,Journal of Chemometrics,49,10.1002/(SICI)1099-128X(199711/12)11:6<525::AID-CEM489>3.0.CO;2-G,United States,Article,Columbia,0,Journal,2-s2.0-0000209316
+Christie O.,,Data laundering by target rotation in chemistry-based oil exploration,1996,Journal of Chemometrics,12,10.1002/(SICI)1099-128X(199609)10:5/6<453::AID-CEM444>3.0.CO;2-P,Norway,Article,Stavanger,0,Journal,2-s2.0-0000641213
+Rännar S.,,"A PLS kernel algorithm for data sets with many variables and few objects. Part II: Cross‐validation, missing data and examples",1995,Journal of Chemometrics,41,10.1002/cem.1180090604,Sweden,Article,Umea,0,Journal,2-s2.0-84984344482
+Kvalheim O.,,Interpretation of latent-variable regression models,1989,Chemometrics and Intelligent Laboratory Systems,129,10.1016/0169-7439(89)80110-8,Norway,Review,Bergen,0,Journal,2-s2.0-0024798227
+Barnes R.,,Standard normal variate transformation and de-trending of near-infrared diffuse reflectance spectra,Jul,Applied Spectroscopy,2232,10.1366/0003702894202201,United Kingdom,Article,Aberystwyth,0,Journal,2-s2.0-0024701578
+Geladi P.,,LINEARIZATION AND SCATTER-CORRECTION FOR NEAR-INFRARED REFLECTANCE SPECTRA OF MEAT.,May-Jun,Applied Spectroscopy,1011,10.1366/0003702854248656,Sweden,Article,Umea,0,Journal,2-s2.0-0022059848
+Wold S.,,Cross-Validatory Estimation of the Number of Components in Factor and Principal Components Models,1978,Technometrics,2139,10.1080/00401706.1978.10489693,Sweden,Article,Umea,0,Journal,2-s2.0-84951601886
+Savitzky A.,,Smoothing and Differentiation of Data by Simplified Least Squares Procedures,1964,Analytical Chemistry,11968,10.1021/ac60214a047,United States,Article,Waltham,0,Journal,2-s2.0-0042553279

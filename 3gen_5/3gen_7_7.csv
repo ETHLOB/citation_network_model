@@ -1,0 +1,39 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Vierstra J.,,Coupling transcription factor occupancy to nucleosome architecture with DNase-FLASH,Jan-2014,Nature Methods,43,10.1038/nmeth.2713,United States,Article,Seattle,0,Journal,2-s2.0-84894651254
+Sung M.,,DNase footprint signatures are dictated by factor dynamics and DNA sequence,2014,Molecular Cell,88,10.1016/j.molcel.2014.08.016,United States,Article,Bethesda,1,Journal,2-s2.0-84922589001
+Villar D.,,Evolution of transcription factor binding in metazoans-mechanisms and functional implications,2014,Nature Reviews Genetics,117,10.1038/nrg3481,United Kingdom,Review,Cambridge,0,Journal,2-s2.0-84899453734
+He H.H.,,Refined DNase-seq protocol and data analysis reveals intrinsic bias in transcription factor footprint identification,Jan-2014,Nature Methods,125,10.1038/nmeth.2762,United States;Canada;United States;Canada;United States,Article,Boston;Toronto;Boston;Toronto;Boston,0,Journal,2-s2.0-84894613651
+Sullivan A.,,Mapping and dynamics of regulatory DNA and transcription factor networks in A. thaliana,2014,Cell Reports,129,10.1016/j.celrep.2014.08.019,United States,Article,Seattle,1,Journal,2-s2.0-84907381991
+Lazarovici A.,,Probing DNA shape and methylation state on a genomic scale with DNase i,2013,Proceedings of the National Academy of Sciences of the United States of America,88,10.1073/pnas.1216822110,United States,Article,New York,1,Journal,2-s2.0-84876245094
+Piper J.,,Wellington: A novel method for the accurate identification of digital genomic footprints from DNase-seq data,2013,Nucleic Acids Research,99,10.1093/nar/gkt850,United Kingdom;United Kingdom,Article,Coventry;Birmingham,1,Journal,2-s2.0-84890079901
+Stergachis A.,,Exonic transcription factor binding directs codon choice and affects protein evolution,2013,Science,159,10.1126/science.1243490,United States,Article,Seattle,0,Journal,2-s2.0-84890072854
+Samstein R.M.,,Foxp3 exploits a pre-existent enhancer landscape for regulatory T cell lineage specification,2012,Cell,267,10.1016/j.cell.2012.06.053,United States,Article,New York,1,Journal,2-s2.0-84866975037
+Neph S.,,Circuitry and dynamics of human transcription factor regulatory networks,2012,Cell,260,10.1016/j.cell.2012.04.040,United States,Article,Seattle,1,Journal,2-s2.0-84866361701
+Neph S.,,An expansive human regulatory lexicon encoded in transcription factor footprints,2012,Nature,490,10.1038/nature11212,United States,Article,Seattle,1,Journal,2-s2.0-84865708757
+Thurman R.E.,,The accessible chromatin landscape of the human genome,2012,Nature,1445,10.1038/nature11232,United States,Article,Seattle,1,Journal,2-s2.0-84865755978
+Vernot B.,,Personal and population genomics of human regulatory variation,2012,Genome Research,73,10.1101/gr.134890.111,United States,Article,Seattle,1,Journal,2-s2.0-84864627693
+Neph S.,,BEDOPS: High-performance genomic feature operations,2012,Bioinformatics,285,10.1093/bioinformatics/bts277,United States,Article,Seattle,1,Journal,2-s2.0-84864147180
+Mercer T.R.,,The human mitochondrial transcriptome,2011,Cell,407,10.1016/j.cell.2011.06.051,Australia,Article,Brisbane,1,Journal,2-s2.0-80052007901
+John S.,,Chromatin accessibility pre-determines glucocorticoid receptor binding patterns,2011,Nature Genetics,590,10.1038/ng.759,United States,Review,Bethesda,0,Journal,2-s2.0-79952184341
+Manichaikul A.,,Robust relationship inference in genome-wide association studies,2010,Bioinformatics,618,10.1093/bioinformatics/btq559,United States;United States,Article,Charlottesville;Charlottesville,1,Journal,2-s2.0-78149265272
+Schmidt D.,,Five-vertebrate ChlP-seq reveals the evolutionary dynamics of transcription factor binding,2010,Science,479,10.1126/science.1186176,United Kingdom;United Kingdom,Article,Cambridge;London,0,Journal,2-s2.0-77953062527
+Drmanac R.,,Human genome sequencing using unchained base reads on self-assembling DNA nanoarrays,2010,Science,779,10.1126/science.1181498,United States,Article,Mountain View,0,Journal,2-s2.0-74949138753
+Bailey T.L.,,MEME Suite: Tools for motif discovery and searching,2009,Nucleic Acids Research,3667,10.1093/nar/gkp335,Australia,Article,Brisbane,1,Journal,2-s2.0-67849122320
+Pruitt K.D.,,The consensus coding sequence (CCDS) project: Identifying a common protein-coding gene set for the human and mouse genomes,2009,Genome Research,364,10.1101/gr.080531.108,United States,Article,Bethesda,1,Journal,2-s2.0-67650064594
+Hesselberth J.,,Global mapping of protein-DNA interactions in vivo by digital genomic footprinting,2009,Nature Methods,387,10.1038/nmeth.1313,United States,Article,Seattle,0,Journal,2-s2.0-63849308888
+Newburger D.,,UniPROBE: An online database of protein binding microarray data on protein-DNA interactions,2009,Nucleic Acids Research,254,10.1093/nar/gkn660,United States,Article,Boston,1,Journal,2-s2.0-58149200952
+Bryne J.,,"JASPAR, the open access database of transcription factor-binding profiles: New content and tools in the 2008 update",2008,Nucleic Acids Research,516,10.1093/nar/gkm955,Norway,Article,Bergen,1,Journal,2-s2.0-38549096565
+Gupta S.,,Quantifying similarity between motifs,2007,Genome Biology,739,10.1186/gb-2007-8-2-r24,United States,Article,Seattle,1,Journal,2-s2.0-34447506667
+Fisher S.,,Conservation of RET regulatory function from human to zebrafish without sequence similarity,2006,Science,250,10.1126/science.1124070,United States,Article,Baltimore,0,Journal,2-s2.0-33645833857
+Wittkopp P.,,Evolutionary changes in cis and trans gene regulation,2004,Nature,500,10.1038/nature02698,United States,Article,Ithaca,0,Journal,2-s2.0-3042722019
+Milo R.,,Superfamilies of Evolved and Designed Networks,2004,Science,916,10.1126/science.1089167,Israel,Article,Rehovot,0,Journal,2-s2.0-1542287343
+Pavlidis P.,,Matrix2png: A utility for visualizing matrix data,2003,Bioinformatics,269,10.1093/bioinformatics/19.2.295,United States,Article,New York,1,Journal,2-s2.0-0037314097
+Waterston R.H.,,Initial sequencing and comparative analysis of the mouse genome,2002,Nature,4851,10.1038/nature01262,United States,Article,St. Louis,1,Journal,2-s2.0-1542563409
+Looman C.,,KRAB zinc finger proteins: An analysis of the molecular mechanisms governing their increase in numbers and complexity during evolution,2002,Molecular Biology and Evolution,96,10.1093/oxfordjournals.molbev.a004037,Sweden,Article,Uppsala,1,Journal,2-s2.0-0036899102
+Milo R.,,Network motifs: Simple building blocks of complex networks,2002,Science,4261,10.1126/science.298.5594.824,Israel,Article,Rehovot,0,Journal,2-s2.0-0037174670
+Ludwig M.,,Evidence for stabilizing selection in a eukaryotic enhancer element,2000,Nature,417,10.1038/35000615,United States,Article,Chicago,0,Journal,2-s2.0-0034598832
+Wingender E.,,TRANSFAC: A database on transcription factors and their DNA binding sites,1996,Nucleic Acids Research,762,10.1093/nar/24.1.238,Germany,Short Survey,Braunschweig,1,Journal,2-s2.0-0029960055
+A.stamatoyannopoulos J.,,NF-E2 and GATA binding motifs are required for the formation of DNase I hypersensitive site 4 of the human β-globin locus control region,1995,EMBO Journal,124,10.1002/j.1460-2075.1995.tb06980.x,United States,Article,Hanover,0,Journal,2-s2.0-0028853170
+Galas D.,,DNAase footprinting a simple method for the detection of protein-DNA binding specificity,1978,Nucleic Acids Research,1288,10.1093/nar/5.9.3157,Switzerland,Article,Geneva,0,Journal,2-s2.0-0018199224
+King M.,,Evolution at two levels in humans and chimpanzees,1975,Science,1731,10.1126/science.1090005,United States;United States,Article,Berkeley;San Francisco,0,Journal,2-s2.0-0016669094
+Ward J.,,Hierarchical Grouping to Optimize an Objective Function,1963,Journal of the American Statistical Association,10627,10.1080/01621459.1963.10500845,United States,Article,San Antonio,0,Journal,2-s2.0-84944178665

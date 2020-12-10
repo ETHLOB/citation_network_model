@@ -1,0 +1,6 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Güting R.,,Optimal divide-and-conquer to compute measure and contour for a set of iso-rectangles,1984,Acta Informatica,18,10.1007/BF00264251,Germany,Article,Dortmund,0,Journal,2-s2.0-0021511522
+Hartmut Güting R.,,An optimal contour algorithm for iso-oriented rectangles,1984,Journal of Algorithms,22,10.1016/0196-6774(84)90013-0,Germany;Canada,Article,Dortmund;Hamilton,0,Journal,2-s2.0-25944447586
+Nicholl T.,,On the X-Y convex hull of a set of X-Y polygons,1983,BIT,31,10.1007/BF01933620,United States,Article,Evanston,0,Journal,2-s2.0-0021000355
+Lipski W.,,Finding the contour of a union of iso-oriented rectangies,1980,Journal of Algorithms,29,10.1016/0196-6774(80)90011-5,United States,Article,Urbana,0,Journal,2-s2.0-85012665006
+Bentley J.,,An Optimal Worst Case Algorithm for Reporting Intersections of Rectangles,1980,IEEE Transactions on Computers,152,10.1109/TC.1980.1675628,United States,Article,Pittsburgh,0,Journal,2-s2.0-0019035230

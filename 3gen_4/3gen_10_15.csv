@@ -1,0 +1,18 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Mnih V.,,Human-level control through deep reinforcement learning,2015,Nature,5669,10.1038/nature14236,United Kingdom,Article,London,0,Journal,2-s2.0-84924051598
+Schmidhuber J.,,Deep Learning in neural networks: An overview,2015,Neural Networks,5761,10.1016/j.neunet.2014.09.003,Switzerland,Review,Lugano,0,Journal,2-s2.0-84910651844
+Wehbe L.,,Simultaneously uncovering the patterns of brain regions involved in different story reading Subprocesses,2014,PLoS ONE,70,10.1371/journal.pone.0112575,United States,Article,Pittsburgh,1,Journal,2-s2.0-84913580275
+Kleiner A.,,A scalable bootstrap for massive data,2014,Journal of the Royal Statistical Society. Series B: Statistical Methodology,134,10.1111/rssb.12050,United States,Article,Berkeley,0,Journal,2-s2.0-84905910853
+Berthet Q.,,Optimal detection of sparse principal components in high dimension,2013,Annals of Statistics,91,10.1214/13-AOS1127,United States,Article,Princeton,1,Journal,2-s2.0-84885061765
+Chandrasekaran V.,,Computational and statistical tradeoffs via convex relaxation,2013,Proceedings of the National Academy of Sciences of the United States of America,97,10.1073/pnas.1302293110,United States,Article,Pasadena,1,Journal,2-s2.0-84875499797
+Blei D.,,Probabilistic topic models,2012,Communications of the ACM,2034,10.1145/2133806.2133826,United States,Conference Paper,Princeton,0,Journal,2-s2.0-84861170800
+Hinton G.,,Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups,2012,IEEE Signal Processing Magazine,5190,10.1109/MSP.2012.2205597,Canada,Article,Toronto,0,Journal,2-s2.0-85032751458
+Mahoney M.,,Randomized algorithms for matrices and data,2010,Foundations and Trends in Machine Learning,304,10.1561/2200000035,United States,Review,Palo Alto,0,Journal,2-s2.0-84856463292
+Boyd S.,,Distributed optimization and statistical learning via the alternating direction method of multipliers,2010,Foundations and Trends in Machine Learning,8288,10.1561/2200000016,United States,Review,Palo Alto,0,Journal,2-s2.0-80051762104
+Bengio Y.,,Learning deep architectures for AI,2009,Foundations and Trends in Machine Learning,4742,10.1561/2200000006,Canada,Article,Montreal,0,Journal,2-s2.0-69349090197
+Taylor M.E.,,Transfer learning for reinforcement learning domains: A survey,2009,Journal of Machine Learning Research,658,,United States,Article,Los Angeles,0,Journal,2-s2.0-68949157375
+Hinton G.,,Reducing the dimensionality of data with neural networks,2006,Science,8883,10.1126/science.1127647,Canada,Article,Toronto,0,Journal,2-s2.0-33746600649
+Dwork C.,,Calibrating noise to sensitivity in private data analysis,2006,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),1981,10.1007/11681878_14,United States,Conference Paper,Redmond,1,Book Series,2-s2.0-33745556605
+Decatur S.,,Computational sample complexity,2000,SIAM Journal on Computing,18,10.1137/S0097539797325648,United States,Article,New Brunswick,0,Journal,2-s2.0-0033296083
+Schultz W.,,A neural substrate of prediction and reward,1997,Science,5016,10.1126/science.275.5306.1593,Switzerland,Article,Fribourg,0,Journal,2-s2.0-0030896968
+Valiant L.,,A theory of the learnable,1984,Communications of the ACM,2671,10.1145/1968.1972,United States,Article,Cambridge,0,Journal,2-s2.0-0021518106

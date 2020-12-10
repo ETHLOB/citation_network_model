@@ -1,0 +1,18 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Al-Shahrour F.,,Ontologies and Functional Genomics,2005,Data Analysis and Visualization in Genomics and Proteomics,13,10.1002/0470094419.ch7,Spain,Chapter,Madrid,0,Book,2-s2.0-84889826091
+Díaz-Uriarte R.,,Supervised Methods with Genomic Data: A Review and Cautionary View,2005,Data Analysis and Visualization in Genomics and Proteomics,20,10.1002/0470094419.ch12,Spain,Chapter,Madrid,0,Book,2-s2.0-84889794570
+Herrero J.,,New challenges in gene expression data analysis and the extended GEPAS,2004,Nucleic Acids Research,43,10.1093/nar/gkh421,Spain,Article,Madrid,1,Journal,2-s2.0-3242882895
+Lee H.,,Coexpresion analysis of human genes across many microarray data sets,2004,Genome Research,546,10.1101/gr.1910904,United States,Article,New York,1,Journal,2-s2.0-3042514191
+Birney E.,,An overview of Ensembl,2004,Genome Research,300,10.1101/gr.1860604,United Kingdom,Review,London,1,Journal,2-s2.0-2442706422
+Al-Shahrour F.,,FatiGO: A web tool for finding significant associations of Gene Ontology terms with groups of genes,2004,Bioinformatics,825,10.1093/bioinformatics/btg455,Spain,Article,Madrid,1,Journal,2-s2.0-1542399989
+Kanehisa M.,,The KEGG resource for deciphering the genome,2004,Nucleic Acids Research,2705,,Japan,Article,Kyoto,0,Journal,2-s2.0-0345863935
+Ge H.,,Integrating 'omic' information: A bridge between genomics and systems biology,2003,Trends in Genetics,345,10.1016/j.tig.2003.08.009,United States,Review,Boston,0,Journal,2-s2.0-0141561891
+Herrero J.,,GEPAS: A web-based resource for microarray gene expression data analysis,2003,Nucleic Acids Research,158,10.1093/nar/gkg591,Spain,Article,Madrid,1,Journal,2-s2.0-0042121252
+Kel A.,,MATCH™: A tool for searching transcription factor binding sites in DNA sequences,2003,Nucleic Acids Research,822,10.1093/nar/gkg585,Germany;Russian Federation,Article,Wolfenbuttel;Novosibirsk,1,Journal,2-s2.0-0041853625
+Mootha V.K.,,PGC-1α-responsive genes involved in oxidative phosphorylation are coordinately downregulated in human diabetes,2003,Nature Genetics,4404,10.1038/ng1180,United States;United States;United States,Article,Cambridge;Boston;Boston,0,Journal,2-s2.0-0038054341
+Mulder N.,,"The InterPro database, 2003 brings increased coverage and new features",2003,Nucleic Acids Research,576,10.1093/nar/gkg046,United Kingdom,Review,Cambridge,1,Journal,2-s2.0-0037251964
+Holloway A.J.,,Options available - From start to finish - For obtaining data from DNA microarrays II,2002,Nature Genetics,210,10.1038/ng1030,Australia,Review,Melbourne,0,Journal,2-s2.0-0036900267
+Macbeath G.,,Protein microarrays and proteomics,2002,Nature Genetics,714,10.1038/ng1037,United States,Review,Cambridge,0,Journal,2-s2.0-0036898579
+Benjamini Y.,,The control of the false discovery rate in multiple testing under dependency,2001,Annals of Statistics,5341,10.1214/aos/1013699998,Israel,Article,Tel Aviv-Yafo,1,Journal,2-s2.0-0035733108
+Ashburner M.,,Gene ontology: Tool for the unification of biology,2000,Nature Genetics,21253,10.1038/75556,,Review,,0,Journal,2-s2.0-0034069495
+Wingender E.,,TRANSFAC: An integrated system for gene expression regulation,2000,Nucleic Acids Research,989,10.1093/nar/28.1.316,Germany,Short Survey,Braunschweig,1,Journal,2-s2.0-0033976586

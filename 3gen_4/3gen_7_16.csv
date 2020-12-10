@@ -1,0 +1,24 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Geisberger R.,,Better approximation of betweenness centrality,2008,Proceedings of the 10th Workshop on Algorithm Engineering and Experiments and the 5th Workshop on Analytic Algorithmics and Combinatorics,126,10.1137/1.9781611972887.9,Germany,Conference Paper,Karlsruhe,1,Conference Proceeding,2-s2.0-58349114641
+Puzis R.,,Fast algorithm for successive computation of group betweenness centrality,2007,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",46,10.1103/PhysRevE.76.056709,Israel,Article,Beer Sheba,0,Journal,2-s2.0-36749033067
+Brandes U.,,Centrality estimation in large networks,2007,International Journal of Bifurcation and Chaos,192,10.1142/S0218127407018403,Germany,Article,Konstanz,0,Journal,2-s2.0-34548506301
+Borgatti S.,,A Graph-theoretic perspective on centrality,2006,Social Networks,749,10.1016/j.socnet.2005.11.005,United States,Article,Chestnut Hill,0,Journal,2-s2.0-33746192198
+Perer A.,,Balancing systematic and flexible exploration of social networks,2006,IEEE Transactions on Visualization and Computer Graphics,145,10.1109/TVCG.2006.122,United States,Conference Paper,College Park,0,Journal,2-s2.0-33845675644
+Lämmer S.,,Scaling laws in the spatial structure of urban road networks,2006,Physica A: Statistical Mechanics and its Applications,220,10.1016/j.physa.2006.01.051,Germany,Article,Dresden,0,Journal,2-s2.0-33645150613
+Newman M.E.J.,,"Erratum: Scientific collaboration networks. II. Shortest paths, weighted networks, and centrality (Physical Review e (2001) 64 (016132))",2006,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",8,10.1103/PhysRevE.73.039906,,Erratum,,0,Journal,2-s2.0-33645210690
+Brandes U.,,Centrality measures based on current flow,2005,Lecture Notes in Computer Science,153,10.1007/978-3-540-31856-9_44,Germany,Conference Paper,Konstanz,0,Conference Proceeding,2-s2.0-24144445591
+Everett M.,,Ego network betweenness,2005,Social Networks,346,10.1016/j.socnet.2004.11.007,United Kingdom,Article,London,0,Journal,2-s2.0-13944256675
+Newman M.,,A measure of betweenness centrality based on random walks,2005,Social Networks,1184,10.1016/j.socnet.2004.11.009,United States,Article,Ann Arbor,0,Journal,2-s2.0-13944252976
+Borgatti S.P.,,Centrality and network flow,2005,Social Networks,1620,10.1016/j.socnet.2004.11.008,United States,Article,Chestnut Hill,0,Journal,2-s2.0-13944249973
+Newman M.E.J.,,Analysis of weighted networks,2004,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",1213,10.1103/PhysRevE.70.056131,United States;United States,Article,Santa Fe;Ann Arbor,0,Journal,2-s2.0-41349096036
+De P.,,Sexual network analysis of a gonorrhoea outbreak,2004,Sexually Transmitted Infections,100,10.1136/sti.2003.007187,Canada;Canada,Article,Ottawa;Montreal,1,Journal,2-s2.0-4043109116
+Newman M.E.J.,,Finding and evaluating community structure in networks,2004,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",7694,10.1103/PhysRevE.69.026113,United States;United States,Article,Santa Fe;Ann Arbor,0,Journal,2-s2.0-37649028224
+Goh K.I.,,Universal behavior of load distribution in scale-free networks,2001,Physical Review Letters,825,,South Korea,Article,Seoul,0,Journal,2-s2.0-0035981014
+Newman M.E.J.,,"Scientific collaboration networks. II. Shortest paths, weighted networks, and centrality",2001,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",1500,,United States,Article,Santa Fe,0,Journal,2-s2.0-0042635247
+Brandes U.,,A faster algorithm for betweenness centrality,2001,Journal of Mathematical Sociology,2222,10.1080/0022250X.2001.9990249,Germany,Article,Konstanz,0,Journal,2-s2.0-0035648637
+Everett M.G.,,The centrality of groups and classes,1999,Journal of Mathematical Sociology,317,10.1080/0022250X.1999.9990219,United Kingdom,Article,London,0,Journal,2-s2.0-0033245711
+White D.,,Betweenness centrality measures for directed graphs,1994,Social Networks,125,10.1016/0378-8733(94)90015-9,United States,Article,Irvine,0,Journal,2-s2.0-0013034762
+Freeman L.,,Centrality in valued graphs: A measure of betweenness based on network flow,1991,Social Networks,595,10.1016/0378-8733(91)90017-N,United States,Article,Irvine,0,Journal,2-s2.0-0001492480
+Gould R.,,Measures of betweenness in non-symmetric networks,1987,Social Networks,26,10.1016/0378-8733(87)90023-2,United States,Article,Tucson,0,Journal,2-s2.0-0012939899
+Freeman L.,,Centrality in social networks conceptual clarification,1978/1979,Social Networks,8420,10.1016/0378-8733(78)90021-7,United States,Article,Bethlehem,0,Journal,2-s2.0-33750177351
+Shimbel A.,,Structural parameters of communication networks,1953,The Bulletin of Mathematical Biophysics,231,10.1007/BF02476438,United States,Article,Chicago,0,Journal,2-s2.0-51249195602

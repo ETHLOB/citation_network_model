@@ -1,0 +1,13 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Rainer J.,,CARMAweb: Comprehensive R- and bioconductor-based web service for microarray data analysis,2006,Nucleic Acids Research,167,10.1093/nar/gkl038,Austria;Austria,Article,Graz;Innsbruck,1,Journal,2-s2.0-33747839466
+Xia X.,,WebArray: An online platform for microarray data analysis,2005,BMC Bioinformatics,61,10.1186/1471-2105-6-306,United States,Article,San Diego,1,Journal,2-s2.0-30044444274
+Argraves G.,,ArrayQuest: A web resource for the analysis of DNA microarray data,2005,BMC Bioinformatics,17,10.1186/1471-2105-6-287,United States,Article,Newtown,1,Journal,2-s2.0-29144448060
+Romualdi C.,,MIDAW: A web tool for statistical analysis of microarray data,2005,Nucleic Acids Research,41,10.1093/nar/gki497,Italy,Article,Padua,1,Journal,2-s2.0-23144442350
+Psarros M.,,RACE: Remote Analysis Computation for gene Expression data,2005,Nucleic Acids Research,45,10.1093/nar/gki490,Switzerland,Article,Lausanne,1,Journal,2-s2.0-23144446164
+Hokamp K.,,ArrayPipe: A flexible processing pipeline for microarray data,2004,Nucleic Acids Research,61,10.1093/nar/gkh446,Canada,Article,Burnaby,1,Journal,2-s2.0-3242890299
+Kapushesky M.,,Expression profiler: Next generation - An online platform for analysis of microarray data,2004,Nucleic Acids Research,96,10.1093/nar/gkh470,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-3242885824
+Gentleman R.,,Bioconductor: open software development for computational biology and bioinformatics.,2004,Genome biology,8443,,United States,Article,Boston,0,Journal,2-s2.0-28744458859
+Knudsen S.,,GenePublisher: Automated analysis of DNA microarray data,2003,Nucleic Acids Research,28,10.1093/nar/gkg629,Denmark,Article,Lyngby,1,Journal,2-s2.0-0042121251
+Luscombe N.M.,,Express yourself: A modular platform for processing and visualizing microarray data,2003,Nucleic Acids Research,31,10.1093/nar/gkg628,United States,Article,New Haven,1,Journal,2-s2.0-0042121254
+Herrero J.,,GEPAS: A web-based resource for microarray gene expression data analysis,2003,Nucleic Acids Research,158,10.1093/nar/gkg591,Spain,Article,Madrid,1,Journal,2-s2.0-0042121252
+Colantuoni C.,,SNOMAD (Standardization and Normalization of MicroArray Data): Web-accessible gene expression data analysis,2002,Bioinformatics,100,10.1093/bioinformatics/18.11.1540,United States;United States;United States,Article,Baltimore;Baltimore;Baltimore,1,Journal,2-s2.0-0036855423

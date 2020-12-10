@@ -1,0 +1,25 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Price M.,,Fasttree: Computing large minimum evolution trees with profiles instead of a distance matrix,2009,Molecular Biology and Evolution,1787,10.1093/molbev/msp077,United States,Article,Berkeley,1,Journal,2-s2.0-67649327176
+Gardner P.,,Rfam: Updates to the RNA families database,2009,Nucleic Acids Research,610,10.1093/nar/gkn766,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-58149191274
+Hunter S.,,InterPro: The integrative protein signature database,2009,Nucleic Acids Research,1172,10.1093/nar/gkn785,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-58149203231
+Reeves G.,,The protein feature ontology: A tool for the unification of protein feature annotations,2008,Bioinformatics,16,10.1093/bioinformatics/btn528,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-56649124843
+Madera M.,,Profile Comparer: A program for scoring and aligning profile hidden Markov models,2008,Bioinformatics,70,10.1093/bioinformatics/btn504,United Kingdom,Article,Bristol,1,Journal,2-s2.0-55749113550
+Heger A.,,PairsDB atlas of protein sequence space,2008,Nucleic Acids Research,13,10.1093/nar/gkm879,United Kingdom;Finland,Article,Oxford;Helsinki,1,Journal,2-s2.0-38549113430
+Fink J.,,BioLit: integrating biological literature with databases.,2008,Nucleic acids research,26,10.1093/nar/gkn317,United States,Article,San Diego,1,Journal,2-s2.0-48449101724
+Henrick K.,,Remediation of the protein data bank archive,2008,Nucleic Acids Research,116,10.1093/nar/gkm937,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-38549176153
+Ruan J.,,TreeFam: 2008 Update,2008,Nucleic Acids Research,202,10.1093/nar/gkm1005,China,Article,Shenzhen,1,Journal,2-s2.0-38549163152
+Andreeva A.,,Data growth and its impact on the SCOP database: New developments,2008,Nucleic Acids Research,788,10.1093/nar/gkm993,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-38549153238
+Mistry J.,,Pfam: A domain-centric method for analyzing proteins and proteomes,2007,Methods in Molecular Biology,27,10.1385/1-59745-515-6:43,,Article,,0,Book Series,2-s2.0-36549060028
+Mistry J.,,Predicting active site residue annotations in the Pfam database,2007,BMC Bioinformatics,82,10.1186/1471-2105-8-298,United Kingdom,Article,London,1,Journal,2-s2.0-35348873256
+Bateman A.,,SCOOP: A simple method for identification of novel protein superfamily relationships,2007,Bioinformatics,31,10.1093/bioinformatics/btm034,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-34248590379
+Wu C.H.,,The Universal Protein Resource (UniProt): an expanding universe of protein information.,2006,Nucleic acids research,776,10.1093/nar/gkj161,United States,Article,"Washington, D.C.",1,Journal,2-s2.0-33644873213
+Finn R.D.,,"Pfam: clans, web tools and services.",2006,Nucleic acids research,1662,10.1093/nar/gkj149,United Kingdom,Article,London,1,Journal,2-s2.0-33644876020
+Söding J.,,Protein homology detection by HMM-HMM comparison,2005,Bioinformatics,1572,10.1093/bioinformatics/bti125,Germany,Article,Tubingen,1,Journal,2-s2.0-16344373015
+Heger A.,,ADDA: A domain database with global coverage of the protein universe,2005,Nucleic Acids Research,43,10.1093/nar/gki096,Finland,Article,Helsinki,1,Journal,2-s2.0-13444250007
+Schuster-Böckler B.,,HMM logos for visualization of protein families,2004,BMC Bioinformatics,171,10.1186/1471-2105-5-7,Germany,Article,Berlin,1,Journal,2-s2.0-2442525077
+Howe K.,,QuickTree: Building huge neighbour-joining trees of protein sequences,2002,Bioinformatics,191,10.1093/bioinformatics/18.11.1546,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-0036857358
+Kent W.,,BLAT - The BLAST-like alignment tool,2002,Genome Research,5206,10.1101/gr.229202. Article published online before March 2002,United States,Article,Santa Cruz,0,Journal,2-s2.0-0036226603
+Park J.,,RSDB: Representative protein sequence databases have high information content,2000,Bioinformatics,35,10.1093/bioinformatics/16.5.458,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-0033940118
+Corpet F.,,ProDom and ProDom-CG: Tools for protein domain analysis and whole genome comparisons,2000,Nucleic Acids Research,289,10.1093/nar/28.1.267,France,Short Survey,Castanet-Tolosan,1,Journal,2-s2.0-0033957841
+Bateman A.,,The Pfam protein families database,2000,Nucleic Acids Research,1167,10.1093/nar/28.1.263,United Kingdom,Short Survey,London,1,Journal,2-s2.0-0033976458
+Altschul S.,,Gapped BLAST and PSI-BLAST: A new generation of protein database search programs,1997,Nucleic Acids Research,54811,10.1093/nar/25.17.3389,United States,Review,Bethesda,1,Journal,2-s2.0-0030801002

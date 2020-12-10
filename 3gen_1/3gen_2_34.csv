@@ -1,0 +1,16 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Smith R.,,Automatic generation of primary sequence patterns from sets of related protein sequences,1990,Proceedings of the National Academy of Sciences of the United States of America,259,10.1073/pnas.87.1.118,United States,Article,Cambridge,1,Journal,2-s2.0-0025141443
+Karlin S.,,Methods for assessing the statistical significance of molecular sequence features by using general scoring schemes,1990,Proceedings of the National Academy of Sciences of the United States of America,1121,10.1073/pnas.87.6.2264,United States,Article,Bethesda,0,Journal,2-s2.0-0025259313
+Margot J.B.,,Complete nucleotide sequence of the rabbit β-like globin gene cluster. Analysis of intergenic sequences and comparison with the human β-like globin gene cluster,1989,Journal of Molecular Biology,65,10.1016/0022-2836(89)90362-8,United States,Article,University Park,0,Journal,2-s2.0-0024552250
+Pearson W.,,Improved tools for biological sequence comparison.,1988,Proceedings of the National Academy of Sciences of the United States of America,9124,10.1073/pnas.85.8.2444,United States,Article,Charlottesville,1,Journal,2-s2.0-0023989064
+Coulson A.,,Protein and nucleic acid sequence database searching: A suitable case for parallel processing,1987,Computer Journal,59,10.1093/comjnl/30.5.420,United Kingdom,Article,Edinburgh,1,Journal,2-s2.0-0023434940
+Gotoh O.,,Sequence search on a supercomputer,1986,Nucleic Acids Research,12,10.1093/nar/14.1.57,Japan,Article,Kitaadachi District,0,Journal,2-s2.0-0023045703
+Lipman D.J.,,Rapid and sensitive protein similarity searches,1985,Science,2458,10.1126/science.2983426,United States,Article,Bethesda,0,Journal,2-s2.0-0021919480
+Hardison R.,,Rabbit globin pseudogene ψβ2 is a hybrid of δ- and β-globin gene sequences,1984,Molecular Biology and Evolution,22,,United States,Article,University Park,0,Journal,2-s2.0-0021707268
+Sellers P.,,Pattern recognition in genetic sequences by mismatch density,1984,Bulletin of Mathematical Biology,71,10.1007/BF02459499,United States,Article,New York,0,Journal,2-s2.0-0347637930
+Waterman M.,,General methods of sequence comparison,1984,Bulletin of Mathematical Biology,171,10.1007/BF02459498,United States,Article,Los Angeles,0,Journal,2-s2.0-0000329809
+Goad W.B.,,Pattern recognition in nucleic acid sequences. I. A general method for finding local homologies and symmetries,1982,Nucleic Acids Research,249,10.1093/nar/10.1.247,United States,Article,Los Alamos,0,Journal,2-s2.0-0020038367
+Smith T.,,Comparison of biosequences,1981,Advances in Applied Mathematics,548,10.1016/0196-8858(81)90046-4,United States,Article,Marquette,1,Journal,2-s2.0-40849099796
+Uzzell T.,,Fitting discrete probability distributions to evolutionary events,1971,Science,209,10.1126/science.172.3988.1089,United States,Review,New Haven,0,Journal,2-s2.0-0015219691
+Needleman S.,,A general method applicable to the search for similarities in the amino acid sequence of two proteins,1970,Journal of Molecular Biology,6912,10.1016/0022-2836(70)90057-4,United States,Article,Evanston,0,Journal,2-s2.0-0014757386
+Mealy G.,,A Method for Synthesizing Sequential Circuits,1955,Bell System Technical Journal,415,10.1002/j.1538-7305.1955.tb03788.x,,Article,,0,Journal,2-s2.0-78049442327

@@ -1,0 +1,6 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Cover T.M.,,Elements of Information Theory,2005,Elements of Information Theory,27595,10.1002/047174882X,,Book,,0,Book,2-s2.0-84889281816
+Deshpande M.,,Item-based top-N recommendation algorithms,2004,ACM Transactions on Information Systems,1435,10.1145/963770.963776,United States,Article,,0,Journal,2-s2.0-3042821101
+Sarwar B.,,Item-based collaborative filtering recommendation algorithms,2001,"Proceedings of the 10th International Conference on World Wide Web, WWW 2001",4990,10.1145/371920.372071,United States,Conference Paper,Minneapolis,0,Conference Proceeding,2-s2.0-85052617391
+Kitts B.,,Cross-sell: A fast promotion-tunable customer-item recommendation method based on conditionally independent probabilities,2000,Proceeding of the Sixth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,58,,United States,Conference Paper,Austin,0,Conference Proceeding,2-s2.0-0034592960
+Kautz H.,,Combining Social Networks and Collaborative Filtering,1997,Communications of the ACM,597,10.1145/245108.245123,United States,Article,Florham Park,0,Journal,2-s2.0-0031103689

@@ -1,0 +1,12 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Martens J.,,Deep learning via Hessian-free optimization,2010,"ICML 2010 - Proceedings, 27th International Conference on Machine Learning",347,,Canada,Conference Paper,Toronto,0,Conference Proceeding,2-s2.0-77956541496
+Graves A.,,Offline handwriting recognition with multidimensional recurrent neural networks,2009,Advances in Neural Information Processing Systems 21 - Proceedings of the 2008 Conference,507,,Germany,Conference Paper,Munich,0,Conference Proceeding,2-s2.0-71249112130
+Mayer H.,,A system for robotic heart surgery that learns to tie knots using recurrent neural networks,2006,IEEE International Conference on Intelligent Robots and Systems,59,10.1109/IROS.2006.282190,Germany,Conference Paper,Munich,0,Conference Proceeding,2-s2.0-34250657707
+Hinton G.,,Reducing the dimensionality of data with neural networks,2006,Science,8836,10.1126/science.1127647,Canada,Article,Toronto,0,Journal,2-s2.0-33746600649
+Graves A.,,Framewise phoneme classification with bidirectional LSTM and other neural network architectures,2005,Neural Networks,1521,10.1016/j.neunet.2005.06.042,Switzerland,Conference Paper,Manno,0,Journal,2-s2.0-27744588611
+Jaeger H.,,Harnessing Nonlinearity: Predicting Chaotic Systems and Saving Energy in Wireless Communication,2004,Science,1552,10.1126/science.1091277,Germany,Article,Bremen,0,Journal,2-s2.0-1842421269
+Schraudolph N.,,Fast curvature Matrix-Vector products for second-order gradient descent,2002,Neural Computation,129,10.1162/08997660260028683,Switzerland;Switzerland,Article,"Zurich ZH,;Manno",0,Journal,2-s2.0-0036631778
+Gers F.,,Learning to forget: Continual prediction with LSTM,2000,Neural Computation,1257,10.1162/089976600300015015,Switzerland,Article,Manno,0,Journal,2-s2.0-0034293152
+Hochreiter S.,,Long Short-Term Memory,1997,Neural Computation,20411,10.1162/neco.1997.9.8.1735,Germany,Article,Munich,0,Journal,2-s2.0-0031573117
+Bengio Y.,,Learning Long-Term Dependencies with Gradient Descent is Difficult,1994,IEEE Transactions on Neural Networks,2872,10.1109/72.279181,United States;Canada,Article,Murray;Montreal,0,Journal,2-s2.0-0028392483
+Rumelhart D.,,Learning representations by back-propagating errors,1986,Nature,10220,10.1038/323533a0,United States,Article,San Diego,0,Journal,2-s2.0-0022471098

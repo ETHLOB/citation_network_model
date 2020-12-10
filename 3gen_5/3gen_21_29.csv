@@ -1,0 +1,26 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Robinson M.,,A scaling normalization method for differential expression analysis of RNA-seq data,2010,Genome Biology,2588,10.1186/gb-2010-11-3-r25,Australia;Australia,Article,Melbourne;Sydney,1,Journal,2-s2.0-77953176036
+Robinson M.,,edgeR: A Bioconductor package for differential expression analysis of digital gene expression data,2009,Bioinformatics,11916,10.1093/bioinformatics/btp616,Australia;Australia,Article,Melbourne;Sydney,1,Journal,2-s2.0-75249087100
+Wahlstedt H.,,Large-scale mRNA sequencing determines global regulation of RNA editing during brain development,2009,Genome Research,191,10.1101/gr.089409.108,Sweden,Article,Stockholm,1,Journal,2-s2.0-66449129109
+Fu X.,,Estimating accuracy of RNA-Seq and microarrays with proteomics,2009,BMC Genomics,200,10.1186/1471-2164-10-161,China,Article,Shanghai,1,Journal,2-s2.0-65649083411
+Oshlack A.,,Transcript length bias in RNA-seq data confounds systems biology,2009,Biology Direct,293,10.1186/1745-6150-4-14,Australia,Article,Melbourne,1,Journal,2-s2.0-65649126066
+Huang D.,,Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources,2009,Nature Protocols,19328,10.1038/nprot.2008.211,United States,Article,Frederick,0,Journal,2-s2.0-61449172037
+Langmead B.,,Ultrafast and memory-efficient alignment of short DNA sequences to the human genome,2009,Genome Biology,11983,10.1186/gb-2009-10-3-r25,United States,Article,College Park,1,Journal,2-s2.0-62349130698
+Li H.,,Determination of tag density required for digital transcriptome analysis: Application to an androgen-sensitive prostate cancer model,2008,Proceedings of the National Academy of Sciences of the United States of America,79,10.1073/pnas.0807121105,United States,Article,San Diego,1,Journal,2-s2.0-58149490714
+'t Hoen P.,,"Deep sequencing-based expression analysis shows major advances in robustness, resolution and inter-lab portability over five microarray platforms",2008,Nucleic Acids Research,575,10.1093/nar/gkn705,Netherlands,Article,Leiden,1,Journal,2-s2.0-57149085481
+Wang X.,,Transcriptome-wide identification of novel imprinted genes in neonatal mouse brain,2008,PLoS ONE,138,10.1371/journal.pone.0003839,United States,Article,Ithaca,1,Journal,2-s2.0-57349168544
+Wang E.T.,,Alternative isoform regulation in human tissue transcriptomes,2008,Nature,2953,10.1038/nature07509,United States;United States,Article,Cambridge;Cambridge,0,Journal,2-s2.0-56549101959
+Marioni J.,,RNA-seq: An assessment of technical reproducibility and comparison with gene expression arrays,2008,Genome Research,1877,10.1101/gr.079558.108,United States,Article,Chicago,1,Journal,2-s2.0-50649089207
+Mortazavi A.,,Mapping and quantifying mammalian transcriptomes by RNA-Seq,2008,Nature Methods,8299,10.1038/nmeth.1226,United States,Article,Pasadena,0,Journal,2-s2.0-46249106990
+Robinson M.,,"Small-sample estimation of negative binomial dispersion, with applications to SAGE data",2008,Biostatistics,566,10.1093/biostatistics/kxm030,Australia;Australia,Article,Melbourne;Parkville,1,Journal,2-s2.0-41149085992
+Robinson M.,,Moderated statistical tests for assessing differences in tag abundance,2007,Bioinformatics,468,10.1093/bioinformatics/btm453,Australia;Australia,Article,Melbourne;Parkville,1,Journal,2-s2.0-36448981743
+Zhou X.,,EasyGO: Gene Ontology-based annotation and functional enrichment analysis tool for agronomical species,2007,BMC Genomics,104,10.1186/1471-2164-8-246,China,Article,Beijing,1,Journal,2-s2.0-34547799698
+Alexa A.,,Improved scoring of functional groups from gene expression data by decorrelating GO graph structure,2006,Bioinformatics,950,10.1093/bioinformatics/btl140,Germany,Article,Saarbrucken,1,Journal,2-s2.0-33745626459
+Efraimidis P.,,Weighted random sampling with a reservoir,2006,Information Processing Letters,124,10.1016/j.ipl.2005.11.003,Greece,Article,Komotini,0,Journal,2-s2.0-30344451668
+Subramanian A.,,Gene set enrichment analysis: A knowledge-based approach for interpreting genome-wide expression profiles,2005,Proceedings of the National Academy of Sciences of the United States of America,16322,10.1073/pnas.0506580102,United States,Article,Cambridge,1,Journal,2-s2.0-27344435774
+Beißbarth T.,,GOstat: Find statistically overrepresented Gene Ontologies with a group of genes,2004,Bioinformatics,943,10.1093/bioinformatics/bth088,Australia,Article,Melbourne,1,Journal,2-s2.0-3142665525
+Martin D.,,GOToolBox: functional analysis of gene datasets based on Gene Ontology.,2004,Genome biology,269,,France,Article,Marseille,0,Journal,2-s2.0-20444365683
+Zeeberg B.,,GoMiner: a resource for biological interpretation of genomic and proteomic data.,2003,Genome biology,961,,United States,Article,Bethesda,0,Journal,2-s2.0-0038175144
+DePrimo S.,,Transcriptional programs activated by exposure of human prostate cancer cells to androgen.,2002,Genome biology,138,,United States,Article,Stanford,0,Journal,2-s2.0-17144444034
+Feldman B.,,The development of androgen-independent prostate cancer,2001,Nature Reviews Cancer,1815,10.1038/35094009,United States,Article,Stanford,0,Journal,2-s2.0-0035496220
+Ashburner M.,,Gene ontology: Tool for the unification of biology,2000,Nature Genetics,21253,10.1038/75556,,Review,,0,Journal,2-s2.0-0034069495

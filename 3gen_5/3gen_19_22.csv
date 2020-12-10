@@ -1,0 +1,27 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Leng N.,,EBSeq: An empirical Bayes hierarchical model for inference in RNA-seq experiments,2013,Bioinformatics,596,10.1093/bioinformatics/btt087,United States,Article,Madison,1,Journal,2-s2.0-84876263777
+Khorshid M.,,A biophysical miRNA-mRNA interaction model infers canonical and noncanonical targets,2013,Nature Methods,95,10.1038/nmeth.2341,Switzerland;Switzerland,Article,Geneva;Basel,0,Journal,2-s2.0-84874646362
+Baltz A.,,The mRNA-Bound Proteome and Its Global Occupancy Profile on Protein-Coding Transcripts,2012,Molecular Cell,628,10.1016/j.molcel.2012.05.021,Germany,Article,Berlin,1,Journal,2-s2.0-84861997955
+Chi S.,,An alternative mode of microRNA target recognition,2012,Nature Structural and Molecular Biology,240,10.1038/nsmb.2230,United States;South Korea;United States;South Korea,Article,New York;Seoul;Chevy Chase;Jongno-gu,0,Journal,2-s2.0-84857955708
+Sugimoto Y.,,Analysis of CLIP and iCLIP methods for nucleotide-resolution studies of protein-RNA interactions,2012,Genome biology,129,10.1186/gb-2012-13-8-r67,,Article,,1,Journal,2-s2.0-84936744064
+Skalsky R.,,The viral and cellular microRNA targetome in lymphoblastoid cell lines,2012,PLoS Pathogens,241,10.1371/journal.ppat.1002484,United States,Article,Durham,1,Journal,2-s2.0-84857430764
+Feederle R.,,The members of an epstein-barr virus microrna cluster cooperate to transform B lymphocytes,2011,Journal of Virology,67,10.1128/JVI.05100-11,Germany,Article,Heidelberg,1,Journal,2-s2.0-80053962684
+Corcoran D.,,PARalyzer: Definition of RNA binding sites from PAR-CLIP short-read sequence data,2011,Genome Biology,219,10.1186/gb-2011-12-8-r79,United States,Article,Durham,1,Journal,2-s2.0-80051786284
+Li B.,,RSEM: Accurate transcript quantification from RNA-Seq data with or without a reference genome,2011,BMC Bioinformatics,6066,10.1186/1471-2105-12-323,United States,Article,Madison,1,Journal,2-s2.0-79961123152
+Kishore S.,,A quantitative analysis of CLIP methods for identifying binding sites of RNA-binding proteins,2011,Nature Methods,303,10.1038/nmeth.1608,Switzerland,Article,Basel,0,Journal,2-s2.0-79959813870
+Lekprasert P.,,Assessing the utility of thermodynamic features for microRNA target prediction under relaxed seed and no conservation requirements,2011,PLoS ONE,17,10.1371/journal.pone.0020622,United States,Article,Durham,1,Journal,2-s2.0-79958165626
+Leung A.,,Genome-wide identification of Ago2 binding sites from mouse embryonic stem cells with and without mature microRNAs,2011,Nature Structural and Molecular Biology,190,10.1038/nsmb.1991,United States,Article,Cambridge,0,Journal,2-s2.0-79551647673
+Betel D.,,Comprehensive modeling of microRNA targets predicts functional non-conserved and non-canonical sites,2010,Genome Biology,973,10.1186/gb-2010-11-8-r90,United States,Article,New York,1,Journal,2-s2.0-77955963884
+Hafner M.,,Transcriptome-wide Identification of RNA-Binding Protein and MicroRNA Target Sites by PAR-CLIP,2010,Cell,1756,10.1016/j.cell.2010.03.009,United States,Article,New York,1,Journal,2-s2.0-77950920903
+Shin C.,,Expanding the microRNA targeting code: functional sites with centered pairing.,2010,Molecular cell,417,10.1016/j.molcel.2010.06.005,United States,Article,Cambridge,1,Journal,2-s2.0-77955475953
+Flicek P.,,Ensembl's 10th year,2009,Nucleic Acids Research,236,10.1093/nar/gkp972,United Kingdom;United Kingdom,Article,Cambridge;Hinxton,1,Journal,2-s2.0-75549089335
+Chi S.,,Argonaute HITS-CLIP decodes microRNA-mRNA interaction maps,2009,Nature,1247,10.1038/nature08170,United States,Article,New York,0,Journal,2-s2.0-67749132423
+Bartel D.,,MicroRNAs: Target Recognition and Regulatory Functions,2009,Cell,13032,10.1016/j.cell.2009.01.002,United States;United States,Review,Cambridge;Cambridge,1,Journal,2-s2.0-58249088751
+Jiang Q.,,miR2Disease: A manually curated database for microRNA deregulation in human disease,2009,Nucleic Acids Research,883,10.1093/nar/gkn714,China,Article,Harbin,1,Journal,2-s2.0-58149179989
+Friedman R.,,Most mammalian mRNAs are conserved targets of microRNAs,2009,Genome Research,5184,10.1101/gr.082701.108,United States;United States,Article,Cambridge;Chevy Chase,1,Journal,2-s2.0-60149095444
+Hendrickson D.,,Systematic identification of mrNAs recruited to argonaute 2 by specific microRNAs and corresponding changes in transcript abundance,2008,PLoS ONE,144,10.1371/journal.pone.0002126,United States,Article,Stanford,1,Journal,2-s2.0-47749154078
+Majoros W.H.,,Methods for computational gene prediction,2007,Methods for Computational Gene Prediction,30,10.1017/CBO9780511811135,United States,Book,Durham,0,Book,2-s2.0-84928701822
+Fariselli P.,,A new decoding algorithm for hidden Markov models improves the prediction of the topology of all-beta membrane proteins,2005,BMC Bioinformatics,54,10.1186/1471-2105-6-S4-S12,Italy,Article,Bologna,1,Journal,2-s2.0-33947417295
+Siepel A.,,"Evolutionarily conserved elements in vertebrate, insect, worm, and yeast genomes",2005,Genome Research,2173,10.1101/gr.3715005,United States,Article,Santa Cruz,1,Journal,2-s2.0-23744458086
+Brennecke J.,,Principles of microRNA-target recognition,2005,PLoS Biology,1665,10.1371/journal.pbio.0030085,Germany,Conference Paper,Heidelberg,1,Journal,2-s2.0-18044377963
+Juang B.,,Hidden markov models for speech recognition,1991,Technometrics,370,10.1080/00401706.1991.10484833,United States,Article,Murray,0,Journal,2-s2.0-0026206264

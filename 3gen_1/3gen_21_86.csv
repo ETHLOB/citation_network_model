@@ -1,0 +1,8 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+LeCun Y.,,Efficient backprop,2012,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),730,10.1007/978-3-642-35289-8-3,United States,Article,San Antonio,0,Book Series,2-s2.0-84872543023
+Larochelle H.,,An empirical evaluation of deep architectures on problems with many factors of variation,2007,ACM International Conference Proceeding Series,492,10.1145/1273496.1273556,Canada,Conference Paper,Montreal,0,Conference Proceeding,2-s2.0-34547967782
+Bottou L.,,Stochastic learning,2004,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),211,10.1007/978-3-540-28650-9_7,United States,Article,Princeton,0,Book Series,2-s2.0-33947180792
+Schraudolph N.,,Fast curvature Matrix-Vector products for second-order gradient descent,2002,Neural Computation,129,10.1162/08997660260028683,Switzerland;Switzerland,Article,"Zurich ZH,;Manno",0,Journal,2-s2.0-0036631778
+Amari S.I.,,Adaptive method of realizing natural gradient learning for multilayer perceptrons,2000,Neural Computation,128,10.1162/089976600300015420,Japan,Article,Wako,0,Journal,2-s2.0-0034201611
+Yang H.H.,,Complexity Issues in Natural Gradient Descent Method for Training Multilayer Perceptrons,1998,Neural Computation,39,10.1162/089976698300017007,United States,Article,Portland,0,Journal,2-s2.0-0032533046
+Amari S.,,Natural Gradient Works Efficiently in Learning,1998,Neural Computation,1580,10.1162/089976698300017746,Japan,Article,Wako,0,Journal,2-s2.0-0000396062

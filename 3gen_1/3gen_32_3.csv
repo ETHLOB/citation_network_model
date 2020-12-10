@@ -1,0 +1,12 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Verbeek J.,,Gaussian fields for semi-supervised regression and correspondence learning,2006,Pattern Recognition,25,10.1016/j.patcog.2006.04.011,Netherlands,Article,Amsterdam,0,Journal,2-s2.0-33745417721
+Diaz F.,,Regularizing ad hoc retrieval scores,2005,"International Conference on Information and Knowledge Management, Proceedings",62,10.1145/1099554.1099722,United States,Conference Paper,Amherst MA,0,Conference Proceeding,2-s2.0-33745774624
+Shon A.,,Learning shared latent structure for image synthesis and robotic imitation,2005,Advances in Neural Information Processing Systems,111,,United States,Conference Paper,Seattle,0,Conference Proceeding,2-s2.0-77950404059
+Ham J.,,Semisupervised alignment of manifolds,2005,AISTATS 2005 - Proceedings of the 10th International Workshop on Artificial Intelligence and Statistics,191,,United States,Conference Paper,Philadelphia,0,Conference Proceeding,2-s2.0-84862595041
+Lafferty J.,,Diffusion kernels on statistical manifolds,2005,Journal of Machine Learning Research,139,,United States,Article,Pittsburgh,0,Journal,2-s2.0-21844459752
+Hardoon D.,,Canonical correlation analysis: An overview with application to learning methods,2004,Neural Computation,1673,10.1162/0899766042321814,United Kingdom,Review,Southampton,0,Journal,2-s2.0-10044285992
+Zhu X.,,Semi-Supervised Learning Using Gaussian Fields and Harmonic Functions,2003,"Proceedings, Twentieth International Conference on Machine Learning",2480,,United States,Conference Paper,Pittsburgh,0,Conference Proceeding,2-s2.0-1942484430
+Barnard K.,,Matching Words and Pictures,2003,Journal of Machine Learning Research,1179,10.1162/153244303322533214,United States,Conference Paper,Tucson,0,Journal,2-s2.0-0041876117
+Carcassoni M.,,Spectral correspondence for point pattern matching,2003,Pattern Recognition,157,10.1016/S0031-3203(02)00054-7,United Kingdom,Article,York,0,Journal,2-s2.0-0037209409
+Resnik P.,,The Web as a Parallel Corpus,2003,Computational Linguistics,289,10.1162/089120103322711578,United States,Review,College Park,1,Journal,2-s2.0-0345376175
+Belkin M.,,Laplacian eigenmaps and spectral techniques for embedding and clustering,2002,Advances in Neural Information Processing Systems,1285,,United States,Conference Paper,Chicago,0,Conference Proceeding,2-s2.0-84880203756

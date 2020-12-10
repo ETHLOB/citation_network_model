@@ -1,0 +1,32 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Allard A.,,Bond percolation on a class of correlated and clustered random graphs,2012,Journal of Physics A: Mathematical and Theoretical,18,10.1088/1751-8113/45/40/405005,Canada,Article,Quebec,0,Journal,2-s2.0-84866554669
+Ercsey-Ravasz M.,,Range-limited centrality measures in complex networks,2012,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",24,10.1103/PhysRevE.85.066103,Romania;United States,Article,Cluj Napoca;Notre Dame,1,Journal,2-s2.0-84862180561
+Hébert-Dufresne L.,,Structural preferential attachment: Network organization beyond the link,2011,Physical Review Letters,25,10.1103/PhysRevLett.107.158702,Canada,Article,Quebec,0,Journal,2-s2.0-80053602846
+Keeling M.,,Modeling infectious diseases in humans and animals,2011,Modeling Infectious Diseases in Humans and Animals,1375,,,Book,,0,Book,2-s2.0-84924261283
+Hébert-Dufresne L.,,Propagation dynamics on networks featuring complex topologies,2010,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",25,10.1103/PhysRevE.82.036115,Canada,Article,Quebec,0,Journal,2-s2.0-78651254203
+Ahn Y.,,Link communities reveal multiscale complexity in networks,2010,Nature,1201,10.1038/nature09182,United States;United States,Article,Boston;Cambridge,0,Journal,2-s2.0-77955518815
+Salathé M.,,Dynamics and control of diseases in networks with community structure,2010,PLoS Computational Biology,295,10.1371/journal.pcbi.1000736,United States,Article,Palo Alto,1,Journal,2-s2.0-77954594423
+Kitsak M.,,Identification of influential spreaders in complex networks,2010,Nature Physics,1473,10.1038/nphys1746,United States;United States,Article,San Diego;Boston,1,Journal,2-s2.0-78149283685
+Masuda N.,,Immunization of networks with community structure,2009,New Journal of Physics,60,10.1088/1367-2630/11/12/123018,Japan;Japan,Article,Tokyo;Kawaguchi,1,Journal,2-s2.0-73549096011
+Dunne J.,,Cascading extinctions and community collapse in model food webs,2009,Philosophical Transactions of the Royal Society B: Biological Sciences,144,10.1098/rstb.2008.0219,United States;United States,Article,Santa Fe;Berkeley,1,Journal,2-s2.0-67650218276
+Palla G.,,Fundamental statistical features and self-similar properties of tagged networks,2008,New Journal of Physics,42,10.1088/1367-2630/10/12/123026,Hungary,Article,Budapest,1,Journal,2-s2.0-59349102883
+Chen Y.,,Finding a better immunization strategy,2008,Physical Review Letters,198,10.1103/PhysRevLett.101.058701,United States,Article,Boston,0,Journal,2-s2.0-49149084034
+Gallos L.K.,,Improving immunization strategies,2007,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",94,10.1103/PhysRevE.75.045104,Greece,Article,Thessaloniki,0,Journal,2-s2.0-34247365483
+Gómez-Gardeñes J.,,Immunization of real complex communication networks,2006,European Physical Journal B,71,10.1140/epjb/e2006-00041-1,Spain,Article,Zaragoza,0,Journal,2-s2.0-32944479194
+Alvarez-Hamelin J.I.,,Large scale networks fingerprinting and visualization using the k-core decomposition,2005,Advances in Neural Information Processing Systems,204,,France;Argentina,Conference Paper,Orsay;Buenos Aires,0,Conference Proceeding,2-s2.0-84864040903
+Palla G.,,Uncovering the overlapping community structure of complex networks in nature and society,2005,Nature,3512,10.1038/nature03607,Hungary;Hungary,Article,Budapest;Budapest,0,Journal,2-s2.0-20444504323
+Keeling M.,,Networks and epidemic models,2005,Journal of the Royal Society Interface,863,10.1098/rsif.2005.0051,United Kingdom,Review,Coventry,1,Journal,2-s2.0-33646893242
+Barthélemy M.,,Betweenness centrality in large complex networks,2004,European Physical Journal B,409,10.1140/epjb/e2004-00111-4,France,Conference Paper,Bruyeres-les-Chatel,0,Journal,2-s2.0-2942566632
+Boguñá M.,,Models of social networks based on social distance attachment,2004,"Physical Review E - Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics",437,10.1103/PhysRevE.70.056122,Spain,Article,Barcelona,0,Journal,2-s2.0-41349112960
+Guimerà R.,,Self-similar community structure in a network of human interactions,2003,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",769,,Spain;United States,Article,Tarragona;Evanston,0,Journal,2-s2.0-1842616539
+Newman M.E.J.,,Properties of highly clustered networks,2003,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",289,,United States,Article,Ann Arbor,0,Journal,2-s2.0-42749099621
+Newman M.E.J.,,Spread of epidemic disease on networks,2002,"Physical Review E - Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics",1841,10.1103/PhysRevE.66.016128,United States;United States,Article,Santa Fe;Ann Arbor,1,Journal,2-s2.0-41349106348
+Ripeanu M.,,Mapping the Gnutella network,2002,IEEE Internet Computing,773,10.1109/4236.978369,United States,Article,Chicago,0,Journal,2-s2.0-0036187056
+Pastor-Satorras R.,,Immunization of complex networks,2002,"Physical Review E - Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics",799,10.1103/PhysRevE.65.036104,Spain,Article,Barcelona,0,Journal,2-s2.0-41349106738
+Newman M.E.J.,,Random graphs with arbitrary degree distributions and their applications,2001,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",2213,,United States;United States,Article,Santa Fe;Ithaca,0,Journal,2-s2.0-0035420732
+Pastor-Satorras R.,,Epidemic spreading in scale-free networks,2001,Physical Review Letters,3738,10.1103/PhysRevLett.86.3200,Spain,Article,Barcelona,0,Journal,2-s2.0-0035794256
+Brandes U.,,A faster algorithm for betweenness centrality,2001,Journal of Mathematical Sociology,2218,10.1080/0022250X.2001.9990249,Germany,Article,Konstanz,0,Journal,2-s2.0-0035648637
+Albert R.,,Error and attack tolerance of complex networks,2000,Nature,5597,10.1038/35019019,United States,Article,Notre Dame,0,Journal,2-s2.0-0034721164
+Barabási A.,,Emergence of scaling in random networks,1999,Science,22122,10.1126/science.286.5439.509,United States,Article,Notre Dame,0,Journal,2-s2.0-0038483826
+Watts D.J.,,Collective dynamics of 'small-world9 networks,1998,Nature,25779,10.1038/30918,United States,Article,Ithaca,0,Journal,2-s2.0-0032482432
+Freeman L.,,Centrality in social networks conceptual clarification,1978/1979,Social Networks,8414,10.1016/0378-8733(78)90021-7,United States,Article,Bethlehem,0,Journal,2-s2.0-33750177351

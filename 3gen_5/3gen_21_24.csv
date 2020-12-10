@@ -1,0 +1,29 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Lim E.,,Transcriptome analyses of mouse and human mammary cell subpopulations reveal multiple conserved genes and pathways,2010,Breast Cancer Research,264,10.1186/bcr2560,Australia;Australia,Article,Melbourne;Parkville,1,Journal,2-s2.0-77955895963
+Lim E.,,Aberrant luminal progenitors as the candidate target population for basal tumor development in BRCA1 mutation carriers,2009,Nature Medicine,886,10.1038/nm.2000,Australia;Australia,Article,Melbourne;Parkville,0,Journal,2-s2.0-68349130357
+Murie C.,,Comparison of small n statistical tests of differential expression applied to microarrays,2009,BMC Bioinformatics,50,10.1186/1471-2105-10-45,Canada,Article,Montreal,1,Journal,2-s2.0-65449124590
+Ackermann M.,,A general modular framework for gene set enrichment analysis,2009,BMC Bioinformatics,229,10.1186/1471-2105-10-47,Germany,Article,Dresden,1,Journal,2-s2.0-63449107173
+Dørum G.,,Rotation testing in gene set enrichment analysis for small direct comparison experiments,2009,Statistical Applications in Genetics and Molecular Biology,25,10.2202/1544-6115.1418,Norway,Article,As,0,Journal,2-s2.0-84869590034
+Oron A.,,Gene set enrichment analysis using linear models and diagnostics,2008,Bioinformatics,36,10.1093/bioinformatics/btn465,United States;United States,Article,Seattle;Seattle,1,Journal,2-s2.0-55749111082
+Wang L.,,An integrated approach for the analysis of biological pathways using mixed models,2008,PLoS Genetics,43,10.1371/journal.pgen.1000115,United States,Article,Nashville,1,Journal,2-s2.0-48249108773
+Adewale A.,,Pathway analysis of microarray data via regression,2008,Journal of Computational Biology,22,10.1089/cmb.2008.0002,United States,Article,Kenilworth,0,Journal,2-s2.0-41349109834
+Hummel M.,,GlobalANCOVA: Exploration and assessment of gene group effects,2008,Bioinformatics,107,10.1093/bioinformatics/btm531,Germany,Article,Munich,0,Journal,2-s2.0-37549057612
+Dinu I.,,Improving gene set analysis of microarray data by SAM-GS,2007,BMC Bioinformatics,187,10.1186/1471-2105-8-242,Canada,Article,Edmonton,1,Journal,2-s2.0-34547483895
+Goeman J.,,Analyzing gene expression data in terms of gene sets: Methodological issues,2007,Bioinformatics,498,10.1093/bioinformatics/btm051,Netherlands,Article,Leiden,1,Journal,2-s2.0-34249663294
+Jiang Z.,,Extensions to gene set enrichment,2007,Bioinformatics,156,10.1093/bioinformatics/btl599,United States,Article,Seattle,1,Journal,2-s2.0-33847324900
+Saxena V.,,Absolute enrichment: Gene set enrichment analysis for homeostatic systems,2006,Nucleic Acids Research,41,10.1093/nar/gkl766,United States,Article,Boston,1,Journal,2-s2.0-33845902772
+Visvader J.,,Mammary stem cells and mammopoiesis,2006,Cancer Research,63,10.1158/0008-5472.CAN-06-2254,Australia,Review,Melbourne,1,Journal,2-s2.0-33750555785
+Diboun I.,,Microarray analysis after RNA amplification can detect pronounced differences in gene expression using limma,2006,BMC Genomics,287,10.1186/1471-2164-7-252,United Kingdom,Article,London,1,Journal,2-s2.0-33750616076
+Manoli T.,,Group testing for pathway analysis improves comparability of different microarray datasets,2006,Bioinformatics,114,10.1093/bioinformatics/btl424,Germany;Germany,Article,Heidelberg;Mannheim,1,Journal,2-s2.0-33749999763
+Ritchie M.,,Empirical array quality weights in the analysis of microarray data,2006,BMC Bioinformatics,183,10.1186/1471-2105-7-261,Australia,Article,Melbourne,1,Journal,2-s2.0-33748865331
+Subramanian A.,,Gene set enrichment analysis: A knowledge-based approach for interpreting genome-wide expression profiles,2005,Proceedings of the National Academy of Sciences of the United States of America,16322,10.1073/pnas.0506580102,United States,Article,Cambridge,1,Journal,2-s2.0-27344435774
+Tian L.,,Discovering statistically significant pathways in expression profiling studies,2005,Proceedings of the National Academy of Sciences of the United States of America,486,10.1073/pnas.0506577102,United States,Article,Chicago,1,Journal,2-s2.0-26444608611
+Kooperberg C.,,Significance testing for small microarray experiments,2005,Statistics in Medicine,46,10.1002/sim.2109,United States,Article,Seattle,0,Journal,2-s2.0-23244447197
+Smyth G.,,Use of within-array replicate spots for assessing differential expression in microarray experiments,2005,Bioinformatics,925,10.1093/bioinformatics/bti270,Australia,Article,Melbourne,1,Journal,2-s2.0-18744369640
+Langsrud Ø.,,Rotation tests,2005,Statistics and Computing,67,10.1007/s11222-005-4789-5,Norway,Article,As,0,Journal,2-s2.0-15244359985
+Ernst M.,,Permutation methods: A basis for exact inference,2004,Statistical Science,348,10.1214/088342304000000396,United States,Article,Indianapolis,1,Journal,2-s2.0-18844398070
+Goeman J.,,A global test for groups fo genes: Testing association with a clinical outcome,2004,Bioinformatics,711,10.1093/bioinformatics/btg382,Netherlands;Netherlands,Article,Leiden;Leiden,1,Journal,2-s2.0-0345832338
+Smyth G.K.,,Linear models and empirical bayes methods for assessing differential expression in microarray experiments,2004,Statistical Applications in Genetics and Molecular Biology,7988,10.2202/1544-6115.1027,Australia,Article,Melbourne,0,Journal,2-s2.0-4544341015
+Wright G.,,A random variance model for detection of differential gene expression in small microarray experiments,2003,Bioinformatics,548,10.1093/bioinformatics/btg345,United States,Article,Bethesda,1,Journal,2-s2.0-0348143180
+Mootha V.K.,,PGC-1α-responsive genes involved in oxidative phosphorylation are coordinately downregulated in human diabetes,2003,Nature Genetics,4404,10.1038/ng1180,United States;United States;United States,Article,Cambridge;Boston;Boston,0,Journal,2-s2.0-0038054341
+Lönnstedt I.,,Replicated microarray data,2002,Statistica Sinica,495,,Sweden,Article,Uppsala,0,Journal,2-s2.0-0036012343

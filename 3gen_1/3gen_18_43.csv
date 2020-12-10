@@ -1,0 +1,21 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Bolshakova N.,,Improving expression data mining through cluster validation,2003,"Proceedings of the IEEE/EMBS Region 8 International Conference on Information Technology Applications in Biomedicine, ITAB",24,10.1109/ITAB.2003.1222407,Ireland,Conference Paper,Dublin,0,Conference Proceeding,2-s2.0-35548969722
+Ambroise C.,,Selection bias in gene extraction on the basis of microarray gene-expression data,2002,Proceedings of the National Academy of Sciences of the United States of America,970,10.1073/pnas.102102699,France,Article,Paris,1,Journal,2-s2.0-0037076322
+Azuaje F.,,A cluster validity framework for genome expression data,2002,Bioinformatics,71,10.1093/bioinformatics/18.2.319,Ireland,Article,Dublin,1,Journal,2-s2.0-0036191191
+Singh D.,,Gene expression correlates of clinical prostate cancer behavior,2002,Cancer Cell,1822,10.1016/S1535-6108(02)00030-2,United States;United States,Article,Boston;Boston,1,Journal,2-s2.0-19044391072
+Quackenbush J.,,Computational analysis of microarray data,2001,Nature Reviews Genetics,1119,10.1038/35076576,United States,Review,Rockville,0,Journal,2-s2.0-0035375137
+Halkidi M.,,On clustering validation techniques,2001,Journal of Intelligent Information Systems,1611,10.1023/A:1012801612483,Greece,Article,Athens,0,Journal,2-s2.0-0035676057
+Azuaje F.,,A computational neural approach to support the discovery of gene function and classes of cancer,2001,IEEE Transactions on Biomedical Engineering,50,10.1109/10.914796,Ireland;United States,Article,Dublin;New York,0,Journal,2-s2.0-0035096538
+Yeung K.,,Validating clustering for gene expression data,2001,Bioinformatics,494,10.1093/bioinformatics/17.4.309,United States,Article,Seattle,1,Journal,2-s2.0-0035024021
+Bittner M.,,Molecular classification of cutaneous malignant melanoma by gene expression profiling,2000,Nature,1629,10.1038/35020115,United States,Article,Bethesda,0,Journal,2-s2.0-0034601455
+Berns A.,,Gene expression in diagnosis,2000,Nature,57,10.1038/35000684,Netherlands,Short Survey,Amsterdam,0,Journal,2-s2.0-0034598831
+Alizadeh A.A.,,Distinct types of diffuse large B-cell lymphoma identified by gene expression profiling,2000,Nature,7183,10.1038/35000501,United States,Article,Stanford,0,Journal,2-s2.0-0034598746
+Golub T.,,Molecular classification of cancer: Class discovery and class prediction by gene expression monitoring,1999,Science,8575,10.1126/science.286.5439.531,United States;United States,Article,Cambridge;Boston,0,Journal,2-s2.0-0033569406
+Bezdek J.,,Some new indexes of cluster validity,1998,"IEEE Transactions on Systems, Man, and Cybernetics, Part B: Cybernetics",811,10.1109/3477.678624,United States;United States,Article,Pensacola;New York,0,Journal,2-s2.0-0032098774
+Schena M.,,Quantitative monitoring of gene expression patterns with a complementary DNA microarray,1995,Science,7244,10.1126/science.270.5235.467,United States,Article,Stanford,0,Journal,2-s2.0-0028806048
+Rousseeuw P.,,Silhouettes: A graphical aid to the interpretation and validation of cluster analysis,1987,Journal of Computational and Applied Mathematics,5983,10.1016/0377-0427(87)90125-7,Switzerland,Article,Fribourg,1,Journal,2-s2.0-0023453329
+Hubert L.,,Comparing partitions,1985,Journal of Classification,3864,10.1007/BF01908075,United States,Article,Santa Barbara,0,Journal,2-s2.0-0000008146
+Davies D.,,A Cluster Separation Measure,1979,IEEE Transactions on Pattern Analysis and Machine Intelligence,3791,10.1109/TPAMI.1979.4766909,United States,Article,Leuven,0,Journal,2-s2.0-0017953820
+Hubert L.,,QUADRATIC ASSIGNMENT AS A GENERAL DATA ANALYSIS STRATEGY,1976,British Journal of Mathematical and Statistical Psychology,507,10.1111/j.2044-8317.1976.tb00714.x,United States,Article,Madison,0,Journal,2-s2.0-85004899658
+Dunn J.,,Well-separated clusters and optimal fuzzy partitions,1974,Journal of Cybernetics,1297,10.1080/01969727408546059,United States,Article,Ithaca,0,Journal,2-s2.0-84941155240
+Goodman L.,,Measures of Association for Cross Classifications*,1954,Journal of the American Statistical Association,1544,10.1080/01621459.1954.10501231,United States,Article,Chicago,0,Journal,2-s2.0-34248978779

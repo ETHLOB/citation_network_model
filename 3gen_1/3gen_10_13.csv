@@ -1,0 +1,23 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Haegeman B.,,A neutral theory of genome evolution and the frequency distribution of genes,2012,BMC Genomics,32,10.1186/1471-2164-13-196,France,Article,Montpellier,1,Journal,2-s2.0-84861206683
+Powell S.,,eggNOG v3.0: Orthologous groups covering 1133 organisms at 41 different taxonomic ranges,2012,Nucleic Acids Research,322,10.1093/nar/gkr1060,Germany,Article,Heidelberg,1,Journal,2-s2.0-84861203603
+Pang T.,,A Toolbox Model of Evolution of Metabolic Pathways on Networks of Arbitrary Topology,2011,PLoS Computational Biology,14,10.1371/journal.pcbi.1001137,United States;United States,Article,Stony Brook;Upton,1,Journal,2-s2.0-79958083150
+Sala A.,,Brief announcement: Revisiting the power-law degree distribution for social graph analysis,2010,Proceedings of the Annual ACM Symposium on Principles of Distributed Computing,14,10.1145/1835698.1835791,,Conference Paper,,0,Conference Proceeding,2-s2.0-77956261505
+Yan K.K.,,Comparing genomes to computer operating systems in terms of the topology and evolution of their regulatory control networks,2010,Proceedings of the National Academy of Sciences of the United States of America,55,10.1073/pnas.0914771107,United States,Article,New Haven,1,Journal,2-s2.0-77952691738
+Maslov S.,,Toolbox model of evolution of prokaryotic metabolic networks and their regulation,2009,Proceedings of the National Academy of Sciences of the United States of America,78,10.1073/pnas.0903206106,United States,Article,Upton,1,Journal,2-s2.0-67649872627
+Lapierre P.,,Estimating the size of the bacterial pan-genome,2009,Trends in Genetics,198,10.1016/j.tig.2008.12.004,United States,Short Survey,Storrs,0,Journal,2-s2.0-61349194462
+Danchin A.,,Bacteria as computers making computers,2009,FEMS Microbiology Reviews,84,10.1111/j.1574-6976.2008.00137.x,France,Review,Paris,1,Journal,2-s2.0-57549101206
+Touchon M.,,Organised genome dynamics in the Escherichia coli species results in highly diverse adaptive paths,2009,PLoS Genetics,686,10.1371/journal.pgen.1000344,France;France,Article,Paris;Paris,1,Journal,2-s2.0-59249089471
+Yang Y.,,MiRTif: A support vector machine-based microRNA target interaction filter,2008,BMC Bioinformatics,49,10.1186/1471-2105-9-S12-S4,Singapore,Conference Paper,Singapore City,1,Journal,2-s2.0-57649174704
+Koonin E.,,Genomics of bacteria and archaea: The emerging dynamic view of the prokaryotic world,2008,Nucleic Acids Research,425,10.1093/nar/gkn668,United States,Article,Bethesda,1,Journal,2-s2.0-57149085868
+Maillart T.,,Empirical tests of Zipf's law mechanism in open source linux distribution,2008,Physical Review Letters,64,10.1103/PhysRevLett.101.218701,Switzerland,Article,"Zurich ZH,",0,Journal,2-s2.0-56849096514
+Louridas P.,,Power laws in software,2008,ACM Transactions on Software Engineering and Methodology,135,10.1145/1391984.1391986,Greece,Article,Athens,0,Journal,2-s2.0-53749089815
+Java A.,,Why we twitter: Understanding microblogging usage and communities,2007,Joint Ninth WebKDD and First SNA-KDD 2007 Workshop on Web Mining and Social Network Analysis,1769,10.1145/1348549.1348556,United States,Conference Paper,Baltimore,0,Conference Proceeding,2-s2.0-43449135033
+Danchin A.,,The extant core bacterial proteome is an archive of the origin of life,2007,Proteomics,42,10.1002/pmic.200600442,France,Review,Paris,0,Journal,2-s2.0-33947725697
+Yamada T.,,Extraction of phylogenetic network modules from the metabolic network,2006,BMC Bioinformatics,42,10.1186/1471-2105-7-130,Japan,Article,Kyoto,1,Journal,2-s2.0-33745942567
+Handorf T.,,"Expanding metabolic networks: Scopes of compounds, robustness, and evolution",2005,Journal of Molecular Evolution,113,10.1007/s00239-005-0027-1,Germany,Article,Berlin,0,Journal,2-s2.0-26244437466
+Barabási A.,,Network biology: Understanding the cell's functional organization,2004,Nature Reviews Genetics,5028,10.1038/nrg1272,United States,Review,Notre Dame,0,Journal,2-s2.0-0742305866
+Albert R.,,Statistical mechanics of complex networks,2002,Reviews of Modern Physics,13636,10.1103/RevModPhys.74.47,United States;United States,Article,Minneapolis;Notre Dame,0,Journal,2-s2.0-0036013593
+Jeong H.,,The large-scale organization of metabolic networks,2000,Nature,3529,10.1038/35036627,United States,Article,Notre Dame,0,Journal,2-s2.0-0034609791
+Kanehisa M.,,KEGG: Kyoto Encyclopedia of Genes and Genomes,2000,Nucleic Acids Research,11105,10.1093/nar/28.1.27,Japan,Short Survey,Kyoto,1,Journal,2-s2.0-0033982936
+De Solla Price D.,,Networks of scientific papers,1965,Science,1661,10.1126/science.149.3683.510,United States,Article,New Haven,0,Journal,2-s2.0-0000432228

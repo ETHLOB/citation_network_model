@@ -1,0 +1,11 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Balasubramaniyan R.,,Clustering of gene expression data using a local shape-based similarity measure,2005,Bioinformatics,87,10.1093/bioinformatics/bti095,Germany,Article,Marburg,1,Journal,2-s2.0-16344369007
+Schliep A.,,Using hidden Markov models to analyze gene expression time course data,2003,Bioinformatics,157,10.1093/bioinformatics/btg1036,Germany,Conference Paper,Berlin,1,Journal,2-s2.0-4944252468
+Peddada S.,,Gene selection and clustering for time-course and dose-response microarray experiments using order-restricted inference,2003,Bioinformatics,125,10.1093/bioinformatics/btg093,United States,Article,Research Triangle Park,1,Journal,2-s2.0-0037620663
+Luan Y.,,Clustering of time-course gene expression data using a mixed-effects model with B-splines,2003,Bioinformatics,224,10.1093/bioinformatics/btg014,China;United States,Article,Beijing;Davis,1,Journal,2-s2.0-0037339264
+Datta S.,,Comparisons and validation of statistical clustering techniques for microarray gene expression data,2003,Bioinformatics,249,10.1093/bioinformatics/btg025,United States,Article,Atlanta,1,Journal,2-s2.0-0037342510
+de Hoon M.J.L.,,Statistical analysis of a small set of time-ordered gene expression data using linear splines,2002,Bioinformatics,44,10.1093/bioinformatics/18.11.1477,Japan,Article,Tokyo,1,Journal,2-s2.0-0036855903
+Lobenhofer E.,,Regulation of DNA replication fork genes by 17β-estradiol,2002,Molecular Endocrinology,67,10.1210/me.16.6.1215,United States;United States,Article,Research Triangle Park;Research Triangle Park,0,Journal,2-s2.0-0035989216
+Heyer L.,,Exploring expression data identification and analysis of coexpressed genes,1999,Genome Research,765,10.1101/gr.9.11.1106,,Article,,1,Journal,2-s2.0-0032729435
+Chu S.,,The transcriptional program of sporulation in budding yeast,1998,Science,1448,10.1126/science.282.5389.699,United States,Article,San Francisco,0,Journal,2-s2.0-0032561246
+Rand W.,,Objective criteria for the evaluation of clustering methods,1971,Journal of the American Statistical Association,3257,10.1080/01621459.1971.10482356,United States,Article,Cambridge,0,Journal,2-s2.0-84950632109

@@ -1,0 +1,23 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Vêncio R.,,BayGO: Bayesian analysis of ontology term enrichment in microarray data,2006,BMC Bioinformatics,41,10.1186/1471-2105-7-86,Brazil;Brazil,Article,Sao Paulo;Sao Paulo,1,Journal,2-s2.0-33645851033
+Carmona-Saez P.,,Integrated analysis of gene expression by association rules discovery,2006,BMC Bioinformatics,91,10.1186/1471-2105-7-54,Spain,Article,Madrid,1,Journal,2-s2.0-33644656960
+Khatri P.,,"Ontological analysis of gene expression data: Current tools, limitations, and open problems",2005,Bioinformatics,624,10.1093/bioinformatics/bti565,United States,Review,Detroit,1,Journal,2-s2.0-24644470505
+Al-Shahrour F.,,BABELOMICS: A suite of web tools for functional annotation and analysis of groups of genes in high-throughput experiments,2005,Nucleic Acids Research,197,10.1093/nar/gki456,Spain,Article,Madrid,1,Journal,2-s2.0-21444445084
+Zhang B.,,WebGestalt: An integrated system for exploring gene sets in various biological contexts,2005,Nucleic Acids Research,1209,10.1093/nar/gki475,United States,Article,Oak Ridge,1,Journal,2-s2.0-23144464901
+Maglott D.,,Entrez Gene: Gene-centered information at NCBI,2005,Nucleic Acids Research,661,10.1093/nar/gki031,United States,Article,Bethesda,1,Journal,2-s2.0-13444272087
+Boyle E.,,GO::TermFinder - Open source software for accessing Gene Ontology information and finding significantly enriched Gene Ontology terms associated with a list of genes,2004,Bioinformatics,1176,10.1093/bioinformatics/bth456,United States,Article,Stanford,1,Journal,2-s2.0-12344269924
+Baker D.J.,,BubR1 insufficiency causes early onset of aging-associated phenotypes and infertility in mice,2004,Nature Genetics,522,10.1038/ng1382,United States,Article,Rochester,1,Journal,2-s2.0-3042761646
+Zhang B.,,GOTree Machine (GOTM): A web-based platform for interpreting sets of interesting genes using Gene Ontology hierarchies,2004,BMC Bioinformatics,354,10.1186/1471-2105-5-16,United States,Article,Oak Ridge,1,Journal,2-s2.0-2942550697
+Kanehisa M.,,The KEGG resource for deciphering the genome,2004,Nucleic Acids Research,2705,,Japan,Article,Kyoto,0,Journal,2-s2.0-0345863935
+Berriz G.F.,,Characterizing gene sets with FuncAssociate,2003,Bioinformatics,346,10.1093/bioinformatics/btg363,United States,Article,Boston,1,Journal,2-s2.0-0347513219
+Van Roermund C.,,Fatty acid metabolism in Saccharomyces cerevisiae,2003,Cellular and Molecular Life Sciences,77,10.1007/s00018-003-3076-x,Netherlands,Review,Amsterdam,0,Journal,2-s2.0-0141861070
+Castillo-Davis C.,,"GeneMerge - Post-genomic analysis, data mining, and hypothesis testing",2003,Bioinformatics,212,10.1093/bioinformatics/btg114,United States,Article,Cambridge,0,Journal,2-s2.0-0038522873
+Drǎghici S.,,Global functional profiling of gene expression,2003,Genomics,463,10.1016/S0888-7543(02)00021-6,United States,Article,Detroit,0,Journal,2-s2.0-0037293075
+Dennis G.,,"DAVID: Database for Annotation, Visualization, and Integrated Discovery.",2003,Genome biology,6167,,United States,Article,Frederick,0,Journal,2-s2.0-0038005018
+Groot Koerkamp M.,,Dissection of transient oxidative stress response in Saccharomyces cerevisiae by using DNA microarrays,2002,Molecular Biology of the Cell,95,10.1091/mbc.E02-02-0075,Netherlands,Article,Amsterdam,0,Journal,2-s2.0-0036678847
+Smith J.,,Transcriptome profiling to identify genes involved in peroxisome assembly and function,2002,Journal of Cell Biology,154,10.1083/jcb.200204059,United States,Article,Seattle,0,Journal,2-s2.0-19044367930
+Su A.I.,,Large-scale analysis of the human and mouse transcriptomes,2002,Proceedings of the National Academy of Sciences of the United States of America,1201,10.1073/pnas.012025199,United States,Article,San Diego,1,Journal,2-s2.0-0037007048
+Rhee K.,,Tcp10 promoter-directed expression of the Nek2 gene in mouse meiotic spermatocytes,2002,Molecules and Cells,4,,South Korea,Article,Seoul,0,Journal,2-s2.0-0037186951
+Khatri P.,,Profiling gene expression using Onto-Express,2002,Genomics,368,10.1006/geno.2002.6698,United States,Article,Detroit,0,Journal,2-s2.0-0035704901
+Ashburner M.,,Gene ontology: Tool for the unification of biology,2000,Nature Genetics,21253,10.1038/75556,,Review,,0,Journal,2-s2.0-0034069495
+Agrawal R.,,Mining Association Rules Between Sets of Items in Large Databases,1993,ACM SIGMOD Record,10444,10.1145/170036.170072,United States,Article,San Jose,0,Journal,2-s2.0-0027621699

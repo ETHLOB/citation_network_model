@@ -1,0 +1,14 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Newman M.,,The structure and dynamics of networks,2011,The Structure and Dynamics of Networks,1018,,,Book,,0,Book,2-s2.0-84884073625
+Van Mieghem P.,,Virus spread in networks,2009,IEEE/ACM Transactions on Networking,524,10.1109/TNET.2008.925623,Netherlands,Article,Delft,0,Journal,2-s2.0-61449222889
+Omic J.,,Virus spread in complete bi-partite graphs,2007,"Proceedings of the Bio-Inspired Models of Network, Information, and Computing Systems, Bionetics 2007",7,10.1109/BIMNICS.2007.4610080,Netherlands,Conference Paper,Delft,0,Conference Proceeding,2-s2.0-53149138996
+Schumm P.,,Epidemic spreading on weighted contact networks,2007,"Proceedings of the Bio-Inspired Models of Network, Information, and Computing Systems, Bionetics 2007",17,10.1109/BIMNICS.2007.4610111,United States,Conference Paper,Manhattan,0,Conference Proceeding,2-s2.0-53149092902
+Chakrabarti D.,,Information survival threshold in sensor and P2P networks,2007,Proceedings - IEEE INFOCOM,48,10.1109/INFCOM.2007.156,United States,Conference Paper,Sunnyvale,0,Conference Proceeding,2-s2.0-34548312516
+Ganesh A.,,The effect of network topology on the spread of epidemics,2005,Proceedings - IEEE INFOCOM,478,10.1109/INFCOM.2005.1498374,United Kingdom,Conference Paper,Cambridge,0,Conference Proceeding,2-s2.0-25844439630
+Paul G.,,Optimization of robustness of complex networks,2004,European Physical Journal B,137,10.1140/epjb/e2004-00112-3,United States,Conference Paper,Boston,0,Journal,2-s2.0-2942534914
+Wang Y.,,Epidemic spreading in real networks: An eigenvalue viewpoint,2003,Proceedings of the IEEE Symposium on Reliable Distributed Systems,504,10.1109/RELDIS.2003.1238052,United States,Conference Paper,Pittsburgh,0,Conference Proceeding,2-s2.0-27644462218
+Wang Y.,,Modeling the effects of timing parameters on virus propagation,2003,WORM'03 - Proceedings of the 2003 ACM Workshop on Rapid Malcode,100,10.1145/948187.948198,United States,Conference Paper,Pittsburgh,0,Conference Proceeding,2-s2.0-4544275741
+Pastor-Satorras R.,,Epidemic spreading in scale-free networks,2001,Physical Review Letters,3738,10.1103/PhysRevLett.86.3200,Spain,Article,Barcelona,0,Journal,2-s2.0-0035794256
+Albert R.,,Error and attack tolerance of complex networks,2000,Nature,5597,10.1038/35019019,United States,Article,Notre Dame,0,Journal,2-s2.0-0034721164
+Watts D.J.,,Collective dynamics of 'small-world9 networks,1998,Nature,25779,10.1038/30918,United States,Article,Ithaca,0,Journal,2-s2.0-0032482432
+Kephart J.,,Directed-graph epidemiological models of computer viruses,1991,Proceedings of the Symposium on Security and Privacy,519,,United States,Conference Paper,Yorktown Heights,0,Conference Proceeding,2-s2.0-0026156688

@@ -1,0 +1,19 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Yendrek C.,,The bench scientist's guide to statistical analysis of RNA-Seq data,2012,BMC Research Notes,23,10.1186/1756-0500-5-506,United States,Article,"Washington, D.C.",1,Journal,2-s2.0-84866145935
+Wu D.,,Camera: A competitive gene set test accounting for inter-gene correlation,2012,Nucleic Acids Research,259,10.1093/nar/gks461,Australia;Australia;United States,Article,Melbourne;Parkville;Cambridge,1,Journal,2-s2.0-84866911829
+Zhang J.,,The impact of next-generation sequencing on genomics,2011,Journal of Genetics and Genomics,294,10.1016/j.jgg.2011.02.003,United States,Review,El Paso,0,Journal,2-s2.0-79953685152
+Eddelbuettel D.,,Rcpp: Seamless R and C++ integration,2011,Journal of Statistical Software,459,10.18637/jss.v040.i08,United States,Article,,1,Journal,2-s2.0-79961240792
+Maglott D.,,Entrez gene: Gene-centered information at NCBI,2011,Nucleic Acids Research,459,10.1093/nar/gkq1237,United States,Article,Bethesda,1,Journal,2-s2.0-78651317908
+Flicek P.,,Ensembl 2011,2011,Nucleic Acids Research,574,10.1093/nar/gkq1064,United Kingdom;United Kingdom,Article,Cambridge;Hinxton,1,Journal,2-s2.0-78651289449
+Shi W.,,Optimizing the noise versus bias trade-off for Illumina whole genome expression BeadChips,2010,Nucleic Acids Research,139,10.1093/nar/gkq871,Australia,Article,Melbourne,1,Journal,2-s2.0-78650483491
+Goecks J.,,"Galaxy: a comprehensive approach for supporting accessible, reproducible, and transparent computational research in the life sciences",2010,Genome Biology,2418,10.1186/gb-2010-11-8-r86,United States,Article,Atlanta,1,Journal,2-s2.0-77955801615
+Wu D.,,ROAST: Rotation gene set tests for complex microarray experiments,2010,Bioinformatics,233,10.1093/bioinformatics/btq401,Australia;Australia,Article,Melbourne;Parkville,1,Journal,2-s2.0-77955889132
+Floratos A.,,geWorkbench: An open source platform for integrative genomics,2010,Bioinformatics,64,10.1093/bioinformatics/btq282,United States,Article,New York,1,Journal,2-s2.0-77954519381
+Pickrell J.,,Understanding mechanisms underlying human gene expression variation with RNA sequencing,2010,Nature,849,10.1038/nature08872,,Article,,0,Journal,2-s2.0-77950460661
+Robinson M.,,edgeR: A Bioconductor package for differential expression analysis of digital gene expression data,2009,Bioinformatics,11916,10.1093/bioinformatics/btp616,Australia;Australia,Article,Melbourne;Sydney,1,Journal,2-s2.0-75249087100
+Saeed A.,,[9] TM4 Microarray Software Suite,2006,Methods in Enzymology,1323,10.1016/S0076-6879(06)11009-5,,Review,,0,Book Series,2-s2.0-33747894577
+Reich M.,,GenePattern 2.0 [2],2006,Nature Genetics,1266,10.1038/ng0506-500,United States,Letter,Cambridge,0,Journal,2-s2.0-33646361583
+Eppig J.,,The Mouse Genome Database (MGD): From genes to mice - A community resource for mouse biology,2005,Nucleic Acids Research,180,10.1093/nar/gki113,United States,Article,Bar Harbor,1,Journal,2-s2.0-13444254254
+Wettenhall J.,,limmaGUI: A graphical user interface for linear modeling of microarray data,2004,Bioinformatics,526,10.1093/bioinformatics/bth449,Australia,Article,Melbourne,1,Journal,2-s2.0-12344330424
+Smyth G.K.,,Linear models and empirical bayes methods for assessing differential expression in microarray experiments,2004,Statistical Applications in Genetics and Molecular Biology,7988,10.2202/1544-6115.1027,Australia,Article,Melbourne,0,Journal,2-s2.0-4544341015
+Gentleman R.,,Bioconductor: open software development for computational biology and bioinformatics.,2004,Genome biology,8443,,United States,Article,Boston,0,Journal,2-s2.0-28744458859

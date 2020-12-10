@@ -1,0 +1,40 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Michele Rajtmajer S.,,A note on the Estrada-Hatano communicability algorithm for detecting community structure in complex networks,2010,Applied Mathematics and Computation,3,10.1016/j.amc.2010.09.026,Croatia,Article,Dubrovnik,0,Journal,2-s2.0-78049272791
+Estrada E.,,Network science: Complexity in nature and technology,2010,Network Science: Complexity in Nature and Technology,34,10.1007/978-1-84996-396-1,United Kingdom,Book,Glasgow,0,Book,2-s2.0-84892076203
+Estrada E.,,Network properties revealed through matrix functions,2010,SIAM Review,156,10.1137/090761070,United Kingdom,Article,Glasgow,0,Journal,2-s2.0-79952942310
+Benzi M.,,Quadrature rule-based bounds for functions of adjacency matrices,2010,Linear Algebra and Its Applications,55,10.1016/j.laa.2010.03.035,United States,Article,Atlanta,1,Journal,2-s2.0-77953139600
+Newman M.,,Networks: An Introduction,2010,Networks: An Introduction,6212,10.1093/acprof:oso/9780199206650.001.0001,United States,Book,Ann Arbor,0,Book,2-s2.0-77954826067
+Estrada E.,,Generalized walks-based centrality measures for complex biological networks,2010,Journal of Theoretical Biology,43,10.1016/j.jtbi.2010.01.014,United Kingdom,Article,Glasgow,0,Journal,2-s2.0-77649338567
+Estrada E.,,Communicability graph and community structures in complex networks,2009,Applied Mathematics and Computation,47,10.1016/j.amc.2009.04.024,Japan;United Kingdom,Article,Tokyo;Glasgow,0,Journal,2-s2.0-67649185257
+Crofts J.,,A weighted communicability measure applied to complex brain networks,2009,Journal of the Royal Society Interface,67,10.1098/rsif.2008.0484,United Kingdom,Article,Glasgow,0,Journal,2-s2.0-65249163272
+Porter M.,,Communities in networks,2009,Notices of the American Mathematical Society,642,,United Kingdom,Article,Oxford,0,Journal,2-s2.0-70349607513
+Gulbahce N.,,The art of community detection,2008,BioEssays,57,10.1002/bies.20820,United States;United States,Article,Boston;Boston,0,Journal,2-s2.0-53149136598
+Brandes U.,,Engineering graph clustering: Models and experimental evaluation,2008,ACM Journal of Experimental Algorithmics,57,10.1145/1227161.1227162,Germany,Article,Konstanz,0,Journal,2-s2.0-51149084352
+Estrada E.,,Communicability in complex networks,2008,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",319,10.1103/PhysRevE.77.036111,Spain,Article,Santiago de Compostela,0,Journal,2-s2.0-40949124684
+Benzi M.,,Decay bounds and O(n) algorithms for approximating functions of sparse matrices,2007,Electronic Transactions on Numerical Analysis,58,,United States,Article,Atlanta,0,Journal,2-s2.0-54549085632
+Von Luxburg U.,,A tutorial on spectral clustering,2007,Statistics and Computing,4571,10.1007/s11222-007-9033-z,Germany,Article,Tubingen,0,Journal,2-s2.0-34548583274
+Schaeffer S.,,Graph clustering,2007,Computer Science Review,1125,10.1016/j.cosrev.2007.05.001,Finland,Article,Espoo,0,Journal,2-s2.0-35248893285
+Rosvall M.,,An information-theoretic framework for resolving community structure in complex networks,2007,Proceedings of the National Academy of Sciences of the United States of America,481,10.1073/pnas.0611034104,United States,Article,Seattle,1,Journal,2-s2.0-34250655368
+Fortunato S.,,Resolution limit in community detection,2007,Proceedings of the National Academy of Sciences of the United States of America,1725,10.1073/pnas.0605965104,Italy;Germany;United States,Review,Turin;Bielefeld;Bloomington,1,Journal,2-s2.0-33846126275
+Pržulj N.,,Biological network comparison using graphlet degree distribution,2007,Bioinformatics,394,10.1093/bioinformatics/btl301,United States,Conference Paper,Irvine,1,Journal,2-s2.0-33846672214
+Borgatti S.,,A Graph-theoretic perspective on centrality,2006,Social Networks,748,10.1016/j.socnet.2005.11.005,United States,Article,Chestnut Hill,0,Journal,2-s2.0-33746192198
+Newman M.,,Modularity and community structure in networks,2006,Proceedings of the National Academy of Sciences of the United States of America,5550,10.1073/pnas.0601602103,United States,Article,Ann Arbor,1,Journal,2-s2.0-33745012299
+Estrada E.,,Spectral scaling and good expansion properties in complex networks,2006,Europhysics Letters,73,10.1209/epl/i2005-10441-3,Spain,Article,Santiago de Compostela,0,Journal,2-s2.0-32944468054
+Newman M.E.J.,,Finding community structure in networks using the eigenvectors of matrices,2006,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",2559,10.1103/PhysRevE.74.036104,United States,Article,Ann Arbor,0,Journal,2-s2.0-33749468596
+Zass R.,,A unifying approach to hard and probabilistic clustering,2005,Proceedings of the IEEE International Conference on Computer Vision,85,10.1109/ICCV.2005.27,Israel,Conference Paper,Jerusalem,0,Conference Proceeding,2-s2.0-33745936031
+Song C.,,Self-similarity of complex networks,2005,Nature,866,10.1038/nature03248,United States,Article,New York,0,Journal,2-s2.0-13444263410
+Boutin F.,,Cluster validity indices for graph partitioning,2004,Proceedings of the International Conference on Information Visualization,40,,France,Conference Paper,Montpellier,0,Conference Proceeding,2-s2.0-4644233590
+Kannan R.,,"On clusterings: Good, bad and spectral",2004,Journal of the ACM,486,10.1145/990308.990313,United States,Article,New Haven,0,Journal,2-s2.0-4243128193
+Lusseau D.,,The emergent properties of a dolphin social network,2003,Proceedings of the Royal Society B: Biological Sciences,531,10.1098/rsbl.2003.0057,New Zealand,Article,Dunedin,0,Journal,2-s2.0-0242490500
+Moler C.,,"Nineteen dubious ways to compute the exponential of a matrix, twenty-five years later",2003,SIAM Review,1293,10.1137/S00361445024180,United States,Review,Natick,0,Journal,2-s2.0-0037354371
+Newman M.,,The structure and function of complex networks,2003,SIAM Review,11537,10.1137/S003614450342480,United States,Review,Ann Arbor,0,Journal,2-s2.0-0038718854
+Milo R.,,Network motifs: Simple building blocks of complex networks,2002,Science,4255,10.1126/science.298.5594.824,Israel,Article,Rehovot,0,Journal,2-s2.0-0037174670
+Albert R.,,Statistical mechanics of complex networks,2002,Reviews of Modern Physics,13645,10.1103/RevModPhys.74.47,United States;United States,Article,Minneapolis;Notre Dame,0,Journal,2-s2.0-0036013593
+Girvan M.,,Community structure in social and biological networks,2002,Proceedings of the National Academy of Sciences of the United States of America,8662,10.1073/pnas.122653799,United States;United States,Article,Santa Fe;Ithaca,1,Journal,2-s2.0-0037062448
+Jain A.,,Data clustering: A review,1999,ACM Computing Surveys,8758,10.1145/331499.331504,United States,Conference Paper,East Lansing,0,Journal,2-s2.0-84893405732
+Barabási A.,,Emergence of scaling in random networks,1999,Science,22122,10.1126/science.286.5439.509,United States,Article,Notre Dame,0,Journal,2-s2.0-0038483826
+Alpert C.J.,,Spectral partitioning with multiple eigenvectors,1999,Discrete Applied Mathematics,121,10.1016/S0166-218X(98)00083-3,United States,Article,Austin,1,Journal,2-s2.0-0002334967
+Watts D.J.,,Collective dynamics of 'small-world9 networks,1998,Nature,25779,10.1038/30918,United States,Article,Ithaca,0,Journal,2-s2.0-0032482432
+Rousseeuw P.,,Silhouettes: A graphical aid to the interpretation and validation of cluster analysis,1987,Journal of Computational and Applied Mathematics,6001,10.1016/0377-0427(87)90125-7,Switzerland,Article,Fribourg,1,Journal,2-s2.0-0023453329
+Davies D.,,A Cluster Separation Measure,1979,IEEE Transactions on Pattern Analysis and Machine Intelligence,3799,10.1109/TPAMI.1979.4766909,United States,Article,Leuven,0,Journal,2-s2.0-0017953820
+Kernighan B.,,An Efficient Heuristic Procedure for Partitioning Graphs,1970,Bell System Technical Journal,3149,10.1002/j.1538-7305.1970.tb01770.x,,Article,,0,Journal,2-s2.0-84990479742

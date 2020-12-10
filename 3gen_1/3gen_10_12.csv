@@ -1,0 +1,34 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Gerstein M.B.,,Architecture of the human regulatory network derived from ENCODE data,2012,Nature,911,10.1038/nature11245,United States,Article,New Haven,1,Journal,2-s2.0-84865739425
+MacArthur D.,,A systematic survey of loss-of-function variants in human protein-coding genes,2012,Science,733,10.1126/science.1215040,Australia;United Kingdom,Article,Sydney;Hinxton,0,Journal,2-s2.0-84863116742
+Wang X.,,Three-dimensional reconstruction of protein networks provides insight into human genetic disease,2012,Nature Biotechnology,257,10.1038/nbt.2106,United States;United States,Article,Ithaca;Ithaca,1,Journal,2-s2.0-84863010950
+Flicek P.,,Ensembl 2012,2012,Nucleic Acids Research,736,10.1093/nar/gkr991,United Kingdom,Article,London,1,Journal,2-s2.0-84858221706
+Bhardwaj N.,,Integration of protein motions with molecular networks reveals different mechanisms for permanent and transient interactions,2011,Protein Science,23,10.1002/pro.710,United States,Article,New Haven,1,Journal,2-s2.0-80053145220
+Wang X.,,Network-based methods for human disease gene prediction,2011,Briefings in Functional Genomics,135,10.1093/bfgp/elr024,United States,Article,Ithaca,1,Journal,2-s2.0-80054991882
+Montanucci L.,,Molecular evolution and network-level analysis of the N-glycosylation metabolic pathway across primates,2011,Molecular Biology and Evolution,23,10.1093/molbev/msq259,Spain,Article,Barcelona,1,Journal,2-s2.0-78650467091
+Altshuler D.L.,,A map of human genome variation from population-scale sequencing,2010,Nature,5208,10.1038/nature09534,United States;United States;United States,Article,Boston;Boston;Cambridge,1,Journal,2-s2.0-84975742565
+Korcsmáros T.,,Uniformly curated signaling pathways reveal tissue-specific cross-talks and support drug target discovery,2010,Bioinformatics,60,10.1093/bioinformatics/btq310,Hungary;Hungary,Article,Budapest;Budapest,1,Journal,2-s2.0-77955444349
+Adzhubei I.,,A method and server for predicting damaging missense mutations,2010,Nature Methods,7375,10.1038/nmeth0410-248,United States,Letter,Boston,0,Journal,2-s2.0-77951640946
+Kandasamy K.,,NetPath: A public resource of curated signal transduction pathways,2010,Genome Biology,266,10.1186/gb-2010-11-1-r3,United States;India,Article,Baltimore;Bangalore,1,Journal,2-s2.0-77349091815
+Lin J.,,Understanding protein phosphorylation on a systems level,2010,Briefings in Functional Genomics and Proteomics,25,10.1093/bfgp/elp045,United States,Article,Baltimore,1,Journal,2-s2.0-77950361921
+Kanehisa M.,,KEGG for representation and analysis of molecular networks involving diseases and drugs,2009,Nucleic Acids Research,1585,10.1093/nar/gkp896,Japan;Japan,Article,Tokyo;Kyoto,1,Journal,2-s2.0-75549090213
+Kumar P.,,Predicting the effects of coding non-synonymous variants on protein function using the SIFT algorithm,2009,Nature Protocols,4200,10.1038/nprot.2009.86,United States,Article,Rockville,0,Journal,2-s2.0-68149165614
+Cui Q.,,Protein evolution on a human signaling network,2009,BMC Systems Biology,46,10.1186/1752-0509-3-21,Canada;China,Article,"Ottawa ON,;Beijing",1,Journal,2-s2.0-61849118567
+Stenson P.,,The human gene mutation database: 2008 update,2009,Genome Medicine,615,10.1186/gm13,United Kingdom,Letter,Cardiff,1,Journal,2-s2.0-77953446523
+Wang J.,,The diploid genome sequence of an Asian individual,2008,Nature,700,10.1038/nature07484,China;Denmark;China;China,Article,Shenzhen;Odense;Shenzhen;Beijing,1,Journal,2-s2.0-55549097849
+Liao B.,,Null mutations in human and mouse orthologs frequently result in different phenotypes,2008,Proceedings of the National Academy of Sciences of the United States of America,157,10.1073/pnas.0800387105,United States,Article,Ann Arbor,1,Journal,2-s2.0-44349173103
+Wheeler D.A.,,The complete genome of an individual by massively parallel DNA sequencing,2008,Nature,1297,10.1038/nature06884,United States,Article,Houston,1,Journal,2-s2.0-42249087308
+Kim P.,,Positive selection at the protein network periphery: Evaluation in terms of structural constraints and cellular context,2007,Proceedings of the National Academy of Sciences of the United States of America,101,10.1073/pnas.0710183104,United States,Article,New Haven,1,Journal,2-s2.0-38049138722
+Levy S.,,The diploid genome sequence of an individual human,2007,PLoS Biology,1225,10.1371/journal.pbio.0050254,United States,Article,Rockville,1,Journal,2-s2.0-35648976118
+Goh K.,,The human disease network,2007,Proceedings of the National Academy of Sciences of the United States of America,2103,10.1073/pnas.0701361104,United States;United States;South Korea;United States,Article,Notre Dame;Boston;Seoul;Boston,1,Journal,2-s2.0-34547140875
+Hoskins B.E.,,Transcription factor SIX5 is mutated in patients with branchio-oto-renal syndrome,2007,American Journal of Human Genetics,126,10.1086/513322,United States,Article,Ann Arbor,1,Journal,2-s2.0-34147143953
+Kim P.,,Relating three-dimensional structures to protein networks provides evolutionary insights,2006,Science,374,10.1126/science.1136174,United States,Article,New Haven,0,Journal,2-s2.0-33845875196
+Ng P.,,Predicting the effects of amino acid substitutions on protein function,2006,Annual Review of Genomics and Human Genetics,649,10.1146/annurev.genom.7.080505.115630,United States,Review,Seattle,0,Book Series,2-s2.0-33750353461
+Vitkup D.,,Influence of metabolic network structure and function on enzyme evolution,2006,Genome Biology,128,10.1186/gb-2006-7-5-r39,United States,Article,New York,1,Journal,2-s2.0-33745107471
+Stark C.,,BioGRID: a general repository for interaction datasets.,2006,Nucleic acids research,2183,10.1093/nar/gkj109,Canada,Article,Toronto,1,Journal,2-s2.0-33644873184
+Pagel P.,,The MIPS mammalian protein-protein interaction database,2005,Bioinformatics,377,10.1093/bioinformatics/bti115,Germany,Article,Neuherberg,1,Journal,2-s2.0-20144387067
+Finn R.,,iPfam: Visualization of protein-protein interactions in PDB at domain and amino acid resolutions,2005,Bioinformatics,247,10.1093/bioinformatics/bti011,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-13844264506
+Joshi-Tope G.,,Reactome: A knowledgebase of biological pathways,2005,Nucleic Acids Research,860,10.1093/nar/gki072,United States,Article,Cold Spring Harbor,1,Journal,2-s2.0-13444259844
+Saunders C.T.,,Evaluation of structural and evolutionary contributions to deleterious mutation prediction,2002,Journal of Molecular Biology,165,10.1016/S0022-2836(02)00813-6,United States,Article,Seattle,0,Journal,2-s2.0-0036387236
+Jeong H.,,Lethality and centrality in protein networks,2001,Nature,3476,10.1038/35075138,United States,Article,Notre Dame,0,Journal,2-s2.0-0035799707
+Ogata H.,,KEGG: Kyoto encyclopedia of genes and genomes,1999,Nucleic Acids Research,2458,10.1093/nar/27.1.29,Japan,Review,Uji,1,Journal,2-s2.0-0032919364

@@ -1,0 +1,40 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Newman M.,,The structure and dynamics of networks,2011,The Structure and Dynamics of Networks,1018,,,Book,,0,Book,2-s2.0-84884073625
+Clauset A.,,Power-law distributions in empirical data,2009,SIAM Review,4476,10.1137/070710111,United States;United States,Review,Albuquerque;Santa Fe,0,Journal,2-s2.0-65549085067
+Schmahmann J.D.,,Fiber Pathways of the Brain,2009,Fiber Pathways of the Brain,805,10.1093/acprof:oso/9780195104233.001.0001,United States,Book,Boston,0,Book,2-s2.0-84920033495
+Bohland J.W.,,A proposal for a coordinated effort for the determination of brainwide neuroanatomical connectivity in model organisms at a mesoscopic scale,2009,PLoS Computational Biology,188,10.1371/journal.pcbi.1000334,United States,Review,Cold Spring Harbor,1,Journal,2-s2.0-63549119962
+Sporns O.,,Identification and classification of hubs in brain networks,2007,PLoS ONE,704,10.1371/journal.pone.0001049,United States,Article,Bloomington,1,Journal,2-s2.0-38349140387
+Vincent J.L.,,Intrinsic functional architecture in the anaesthetized monkey brain,2007,Nature,1242,10.1038/nature05758,United States;United States;United States,Article,Boston;St. Louis;Cambridge,0,Journal,2-s2.0-34247578209
+Kaiser M.,,Simulation of robustness against lesions of cortical networks,2007,European Journal of Neuroscience,159,10.1111/j.1460-9568.2007.05574.x,Germany;United Kingdom,Article,Bremen;Newcastle,0,Journal,2-s2.0-34250001993
+Orban G.,,Mapping the parietal cortex of human and non-human primates,2006,Neuropsychologia,207,10.1016/j.neuropsychologia.2005.11.001,Belgium,Article,Leuven,0,Journal,2-s2.0-33748181215
+Holten D.,,Hierarchical edge bundles: Visualization of adjacency relations in hierarchical data,2006,IEEE Transactions on Visualization and Computer Graphics,643,10.1109/TVCG.2006.147,Netherlands,Conference Paper,Eindhoven,0,Journal,2-s2.0-33845640864
+Kaiser M.,,"Nonoptimal component placement, but short processing paths, due to long-distance projections in neural systems",2006,PLoS Computational Biology,374,10.1371/journal.pcbi.0020095,Germany;United Kingdom,Article,Bremen;Newcastle,1,Journal,2-s2.0-33746636451
+Humphries M.,,"The brainstem reticular formation is a small-world, not scale-free, network",2006,Proceedings of the Royal Society B: Biological Sciences,384,10.1098/rspb.2005.3354,United Kingdom,Article,Sheffield,0,Journal,2-s2.0-33646689571
+Achard S.,,"A resilient, low-frequency, small-world human brain functional network with highly connected association cortical hubs",2006,Journal of Neuroscience,1583,10.1523/JNEUROSCI.3874-05.2006,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-30744439313
+Keller E.,,"Revisiting ""scale-free"" networks",2005,BioEssays,152,10.1002/bies.20294,United States,Review,Cambridge,0,Journal,2-s2.0-27744432926
+Fox M.D.,,"The human brain is intrinsically organized into dynamic, anticorrelated functional networks",2005,Proceedings of the National Academy of Sciences of the United States of America,5128,10.1073/pnas.0504136102,United States,Article,St. Louis,1,Journal,2-s2.0-22144469412
+Kötter R.,,Mapping brains without coordinates,2005,Philosophical Transactions of the Royal Society B: Biological Sciences,85,10.1098/rstb.2005.1625,Germany,Article,Dusseldorf,0,Journal,2-s2.0-21244478632
+Eguíluz V.,,Scale-free brain functional networks,2005,Physical Review Letters,1044,10.1103/PhysRevLett.94.018102,Spain,Article,Esporlas,0,Journal,2-s2.0-18144406182
+Newman M.,,A measure of betweenness centrality based on random walks,2005,Social Networks,1183,10.1016/j.socnet.2004.11.009,United States,Article,Ann Arbor,0,Journal,2-s2.0-13944252976
+Kötter R.,,"Online retrieval, processing, and visualization of primate connectivity data from the CoCoMac database",2004,Neuroinformatics,193,10.1385/NI:2:2:127,Germany,Article,Dusseldorf,0,Journal,2-s2.0-6344245918
+Sporns O.,,The small world of the cerebral cortex,2004,Neuroinformatics,835,10.1385/NI:2:2:145,United States,Review,Bloomington,0,Journal,2-s2.0-4444229670
+Sporns O.,,Motifs in Brain Networks,2004,PLoS Biology,451,10.1371/journal.pbio.0020369,United States,Article,Bloomington,1,Journal,2-s2.0-13844284450
+Orban G.,,Comparative mapping of higher visual areas in monkeys and humans,2004,Trends in Cognitive Sciences,384,10.1016/j.tics.2004.05.009,Belgium,Review,Leuven,0,Journal,2-s2.0-3042698238
+Astafiev S.V.,,"Functional organization of human intraparietal and frontal cortex for attending, looking, and pointing",2003,Journal of Neuroscience,479,10.1523/jneurosci.23-11-04689.2003,United States,Article,St. Louis,1,Journal,2-s2.0-0037779357
+Orban G.,,Similarities and differences in motion processing between the human and macaque brain: Evidence from fMRI,2003,Neuropsychologia,149,10.1016/S0028-3932(03)00177-5,Belgium,Article,3000 Leuven,0,Journal,2-s2.0-0038543958
+Barabási A.,,Scale-free networks,2003,Scientific American,1197,10.1038/scientificamerican0503-60,,Article,,0,Journal,2-s2.0-0038513959
+Stephan K.,,Advanced database methodology for the Collation of Connectivity data on the Macaque brain (CoCoMac),2001,Philosophical Transactions of the Royal Society B: Biological Sciences,247,10.1098/rstb.2001.0908,Germany,Article,Dusseldorf,0,Journal,2-s2.0-0035968438
+Amaral L.A.N.,,Classes of small-world networks,2000,Proceedings of the National Academy of Sciences of the United States of America,2113,10.1073/pnas.200327197,United States,Conference Paper,Boston,1,Journal,2-s2.0-0034633749
+Albert R.,,Error and attack tolerance of complex networks,2000,Nature,5589,10.1038/35019019,United States,Article,Notre Dame,0,Journal,2-s2.0-0034721164
+Stephan K.,,Coordinate-independent mapping of structural and functional data by objective relational transformation (ORT),2000,Philosophical Transactions of the Royal Society B: Biological Sciences,70,10.1098/rstb.2000.0548,Germany,Article,Dusseldorf,0,Journal,2-s2.0-0034728115
+Stephan K.,,Computational analysis of functional connectivity between areas of primate cerebral cortex,2000,Philosophical Transactions of the Royal Society B: Biological Sciences,194,10.1098/rstb.2000.0552,Germany,Article,Dusseldorf,0,Journal,2-s2.0-0034728114
+Scannell J.W.,,The connectional organization of the cortico-thalamic system of the cat,1999,Cerebral Cortex,282,10.1093/cercor/9.3.277,United Kingdom,Article,Newcastle,1,Journal,2-s2.0-0032931567
+Faloutsos M.,,On power-law relationships of the internet topology,1999,Computer Communication Review,3081,10.1145/316194.316229,United States;United States;Canada,Article,Riverside;Pittsburgh;Toronto,0,Journal,2-s2.0-0033204106
+Kleinberg J.M.,,Authoritative sources in a hyperlinked environment,1999,Journal of the ACM,5005,10.1145/324133.324140,United States,Article,Ithaca,0,Journal,2-s2.0-4243148480
+Watts D.J.,,Collective dynamics of 'small-world9 networks,1998,Nature,25754,10.1038/30918,United States,Article,Ithaca,0,Journal,2-s2.0-0032482432
+Page L.,,The anatomy of a large-scale hypertextual Web search engine,1998,Computer Networks,7248,,United States,Article,Palo Alto,0,Journal,2-s2.0-0038589165
+Hilgetag C.,,Indeterminate organization of the visual system,1996,Science,122,10.1126/science.271.5250.776,United Kingdom,Short Survey,Newcastle,0,Journal,2-s2.0-0030027057
+Young M.P.,,The organization of neural systems in the primate cerebral cortex,1993,Proceedings of the Royal Society B: Biological Sciences,218,10.1098/rspb.1993.0040,United Kingdom,Article,Oxford,0,Journal,2-s2.0-0027273888
+Young M.P.,,Objective analysis of the topological organization of the primate cortical visual system,1992,Nature,322,10.1038/358152a0,United Kingdom,Article,Oxford,0,Journal,2-s2.0-0026684846
+Felleman D.,,Distributed hierarchical processing in the primate cerebral cortex,1991,Cerebral Cortex,4855,10.1093/cercor/1.1.1,United States,Article,Houston,0,Journal,2-s2.0-0025718412
+Seidman S.,,Network structure and minimum degree,1983,Social Networks,901,10.1016/0378-8733(83)90028-X,United States,Article,Fairfax,0,Journal,2-s2.0-0000488788

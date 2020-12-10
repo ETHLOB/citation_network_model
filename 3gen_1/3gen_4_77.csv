@@ -1,0 +1,68 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Nott D.J.,,Bayesian projection approaches to variable selection in generalized linear models,2010,Computational Statistics and Data Analysis,11,10.1016/j.csda.2010.01.036,Singapore,Article,Singapore City,0,Journal,2-s2.0-77955390403
+Griffin J.,,Inference with normal-gamma prior distributions in regression problems,2010,Bayesian Analysis,200,10.1214/10-BA507,United Kingdom,Article,Canterbury,1,Journal,2-s2.0-78650337471
+Rinaldo A.,,Generalized density clustering,2010,Annals of Statistics,71,10.1214/10-AOS797,United States,Article,Pittsburgh,1,Journal,2-s2.0-77957604813
+Hennig C.,,Methods for merging Gaussian mixture components,2010,Advances in Data Analysis and Classification,130,10.1007/s11634-010-0058-3,United Kingdom,Article,London,0,Journal,2-s2.0-77955091542
+Gandy A.,,Sequential implementation of Monte Carlo tests with uniformly bounded resampling risk,2009,Journal of the American Statistical Association,35,10.1198/jasa.2009.tm08368,United Kingdom,Article,London,0,Journal,2-s2.0-70450280391
+Meinshausen N.,,p-Values for high-dimensional regression,2009,Journal of the American Statistical Association,163,10.1198/jasa.2009.tm08647,United Kingdom,Article,Oxford,0,Journal,2-s2.0-74049114503
+Fan J.,,Ultrahigh Dimensional Feature Selection: Beyond the Linear Model,2009,Journal of Machine Learning Research,229,,United States,Article,Princeton,0,Journal,2-s2.0-70449440300
+Valdar W.,,Mapping in structured populations by resample model averaging,2009,Genetics,98,10.1534/genetics.109.100727,United Kingdom,Article,Oxford,1,Journal,2-s2.0-68249130288
+Bickel P.J.,,Simultaneous analysis of lasso and dantzig selector,2009,Annals of Statistics,983,10.1214/08-AOS620,United States,Article,Berkeley,1,Journal,2-s2.0-68649086910
+Wainwright M.,,Sharp thresholds for high-dimensional and noisy sparsity recovery using ℓ<inf>1</inf>-constrained quadratic programming (Lasso),2009,IEEE Transactions on Information Theory,591,10.1109/TIT.2009.2016018,United States,Article,Berkeley,0,Journal,2-s2.0-65749083666
+Meinshausen N.,,Lasso-type recovery of sparse representations for high-dimensional data,2009,Annals of Statistics,339,10.1214/07-AOS582,United Kingdom,Article,Oxford,1,Journal,2-s2.0-65349193793
+Zhang T.,,On the consistency of feature selection using greedy least squares regression,2009,Journal of Machine Learning Research,102,,United States,Article,Piscataway,0,Journal,2-s2.0-64149088421
+Bach F.,,Bolasso: Model consistent Lasso estimation through the bootstrap,2008,Proceedings of the 25th International Conference on Machine Learning,186,,France,Conference Paper,Paris,0,Conference Proceeding,2-s2.0-56449120785
+Fan J.,,Sure independence screening for ultrahigh dimensional feature space,2008,Journal of the Royal Statistical Society. Series B: Statistical Methodology,1072,10.1111/j.1467-9868.2008.00674.x,United States,Article,Princeton,1,Journal,2-s2.0-53849086824
+Huang J.,,Adaptive Lasso for sparse high-dimensional regression models,2008,Statistica Sinica,277,,United States,Article,Iowa City,0,Journal,2-s2.0-51049096710
+Zhang C.,,The sparsity and bias of the lasso selection in high-dimensional linear regression,2008,Annals of Statistics,381,10.1214/07-AOS520,United States,Article,New Brunswick,1,Journal,2-s2.0-50949096321
+Strobl C.,,Conditional variable importance for random forests,2008,BMC Bioinformatics,1132,10.1186/1471-2105-9-307,Germany,Article,Munich,1,Journal,2-s2.0-48549095457
+Friedman J.,,Sparse inverse covariance estimation with the graphical lasso,2008,Biostatistics,2221,10.1093/biostatistics/kxm045,United States,Article,Palo Alto,1,Journal,2-s2.0-45849134070
+Park T.,,The Bayesian Lasso,2008,Journal of the American Statistical Association,1229,10.1198/016214508000000337,United States,Article,Gainesville,0,Journal,2-s2.0-49549105778
+Meinshausen N.,,A note on the Lasso for Gaussian graphical model selection,2008,Statistics and Probability Letters,20,10.1016/j.spl.2007.09.014,United States,Article,Berkeley,0,Journal,2-s2.0-42649092921
+Van De Geer S.A.,,High-dimensional generalized linear models and the Lasso,2008,Annals of Statistics,276,10.1214/009053607000000929,Switzerland,Article,"Zurich ZH,",1,Journal,2-s2.0-51049121146
+Banerjee O.,,Model selection through sparse maximum likelihood estimation for multivariate Gaussian or binary data,2008,Journal of Machine Learning Research,704,,United States,Article,Berkeley,0,Journal,2-s2.0-41549101939
+Bickel P.J.,,Regularized estimation of large covariance matrices,2008,Annals of Statistics,593,10.1214/009053607000000758,United States,Article,Berkeley,1,Journal,2-s2.0-41549106844
+Meier L.,,The group lasso for logistic regression,2008,Journal of the Royal Statistical Society. Series B: Statistical Methodology,776,10.1111/j.1467-9868.2007.00627.x,Switzerland,Article,"Zurich ZH,",0,Journal,2-s2.0-37849035696
+Zucknick M.,,Comparing the characteristics of gene expression profiles derived by univariate and multivariate classification methods,2008,Statistical Applications in Genetics and Molecular Biology,38,10.2202/1544-6115.1307,,Article,,0,Journal,2-s2.0-41649108521
+Rothman A.,,Sparse permutation invariant covariance estimation,2008,Electronic Journal of Statistics,441,10.1214/08-EJS176,United States,Article,Ann Arbor,1,Journal,2-s2.0-62349119614
+Candes E.,,The Dantzig selector: Statistical estimation when p is much larger than n,2007,Annals of Statistics,1730,10.1214/009053606000001523,United States;United States,Article,Pasadena;Los Angeles,1,Journal,2-s2.0-34548275795
+Zou H.,,"On the ""degrees of freedom"" of the lasso",2007,Annals of Statistics,458,10.1214/009053607000000127,United States,Article,Minneapolis,1,Journal,2-s2.0-34548536008
+Hans C.,,"Shotgun stochastic search for ""large p"" regression",2007,Journal of the American Statistical Association,120,10.1198/016214507000000121,United States,Article,Columbus,0,Journal,2-s2.0-34250747348
+Yuan M.,,Model selection and estimation in the Gaussian graphical model,2007,Biometrika,790,10.1093/biomet/asm018,United States,Article,Atlanta,0,Journal,2-s2.0-33947115409
+Hansheng W.,,Regression coefficient and autoregressive order shrinkage and selection via the lasso,2007,Journal of the Royal Statistical Society. Series B: Statistical Methodology,145,10.1111/j.1467-9868.2007.00577.x,China,Article,Beijing,0,Journal,2-s2.0-33846190566
+Bunea F.,,Sparsity oracle inequalities for the Lasso,2007,Electronic Journal of Statistics,209,10.1214/07-EJS008,United States,Article,Tallahassee,1,Journal,2-s2.0-50849114939
+Zhao P.,,On model selection consistency of Lasso,2006,Journal of Machine Learning Research,1237,,United States,Article,Berkeley,0,Journal,2-s2.0-33845263263
+Zou H.,,The adaptive lasso and its oracle properties,2006,Journal of the American Statistical Association,3032,10.1198/016214506000000735,United States,Article,Minneapolis,0,Journal,2-s2.0-33846114377
+Davis C.,,Reliable gene signatures for microarray classification: Assessment of stability and performance,2006,Bioinformatics,60,10.1093/bioinformatics/btl400,Germany,Article,Munich,0,Journal,2-s2.0-33750009273
+Leng C.,,A note on the Lasso and related procedures in model selection,2006,Statistica Sinica,140,,Singapore,Article,Singapore City,0,Journal,2-s2.0-33846193774
+Meinshausen N.,,High-dimensional graphs and variable selection with the Lasso,2006,Annals of Statistics,1676,10.1214/009053606000000281,Switzerland,Article,"Zurich ZH,",1,Journal,2-s2.0-33747163541
+Ben-David S.,,A sober look at clustering stability,2006,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),96,10.1007/11776420_4,Canada,Conference Paper,Waterloo,0,Book Series,2-s2.0-33746099301
+Tibshirani R.,,Cluster validation by prediction strength,2005,Journal of Computational and Graphical Statistics,275,10.1198/106186005X59243,United States,Article,Palo Alto,0,Journal,2-s2.0-26644472430
+Johnstone I.M.,,Empirical bayes selection of wavelet thresholds,2005,Annals of Statistics,198,10.1214/009053605000000345,United States,Article,Palo Alto,1,Journal,2-s2.0-18444410406
+Zou H.,,Regularization and variable selection via the elastic net,2005,Journal of the Royal Statistical Society. Series B: Statistical Methodology,6708,10.1111/j.1467-9868.2005.00503.x,United States,Article,Palo Alto,0,Journal,2-s2.0-16244401458
+Dalmasso C.,,A simple procedure for estimating the false discovery rate,2005,Bioinformatics,68,10.1093/bioinformatics/bti063,France,Article,Le Kremlin-Bicetre,1,Journal,2-s2.0-15844417905
+Michiels S.,,Prediction of cancer outcome with microarrays: A multiple random validation strategy,2005,Lancet,740,10.1016/S0140-6736(05)17866-0,France,Article,Villejuif,0,Journal,2-s2.0-13444249852
+Ein-Dor L.,,Outcome signature genes in breast cancer: Is there a unique set?,2005,Bioinformatics,592,10.1093/bioinformatics/bth469,Israel,Article,Rehovot,1,Journal,2-s2.0-13444282534
+Van De Geer S.,,High-dimensional data: P ≫ n in mathematical statistics and bio-medical applications,2004,Bernoulli,5,10.3150/bj/1106314843,Netherlands,Article,Leiden,1,Journal,2-s2.0-33747357771
+Tropp J.,,Greed is good: Algorithmic results for sparse approximation,2004,IEEE Transactions on Information Theory,2308,10.1109/TIT.2004.834793,United States,Article,Ann Arbor,0,Journal,2-s2.0-5444237123
+Sha N.,,Bayesian variable selection in multinomial probit models to identify molecular signatures of disease stage,2004,Biometrics,94,10.1111/j.0006-341X.2004.00233.x,United States,Review,El Paso,0,Journal,2-s2.0-4444239427
+Lange T.,,Stability-based validation of clustering solutions,2004,Neural Computation,305,10.1162/089976604773717621,Switzerland,Article,"Zurich ZH,",0,Journal,2-s2.0-2442611856
+Barbieri M.M.,,Optimal predictive model selection,2004,Annals of Statistics,397,10.1214/009053604000000238,Italy,Article,Rome,1,Journal,2-s2.0-4043135554
+Efron B.,,Least angle regression,2004,Annals of Statistics,5214,10.1214/009053604000000067,United States,Article,Palo Alto,1,Journal,2-s2.0-3242708140
+Monti S.,,Consensus clustering: A resampling-based method for class discovery and visualization of gene expression microarray data,2003,Machine Learning,996,10.1023/A:1023949509487,United States,Article,Cambridge,1,Journal,2-s2.0-0038724494
+Conlon E.,,Integrating regulatory motif discovery and genome-wide expression analysis,2003,Proceedings of the National Academy of Sciences of the United States of America,266,10.1073/pnas.0630591100,United States,Article,Cambridge,1,Journal,2-s2.0-0037453009
+Donoho D.,,Optimally sparse representation in general (nonorthogonal) dictionaries via ℓ<sup>1</sup> minimization,2003,Proceedings of the National Academy of Sciences of the United States of America,1903,10.1073/pnas.0437847100,United States,Article,Palo Alto,1,Journal,2-s2.0-0037418225
+Dupuis J.,,Variable selection in qualitative models via an entropic explanatory power,2003,Journal of Statistical Planning and Inference,34,10.1016/S0378-3758(02)00286-0,France,Article,Toulouse,0,Journal,2-s2.0-0037290186
+Dudoit S.,,Multiple hypothesis testing in microarray experiments,2003,Statistical Science,664,10.1214/ss/1056397487,United States,Review,Berkeley,1,Journal,2-s2.0-0043203327
+Lee K.E.,,Gene selection: A Bayesian variable selection approach,2003,Bioinformatics,276,10.1093/bioinformatics/19.1.90,United States,Article,College Station,1,Journal,2-s2.0-12244265090
+Bühlmann P.,,Analyzing bagging,2002,Annals of Statistics,349,10.1214/aos/1031689014,Switzerland,Review,"Zurich ZH,",1,Journal,2-s2.0-0043289776
+Ben-Hur A.,,A stability based method for discovering structure in clustered data.,2002,Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing,373,,United States,Article,Berkeley,0,Journal,2-s2.0-0036359730
+Breiman L.,,Random forests,2001,Machine Learning,38636,10.1023/A:1010933404324,United States,Article,Berkeley,1,Journal,2-s2.0-0035478854
+Chen S.,,Atomic decomposition by basis pursuit,2001,SIAM Review,2944,10.1137/S003614450037906X,United States,Article,Setauket,0,Journal,2-s2.0-0035273106
+Temlyakov V.,,Weak greedy algorithms,2000,Advances in Computational Mathematics,130,,United States,Article,Columbia,0,Journal,2-s2.0-22844454658
+George E.,,Approaches for bayesian variable selection,1997,Statistica Sinica,650,,United States,Article,Austin,0,Journal,2-s2.0-0031526204
+Breiman L.,,Bagging predictors,1996,Machine Learning,13227,10.1023/A:1018054314350,United States,Article,Berkeley,1,Journal,2-s2.0-0030211964
+Mallat S.,,Matching Pursuits With Time-Frequency Dictionaries,1993,IEEE Transactions on Signal Processing,6934,10.1109/78.258082,United States,Article,New York,0,Journal,2-s2.0-0027842081
+Sauerbrei W.,,A bootstrap resampling procedure for model building: Application to the cox regression model,1992,Statistics in Medicine,446,10.1002/sim.4780111607,Germany,Article,Freiburg im Breisgau,0,Journal,2-s2.0-0027081755
+Akaike H.,,SEASONAL ADJUSTMENT BY A BAYESIAN MODELING,1980,Journal of Time Series Analysis,75,10.1111/j.1467-9892.1980.tb00296.x,Japan,Article,Tokyo,0,Journal,2-s2.0-84986734428
+Freedman D.,,A remark on the difference between sampling with and without replacement,1977,Journal of the American Statistical Association,23,10.1080/01621459.1977.10480637,United States,Article,Berkeley,0,Journal,2-s2.0-0041079362

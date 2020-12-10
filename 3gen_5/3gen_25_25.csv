@@ -1,0 +1,32 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Dimas A.,,Common regulatory variation impacts gene expression in a cell type-dependent manner,2009,Science,546,10.1126/science.1174148,United Kingdom,Article,Hinxton,0,Journal,2-s2.0-69949176863
+Kwan T.,,Tissue effect on genetic control of transcript isoform variation,2009,PLoS Genetics,42,10.1371/journal.pgen.1000608,Canada,Article,Montreal,1,Journal,2-s2.0-70149112830
+Zhang Y.,,DNA methylation analysis of chromosome 21 gene promoters at single base pair and single allele resolution,2009,PLoS Genetics,127,10.1371/journal.pgen.1000438,Germany,Article,Bremen,1,Journal,2-s2.0-63449103531
+Cookson W.,,Mapping complex disease traits with global gene expression,2009,Nature Reviews Genetics,540,10.1038/nrg2537,United Kingdom,Review,London,0,Journal,2-s2.0-60349092402
+Heinzen E.L.,,Tissue-specific genetic control of splicing: Implications for the study of complex traits,2008,PLoS Biology,200,10.1371/journal.pbio.1000001,United States,Article,Durham,1,Journal,2-s2.0-58149163446
+Veyrieras J.,,High-resolution mapping of expression-QTLs yields insight into human gene regulation,2008,PLoS Genetics,400,10.1371/journal.pgen.1000214,United States,Article,Chicago,1,Journal,2-s2.0-55449112450
+Meissner A.,,Genome-scale DNA methylation maps of pluripotent and differentiated cells,2008,Nature,1746,10.1038/nature07107,United States;United States;United States,Article,Cambridge;Cambridge;Cambridge,0,Journal,2-s2.0-49649125042
+Gilad Y.,,Revealing the architecture of gene regulation: the promise of eQTL studies,2008,Trends in Genetics,313,10.1016/j.tig.2008.06.001,United States,Review,Chicago,0,Journal,2-s2.0-47249142778
+Van Der Brug M.,,RNA binding activity of the recessive parkinsonism protein DJ-1 supports involvement in multiple cellular pathways,2008,Proceedings of the National Academy of Sciences of the United States of America,158,10.1073/pnas.0708518105,United States,Article,Bethesda,1,Journal,2-s2.0-48249145149
+Melzer D.,,A genome-wide association study identifies protein quantitative trait loci (pQTLs),2008,PLoS Genetics,287,10.1371/journal.pgen.1000072,United Kingdom,Article,Exeter,1,Journal,2-s2.0-44949201115
+Schadt E.E.,,Mapping the genetic architecture of gene expression in human liver,2008,PLoS Biology,735,10.1371/journal.pbio.0060107,United States,Article,Seattle,1,Journal,2-s2.0-45149108420
+Jakobsson M.,,"Genotype, haplotype and copy-number variation in worldwide human populations",2008,Nature,607,10.1038/nature06742,United States,Article,Ann Arbor,0,Journal,2-s2.0-39749197456
+Kwan T.,,Genome-wide analysis of transcript isoform variation in humans,2008,Nature Genetics,239,10.1038/ng.2007.57,Canada,Article,Montreal,0,Journal,2-s2.0-38649090044
+Myers A.,,A survey of genetic human cortical gene expression,2007,Nature Genetics,379,10.1038/ng.2007.16,United States;United States,Article,Miami;Bethesda,0,Journal,2-s2.0-36549053104
+Mailman M.,,The NCBI dbGaP database of genotypes and phenotypes,2007,Nature Genetics,660,10.1038/ng1007-1181,United States,Review,Bethesda,0,Journal,2-s2.0-34748848639
+Stranger B.,,Population genomics of human gene expression,2007,Nature Genetics,848,10.1038/ng2142,United Kingdom,Article,Hinxton,0,Journal,2-s2.0-34548738566
+Bock C.,,CpG island mapping by epigenome prediction,2007,PLoS Computational Biology,138,10.1371/journal.pcbi.0030110,Germany,Article,Saarbrucken,1,Journal,2-s2.0-34347337742
+Ladd-Acosta C.,,DNA methylation signatures within the human brain,2007,American Journal of Human Genetics,197,10.1086/524110,United States,Article,Baltimore,1,Journal,2-s2.0-36749052947
+Purcell S.,,PLINK: A tool set for whole-genome association and population-based linkage analyses,2007,American Journal of Human Genetics,14918,10.1086/519795,United States;United States,Article,Boston;Cambridge,1,Journal,2-s2.0-34548292504
+Barrett T.,,Mining microarray data at NCBI's Gene Expression Omnibus (GEO)*.,2006,"Methods in molecular biology (Clifton, N.J.)",93,,United States,Article,Bethesda,0,Journal,2-s2.0-33749080967
+Belmont J.W.,,A haplotype map of the human genome,2005,Nature,4406,10.1038/nature04226,United States,Article,Houston,1,Journal,2-s2.0-79959524146
+Khaitovich P.,,Regional patterns of gene expression in human and chimpanzee brains,2004,Genome Research,224,10.1101/gr.2538704,Germany,Article,Leipzig,1,Journal,2-s2.0-4444287699
+Egger G.,,Epigenetics in human disease and prospects for epigenetic therapy,2004,Nature,2192,10.1038/nature02625,United States,Review,Los Angeles,0,Journal,2-s2.0-2642531973
+Saeed A.I.,,"TM4: A free, open-source system for microarray data management and analysis",2003,BioTechniques,3668,10.2144/03342mt01,United States,Article,Rockville,1,Journal,2-s2.0-0037311919
+Workman C.,,A new non-linear normalization method for reducing variability in DNA microarray experiments.,2002,Genome biology,403,,Switzerland,Article,Basel,0,Journal,2-s2.0-0037200201
+Edgar R.,,Gene Expression Omnibus: NCBI gene expression and hybridization array data repository,2002,Nucleic Acids Research,6511,10.1093/nar/30.1.207,United States,Article,Bethesda,1,Journal,2-s2.0-0036081355
+Schadt E.,,Feature extraction and normalization algorithms for high-density oligonucleotide gene expression array data,2001,Journal of Cellular Biochemistry,274,10.1002/jcb.10073,United States;United States,Conference Paper,Los Angeles;Kirkland,0,Journal,2-s2.0-0035752668
+Tseng G.C.,,"Issues in cDNA microarray analysis: Quality filtering, channel normalization, models of variations and assessment of gene effects",2001,Nucleic Acids Research,468,10.1093/nar/29.12.2549,United States,Article,Boston,1,Journal,2-s2.0-0035875553
+Eisen M.,,Cluster analysis and display of genome-wide expression patterns,1998,Proceedings of the National Academy of Sciences of the United States of America,12582,10.1073/pnas.95.25.14863,United States,Article,Stanford,0,Journal,2-s2.0-0032441150
+Churchill G.,,Empirical threshold values for quantitative trait mapping,1994,Genetics,3916,,United States,Article,Ithaca,0,Journal,2-s2.0-0028151261
+Gardiner-Garden M.,,CpG Islands in vertebrate genomes,1987,Journal of Molecular Biology,2452,10.1016/0022-2836(87)90689-9,Australia,Article,Sydney,0,Journal,2-s2.0-0023216891

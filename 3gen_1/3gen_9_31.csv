@@ -1,0 +1,22 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Evgeniou T.,,Generalized robust conjoint estimation,2005,Marketing Science,75,10.1287/mksc.1040.0100,France,Review,Fontainebleau,0,Journal,2-s2.0-21844450509
+Micchelli C.A.,,Kernels for multi-task learning,2005,Advances in Neural Information Processing Systems,42,,United States,Conference Paper,Albany,0,Conference Proceeding,2-s2.0-84898994209
+Micchelli C.,,On learning vector-valued functions,2005,Neural Computation,265,10.1162/0899766052530802,United States,Article,Albany,0,Journal,2-s2.0-14544299611
+Jebara T.,,Multi-task feature and kernel selection for SVMs,2004,"Proceedings, Twenty-First International Conference on Machine Learning, ICML 2004",105,,United States,Conference Paper,New York,0,Conference Proceeding,2-s2.0-14344263221
+Bakker B.,,Task clustering and gating for bayesian multitask learning,2004,Journal of Machine Learning Research,328,10.1162/153244304322765658,Netherlands,Article,Nijmegen,0,Journal,2-s2.0-0346238931
+Evgeniou T.,,Regularized multi-task learning,2004,KDD-2004 - Proceedings of the Tenth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,846,10.1145/1014052.1014067,France,Conference Paper,Fontainebleau,0,Conference Proceeding,2-s2.0-12244250351
+Lanckriet G.R.G.,,Learning the kernel matrix with semidefinite programming,2004,Journal of Machine Learning Research,1651,,United States,Article,Berkeley,0,Journal,2-s2.0-8844278523
+Rifkin R.,,An analytical method for multiclass molecular cancer classification,2003,SIAM Review,51,10.1137/S0036144502411986,United States;United States,Article,Cambridge;Cambridge,0,Journal,2-s2.0-1642502427
+Ben-David S.,,A theoretical framework for learning from a pool of disparate data sources,2002,Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,23,10.1145/775107.775111,Israel;United States,Conference Paper,Haifa;Ithaca,0,Conference Proceeding,2-s2.0-0242709373
+Heisele B.,,Categorization by learning and combining object parts,2002,Advances in Neural Information Processing Systems,34,,United States;United States,Conference Paper,Cambridge;Boston,0,Conference Proceeding,2-s2.0-84899018070
+Baxter J.,,A Model of Inductive Bias Learning,2000,Journal of Artificial Intelligence Research,385,10.1613/jair.731,Australia,Article,Canberra,1,Journal,2-s2.0-14344277592
+Evgeniou T.,,Regularization Networks and Support Vector Machines,2000,Advances in Computational Mathematics,822,10.1023/A:1018946025316,United States,Article,Cambridge,0,Journal,2-s2.0-0034419669
+Tax D.,,Support vector domain description,1999,Pattern Recognition Letters,1233,10.1016/S0167-8655(99)00087-2,Netherlands,Article,Delft,0,Journal,2-s2.0-0033220728
+Allenby G.,,Marketing models of consumer heterogeneity,1998,Journal of Econometrics,415,10.1016/S0304-4076(98)00055-4,United States,Article,Columbus,0,Journal,2-s2.0-0347192053
+Arora N.,,A hierarchical Bayes model of primary and secondary demand,1998,Marketing Science,122,10.1287/mksc.17.1.29,,Article,,0,Journal,2-s2.0-0032220720
+Baxter J.,,A Bayesian/Information Theoretic Model of Learning to Learn via Multiple Task Sampling,1997,Machine Learning,172,10.1023/A:1007327622663,United Kingdom;Australia;United Kingdom,Article,Egham;Canberra;London,1,Journal,2-s2.0-0031187873
+Caruana R.,,Multitask Learning,1997,Machine Learning,2308,10.1023/A:1007379606734,United States,Article,Pittsburgh,1,Journal,2-s2.0-0031189914
+Silver D.,,The Parallel Transfer of Task Knowledge Using Dynamic Learning Rates Based on a Measure of Relatedness,1996,Connection Science,39,10.1080/095400996116929,Canada,Article,London,0,Journal,2-s2.0-0030491431
+Srivastava V.K.,,Estimation of seemingly unrelated regression equations. A brief survey,1979,Journal of Econometrics,61,10.1016/0304-4076(79)90061-7,Canada,Article,Montreal,0,Journal,2-s2.0-0012486601
+Zellner A.,,An Efficient Method of Estimating Seemingly Unrelated Regressions and Tests for Aggregation Bias,1962,Journal of the American Statistical Association,3988,10.1080/01621459.1962.10480664,United States,Article,Wisconsin,0,Journal,2-s2.0-84946357749
+Aronszajn N.,,Theory of reproducing kernels,1950,Transactions of the American Mathematical Society,3032,10.1090/s0002-9947-1950-0051437-7,United States,Article,Stillwater,1,Journal,2-s2.0-5844297152

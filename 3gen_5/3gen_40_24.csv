@@ -1,0 +1,27 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Frank E.,,Data mining in bioinformatics using Weka,2004,Bioinformatics,612,10.1093/bioinformatics/bth261,New Zealand,Article,Hamilton,1,Journal,2-s2.0-7244250182
+López-Bigas N.,,Genome-wide identification of genes likely to be involved in human genetic disease,2004,Nucleic Acids Research,204,10.1093/nar/gkh605,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-3543106033
+Hammond M.,,Genome information resources - Developments at Ensembl,2004,Trends in Genetics,29,10.1016/j.tig.2004.04.002,United Kingdom,Review,Cambridge,0,Journal,2-s2.0-2442468190
+Becker K.G.,,The Genetic Association Database [1],2004,Nature Genetics,670,10.1038/ng0504-431,United States,Letter,Bethesda,1,Journal,2-s2.0-2442604715
+Kapetanovic I.,,Overview of commonly used bioinformatics methods and their applications,2004,Annals of the New York Academy of Sciences,53,10.1196/annals.1310.003,United States,Conference Paper,Bethesda,0,Book Series,2-s2.0-2942609237
+Huang H.,,Evolutionary conservation and selection of human disease gene orthologs in the rat and mouse genomes.,2004,Genome biology,92,,United States,Article,Waltham,0,Journal,2-s2.0-4844229391
+Winter E.,,"Elevated rates of protein secretion, evolution, and disease among tissue-specific genes",2004,Genome Research,139,10.1101/gr.1924004,United Kingdom,Article,Oxford,1,Journal,2-s2.0-0347766006
+Chiaromonte F.,,Gene length and proximity to neighbors affect genome-wide expression levels,2003,Genome Research,54,10.1101/gr.1169203,United States,Article,University Park,1,Journal,2-s2.0-0348013067
+McCarthy M.,,New methods for finding disease-susceptibility genes: Impact and potential,2003,Genome Biology,36,10.1186/gb-2003-4-10-119,United Kingdom,Article,Oxford,1,Journal,2-s2.0-0346274979
+Smith N.,,Human disease genes: Patterns and predictions,2003,Gene,77,10.1016/S0378-1119(03)00772-8,Sweden,Article,Uppsala,0,Journal,2-s2.0-0242285634
+Turner F.,,POCUS: Mining genomic sequence annotation to predict disease genes,2003,Genome Biology,179,10.1186/gb-2003-4-11-r75,United Kingdom,Article,Edinburgh,1,Journal,2-s2.0-1542787787
+Stenson P.,,Human Gene Mutation Database (HGMD®): 2003 Update,2003,Human Mutation,1113,10.1002/humu.10212,United Kingdom,Review,Cardiff,1,Journal,2-s2.0-0037903275
+van Driel M.,,A new web-based data mining tool for the identification of candidate genes for human genetic disorders,2003,European Journal of Human Genetics,72,10.1038/sj.ejhg.5200918,Netherlands;Netherlands,Article,Nijmegen;Nijmegen,1,Journal,2-s2.0-0037265647
+Mulder N.,,"The InterPro database, 2003 brings increased coverage and new features",2003,Nucleic Acids Research,576,10.1093/nar/gkg046,United Kingdom,Review,Cambridge,1,Journal,2-s2.0-0037251964
+Karlin S.,,Associations between human disease genes and overlapping gene groups and multiple amino acid runs,2002,Proceedings of the National Academy of Sciences of the United States of America,46,10.1073/pnas.262658799,United States,Article,Palo Alto,1,Journal,2-s2.0-0037168551
+Glazier A.,,Genetics: Finding genes that underline complex traits,2002,Science,658,10.1126/science.1076641,United Kingdom,Review,London,0,Journal,2-s2.0-0037146578
+Gilks W.,,Modeling the percolation of annotation errors in a database of protein sequences,2002,Bioinformatics,119,10.1093/bioinformatics/18.12.1641,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-12244283680
+Perez-Iratxeta C.,,Association of genes to genetically inherited diseases using data mining,2002,Nature Genetics,278,10.1038/ng895,Germany,Article,Heidelberg,0,Journal,2-s2.0-0036649742
+Su A.I.,,Large-scale analysis of the human and mouse transcriptomes,2002,Proceedings of the National Academy of Sciences of the United States of America,1201,10.1073/pnas.012025199,United States,Article,San Diego,1,Journal,2-s2.0-0037007048
+Freudenberg J.,,A similarity-based method for genome-wide prediction of disease-relevant human genes,2002,Bioinformatics,174,10.1093/bioinformatics/18.suppl_2.S110,Germany,Conference Paper,Bonn,1,Journal,2-s2.0-0037580196
+Hamosh A.,,"Onlined Mendelian Inheritance in Man (OMIM), a knowledgebase of human genes and genetic disorders",2002,Nucleic Acids Research,372,,United States,Article,Baltimore,0,Journal,2-s2.0-0035998736
+Devos D.,,Intrinsic errors in genome annotation,2001,Trends in Genetics,217,10.1016/S0168-9525(01)02348-4,Spain,Short Survey,Madrid,0,Journal,2-s2.0-0035424599
+Pallen M.,,'Going wrong with confidence': Misleading sequence analyses of CiaB and ClpX [1],1999,Molecular Microbiology,15,10.1046/j.1365-2958.1999.01561.x,United Kingdom,Letter,London,1,Journal,2-s2.0-0032870398
+Tanguay R.,,Translational efficiency is regulated by the length of the 3′ untranslated region,1996,Molecular and Cellular Biology,133,10.1128/MCB.16.1.146,United States,Article,Riverside,1,Journal,2-s2.0-0029655282
+Forbes A.,,Classification-algorithm evaluation: Five performance measures based onconfusion matrices,1995,Journal of Clinical Monitoring,83,10.1007/BF01617722,United States,Article,Palo Alto,0,Journal,2-s2.0-0029047333
+Gardiner-Garden M.,,CpG Islands in vertebrate genomes,1987,Journal of Molecular Biology,2452,10.1016/0022-2836(87)90689-9,Australia,Article,Sydney,0,Journal,2-s2.0-0023216891

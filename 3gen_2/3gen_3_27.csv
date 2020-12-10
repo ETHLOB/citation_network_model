@@ -1,0 +1,35 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Van Mieghem P.,,The N-intertwined SIS epidemic network model,2011,Computing (Vienna/New York),143,10.1007/s00607-011-0155-y,Netherlands,Article,Delft,1,Journal,2-s2.0-84855519936
+Lü L.,,The small world yields the most effective information spreading,2011,New Journal of Physics,182,10.1088/1367-2630/13/12/123005,Switzerland;China,Article,Fribourg;Chengdu,1,Journal,2-s2.0-84855370041
+Castellano C.,,Thresholds for epidemic spreading in networks,2010,Physical Review Letters,370,10.1103/PhysRevLett.105.218701,Italy,Article,Rome,0,Journal,2-s2.0-78349292558
+Centola D.,,The spread of behavior in an online social network experiment,2010,Science,1285,10.1126/science.1185231,United States,Article,Cambridge,0,Journal,2-s2.0-77956296152
+Durrett R.,,Some features of the spread of epidemics and information on a random graph,2010,Proceedings of the National Academy of Sciences of the United States of America,91,10.1073/pnas.0914402107,United States,Article,Ithaca,1,Journal,2-s2.0-77949647264
+Gómez S.,,Discrete-time Markov chain approach to contact-based disease spreading in complex networks,2010,EPL,235,10.1209/0295-5075/89/38009,Spain,Article,Tarragona,0,Journal,2-s2.0-77957266190
+Kitsak M.,,Identification of influential spreaders in complex networks,2010,Nature Physics,1473,10.1038/nphys1746,United States;United States,Article,San Diego;Boston,1,Journal,2-s2.0-78149283685
+Chatterjee S.,,Contact processes on random graphs with power law degree distributions have critical value 0,2009,Annals of Probability,92,10.1214/09-AOP471,United States,Article,Ithaca,1,Journal,2-s2.0-77049093438
+Arenas A.,,Synchronization in complex networks,2008,Physics Reports,2008,10.1016/j.physrep.2008.09.002,Spain;Spain,Review,Tarragona;Zaragoza,0,Journal,2-s2.0-56549084695
+Barrat A.,,Dynamical processes on complex networks,2008,Dynamical Processes on Complex Networks,1582,10.1017/CBO9780511791383,France;France;Italy,Book,Saint-Aubin;Paris;,0,Book,2-s2.0-84924517160
+Weber S.,,Generation of arbitrarily two-point-correlated random networks,2007,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",37,10.1103/PhysRevE.76.046111,Germany,Article,Darmstadt,0,Journal,2-s2.0-35348938162
+Leskovec J.,,The dynamics of viral marketing,2007,ACM Transactions on the Web,1025,10.1145/1232722.1232727,United States,Article,Pittsburgh,0,Journal,2-s2.0-34248550159
+Dorogovtsev S.,,K-core organization of complex networks,2006,Physical Review Letters,374,10.1103/PhysRevLett.96.040601,Portugal;Russian Federation,Article,Aveiro;Saint Petersburg (ex Leningrad),0,Journal,2-s2.0-33144463206
+Ganesh A.,,The effect of network topology on the spread of epidemics,2005,Proceedings - IEEE INFOCOM,478,10.1109/INFCOM.2005.1498374,United Kingdom,Conference Paper,Cambridge,0,Conference Proceeding,2-s2.0-25844439630
+Catanzaro M.,,Generation of uncorrelated random scale-free networks 027103,2005,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",470,10.1103/PhysRevE.71.027103,Spain,Article,Barcelona,0,Journal,2-s2.0-34548491989
+Keeling M.,,Networks and epidemic models,2005,Journal of the Royal Society Interface,863,10.1098/rsif.2005.0051,United Kingdom,Review,Coventry,1,Journal,2-s2.0-33646893242
+Boguñá M.,,Models of social networks based on social distance attachment,2004,"Physical Review E - Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics",437,10.1103/PhysRevE.70.056122,Spain,Article,Barcelona,0,Journal,2-s2.0-41349112960
+Wang Y.,,Epidemic spreading in real networks: An eigenvalue viewpoint,2003,Proceedings of the IEEE Symposium on Reliable Distributed Systems,504,10.1109/RELDIS.2003.1238052,United States,Conference Paper,Pittsburgh,0,Conference Proceeding,2-s2.0-27644462218
+Chung F.,,Spectra of random graphs with given expected degrees,2003,Proceedings of the National Academy of Sciences of the United States of America,313,10.1073/pnas.0937490100,United States,Article,San Diego,1,Journal,2-s2.0-0038652158
+Boguñá M.,,Absence of Epidemic Threshold in Scale-Free Networks with Degree Correlations,2003,Physical Review Letters,407,10.1103/PhysRevLett.90.028701,Spain,Article,Barcelona,0,Journal,2-s2.0-0037449781
+Cohen R.,,Efficient immunization strategies for computer networks and populations,2003,Physical Review Letters,694,10.1103/PhysRevLett.91.247901,Israel,Article,Ramat Gan,0,Journal,2-s2.0-0942268259
+Newman M.,,The structure and function of complex networks,2003,SIAM Review,11537,10.1137/S003614450342480,United States,Review,Ann Arbor,0,Journal,2-s2.0-0038718854
+Albert R.,,Statistical mechanics of complex networks,2002,Reviews of Modern Physics,13645,10.1103/RevModPhys.74.47,United States;United States,Article,Minneapolis;Notre Dame,0,Journal,2-s2.0-0036013593
+Newman M.E.J.,,Spread of epidemic disease on networks,2002,"Physical Review E - Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics",1841,10.1103/PhysRevE.66.016128,United States;United States,Article,Santa Fe;Ann Arbor,1,Journal,2-s2.0-41349106348
+Dorogovtsev S.,,Evolution of networks,2002,Advances in Physics,2215,10.1080/00018730110112519,Portugal,Article,Porto,0,Journal,2-s2.0-0036610173
+Pastor-Satorras R.,,Immunization of complex networks,2002,"Physical Review E - Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics",799,10.1103/PhysRevE.65.036104,Spain,Article,Barcelona,0,Journal,2-s2.0-41349106738
+Newman M.,,Assortative Mixing in Networks,2002,Physical Review Letters,3012,10.1103/PhysRevLett.89.208701,United States,Article,Ann Arbor,0,Journal,2-s2.0-18744389789
+Pastor-Satorras R.,,Dynamical and correlation properties of the internet,2001,Physical Review Letters,892,,Italy;Spain,Article,Trieste;Barcelona,0,Journal,2-s2.0-25944437904
+Lloyd A.,,How viruses spread among computers and people,2001,Science,473,10.1126/science.1061076,United States,Short Survey,Princeton,0,Journal,2-s2.0-0035907006
+Pastor-Satorras R.,,Epidemic spreading in scale-free networks,2001,Physical Review Letters,3738,10.1103/PhysRevLett.86.3200,Spain,Article,Barcelona,0,Journal,2-s2.0-0035794256
+Cohen R.,,Resilience of the Internet to random breakdowns,2000,Physical Review Letters,1644,10.1103/PhysRevLett.85.4626,Israel,Article,Ramat Gan,0,Journal,2-s2.0-0034323311
+Barabási A.,,Emergence of scaling in random networks,1999,Science,22122,10.1126/science.286.5439.509,United States,Article,Notre Dame,0,Journal,2-s2.0-0038483826
+Seidman S.,,Network structure and minimum degree,1983,Social Networks,901,10.1016/0378-8733(83)90028-X,United States,Article,Fairfax,0,Journal,2-s2.0-0000488788
+Daley D.,,Epidemics and Rumours [49],1964,Nature,312,10.1038/2041118a0,United Kingdom,Letter,Cambridge,0,Journal,2-s2.0-4143136066

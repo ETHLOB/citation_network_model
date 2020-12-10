@@ -1,0 +1,12 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Porteous I.,,Fast collapsed gibbs sampling for latent dirichlet allocation,2008,Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,322,10.1145/1401890.1401960,United States,Conference Paper,Irvine,0,Conference Proceeding,2-s2.0-65449138803
+Java A.,,Why we twitter: Understanding microblogging usage and communities,2007,Joint Ninth WebKDD and First SNA-KDD 2007 Workshop on Web Mining and Social Network Analysis,1771,10.1145/1348549.1348556,United States,Conference Paper,Baltimore,0,Conference Proceeding,2-s2.0-43449135033
+Kempe D.,,Influential nodes in a diffusion model for social networks,2005,Lecture Notes in Computer Science,528,10.1007/11523468_91,United States,Conference Paper,Los Angeles,0,Conference Proceeding,2-s2.0-26444526647
+Griffiths T.,,Finding scientific topics,2004,Proceedings of the National Academy of Sciences of the United States of America,3489,10.1073/pnas.0307752101,United States;United States,Article,Cambridge;Palo Alto,1,Journal,2-s2.0-1842788824
+Kempe D.,,Maximizing the spread of influence through a social network,2003,Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,4470,10.1145/956750.956769,United States,Conference Paper,Ithaca,0,Conference Proceeding,2-s2.0-33747172362
+Blei D.M.,,Latent Dirichlet allocation,2003,Journal of Machine Learning Research,18595,,United States,Article,Berkeley,0,Journal,2-s2.0-0141607824
+Endres D.M.,,A new metric for probability distributions,2003,IEEE Transactions on Information Theory,461,10.1109/TIT.2003.813506,United Kingdom,Letter,St Andrews,0,Journal,2-s2.0-0038105161
+Haveliwala T.,,Topic-sensitive PageRank,2002,"Proceedings of the 11th International Conference on World Wide Web, WWW '02",1031,10.1145/511446.511513,United States,Conference Paper,Palo Alto,0,Conference Proceeding,2-s2.0-77953061730
+McPherson M.,,Birds of a feather: Homophily in social networks,2001,Annual Review of Sociology,8128,10.1146/annurev.soc.27.1.415,United States,Article,Tucson,0,Book Series,2-s2.0-0035639140
+Kleinberg J.M.,,Authoritative sources in a hyperlinked environment,1999,Journal of the ACM,5014,10.1145/324133.324140,United States,Article,Ithaca,0,Journal,2-s2.0-4243148480
+Page L.,,The anatomy of a large-scale hypertextual Web search engine,1998,Computer Networks,7265,,United States,Article,Palo Alto,0,Journal,2-s2.0-0038589165

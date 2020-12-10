@@ -1,0 +1,45 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Huang Y.,,The duck genome and transcriptome provide insight into an avian influenza virus reservoir species,2013,Nature Genetics,196,10.1038/ng.2657,United Kingdom;China,Article,Midlothian;Beijing,1,Journal,2-s2.0-84879696615
+Howe K.,,The zebrafish reference genome sequence and its relationship to the human genome,2013,Nature,1676,10.1038/nature12111,United Kingdom,Article,London,1,Journal,2-s2.0-84876798186
+Fu W.,,"Analysis of 6,515 exomes reveals the recent origin of most human protein-coding variants",2013,Nature,570,10.1038/nature11690,United States,Article,Seattle,0,Journal,2-s2.0-84872143942
+Lappalainen I.,,DbVar and DGVa: Public archives for genomic structural variation,2013,Nucleic Acids Research,100,10.1093/nar/gks1213,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-84876527890
+Rosenbloom K.,,ENCODE Data in the UCSC Genome Browser: Year 5 update,2013,Nucleic Acids Research,496,10.1093/nar/gks1172,United States,Article,Santa Cruz,1,Journal,2-s2.0-84875945705
+Meyer L.,,The UCSC Genome Browser database: Extensions and updates 2013,2013,Nucleic Acids Research,559,10.1093/nar/gks1048,United States,Article,Santa Cruz,1,Journal,2-s2.0-84875404794
+Apweiler R.,,Update on activities at the Universal Protein Resource (UniProt) in 2013,2013,Nucleic Acids Research,559,10.1093/nar/gks1068,United Kingdom;United States,Article,Cambridge;Newark,1,Journal,2-s2.0-84874724662
+Flicek P.,,Ensembl 2013,2013,Nucleic Acids Research,743,10.1093/nar/gks1236,United Kingdom;United Kingdom,Article,Cambridge;Hinxton,1,Journal,2-s2.0-84875391572
+Altshuler D.M.,,"An integrated map of genetic variation from 1,092 human genomes",2012,Nature,4832,10.1038/nature11632,United States;United States;United States,Article,Boston;Boston;Cambridge,1,Journal,2-s2.0-84975795680
+Mallon A.M.,,Accessing data from the International Mouse Phenotyping Consortium: State of the art and future plans,2012,Mammalian Genome,27,10.1007/s00335-012-9428-9,United Kingdom,Review,Oxfordshire,0,Journal,2-s2.0-84867330361
+Swaminathan G.,,"Decipher: Web-based, community resource for clinical interpretation of rare variants in developmental disorders",2012,Human Molecular Genetics,41,10.1093/hmg/dds362,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-84867116161
+Dunham I.,,An integrated encyclopedia of DNA elements in the human genome,2012,Nature,8344,10.1038/nature11247,United Kingdom,Article,London,1,Journal,2-s2.0-84865790047
+Harte R.,,Tracking and coordinating an international curation effort for the CCDS Project,2012,Database,35,10.1093/database/bas008,United States,Article,Santa Cruz,1,Journal,2-s2.0-84862258061
+Rath A.,,Representation of rare diseases in health information systems: The orphanet approach to serve a wide range of end users,2012,Human Mutation,171,10.1002/humu.22078,France,Article,Paris,1,Journal,2-s2.0-84864358886
+Kersey P.,,Ensembl Genomes: An integrative resource for genome-scale data from non-vertebrate species,2012,Nucleic Acids Research,106,10.1093/nar/gkr895,United Kingdom,Article,London,1,Journal,2-s2.0-84862234514
+Pruitt K.D.,,"NCBI Reference Sequences (RefSeq): Current status, new features and genome annotation policy",2012,Nucleic Acids Research,759,10.1093/nar/gkr1079,United States,Article,Bethesda,1,Journal,2-s2.0-84859436530
+Kinsella R.J.,,Ensembl BioMarts: A hub for data retrieval across taxonomic space,2011,Database,535,10.1093/database/bar030,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-84855731050
+Church D.M.,,Modernizing reference genome assemblies,2011,PLoS Biology,186,10.1371/journal.pbio.1001091,United States,Article,Bethesda,1,Journal,2-s2.0-79960925372
+Amberger J.,,A new face and new challenges for Online Mendelian Inheritance in Man (OMIM<sup>®</sup>),2011,Human Mutation,249,10.1002/humu.21466,United States,Article,Baltimore,1,Journal,2-s2.0-79954986866
+Fokkema I.,,LOVD v.2.0: The next generation in gene variant databases,2011,Human Mutation,511,10.1002/humu.21438,Netherlands,Article,Leiden,1,Journal,2-s2.0-79954997174
+Forbes S.,,COSMIC: Mining complete cancer genomes in the catalogue of somatic mutations in cancer,2011,Nucleic Acids Research,1613,10.1093/nar/gkq929,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-78651330430
+Bernstein B.,,The NIH roadmap epigenomics mapping consortium,2010,Nature Biotechnology,981,10.1038/nbt1010-1045,United States;United States,Note,Boston;Cambridge,0,Journal,2-s2.0-77957940722
+Yang T.,,Genevar: A database and Java application for the analysis and visualization of SNP-gene associations in eQTL studies,2010,Bioinformatics,251,10.1093/bioinformatics/btq452,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-77957232748
+McLaren W.,,Deriving the consequences of genomic variants with the Ensembl API and SNP Effect Predictor,2010,Bioinformatics,1051,10.1093/bioinformatics/btq330,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-77955405475
+Parker A.,,Using caching and optimization techniques to improve performance of the Ensembl website,2010,BMC Bioinformatics,6,10.1186/1471-2105-11-239,United Kingdom,Letter,Hinxton,1,Journal,2-s2.0-77951958139
+Severin J.,,eHive: An Artificial Intelligence workflow system for genomic analysis,2010,BMC Bioinformatics,27,10.1186/1471-2105-11-240,United Kingdom;Japan,Article,Cambridge;Yokohama,1,Journal,2-s2.0-77953983801
+Malone J.,,Modeling sample variables with an Experimental Factor Ontology,2010,Bioinformatics,238,10.1093/bioinformatics/btq099,United Kingdom,Article,London,1,Journal,2-s2.0-77951973818
+Morgan H.,,EuroPhenome: A repository for high-throughput mouse phenotyping data,2010,Nucleic Acids Research,69,10.1093/nar/gkp1007,United Kingdom;United Kingdom,Article,Oxfordshire;Lyon,1,Journal,2-s2.0-75549084662
+Portales-Casamar E.,,JASPAR 2010: The greatly expanded open-access database of transcription factor binding profiles,2009,Nucleic Acids Research,445,10.1093/nar/gkp950,Canada,Article,Vancouver,1,Journal,2-s2.0-75549083247
+Manolio T.A.,,Finding the missing heritability of complex diseases,2009,Nature,5024,10.1038/nature08494,United States,Review,Bethesda,0,Journal,2-s2.0-70349956433
+Smedley D.,,BioMart - Biological queries made easy,2009,BMC Genomics,400,10.1186/1471-2164-10-22,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-61649083057
+Paten B.,,Genome-wide nucleotide-level mammalian ancestor reconstruction,2008,Genome Research,109,10.1101/gr.076521.108,United States,Article,Santa Cruz,1,Journal,2-s2.0-55549095155
+Paten B.,,Enredo and Pecan: Genome-wide mammalian consistency-based multiple alignment with paralogs,2008,Genome Research,186,10.1101/gr.076554.108,United States,Article,Santa Cruz,1,Journal,2-s2.0-54949108148
+Wilming L.,,The vertebrate genome annotation (Vega) database,2008,Nucleic Acids Research,175,10.1093/nar/gkm987,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-38549148703
+Ruan J.,,TreeFam: 2008 Update,2008,Nucleic Acids Research,203,10.1093/nar/gkm1005,China,Article,Shenzhen,1,Journal,2-s2.0-38549163152
+Visel A.,,VISTA Enhancer Browser - A database of tissue-specific human enhancers,2007,Nucleic Acids Research,519,10.1093/nar/gkl822,United States,Article,Berkeley,1,Journal,2-s2.0-33846112470
+Lenffer J.,,OMIA (Online Mendelian Inheritance in Animals): an enhanced platform and integration into the Entrez search interface at NCBI.,2006,Nucleic acids research,47,10.1093/nar/gkj152,Australia,Article,North Ryde,1,Journal,2-s2.0-33644874797
+Cooper G.,,Distribution and intensity of constraint in mammalian genomic sequence,2005,Genome Research,779,10.1101/gr.3577405,United States,Article,Palo Alto,1,Journal,2-s2.0-22244452677
+Eilbeck K.,,The Sequence Ontology: a tool for the unification of genome annotations.,2005,Genome biology,448,,United States,Article,Berkeley,0,Journal,2-s2.0-22044443709
+Potter S.,,The Ensembl analysis pipeline,2004,Genome Research,91,10.1101/gr.1859804,United Kingdom,Article,London,1,Journal,2-s2.0-2442689013
+Stabenau A.,,The Ensembl core software libraries,2004,Genome Research,96,10.1101/gr.1857204,United Kingdom,Article,London,1,Journal,2-s2.0-2442666425
+Stenson P.,,Human Gene Mutation Database (HGMD®): 2003 Update,2003,Human Mutation,1113,10.1002/humu.10212,United Kingdom,Review,Cardiff,1,Journal,2-s2.0-0037903275
+Sherry S.T.,,DbSNP: The NCBI database of genetic variation,2001,Nucleic Acids Research,3807,10.1093/nar/29.1.308,United States,Article,Bethesda,1,Journal,2-s2.0-0035173378
+Ashburner M.,,Gene ontology: Tool for the unification of biology,2000,Nature Genetics,21253,10.1038/75556,,Review,,0,Journal,2-s2.0-0034069495

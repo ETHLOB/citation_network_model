@@ -1,0 +1,36 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Lin H.,,Predicting cancerlectins by the optimal g-gap dipeptides,2015,Scientific Reports,46,10.1038/srep16964,China,Article,Chengdu,1,Journal,2-s2.0-84949528080
+Chen W.,,IRNA-Methyl: Identifying N<sup>6</sup>-methyladenosine sites using pseudo nucleotide composition,2015,Analytical Biochemistry,239,10.1016/j.ab.2015.08.021,China;United States,Article,Tangshan;Belmont,0,Journal,2-s2.0-84942246769
+Liu B.,,Identification of microRNA precursor with the degenerate K-tuple or Kmer strategy,2015,Journal of Theoretical Biology,130,10.1016/j.jtbi.2015.08.025,China;United States,Article,Harbin;Boston,0,Journal,2-s2.0-84942244470
+Chen W.,,Pseudo nucleotide composition or PseKNC: An effective formulation for analyzing genomic sequences,2015,Molecular BioSystems,234,10.1039/c5mb00155b,China;United States,Review,Tangshan;San Diego,0,Journal,2-s2.0-84941783146
+Ding H.,,Identification of mitochondrial proteins of malaria parasite using analysis of variance,2015,Amino Acids,64,10.1007/s00726-014-1862-4,China,Article,Chengdu,0,Journal,2-s2.0-84922071321
+Chen W.,,PseKNC-General: A cross-platform package for generating various modes of pseudo nucleotide compositions,2015,Bioinformatics,159,10.1093/bioinformatics/btu602,China;United States;United States,Article,Tangshan;Blacksburg;Boston,1,Journal,2-s2.0-84922387565
+Chen W.,,iTIS-PseTNC: A sequence-based predictor for identifying translation initiation site in human genes using pseudo trinucleotide composition,2014,Analytical Biochemistry,215,10.1016/j.ab.2014.06.022,China;United States,Article,Tangshan;Boston,0,Journal,2-s2.0-84921500317
+Liu W.,,Identifying the subfamilies of voltage-gated potassium channels using feature selection technique,2014,International Journal of Molecular Sciences,28,10.3390/ijms150712940,China,Article,Chengdu,1,Journal,2-s2.0-84904606183
+Chen W.,,PseKNC: A flexible web server for generating pseudo K-tuple nucleotide composition,2014,Analytical Biochemistry,298,10.1016/j.ab.2014.04.001,China;United States,Article,Tangshan;Belmont,0,Journal,2-s2.0-84900463301
+Guo S.,,INuc-PseKNC: A sequence-based predictor for predicting nucleosome positioning in genomes with pseudo k-tuple nucleotide composition,2014,Bioinformatics,305,10.1093/bioinformatics/btu083,China,Article,Chengdu,1,Journal,2-s2.0-84896463976
+Feng P.,,Prediction of DNase i hypersensitive sites by using pseudo nucleotide compositions,2014,Scientific World Journal,23,10.1155/2014/740506,China,Article,Tangshan,1,Journal,2-s2.0-84907236093
+Feng P.,,Prediction of CpG island methylation status by integrating DNA physicochemical properties,2014,Genomics,28,10.1016/j.ygeno.2014.08.011,China,Article,Tangshan,1,Journal,2-s2.0-84908214945
+Feng P.,,Predicting the types of j-proteins using clustered amino acids,2014,BioMed Research International,29,10.1155/2014/935719,China,Article,Tangshan,1,Journal,2-s2.0-84899558261
+Maass P.,,Long non-coding RNA in health and disease,2014,Journal of Molecular Medicine,136,10.1007/s00109-014-1131-8,Germany,Review,Berlin,0,Journal,2-s2.0-84898432405
+Chen W.,,ISS-PseDNC: Identifying splicing sites using pseudo dinucleotide composition,2014,BioMed Research International,193,10.1155/2014/623149,China;United States,Article,Tangshan;Belmont,1,Journal,2-s2.0-84902186435
+Xie C.,,NONCODEv4: Exploring the world of long non-coding RNA genes,2014,Nucleic Acids Research,299,10.1093/nar/gkt1222,China;China,Article,Beijing;Beijing,1,Journal,2-s2.0-84891798006
+Lin H.,,AcalPred: A Sequence-Based Tool for Discriminating between Acidic and Alkaline Enzymes,2013,PLoS ONE,78,10.1371/journal.pone.0075726,China,Article,Chengdu,1,Journal,2-s2.0-84885112194
+Ma L.,,On the classification of long non-coding RNAs,2013,RNA Biology,435,10.4161/rna.24604,China,Review,Beijing,1,Journal,2-s2.0-84894532371
+Chen W.,,IRSpot-PseDNC: Identify recombination spots with pseudo dinucleotide composition,2013,Nucleic Acids Research,509,10.1093/nar/gks1450,China;United States,Article,Tangshan;San Diego,1,Journal,2-s2.0-84876053736
+Feng P.M.,,IHSP-PseRAAAC: Identifying the heat shock protein families using pseudo reduced amino acid alphabet composition,2013,Analytical Biochemistry,234,10.1016/j.ab.2013.05.024,China,Article,Tangshan,0,Journal,2-s2.0-84885640993
+Fu L.,,CD-HIT: Accelerated for clustering the next-generation sequencing data,2012,Bioinformatics,2059,10.1093/bioinformatics/bts565,United States,Article,San Diego,1,Journal,2-s2.0-84870431038
+Chen W.,,iNuc-PhysChem: A Sequence-Based Predictor for Identifying Nucleosomes via Physicochemical Properties,2012,PLoS ONE,185,10.1371/journal.pone.0047843,China;United States,Article,Tangshan;San Diego,1,Journal,2-s2.0-84868128310
+Novikova I.,,"Structural architecture of the human long non-coding RNA, steroid receptor RNA activator",2012,Nucleic Acids Research,165,10.1093/nar/gks071,United States,Article,Los Alamos,1,Journal,2-s2.0-84862195751
+Chen W.,,Prediction of replication origins by calculating DNA structural properties,2012,FEBS Letters,39,10.1016/j.febslet.2012.02.034,China,Article,Tangshan,0,Journal,2-s2.0-84862819754
+Cabili M.,,Integrative annotation of human large intergenic noncoding RNAs reveals global properties and specific subclasses,2011,Genes and Development,1995,10.1101/gad.17446611,United States;United States;United States,Article,Cambridge;Cambridge;Boston,1,Journal,2-s2.0-80052978224
+Wapinski O.,,Long noncoding RNAs and human disease,2011,Trends in Cell Biology,1320,10.1016/j.tcb.2011.04.001,United States,Review,Chevy Chase,0,Journal,2-s2.0-79957840356
+Chou K.,,Some remarks on protein attribute prediction and pseudo amino acid composition,2011,Journal of Theoretical Biology,1013,10.1016/j.jtbi.2010.12.024,United States,Review,San Diego,0,Journal,2-s2.0-79951518208
+Mattick J.S.,,Long noncoding RNAs in cell and developmental biology,2011,Seminars in Cell and Developmental Biology,42,10.1016/j.semcdb.2011.05.002,Australia,Editorial,Brisbane,0,Journal,2-s2.0-80052700186
+Clark M.B.,,Long noncoding RNAs in cell biology,2011,Seminars in Cell and Developmental Biology,221,10.1016/j.semcdb.2011.01.001,Australia,Review,Brisbane,0,Journal,2-s2.0-79957580288
+Maenner S.,,2-D structure of the a region of Xist RNA and its implication for PRC2 association,2010,PLoS Biology,169,10.1371/journal.pbio.1000276,France,Article,Nancy,1,Journal,2-s2.0-75749124997
+Ponting C.P.,,Evolution and Functions of Long Noncoding RNAs,2009,Cell,3056,10.1016/j.cell.2009.02.006,United Kingdom,Review,Oxford,1,Journal,2-s2.0-60149099385
+Wang T.,,Predicting membrane protein types by the LLDA algorithm,2008,Protein and Peptide Letters,107,10.2174/092986608785849308,China,Article,Shanghai,0,Journal,2-s2.0-52149087297
+Lung B.,,Identification of small non-coding RNAs from mitochondria and chloroplasts,2006,Nucleic Acids Research,124,10.1093/nar/gkl448,Austria,Article,Innsbruck,1,Journal,2-s2.0-33748544977
+Frank E.,,Data mining in bioinformatics using Weka,2004,Bioinformatics,612,10.1093/bioinformatics/bth261,New Zealand,Article,Hamilton,1,Journal,2-s2.0-7244250182
+Pérez A.,,The relative flexibility of B-DNA and A-RNA duplexes: Database analysis,2004,Nucleic Acids Research,93,10.1093/nar/gkh954,Spain,Article,Barcelona,1,Journal,2-s2.0-11444267252

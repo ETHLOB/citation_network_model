@@ -1,0 +1,22 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Zhao J.,,Complex networks theory for analyzing metabolic networks,2006,Chinese Science Bulletin,49,10.1007/s11434-006-2015-2,China;China;China,Article,Shanghai;Chongqing;Shanghai,0,Journal,2-s2.0-33748650631
+Newman M.,,Modularity and community structure in networks,2006,Proceedings of the National Academy of Sciences of the United States of America,5550,10.1073/pnas.0601602103,United States,Article,Ann Arbor,1,Journal,2-s2.0-33745012299
+Duch J.,,Community detection in complex networks using extremal optimization,2005,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",1096,10.1103/PhysRevE.72.027104,Spain,Article,Tarragona,0,Journal,2-s2.0-27244441304
+Tanaka R.,,Scale-rich metabolic networks,2005,Physical Review Letters,97,10.1103/PhysRevLett.94.168101,Japan,Article,Wako,0,Journal,2-s2.0-18144413962
+Guimerà R.,,Functional cartography of complex metabolic networks,2005,Nature,2029,10.1038/nature03288,United States,Article,Evanston,0,Journal,2-s2.0-14644396645
+Kitano H.,,Biological robustness,2004,Nature Reviews Genetics,1472,10.1038/nrg1471,Japan;Japan,Review,Tokyo;Tokyo,0,Journal,2-s2.0-7644238181
+Ma H.,,Decomposition of metabolic network into functional modules based on the global connectivity structure of reaction graph,2004,Bioinformatics,119,10.1093/bioinformatics/bth167,Germany,Article,Braunschweig,1,Journal,2-s2.0-4444234772
+Guimerà R.,,Modularity from fluctuations in random graphs and complex networks,2004,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",498,10.1103/PhysRevE.70.025101,United States,Article,Evanston,0,Journal,2-s2.0-36348947993
+Han J.D.J.,,Evidence for dynamically organized modularity in the yeast protein-protein interaction network,2004,Nature,1243,10.1038/nature02555,United States;United States,Article,Boston;Boston,0,Journal,2-s2.0-3042848952
+Arita M.,,The metabolic world of Escherichia coli is not small,2004,Proceedings of the National Academy of Sciences of the United States of America,241,10.1073/pnas.0306458101,Japan;Japan,Article,Tokyo;Tokyo,1,Journal,2-s2.0-1242319556
+Kanehisa M.,,The KEGG resource for deciphering the genome,2004,Nucleic Acids Research,2703,,Japan,Article,Kyoto,0,Journal,2-s2.0-0345863935
+Schmidt S.,,Metabolites: A helping hand for pathway evolution?,2003,Trends in Biochemical Sciences,102,10.1016/S0968-0004(03)00114-2,Germany;Germany;Germany,Review,Berlin;Heidelberg;Heidelberg,0,Journal,2-s2.0-0038434059
+Holme P.,,Subnetwork hierarchies of biochemical pathways,2003,Bioinformatics,276,10.1093/bioinformatics/btg033,,Article,,1,Journal,2-s2.0-0037345719
+Ma H.,,Reconstruction of metabolic networks from genome data and analysis of their global structure for various organisms,2003,Bioinformatics,380,10.1093/bioinformatics/19.2.270,China;Germany,Article,Tianjin;Braunschweig,1,Journal,2-s2.0-0037316239
+Ravasz E.,,Hierarchical organization of modularity in metabolic networks,2002,Science,2749,10.1126/science.1073374,United States,Article,Evanston,0,Journal,2-s2.0-0037199968
+Schuster S.,,Exploring the pathway structure of metabolism: Decomposition into subnetworks and application to Mycoplasma pneumoniae,2002,Bioinformatics,160,10.1093/bioinformatics/18.2.351,Germany,Article,Berlin,1,Journal,2-s2.0-0036188159
+Wagner A.,,The small world inside large metabolic networks,2001,Proceedings of the Royal Society B: Biological Sciences,634,10.1098/rspb.2001.1711,United Kingdom,Article,Oxford,0,Journal,2-s2.0-0035823264
+Jeong H.,,The large-scale organization of metabolic networks,2000,Nature,3533,10.1038/35036627,United States,Article,Notre Dame,0,Journal,2-s2.0-0034609791
+Roberts J.,,Simple methods for simulating sociomatrices with given marginal totals,2000,Social Networks,54,10.1016/S0378-8733(00)00026-5,United States,Article,Albuquerque,0,Journal,2-s2.0-0009505804
+Goto S.,,LIGAND: Chemical database for enzyme reactions,1998,Bioinformatics,108,10.1093/bioinformatics/14.7.591,Japan,Article,Kyoto,1,Journal,2-s2.0-0031715499
+Palsson B.,,Mathematical modelling of dynamics and control in metabolic networks. IV. Local stability analysis of single biochemical control loops,1985,Journal of Theoretical Biology,12,10.1016/S0022-5193(85)80227-7,United States,Article,Madison,0,Journal,2-s2.0-0022360780

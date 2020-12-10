@@ -1,0 +1,23 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+De Craen S.,,Effects of group size and lack of sphericity on the recovery of clusters in K-means cluster analysis,2006,Multivariate Behavioral Research,13,10.1207/s15327906mbr4102_2,Netherlands,Article,The Hague,0,Journal,2-s2.0-33747187884
+Steinley D.,,Profiling local optima in K-means clustering: Developing a diagnostic technique,2006,Psychological Methods,55,10.1037/1082-989X.11.2.178,United States,Article,Columbia,0,Journal,2-s2.0-33745700805
+Steinley D.,,K-means clustering: A half-century synthesis,2006,British Journal of Mathematical and Statistical Psychology,362,10.1348/000711005X48266,United States,Article,Columbia,0,Journal,2-s2.0-33745223877
+Steinley D.,,OCLUS: An analytic method for generating clusters with known overlap,2005,Journal of Classification,35,10.1007/s00357-005-0015-6,United States,Article,Columbia,0,Journal,2-s2.0-33744720321
+Hand D.,,Optimising k-means clustering results with standard software packages,2005,Computational Statistics and Data Analysis,35,10.1016/j.csda.2004.06.017,United Kingdom,Article,London,0,Journal,2-s2.0-19044364181
+Hansen P.,,"Analysis of global k-means, an incremental heuristic for minimum sum-of-squares clustering",2005,Journal of Classification,36,10.1007/s00357-005-0018-3,Canada,Article,Montreal,0,Journal,2-s2.0-33744762091
+Brusco M.,,Clustering binary data in the presence of masking variables,2004,Psychological Methods,31,10.1037/1082-989X.9.4.510,United States,Article,Tallahassee,0,Journal,2-s2.0-10844257374
+Su T.,,A deterministic method for initializing K-means clustering,2004,"Proceedings - International Conference on Tools with Artificial Intelligence, ICTAI",62,10.1109/ICTAI.2004.7,United States,Conference Paper,Boston,0,Conference Proceeding,2-s2.0-16244421048
+Steinley D.,,Properties of the Hubert-Arabie adjusted Rand index,2004,Psychological Methods,251,10.1037/1082-989X.9.3.386,United States;United States,Article,Columbia;Urbana,0,Journal,2-s2.0-4344611435
+Friedman J.H.,,Clustering objects on subsets of attributes,2004,Journal of the Royal Statistical Society. Series B: Statistical Methodology,266,10.1111/j.1467-9868.2004.02059.x,United States;United States,Article,Menlo Park;Palo Alto,1,Journal,2-s2.0-8644255832
+Steinley D.,,Local Optima in K-Means Clustering: What You Don't Know May Hurt You,2003,Psychological Methods,171,10.1037/1082-989X.8.3.294,United States,Review,Urbana,0,Journal,2-s2.0-0142136684
+Likas A.,,The global k-means clustering algorithm,2003,Pattern Recognition,1027,10.1016/S0031-3203(02)00060-2,Greece,Article,Ioannina,0,Journal,2-s2.0-0036487280
+Brusco M.,,A variable-selection heuristic for K-means clustering,2001,Psychometrika,90,10.1007/BF02294838,United States,Article,Tallahassee,0,Journal,2-s2.0-0035534927
+Waller N.,,A comparison of the classification capabilities of the 1-dimensional Kohonen neural network with two partitioning and three hierarchical cluster analysis algorithms,1998,Psychometrika,49,10.1007/BF02295433,United States,Review,Davis,0,Journal,2-s2.0-0032342923
+Donoghue J.,,Univariate Screening Measures for Cluster Analysis,1995,Multivariate Behavioral Research,9,10.1207/s15327906mbr3003_5,United States,Article,Princeton,0,Journal,2-s2.0-21844523554
+(Sundar) Balakrishnan P.,,A study of the classification capabilities of neural networks using unsupervised learning: A comparison with K-means clustering,1994,Psychometrika,79,10.1007/BF02294390,United States,Article,Bothell,0,Journal,2-s2.0-21844522039
+Milligan G.,,A study of standardization of variables in cluster analysis,1988,Journal of Classification,414,10.1007/BF01897163,United States,Article,Columbus,0,Journal,2-s2.0-0000235019
+Milligan G.,,A Study of the Comparability of External Criteria for Hierarchical Cluster Analysis,1986,Multivariate Behavioral Research,305,10.1207/s15327906mbr2104_5,United States,Article,Columbus,0,Journal,2-s2.0-84948872101
+Hubert L.,,Comparing partitions,1985,Journal of Classification,3864,10.1007/BF01908075,United States,Article,Santa Barbara,0,Journal,2-s2.0-0000008146
+Milligan G.,,An examination of procedures for determining the number of clusters in a data set,1985,Psychometrika,2254,10.1007/BF02294245,United States,Article,Columbus,0,Journal,2-s2.0-34250115918
+Milligan G.,,The validation of four ultrametric clustering algorithms,1980,Pattern Recognition,65,10.1016/0031-3203(80)90001-1,United States,Article,Columbus,0,Journal,2-s2.0-0018910525
+Bezdek J.C.,,Cluster validity with fuzzy sets,1973,Journal of Cybernetics,881,10.1080/01969727308546047,United States,Article,Oneonta,0,Journal,2-s2.0-0015644823

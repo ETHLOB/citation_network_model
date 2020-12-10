@@ -1,0 +1,29 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Khatri P.,,A semantic analysis of the annotations of the human genome,2005,Bioinformatics,53,10.1093/bioinformatics/bti538,United States,Article,Detroit,1,Journal,2-s2.0-24044446835
+Khatri P.,,Recent additions and improvements to the Onto-Tools,2005,Nucleic Acids Research,89,10.1093/nar/gki472,United States,Article,Detroit,1,Journal,2-s2.0-23144455923
+Camon E.,,An evaluation of GO annotation retrieval for BioCreAtIvE and GOA,2005,BMC Bioinformatics,115,10.1186/1471-2105-6-S1-S17,United Kingdom,Article,,1,Journal,2-s2.0-33947311528
+Wang H.,,Gene expression correlation and gene ontology-based similarity: An assessment of quantitative relationships,2004,"Proceedings of the 2004 IEEE Symposium on Computational Intelligence in Bioinformatics and Computational Biology, CIBCB'04",112,,United Kingdom,Conference Paper,Coleraine,0,Conference Proceeding,2-s2.0-17044421977
+Khatri P.,,Onto-Tools: An ensemble of web-accessible ontology-based tools for the functional design and interpretation of high-throughput gene expression experiments,2004,Nucleic Acids Research,119,10.1093/nar/gkh409,United States,Article,Detroit,1,Journal,2-s2.0-3242887152
+Beißbarth T.,,GOstat: Find statistically overrepresented Gene Ontologies with a group of genes,2004,Bioinformatics,943,10.1093/bioinformatics/bth088,Australia,Article,Melbourne,1,Journal,2-s2.0-3142665525
+Shah N.H.,,CLENCH: A program for calculating CLuster ENriCHment using the gene ontology,2004,Bioinformatics,41,10.1093/bioinformatics/bth056,United States,Article,University Park,1,Journal,2-s2.0-2442685416
+Al-Shahrour F.,,FatiGO: A web tool for finding significant associations of Gene Ontology terms with groups of genes,2004,Bioinformatics,825,10.1093/bioinformatics/btg455,Spain,Article,Madrid,1,Journal,2-s2.0-1542399989
+Zhang B.,,GOTree Machine (GOTM): A web-based platform for interpreting sets of interesting genes using Gene Ontology hierarchies,2004,BMC Bioinformatics,354,10.1186/1471-2105-5-16,United States,Article,Oak Ridge,1,Journal,2-s2.0-2942550697
+Martin D.,,GOToolBox: functional analysis of gene datasets based on Gene Ontology.,2004,Genome biology,269,,France,Article,Marseille,0,Journal,2-s2.0-20444365683
+Berriz G.F.,,Characterizing gene sets with FuncAssociate,2003,Bioinformatics,346,10.1093/bioinformatics/btg363,United States,Article,Boston,1,Journal,2-s2.0-0347513219
+Shannon P.,,Cytoscape: A software Environment for integrated models of biomolecular interaction networks,2003,Genome Research,14465,10.1101/gr.1239303,United States,Article,Seattle,1,Journal,2-s2.0-0242490780
+Draghici S.,,"Onto-Tools, the toolkit of the modern biologist: Onto-Express, Onto-Compare, Onto-Design and Onto-Translate",2003,Nucleic Acids Research,291,10.1093/nar/gkg624,United States,Article,Detroit,1,Journal,2-s2.0-0042121055
+King O.,,Predicting gene function from patterns of annotation,2003,Genome Research,107,10.1101/gr.440803,United States,Article,Boston,1,Journal,2-s2.0-0037767293
+Castillo-Davis C.,,"GeneMerge - Post-genomic analysis, data mining, and hypothesis testing",2003,Bioinformatics,212,10.1093/bioinformatics/btg114,United States,Article,Cambridge,0,Journal,2-s2.0-0038522873
+Drǎghici S.,,Global functional profiling of gene expression,2003,Genomics,463,10.1016/S0888-7543(02)00021-6,United States,Article,Detroit,0,Journal,2-s2.0-0037293075
+Doniger S.,,MAPPFinder: using Gene Ontology and GenMAPP to create a global gene-expression profile from microarray data.,2003,Genome biology,737,,United States,Article,San Francisco,0,Journal,2-s2.0-0037263812
+Zeeberg B.,,GoMiner: a resource for biological interpretation of genomic and proteomic data.,2003,Genome biology,961,,United States,Article,Bethesda,0,Journal,2-s2.0-0038175144
+Grosu P.,,Pathway processor: A tool for integrating whole-genome expression results into metabolic networks,2002,Genome Research,78,10.1101/gr.226602,United States,Article,Cambridge,1,Journal,2-s2.0-0036061833
+Khatri P.,,Profiling gene expression using Onto-Express,2002,Genomics,368,10.1006/geno.2002.6698,United States,Article,Detroit,0,Journal,2-s2.0-0035704901
+Karp P.,,The pathway tools software,2002,Bioinformatics,470,10.1093/bioinformatics/18.suppl_1.S225,United States,Conference Paper,Menlo Park,1,Journal,2-s2.0-11244328060
+Benjamini Y.,,The control of the false discovery rate in multiple testing under dependency,2001,Annals of Statistics,5341,10.1214/aos/1013699998,Israel,Article,Tel Aviv-Yafo,1,Journal,2-s2.0-0035733108
+Cho R.,,Transcriptional regulation and function during the human cell cycle,2001,Nature Genetics,352,10.1038/83751,United States;United States,Article,Redwood City;Stanford,0,Journal,2-s2.0-0035163845
+Man M.,,POWERGE: Comparing statistical tests for SAGE experiments,2000,Bioinformatics,129,10.1093/bioinformatics/16.11.953,United States,Article,Ann Arbor,1,Journal,2-s2.0-0034352940
+Sehuler G.D.,,Pieces of use puzzle: Expressed sequence tags and the catalog of human genes,1997,Journal of Molecular Medicine,314,10.1007/s001090050155,United States,Article,Bethesda,0,Journal,2-s2.0-0031256078
+McCoubrey W.,,Human heme oxygenase-2: Characterization and expression of a full-length cDNA and evidence suggesting that the two HO-2 transcripts may differ by choice of polyadenylation signal,1992,Archives of Biochemistry and Biophysics,165,10.1016/0003-9861(92)90481-B,United States,Article,Rochester,0,Journal,2-s2.0-0026653813
+Holland B.S.,,An improved sequentially rejective Bonferroni test procedure,1987,Biometrics,243,10.2307/2531823,United States,Article,Philadelphia,0,Journal,2-s2.0-0022965475
+Shaffer J.,,Modified sequentially rejective multiple test procedures,1986,Journal of the American Statistical Association,484,10.1080/01621459.1986.10478341,United States,Article,Berkeley,0,Journal,2-s2.0-84890829458

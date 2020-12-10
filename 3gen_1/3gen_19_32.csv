@@ -1,0 +1,11 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Zhou Z.,,Semi-supervised regression with co-training,2005,IJCAI International Joint Conference on Artificial Intelligence,172,,China,Conference Paper,Nanjing,0,Conference Proceeding,2-s2.0-84880742718
+Balcan M.,,Co-training and expansion: Towards bridging theory and practice,2005,Advances in Neural Information Processing Systems,103,,United States,Conference Paper,Pittsburgh,0,Conference Proceeding,2-s2.0-84898930761
+Belkin M.,,Semi-supervised learning on riemannian manifolds,2004,Machine Learning,512,10.1023/B:MACH.0000033120.25363.1e,United States,Article,Chicago,1,Journal,2-s2.0-3142725535
+Krogel M.,,"Effectiveness of information extraction, multi-relational, and semi-supervised learning for predicting functional properties of genes",2003,"Proceedings - IEEE International Conference on Data Mining, ICDM",2,,Germany,Conference Paper,Magdeburg,0,Conference Proceeding,2-s2.0-33750224520
+Zhu X.,,Semi-Supervised Learning Using Gaussian Fields and Harmonic Functions,2003,"Proceedings, Twentieth International Conference on Machine Learning",2480,,United States,Conference Paper,Pittsburgh,0,Conference Proceeding,2-s2.0-1942484430
+Chapelle O.,,Cluster kernels for semi-supervised learning,2003,Advances in Neural Information Processing Systems,195,,Germany,Conference Paper,Tubingen,0,Conference Proceeding,2-s2.0-50649084677
+Dasgupta S.,,PAC generalization bounds for co-training,2002,Advances in Neural Information Processing Systems,93,,United States,Conference Paper,San Antonio,0,Conference Proceeding,2-s2.0-84899008485
+Nigam K.,,Text classification from labeled and unlabeled documents using EM,2000,Machine Learning,1883,10.1023/a:1007692713085,United States,Article,Pittsburgh,1,Journal,2-s2.0-0033886806
+Kushmerick N.,,Learning to remove Internet advertisements,1999,Proceedings of the International Conference on Autonomous Agents,132,10.1145/301136.301186,Ireland,Conference Paper,Dublin,0,Conference Proceeding,2-s2.0-0032645145
+Blum A.,,Combining labeled and unlabeled data with co-training,1998,Proceedings of the Annual ACM Conference on Computational Learning Theory,3259,10.1145/279943.279962,United States,Conference Paper,Pittsburgh,0,Conference Proceeding,2-s2.0-0031620208

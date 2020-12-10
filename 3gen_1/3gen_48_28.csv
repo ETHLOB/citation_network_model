@@ -1,0 +1,33 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Kirov S.A.,,"GeneKeyDB: A lightweigth, gene-centric, relational database to support data mining environments",2005,BMC Bioinformatics,14,10.1186/1471-2105-6-72,United States,Article,Oak Ridge,1,Journal,2-s2.0-25444516519
+Li Q.,,Genome-scale analysis of positional clustering of mouse testis-specific genes,2005,BMC Genomics,41,10.1186/1471-2164-6-7,Singapore,Article,Singapore City,1,Journal,2-s2.0-17844372663
+Tao Y.,,Information visualization techniques in bioinformatics during the postgenomic era,2004,Drug Discovery Today: BIOSILICO,25,10.1016/S1741-8364(04)02423-0,United States,Review,New York,0,Journal,2-s2.0-7944238738
+Masseroli M.,,"GFINDer: Genome Function INtegrated Discoverer through dynamic annotation, statistical analysis, and mining",2004,Nucleic Acids Research,58,10.1093/nar/gkh432,Italy,Article,Milan,0,Journal,2-s2.0-3242880832
+Chesler E.,,WebQTL: Rapid exploratory analysis of gene expression and genetic networks for brain and behavior,2004,Nature Neuroscience,152,10.1038/nn0504-485,United States,Short Survey,Memphis,0,Journal,2-s2.0-2142652098
+Su A.I.,,A gene atlas of the mouse and human protein-encoding transcriptomes,2004,Proceedings of the National Academy of Sciences of the United States of America,2670,10.1073/pnas.0400782101,United States,Article,San Diego,1,Journal,2-s2.0-11144358198
+Zhang B.,,GOTree Machine (GOTM): A web-based platform for interpreting sets of interesting genes using Gene Ontology hierarchies,2004,BMC Bioinformatics,354,10.1186/1471-2105-5-16,United States,Article,Oak Ridge,1,Journal,2-s2.0-2942550697
+Kasprzk A.,,EnsMart: A generic system for fast and flexible access to biological data,2004,Genome Research,321,10.1101/gr.1645104,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-9144269670
+Kanehisa M.,,The KEGG resource for deciphering the genome,2004,Nucleic Acids Research,2698,,Japan,Article,Kyoto,0,Journal,2-s2.0-0345863935
+Zhong S.,,ChipInfo: Software for extracting gene annotation and gene ontology information for microarray analysis,2003,Nucleic Acids Research,81,10.1093/nar/gkg598,United States,Article,Boston,1,Journal,2-s2.0-0042121250
+Herrero J.,,GEPAS: A web-based resource for microarray gene expression data analysis,2003,Nucleic Acids Research,158,10.1093/nar/gkg591,Spain,Article,Madrid,1,Journal,2-s2.0-0042121252
+Drǎghici S.,,Global functional profiling of gene expression,2003,Genomics,463,10.1016/S0888-7543(02)00021-6,United States,Article,Detroit,0,Journal,2-s2.0-0037293075
+van Driel M.,,A new web-based data mining tool for the identification of candidate genes for human genetic disorders,2003,European Journal of Human Genetics,72,10.1038/sj.ejhg.5200918,Netherlands;Netherlands,Article,Nijmegen;Nijmegen,1,Journal,2-s2.0-0037265647
+Diehn M.,,"SOURCE: A unified genomic resource of functional annotations, ontologies, and gene expression data",2003,Nucleic Acids Research,346,10.1093/nar/gkg014,United States,Review,Stanford,0,Journal,2-s2.0-0037251963
+Doniger S.,,MAPPFinder: using Gene Ontology and GenMAPP to create a global gene-expression profile from microarray data.,2003,Genome biology,737,,United States,Article,San Francisco,0,Journal,2-s2.0-0037263812
+Zeeberg B.,,GoMiner: a resource for biological interpretation of genomic and proteomic data.,2003,Genome biology,961,,United States,Article,Bethesda,0,Journal,2-s2.0-0038175144
+Dennis G.,,"DAVID: Database for Annotation, Visualization, and Integrated Discovery.",2003,Genome biology,6156,,United States,Article,Frederick,0,Journal,2-s2.0-0038005018
+Boutanaev A.,,Large clusters of co-expressed genes in the Drosophila genome,2002,Nature,248,10.1038/nature01216,United States,Article,Boston,0,Journal,2-s2.0-0037069672
+Spellman P.,,Evidence for large domains of similarly expressed genes in the Drosophila genome,2002,Journal of Biology,395,,United States,Article,Berkeley,0,Journal,2-s2.0-0003328368
+Roy P.,,Chromosomal clustering of muscle-expressed genes in Caenorhabditis elegans,2002,Nature,327,10.1038/nature01012,United States,Article,Stanford,0,Journal,2-s2.0-0037194732
+Lercher M.,,Clustering of housekeeping genes provides a unified model of gene order in the human genome,2002,Nature Genetics,417,10.1038/ng887,United Kingdom,Article,Bath,0,Journal,2-s2.0-0036613754
+Chaussabel D.,,Mining microarray expression data by literature profiling.,2002,Genome biology,110,,United States,Article,Bethesda,0,Journal,2-s2.0-0038017587
+Tsai J.,,Resourcerer: A database for annotating and linking microarray resources within and across species,2001,Genome Biology,82,,United States,Article,Rockville,0,Journal,2-s2.0-0035181665
+Maughan N.J.,,The Cancer Genome Anatomy Project: New resources for reading the molecular signatures of cancer,2001,Journal of Pathology,67,10.1002/1096-9896(200109)195:1<31::AID-PATH920>3.0.CO;2-W,United Kingdom,Review,Leeds,1,Journal,2-s2.0-0034802109
+Jenssen T.K.,,A literature network of human genes for high-throughput analysis of gene expression,2001,Nature Genetics,619,10.1038/88213,Norway,Article,Trondheim,0,Journal,2-s2.0-0035042776
+Caron H.,,The human transcriptome map: Clustering of highly expressed genes in chromosomal domains,2001,Science,584,10.1126/science.1056794,Netherlands,Article,Amsterdam,1,Journal,2-s2.0-0035895502
+Masys D.,,Use of keyword hierarchies to interpret gene expression patterns,2001,Bioinformatics,96,10.1093/bioinformatics/17.4.319,United States,Article,San Diego,1,Journal,2-s2.0-0035022821
+Pruitt K.D.,,RefSeq and LocusLink: NCBI gene-centered resources,2001,Nucleic Acids Research,663,10.1093/nar/29.1.137,United States,Article,Bethesda,1,Journal,2-s2.0-0035162594
+Cohen B.,,A computational analysis of whole-genome expression data reveals chromosomal domains of gene expression,2000,Nature Genetics,399,10.1038/79896,United States,Article,Boston,0,Journal,2-s2.0-0033780450
+Ashburner M.,,Gene ontology: Tool for the unification of biology,2000,Nature Genetics,21184,10.1038/75556,,Review,,0,Journal,2-s2.0-0034069495
+Van Steensel M.A.M.,,Probing the Gene eXpression Database for candidate genes,1999,European Journal of Human Genetics,13,10.1038/sj.ejhg.5200405,,Article,,1,Journal,2-s2.0-0033399249
+Dandekar T.,,Conservation of gene order: A fingerprint of proteins that physically interact,1998,Trends in Biochemical Sciences,765,10.1016/S0968-0004(98)01274-2,Germany;Germany,Article,Berlin;Heidelberg,0,Journal,2-s2.0-0032169271

@@ -1,0 +1,10 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Hornik K.,,Universal approximation of an unknown mapping and its derivatives using multilayer feedforward networks,1990,Neural Networks,1076,10.1016/0893-6080(90)90005-6,United States,Article,San Diego,0,Journal,2-s2.0-0025627940
+Cybenko G.,,Approximation by superpositions of a sigmoidal function,1989,"Mathematics of Control, Signals, and Systems",6637,10.1007/BF02551274,United States,Article,Urbana,0,Journal,2-s2.0-0024861871
+Carroll S.M.,,Construction of neural nets using the radon transform,1989,,83,10.1109/ijcnn.1989.118639,United States,Conference Paper,Princeton,0,Conference Proceeding,2-s2.0-0024874675
+Stinchcombe M.,,Universal approximation using feedforward networks with non-sigmoid hidden layer activation functions,1989,,134,10.1109/ijcnn.1989.118640,United States,Conference Paper,San Diego,0,Conference Proceeding,2-s2.0-0024933821
+Hecht-Nielsen R.,,Theory of the backpropagation neural network,1989,,1386,10.1109/ijcnn.1989.118638,United States,Conference Paper,San Diego,0,Conference Proceeding,2-s2.0-0024878952
+Funahashi K.I.,,On the approximate realization of continuous mappings by neural networks,1989,Neural Networks,2700,10.1016/0893-6080(89)90003-8,Japan,Article,,0,Journal,2-s2.0-0024866495
+Hornik K.,,Multilayer feedforward networks are universal approximators,1989,Neural Networks,10518,10.1016/0893-6080(89)90020-8,Austria,Article,Vienna,0,Journal,2-s2.0-0024880831
+Gallant A.R.,,There exists a neural network that does not make avoidable mistakes,1988,,85,10.1109/icnn.1988.23903,United States,Conference Paper,Raleigh,0,Conference Proceeding,2-s2.0-0024124325
+Irie B.,,Capabilities of three-layered perceptrons,1988,,264,10.1109/icnn.1988.23901,Japan,Conference Paper,Kyoto,0,Conference Proceeding,2-s2.0-0024125987

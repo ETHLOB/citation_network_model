@@ -1,0 +1,7 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Hinneburg A.,,What is the nearest neighbor in high dimensional spaces?,2000,"Proceedings of the 26th International Conference on Very Large Data Bases, VLDB'00",372,,Germany,Conference Paper,Halle,0,Conference Proceeding,2-s2.0-1542292055
+Berchtold S.,,Fast nearest neighbor search in high-dimensional space,1998,Proceedings - International Conference on Data Engineering,103,,Germany,Conference Paper,Munich,0,Conference Proceeding,2-s2.0-0031653130
+Berchtold S.,,The pyramid-technique: Towards breaking the curse of dimensionality,1998,SIGMOD Record,317,10.1145/276305.276318,United States,Article,Florham Park,0,Journal,2-s2.0-0032094513
+Katayama N.,,The SR-tree: An Index Structure for High-Dimensional Nearest Neighbor Queries,1997,SIGMOD Record (ACM Special Interest Group on Management of Data),609,10.1145/253262.253347,,Article,,0,Journal,2-s2.0-0031162081
+Lin K.,,The TV-tree: An index structure for high-dimensional data,1994,The VLDB Journal,323,10.1007/BF01231606,United States,Article,College Park,0,Journal,2-s2.0-34249762939
+Guttman A.,,R-trees: A dynamic index structure for spatial searching,1984,ACM SIGMOD Record,4314,10.1145/971697.602266,United States,Article,Berkeley,0,Journal,2-s2.0-0021615874

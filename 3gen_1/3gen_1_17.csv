@@ -1,0 +1,34 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Stein L.,,The genome sequence of Caenorhabditis briggsae: A platform for comparative genomics,2003,PLoS Biology,613,10.1371/journal.pbio.0000045,United States,Article,Cold Spring Harbor,1,Journal,2-s2.0-4243088097
+Thomas J.W.,,Comparative analyses of multi-species sequences from targeted genomic regions,2003,Nature,488,10.1038/nature01858,United States;United States,Article,Bethesda;Atlanta,0,Journal,2-s2.0-0041465867
+Cliften P.,,Finding functional features in Saccharomyces genomes by phylogenetic footprinting,2003,Science,685,10.1126/science.1084337,United States,Article,St. Louis,0,Journal,2-s2.0-0038724989
+Kellis M.,,Sequencing and comparison of yeast species to identify genes and regulatory elements,2003,Nature,1385,10.1038/nature01644,United States;United States,Article,Cambridge;Cambridge,0,Journal,2-s2.0-0038349948
+Collins F.,,A vision for the future of genomics research,2003,Nature,1296,10.1038/nature01626,United States,Review,Bethesda,0,Journal,2-s2.0-0037464588
+Giardine B.,,"GALA, a database for genomic sequence alignments and annotations",2003,Genome Research,43,10.1101/gr.603103,United States,Review,University Park,1,Journal,2-s2.0-0037397918
+Alexandersson M.,,SLAM: Cross-species gene finding and alignment with a generalized pair hidden Markov model,2003,Genome Research,123,10.1101/gr.424203,United States,Article,Berkeley,1,Journal,2-s2.0-0037350957
+Boffelli D.,,Phylogenetic shadowing of primate sequences to find functional regions of the human genome,2003,Science,405,10.1126/science.1081331,United States;United States,Article,"Washington, D.C.;Berkeley",0,Journal,2-s2.0-0242418246
+Elnitski L.,,Distinguishing regulatory DNA from neutral sites.,2003,Genome research,100,10.1101/gr.817703,United States,Article,University Park,1,Journal,2-s2.0-18344415808
+Couronne O.,,Strategies and tools for whole-genome alignments.,2003,Genome research,175,10.1101/gr.762503,United States,Article,Berkeley,1,Journal,2-s2.0-0037263797
+Clamp M.,,Ensembl 2002: Accommodating comparative genomics,2003,Nucleic Acids Research,188,10.1093/nar/gkg083,United Kingdom,Review,Hinxton,1,Journal,2-s2.0-0037246585
+Hardison R.,,"Covariation in frequencies of substitution, deletion, transposition, and recombination during eutherian evolution.",2003,Genome research,228,10.1101/gr.844103,United States,Article,University Park,1,Journal,2-s2.0-18544404720
+Waterston R.H.,,Initial sequencing and comparative analysis of the mouse genome,2002,Nature,4845,10.1038/nature01262,United States,Article,St. Louis,1,Journal,2-s2.0-1542563409
+Holt R.A.,,The genome sequence of the malaria mosquito Anopheles gambiae,2002,Science,1476,10.1126/science.1076181,Canada;United States,Article,Vancouver;Rockville,0,Journal,2-s2.0-0037020114
+Bailey J.,,Recent segmental duplications in the human genome,2002,Science,946,10.1126/science.1072047,United States,Article,Cleveland,0,Journal,2-s2.0-0037047628
+James Kent W.,,The human genome browser at UCSC,2002,Genome Research,5344,10.1101/gr.229102. Article published online before print in May 2002,United States,Article,Santa Cruz,0,Journal,2-s2.0-0036079158
+Rivas E.,,Noncoding RNA gene detection using comparative sequence analysis,2001,BMC Bioinformatics,359,10.1186/1471-2105-2-8,United States,Article,St. Louis,1,Journal,2-s2.0-0003157183
+Wiehe T.,,SGP-1: Prediction and validation of homologous genes based on sequence alignments,2001,Genome Research,70,10.1101/gr.177401,Germany,Article,Jena,1,Journal,2-s2.0-0034832202
+Cliften P.,,Surveying Saccharomyces genomes to identify functional elements by comparative DNA sequence analysis,2001,Genome Research,195,10.1101/gr.182901,United States,Article,St. Louis,1,Journal,2-s2.0-0034919548
+Pennacchio L.,,Genomic strategies to identify mammalian regulatory sequences,2001,Nature Reviews Genetics,309,10.1038/35052548,United States,Review,Berkeley,0,Journal,2-s2.0-0035261381
+Korf I.,,Integrating genomic homology into gene structure prediction,2001,Bioinformatics,328,10.1093/bioinformatics/17.suppl_1.S140,United States,Article,St. Louis,1,Journal,2-s2.0-17444437765
+McClelland M.,,"Comparison of the Escherichia coli K-12 genome with sampled genomes of a Klebsiella pneumoniae and three Salmonella enterica serovars, Typhimurium, Typhi and Paratyphi",2000,Nucleic Acids Research,84,10.1093/nar/28.24.4974,United States,Article,San Diego,1,Journal,2-s2.0-0034671842
+Florea L.,,Web-based visualization tools for bacterial genome alignments,2000,Nucleic Acids Research,25,10.1093/nar/28.18.3486,United States,Article,University Park,0,Journal,2-s2.0-0034666280
+Batzoglou S.,,Human and mouse gene structure: Comparative analysis and application to exon prediction,2000,Genome Research,251,10.1101/gr.10.7.950,United States;United States,Article,Cambridge;Cambridge,1,Journal,2-s2.0-0033861549
+Loots G.,,"Identification of a coordinate regulator of interleukins 4, 13, and 5 by cross-species sequence comparisons",2000,Science,650,10.1126/science.288.5463.136,United States;United States,Article,Berkeley;Berkeley,0,Journal,2-s2.0-0034616398
+Rubin G.M.,,Comparative genomics of the eukaryotes,2000,Science,1271,10.1126/science.287.5461.2204,,Review,,0,Journal,2-s2.0-0034708444
+Mayor C.,,Vista: Visualizing global DNA sequence alignments of arbitrary length,2000,Bioinformatics,689,10.1093/bioinformatics/16.11.1046,United States,Article,Berkeley,1,Journal,2-s2.0-0034518158
+Hardison R.,,Long human mouse sequence alignments reveal novel regulatory elements: A reason to sequence the mouse genome,1997,Genome Research,253,10.1101/gr.7.10.959,United States,Short Survey,University Park,1,Journal,2-s2.0-0030722935
+SanMiguel P.,,Nested retrotransposons in the intergenic regions of the maize genome,1996,Science,1086,10.1126/science.274.5288.765,United States,Article,West Lafayette,0,Journal,2-s2.0-0013630297
+Gumucio D.L.,,Phylogenetic footprinting reveals a nuclear protein which binds to silencer sequences in the human γ and ε globin genes,1992,Molecular and Cellular Biology,154,10.1128/mcb.12.11.4919,United States,Article,Ann Arbor,1,Journal,2-s2.0-0026738749
+Wolfe K.,,Mutation rates differ among regions of the mammalian genome,1989,Nature,464,10.1038/337283a0,Ireland,Article,Dublin,0,Journal,2-s2.0-0024497416
+Hudson R.,,A test of neutral molecular evolution based on nucleotide data.,1987,Genetics,1301,,,Article,,0,Journal,2-s2.0-0023339852
+Jukes T.,,Evolutionary constraints and the neutral theory,1984,Journal of Molecular Evolution,22,10.1007/BF02100633,United States,Letter,Berkeley,0,Journal,2-s2.0-0021731415

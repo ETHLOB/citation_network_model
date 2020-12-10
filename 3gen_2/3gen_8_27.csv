@@ -1,0 +1,16 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Okamura H.,,Statistical inference of computer virus propagation using non-homogeneous poisson processes,2007,"Proceedings - International Symposium on Software Reliability Engineering, ISSRE",7,10.1109/ISSRE.2007.28,Japan,Conference Paper,Higashihiroshima,0,Conference Proceeding,2-s2.0-47349085539
+Gerschenfeld A.,,Reconstruction for models on random graphs,2007,"Proceedings - Annual IEEE Symposium on Foundations of Computer Science, FOCS",53,10.1109/FOCS.2007.4389492,France,Conference Paper,Paris,0,Conference Proceeding,2-s2.0-46749137227
+Demiris N.,,Bayesian inference for stochastic multitype epidemics in structured populations via random graphs,2005,Journal of the Royal Statistical Society. Series B: Statistical Methodology,36,10.1111/j.1467-9868.2005.00524.x,United Kingdom,Article,London,0,Journal,2-s2.0-28044449928
+Ganesh A.,,The effect of network topology on the spread of epidemics,2005,Proceedings - IEEE INFOCOM,478,10.1109/INFCOM.2005.1498374,United Kingdom,Conference Paper,Cambridge,0,Conference Proceeding,2-s2.0-25844439630
+Demiris N.,,Bayesian inference for epidemics with two levels of mixing,2005,Scandinavian Journal of Statistics,24,10.1111/j.1467-9469.2005.00420.x,United Kingdom,Review,London,0,Journal,2-s2.0-19744368315
+Newman M.E.J.,,Spread of epidemic disease on networks,2002,"Physical Review E - Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics",1841,10.1103/PhysRevE.66.016128,United States;United States,Article,Santa Fe;Ann Arbor,1,Journal,2-s2.0-41349106348
+O'Neill P.,,A tutorial introduction to Bayesian inference for stochastic epidemic models using Markov chain Monte Carlo methods,2002,Mathematical Biosciences,90,10.1016/S0025-5564(02)00109-8,United Kingdom,Article,Nottingham,0,Journal,2-s2.0-0036847164
+Pastor-Satorras R.,,Epidemic spreading in scale-free networks,2001,Physical Review Letters,3738,10.1103/PhysRevLett.86.3200,Spain,Article,Barcelona,0,Journal,2-s2.0-0035794256
+Mossel E.,,Reconstruction on trees: Beating the second eigenvalue,2001,Annals of Applied Probability,67,10.1214/aoap/998926994,United States;Israel,Article,Redmond;Jerusalem,1,Journal,2-s2.0-0035638147
+Evans W.,,Broadcasting on trees and the ising model,2000,Annals of Applied Probability,143,10.1214/aoap/1019487349,United States,Article,Tucson,1,Journal,2-s2.0-0034408816
+Moore C.,,Epidemics and percolation in small-world networks,2000,"Physical Review E - Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics",664,10.1103/PhysRevE.61.5678,United States;Mexico,Article,Albuquerque;,0,Journal,2-s2.0-0034186340
+Barabási A.,,Emergence of scaling in random networks,1999,Science,22122,10.1126/science.286.5439.509,United States,Article,Notre Dame,0,Journal,2-s2.0-0038483826
+Watts D.J.,,Collective dynamics of 'small-world9 networks,1998,Nature,25779,10.1038/30918,United States,Article,Ithaca,0,Journal,2-s2.0-0032482432
+Atkinson M.,,On computing the number of linear extensions of a tree,1990,Order,23,10.1007/BF00383170,Canada,Article,Ottawa,0,Journal,2-s2.0-24944521521
+Sabidussi G.,,The centrality index of a graph,1966,Psychometrika,1175,10.1007/BF02289527,Canada,Article,Hamilton,0,Journal,2-s2.0-0013987194

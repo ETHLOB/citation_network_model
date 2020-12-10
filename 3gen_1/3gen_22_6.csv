@@ -1,0 +1,14 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Siddiqi K.,,Retrieving articulated 3-D models using medial surfaces,2008,Machine Vision and Applications,178,10.1007/s00138-007-0097-8,Canada,Article,Montreal,0,Journal,2-s2.0-44349170022
+Yoshizawa S.,,Skeleton-based variational mesh deformations,2007,Computer Graphics Forum,44,10.1111/j.1467-8659.2007.01047.x,Japan,Article,Wako,0,Journal,2-s2.0-35349011141
+Stolpner S.,,Revealing significant medial structure in polyhedral meshes,2006,"Proceedings - Third International Symposium on 3D Data Processing, Visualization, and Transmission, 3DPVT 2006",7,10.1109/3DPVT.2006.122,Canada,Conference Paper,Montreal,0,Conference Proceeding,2-s2.0-47249103900
+Chazal F.,,"The ""λ-medial axis""",2005,Graphical Models,124,10.1016/j.gmod.2005.01.002,France,Article,Dijon,0,Journal,2-s2.0-18844412375
+Bouix S.,,Flux driven automatic centerline extraction,2005,Medical Image Analysis,153,10.1016/j.media.2004.06.026,United States;United States,Article,Boston;Boston,0,Journal,2-s2.0-18144382323
+Culver T.,,Exact computation of the medial axis of a polyhedron,2004,Computer Aided Geometric Design,72,10.1016/j.cagd.2003.07.008,United States,Article,Sudbury,0,Journal,2-s2.0-0346896680
+Dimitrov P.,,Flux invariants for shape,2003,Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition,61,,Canada,Conference Paper,Montreal,0,Conference Proceeding,2-s2.0-17544402178
+Foskey M.,,Efficient computation of a simplified medial axis,2003,Proceedings of the Symposium on Solid Modeling and Applications,85,10.1145/781606.781623,United States,Conference Paper,Chapel Hill,0,Conference Proceeding,2-s2.0-0038041351
+Etzion M.,,Computing Voronoi skeletons of a 3-D polyhedron by space subdivision,2002,Computational Geometry: Theory and Applications,28,10.1016/S0925-7721(01)00056-6,Israel,Article,Jerusalem,1,Journal,2-s2.0-31244432298
+Amenta N.,,"The power crust, unions of balls, and the medial axis transform",2001,Computational Geometry: Theory and Applications,363,10.1016/S0925-7721(01)00017-7,United States,Article,Austin,1,Journal,2-s2.0-0035391053
+Chin F.,,Finding the medial axis of a simple polygon in linear time,1995,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),48,10.1007/bfb0015444,Hong Kong,Conference Paper,Pokfulam,0,Book Series,2-s2.0-84955575514
+Kimia B.,,On the evolution of curves via a function of curvature. I. The classical case,1992,Journal of Mathematical Analysis and Applications,115,10.1016/0022-247X(92)90260-K,Canada,Article,Montreal,1,Journal,2-s2.0-0004707344
+Blum H.,,Biological shape and visual science (part I),1973,Journal of Theoretical Biology,840,10.1016/0022-5193(73)90175-6,United States,Article,Bethesda,0,Journal,2-s2.0-0015581337

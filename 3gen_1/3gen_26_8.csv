@@ -1,0 +1,12 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Delalleau O.,,Efficient non-parametric function induction in semi-supervised learning,2005,AISTATS 2005 - Proceedings of the 10th International Workshop on Artificial Intelligence and Statistics,131,,Canada,Conference Paper,Montreal,0,Conference Proceeding,2-s2.0-84862619225
+Chapelle O.,,Semi-supervised classification by low density separation,2005,AISTATS 2005 - Proceedings of the 10th International Workshop on Artificial Intelligence and Statistics,528,,Germany,Conference Paper,Tubingen,0,Conference Proceeding,2-s2.0-51949086172
+Kégl B.,,Boosting on manifolds: Adaptive regularization of base classifiers,2005,Advances in Neural Information Processing Systems,8,,Canada,Conference Paper,Montreal,0,Conference Proceeding,2-s2.0-57149145568
+Vert J.P.,,Supervised graph inference,2005,Advances in Neural Information Processing Systems,46,,France,Conference Paper,Paris,0,Conference Proceeding,2-s2.0-84898969241
+Bousquet O.,,Measure based regularization,2004,Advances in Neural Information Processing Systems,44,,Germany,Conference Paper,Tubingen,0,Conference Proceeding,2-s2.0-84898942071
+Zhou D.,,Learning with local and global consistency,2004,Advances in Neural Information Processing Systems,1972,,Germany,Conference Paper,Tubingen,0,Conference Proceeding,2-s2.0-84899006908
+Joachims T.,,Transductive Learning via Spectral Graph Partitioning,2003,"Proceedings, Twentieth International Conference on Machine Learning",438,,United States,Conference Paper,Ithaca,0,Conference Proceeding,2-s2.0-1942484960
+Zhu X.,,Semi-Supervised Learning Using Gaussian Fields and Harmonic Functions,2003,"Proceedings, Twentieth International Conference on Machine Learning",2480,,United States,Conference Paper,Pittsburgh,0,Conference Proceeding,2-s2.0-1942484430
+Chapelle O.,,Cluster kernels for semi-supervised learning,2003,Advances in Neural Information Processing Systems,195,,Germany,Conference Paper,Tubingen,0,Conference Proceeding,2-s2.0-50649084677
+Wu S.,,Conformal transformation of kernel functions: A data-dependent way to improve support vector machine classifiers,2002,Neural Processing Letters,76,10.1023/A:1013848912046,Japan;United Kingdom,Article,Wako;Sheffield,0,Journal,2-s2.0-0036469481
+Smola A.,,"On a kernel-based method for pattern recognition, regression, approximation, and operator inversion",1998,Algorithmica (New York),185,10.1007/PL00013831,Germany,Article,Berlin,0,Journal,2-s2.0-24044515976

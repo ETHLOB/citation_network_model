@@ -1,0 +1,26 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Li G.,,Recovering network topologies via Taylor expansion and compressive sensing,2015,Chaos,14,10.1063/1.4916788,China,Article,Wuhan,0,Journal,2-s2.0-84926432272
+Zhang S.,,Recovering structures of complex dynamical networks based on generalized outer synchronization,2014,IEEE Transactions on Circuits and Systems I: Regular Papers,40,10.1109/TCSI.2014.2334951,China,Article,Wuhan,0,Journal,2-s2.0-84908419649
+Karsai M.,,Time varying networks and the weakness of strong ties,2014,Scientific Reports,132,10.1038/srep04001,Finland;United States,Article,Espoo;Boston,1,Journal,2-s2.0-84907424528
+Starnini M.,,Immunization strategies for epidemic processes in time-varying contact networks,2013,Journal of Theoretical Biology,52,10.1016/j.jtbi.2013.07.004,Spain,Article,Barcelona,0,Journal,2-s2.0-84883690910
+Ribeiro B.,,Quantifying the effect of temporal resolution on time-varying networks,2013,Scientific Reports,67,10.1038/srep03006,United States,Article,Pittsburgh,1,Journal,2-s2.0-84885996921
+He T.,,Optimization-based structure identification of dynamical networks,2013,Physica A: Statistical Mechanics and its Applications,12,10.1016/j.physa.2012.11.014,China,Article,Wuhan,0,Journal,2-s2.0-84871712431
+Perra N.,,Random walks and search in time-varying networks,2012,Physical Review Letters,110,10.1103/PhysRevLett.109.238701,United States,Article,Boston,0,Journal,2-s2.0-84870588545
+Wu X.,,Inferring topologies of complex networks with hidden variables,2012,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",44,10.1103/PhysRevE.86.046106,China;Australia,Article,Wuhan;Penrith,0,Journal,2-s2.0-84867540722
+Holme P.,,Temporal networks,2012,Physics Reports,1244,10.1016/j.physrep.2012.03.001,Sweden;South Korea;Sweden,Review,Stockholm;Jongno-gu;Umea,0,Journal,2-s2.0-84866939709
+Perra N.,,Activity driven modeling of time varying networks,2012,Scientific Reports,263,10.1038/srep00469,United States;Italy,Article,Boston;Cagliari,1,Journal,2-s2.0-84871233737
+Wang W.,,Predicting catastrophes in nonlinear dynamical systems by compressive sensing,2011,Physical Review Letters,162,10.1103/PhysRevLett.106.154101,United States,Article,Tempe,0,Journal,2-s2.0-79960643352
+Wu X.,,Detecting the topologies of complex networks with stochastic perturbations,2011,Chaos,31,10.1063/1.3664396,China,Article,Wuhan,0,Journal,2-s2.0-84855267413
+Boyd S.,,Distributed optimization and statistical learning via the alternating direction method of multipliers,2010,Foundations and Trends in Machine Learning,8274,10.1561/2200000016,United States,Review,Palo Alto,0,Journal,2-s2.0-80051762104
+Ahmed A.,,Recovering time-varying networks of dependencies in social and biological studies,2009,Proceedings of the National Academy of Sciences of the United States of America,174,10.1073/pnas.0901910106,United States,Article,Pittsburgh,1,Journal,2-s2.0-67849135609
+Chen L.,,Synchronization: An obstacle to identification of network topology,2009,IEEE Transactions on Circuits and Systems II: Express Briefs,68,10.1109/TCSII.2009.2015381,China,Article,Nanning,0,Journal,2-s2.0-67349114230
+Rao A.,,Inferring time-varying network yopologies from gene expression data,2007,Eurasip Journal on Bioinformatics and Systems Biology,22,10.1155/2007/51947,United States,Article,Ann Arbor,0,Journal,2-s2.0-34250878960
+Olfati-Saber R.,,Consensus and cooperation in networked multi-agent systems,2007,Proceedings of the IEEE,6411,10.1109/JPROC.2006.887293,United States,Article,Hanover,0,Journal,2-s2.0-64149119332
+Donoho D.,,For most large underdetermined systems of linear equations the minimal ℓ <inf>1</inf>-norm solution is also the sparsest solution,2006,Communications on Pure and Applied Mathematics,1793,10.1002/cpa.20132,United States,Article,Palo Alto,0,Journal,2-s2.0-33646365077
+Donoho D.,,Compressed sensing,2006,IEEE Transactions on Information Theory,18830,10.1109/TIT.2006.871582,United States,Article,Palo Alto,0,Journal,2-s2.0-33645712892
+Amritkar R.,,Synchronized state of coupled dynamics on time-varying networks,2006,Chaos,56,10.1063/1.2168395,India,Article,Ahmedabad,0,Journal,2-s2.0-84983496236
+Candes E.,,Decoding by linear programming,2005,IEEE Transactions on Information Theory,4643,10.1109/TIT.2005.858979,United States,Article,Pasadena,0,Journal,2-s2.0-29144439194
+Newman M.E.J.,,Analysis of weighted networks,2004,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",1212,10.1103/PhysRevE.70.056131,United States;United States,Article,Santa Fe;Ann Arbor,0,Journal,2-s2.0-41349096036
+Barrat A.,,The architecture of complex weighted networks,2004,Proceedings of the National Academy of Sciences of the United States of America,2202,10.1073/pnas.0400087101,France,Article,Orsay,1,Journal,2-s2.0-1642308591
+Newman M.,,The structure and function of complex networks,2003,SIAM Review,11537,10.1137/S003614450342480,United States,Review,Ann Arbor,0,Journal,2-s2.0-0038718854
+Watts D.J.,,Collective dynamics of 'small-world9 networks,1998,Nature,25779,10.1038/30918,United States,Article,Ithaca,0,Journal,2-s2.0-0032482432

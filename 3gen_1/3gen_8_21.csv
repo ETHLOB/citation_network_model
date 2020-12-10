@@ -1,0 +1,15 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Coifman R.,,Geometric diffusions as a tool for harmonic analysis and structure definition of data: Diffusion maps,2005,Proceedings of the National Academy of Sciences of the United States of America,727,10.1073/pnas.0500334102,United States,Article,New Haven,1,Journal,2-s2.0-19644394100
+Fowlkes C.,,Spectral Grouping Using the Nyström Method,2004,IEEE Transactions on Pattern Analysis and Machine Intelligence,959,10.1109/TPAMI.2004.1262185,United States,Article,Berkeley,0,Journal,2-s2.0-0742286179
+Beylkin G.,,A Multiresolution Strategy for Reduction of Elliptic PDEs and Eigenvalue Problems,1998,Applied and Computational Harmonic Analysis,28,10.1006/acha.1997.0226,United States,Article,Boulder,1,Journal,2-s2.0-0003294834
+Gilbert A.,,A comparison of multiresolution and classical one-dimensional homogenization schemes,1998,Applied and Computational Harmonic Analysis,31,10.1006/acha.1997.0220,United States;United States,Article,Florham Park;Princeton,1,Journal,2-s2.0-0000007919
+Knapek S.,,Matrix-dependent multigrid homogenization for diffusion problems,1998,SIAM Journal of Scientific Computing,46,10.1137/S1064827596304848,Germany,Article,Bonn,0,Journal,2-s2.0-0032228727
+Sweldens W.,,The lifting scheme: A construction of second generation wavelets,1998,SIAM Journal on Mathematical Analysis,1739,10.1137/S0036141095289051,United States,Article,Murray,0,Journal,2-s2.0-0032388955
+Sweldens W.,,The lifting scheme: A custom-design construction of biorthogonal wavelets,1996,Applied and Computational Harmonic Analysis,1803,10.1006/acha.1996.0015,United States,Article,Murray,1,Journal,2-s2.0-30244489068
+Coifman R.,,Entropy-based algorithms for best basis selection,1992,IEEE Transactions on Information Theory,2364,10.1109/18.119732,United States,Article,New Haven,0,Journal,2-s2.0-0026686048
+Beylkin G.,,Fast wavelet transforms and numerical algorithms I,1991,Communications on Pure and Applied Mathematics,1193,10.1002/cpa.3160440202,United States,Article,New Haven,0,Journal,2-s2.0-84990610636
+Greengard L.,,A fast algorithm for particle simulations,1987,Journal of Computational Physics,3069,10.1016/0021-9991(87)90140-9,United States,Article,New Haven,0,Journal,2-s2.0-0000396658
+Brandt A.,,Algebraic multigrid theory: The symmetric case,1986,Applied Mathematics and Computation,248,10.1016/0096-3003(86)90095-0,,Article,,0,Journal,2-s2.0-0001927250
+Babuska I.,,HOMOGENIZATION AND ITS APPLICATION. MATHEMATICAL AND COMPUTATIONAL PROBLEMS.,1976,,92,,,Conference Paper,,0,Journal,2-s2.0-0017266319
+Slepian D.,,"Prolate Spheroidal Wave Functions, Fourier Analysis and Uncertainty — IV: Extensions to Many Dimensions; Generalized Prolate Spheroidal Functions",1964,Bell System Technical Journal,467,10.1002/j.1538-7305.1964.tb01037.x,,Article,,0,Journal,2-s2.0-84916160159
+Slepian D.,,"Prolate Spheroidal Wave Functions, Fourier Analysis and Uncertainty — I",1961,Bell System Technical Journal,1422,10.1002/j.1538-7305.1961.tb03976.x,,Article,,0,Journal,2-s2.0-84939751170

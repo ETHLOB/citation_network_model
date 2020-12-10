@@ -1,0 +1,19 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Rainer J.,,CARMAweb: Comprehensive R- and bioconductor-based web service for microarray data analysis,2006,Nucleic Acids Research,167,10.1093/nar/gkl038,Austria;Austria,Article,Graz;Innsbruck,1,Journal,2-s2.0-33747839466
+Xia X.,,WebArray: An online platform for microarray data analysis,2005,BMC Bioinformatics,61,10.1186/1471-2105-6-306,United States,Article,San Diego,1,Journal,2-s2.0-30044444274
+Romualdi C.,,MIDAW: A web tool for statistical analysis of microarray data,2005,Nucleic Acids Research,41,10.1093/nar/gki497,Italy,Article,Padua,1,Journal,2-s2.0-23144442350
+Bammler T.,,Standardizing global gene expression analysis between laboratories and across platforms,2005,Nature Methods,387,10.1038/NMETH754,United States,Article,Seattle,0,Journal,2-s2.0-18244389201
+Irizarry R.A.,,Multiple-laboratory comparison of microarray platforms,2005,Nature Methods,676,10.1038/nmeth756,United States,Article,Baltimore,0,Journal,2-s2.0-18244384210
+Kreil D.,,There is no silver bullet - A guide to low-level data transforms and normalisation methods for microarray data,2005,Briefings in Bioinformatics,31,10.1093/bib/6.1.86,United Kingdom;United Kingdom,Review,Cambridge;Cambridge,1,Journal,2-s2.0-17244381413
+Vaquerizas J.,,DNMAD: Web-based diagnosis and normalization for microarray data,2004,Bioinformatics,51,10.1093/bioinformatics/bth401,Spain,Article,Madrid,1,Journal,2-s2.0-12344334489
+Wettenhall J.,,limmaGUI: A graphical user interface for linear modeling of microarray data,2004,Bioinformatics,526,10.1093/bioinformatics/bth449,Australia,Article,Melbourne,1,Journal,2-s2.0-12344330424
+Ding Y.,,The effect of normalization on microarray data analysis,2004,DNA and Cell Biology,15,10.1089/dna.2004.23.635,United States,Conference Paper,University,0,Journal,2-s2.0-8144231112
+Hokamp K.,,ArrayPipe: A flexible processing pipeline for microarray data,2004,Nucleic Acids Research,61,10.1093/nar/gkh446,Canada,Article,Burnaby,1,Journal,2-s2.0-3242890299
+Zeeberg B.,,Mistaken identifiers: Gene name errors can be introduced inadvertently when using Excel in bioinformatics [1],2004,BMC Bioinformatics,52,10.1186/1471-2105-5-80,United States,Letter,Bethesda,1,Journal,2-s2.0-13244287795
+Gentleman R.,,Bioconductor: open software development for computational biology and bioinformatics.,2004,Genome biology,8443,,United States,Article,Boston,0,Journal,2-s2.0-28744458859
+Smyth G.,,Normalization of cDNA microarray data,2003,Methods,1396,10.1016/S1046-2023(03)00155-5,Australia,Article,Melbourne,0,Journal,2-s2.0-0242333835
+Colantuoni C.,,SNOMAD (Standardization and Normalization of MicroArray Data): Web-accessible gene expression data analysis,2002,Bioinformatics,100,10.1093/bioinformatics/18.11.1540,United States;United States;United States,Article,Baltimore;Baltimore;Baltimore,1,Journal,2-s2.0-0036855423
+Ball C.,,Standards for microarray data [1],2002,Science,137,,United Kingdom,Letter,Cambridge,0,Journal,2-s2.0-0742279021
+Le Crom S.,,New insights into the pleiotropic drug resistance network from genome-wide characterization of the YRR1 transcription factor regulation system,2002,Molecular and Cellular Biology,74,10.1128/MCB.22.8.2642-2649.2002,France,Article,Paris,1,Journal,2-s2.0-0036207991
+Finkelstein D.,,Microarray data quality analysis: Lessons from the AFGC project,2002,Plant Molecular Biology,70,10.1023/A:1013765922672,United States,Article,"Washington, D.C.",0,Journal,2-s2.0-0036164793
+Yang Y.H.,,Normalization for cDNA microarray data: a robust composite method addressing single and multiple slide systematic variation.,2002,Nucleic acids research,2728,10.1093/nar/30.4.e15,United States,Article,Berkeley,0,Journal,2-s2.0-1342294092

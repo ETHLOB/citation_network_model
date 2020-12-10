@@ -1,0 +1,28 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Yanai I.,,Similar gene expression profiles do not imply similar tissue functions,2006,Trends in Genetics,48,10.1016/j.tig.2006.01.006,Israel;United States,Article,Rehovot;Cambridge,0,Journal,2-s2.0-33344466336
+Pinter R.,,Alignment of metabolic pathways,2005,Bioinformatics,169,10.1093/bioinformatics/bti554,Israel,Article,Haifa,1,Journal,2-s2.0-24044488288
+Sharan R.,,Identification of protein complexes by comparative analysis of yeast and bacterial protein interaction data,2005,Journal of Computational Biology,126,10.1089/cmb.2005.12.835,Israel,Conference Paper,Tel Aviv-Yafo,0,Journal,2-s2.0-23844447959
+Tanay A.,,Conservation and evolvability in regulatory networks: The evolution of ribosomal regulation in yeast,2005,Proceedings of the National Academy of Sciences of the United States of America,200,10.1073/pnas.0502521102,Israel,Article,Tel Aviv-Yafo,1,Journal,2-s2.0-18844374522
+Tsafrir D.,,Sorting points into neighborhoods (SPIN): Data analysis and visualization by ordering distance matrices,2005,Bioinformatics,94,10.1093/bioinformatics/bti329,Israel,Article,Rehovot,1,Journal,2-s2.0-19544387813
+Sharan R.,,Conserved patterns of protein interaction in multiple species,2005,Proceedings of the National Academy of Sciences of the United States of America,570,10.1073/pnas.0409522102,United States;Israel,Article,Berkeley;Tel Aviv-Yafo,1,Journal,2-s2.0-13844314048
+Trusina A.,,Functional alignment of regulatory networks: a study of temperate phages.,2005,PLoS computational biology,17,10.1371/journal.pcbi.0010074,Sweden,Article,Umea,1,Journal,2-s2.0-84872222974
+Hubbard T.,,Ensembl 2005,2005,Nucleic Acids Research,327,10.1093/nar/gki138,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-13444251422
+Berg J.,,Local graph alignment and motif search in biological networks,2004,Proceedings of the National Academy of Sciences of the United States of America,148,10.1073/pnas.0305199101,Germany,Article,Koln,1,Journal,2-s2.0-6944240088
+Khaitovich P.,,A neutral model of transcriptome evolution,2004,PLoS Biology,254,10.1371/journal.pbio.0020132,Germany,Article,Leipzig,1,Journal,2-s2.0-19344372220
+Bergmann S.,,Similarities and differences in genome-wide expression data of six organisms,2004,PLoS Biology,269,10.1371/journal.pbio.0020009,Israel,Article,Rehovot,1,Journal,2-s2.0-19344374050
+Kelley B.,,PathBLAST: A tool for alignment of protein interaction networks,2004,Nucleic Acids Research,300,10.1093/nar/gkh411,United States,Article,Cambridge,1,Journal,2-s2.0-3442886313
+Imamura T.,,Essential role for poly (ADP-ribosyl)ation in mouse preimplantation development,2004,BMC Molecular Biology,20,10.1186/1471-2199-5-4,Japan;France,Article,Okazaki;Paris,1,Journal,2-s2.0-26444509875
+Su A.I.,,A gene atlas of the mouse and human protein-encoding transcriptomes,2004,Proceedings of the National Academy of Sciences of the United States of America,2670,10.1073/pnas.0400782101,United States,Article,San Diego,1,Journal,2-s2.0-11144358198
+Stuart J.,,A gene-coexpression network for global discovery of conserved genetic modules,2003,Science,1415,10.1126/science.1087447,United States;United States,Article,Stanford;Santa Cruz,0,Journal,2-s2.0-0141993704
+Kelley B.,,Conserved pathways within bacteria and yeast as revealed by global protein network alignment,2003,Proceedings of the National Academy of Sciences of the United States of America,401,10.1073/pnas.1534710100,United States,Article,Cambridge,1,Journal,2-s2.0-0141593601
+Morett E.,,Systematic discovery of analogous enzymes in thiamin biosynthesis,2003,Nature Biotechnology,99,10.1038/nbt834,Mexico,Article,Cuernavaca,0,Journal,2-s2.0-0037715424
+Heymans M.,,Deriving phylogenetic trees from the similarity analysis of metabolic pathways,2003,Bioinformatics,101,10.1093/bioinformatics/btg1018,United States,Article,Santa Barbara,1,Journal,2-s2.0-4944219668
+Milo R.,,Network motifs: Simple building blocks of complex networks,2002,Science,4252,10.1126/science.298.5594.824,Israel,Article,Rehovot,0,Journal,2-s2.0-0037174670
+Shen-Orr S.S.,,Network motifs in the transcriptional regulation network of Escherichia coli,2002,Nature Genetics,1952,10.1038/ng881,,Article,,0,Journal,2-s2.0-0036578795
+Ashburner M.,,Gene ontology: Tool for the unification of biology,2000,Nature Genetics,21184,10.1038/75556,,Review,,0,Journal,2-s2.0-0034069495
+Galperin M.,,"Sources of systematic error in functional annotation of genomes: domain rearrangement, non-orthologous gene displacement and operon disruption.",1998,In silico biology,138,,United States,Article,Bethesda,0,Journal,2-s2.0-0032229196
+Altschul S.,,Gapped BLAST and PSI-BLAST: A new generation of protein database search programs,1997,Nucleic Acids Research,54811,10.1093/nar/25.17.3389,United States,Review,Bethesda,1,Journal,2-s2.0-0030801002
+Koonin E.V.,,Non-orthologous gene displacement [1],1996,Trends in Genetics,209,10.1016/0168-9525(96)20010-1,United States,Letter,Bethesda,0,Journal,2-s2.0-0030249023
+Jonker R.,,A shortest augmenting path algorithm for dense and sparse linear assignment problems,1987,Computing,701,10.1007/BF02278710,Netherlands,Article,Amsterdam,0,Journal,2-s2.0-0023173192
+Smith T.,,Identification of common molecular subsequences,1981,Journal of Molecular Biology,6433,10.1016/0022-2836(81)90087-5,United States,Article,Marquette,0,Journal,2-s2.0-0019887799
+Needleman S.,,A general method applicable to the search for similarities in the amino acid sequence of two proteins,1970,Journal of Molecular Biology,6912,10.1016/0022-2836(70)90057-4,United States,Article,Evanston,0,Journal,2-s2.0-0014757386

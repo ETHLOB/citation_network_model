@@ -1,0 +1,14 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Tatusov R.L.,,The COG database: New developments in phylogenetic classification of proteins from complete genomes,2001,Nucleic Acids Research,1417,10.1093/nar/29.1.22,United States,Article,Bethesda,1,Journal,2-s2.0-0035162592
+Remm M.,,Classification of transmembrane protein families in the Caenorhabditis elegans genome and identification of human orthologs,2000,Genome Research,28,10.1101/gr.GR-1491R,Estonia;Sweden,Article,Tartu;Stockholm,1,Journal,2-s2.0-0033664559
+Rubin G.M.,,Comparative genomics of the eukaryotes,2000,Science,1271,10.1126/science.287.5461.2204,,Review,,0,Journal,2-s2.0-0034708444
+Tatusov R.L.,,The COG database: A tool for genome-scale analysis of protein functions and evolution,2000,Nucleic Acids Research,2214,10.1093/nar/28.1.33,United States,Short Survey,Bethesda,0,Journal,2-s2.0-0033956060
+Wheelan S.,,Human and nematode orthologs - Lessons from the analysis of 1800 human genes and the proteome of Caenorhabditis elegans,1999,Gene,41,10.1016/S0378-1119(99)00298-X,United States;United States,Article,Bethesda;Baltimore,0,Journal,2-s2.0-0032835248
+Chervitz S.A.,,Comparison of the complete protein sets of worm and yeast: Orthology and divergence,1998,Science,350,10.1126/science.282.5396.2022,United States,Review,Stanford,0,Journal,2-s2.0-0032509179
+Makałowski W.,,"Evolutionary parameters of the transcribed mammalian genome: An analysis of 2,820 orthologous rodent and human sequences",1998,Proceedings of the National Academy of Sciences of the United States of America,347,10.1073/pnas.95.16.9407,United States,Article,Bethesda,1,Journal,2-s2.0-0032483028
+Yuan Y.,,Towards detection of orthologues in sequence databases,1998,Bioinformatics,59,10.1093/bioinformatics/14.3.285,Germany;Germany,Conference Paper,Berlin;Heidelberg,1,Journal,2-s2.0-0031876458
+Mushegian A.,,"Large-scale taxonomic profiling of eukaryotic model organisms: A comparison of orthologous proteins encoded by the human, fly, nematode, and yeast genomes",1998,Genome Research,141,10.1101/gr.8.6.590,United States,Article,San Francisco,1,Journal,2-s2.0-0031877893
+Tatusov R.,,A genomic perspective on protein families,1997,Science,2543,10.1126/science.278.5338.631,United States,Article,Bethesda,0,Journal,2-s2.0-0030660581
+Tatusov R.,,Metabolism and evolution of Haemophilus influenzae deduced from a whole-genome comparison with Escherichia coli,1996,Current Biology,242,10.1016/S0960-9822(02)00478-5,United States,Article,Bethesda,1,Journal,2-s2.0-0030111235
+Zharkikh A.,,Estimation of Confidence in Phylogeny: The Complete-and-Partial Bootstrap Technique,1995,Molecular Phylogenetics and Evolution,122,10.1006/mpev.1995.1005,United States,Article,,0,Journal,2-s2.0-0029261787
+Fitch W.,,Distinguishing homologous from analogous proteins,1970,Systematic Zoology,926,10.2307/2412448,United States,Article,Madison,0,Journal,2-s2.0-0014800108

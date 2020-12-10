@@ -1,0 +1,28 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Barrat A.,,Weighted evolving networks: Coupling topology and weight dynamics,2004,Physical Review Letters,501,10.1103/PhysRevLett.92.228701,France,Article,Saint-Aubin,0,Journal,2-s2.0-3042709447
+Dooley K.,,Dynamic analysis of news streams: Institutional versus environmental effects,2004,"Nonlinear Dynamics, Psychology, and Life Sciences",15,,United States,Article,Tempe,0,Journal,2-s2.0-4644221993
+Newman M.E.J.,,Fast algorithm for detecting community structure in networks,2004,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",2954,10.1103/PhysRevE.69.066133,United States,Article,Ann Arbor,0,Journal,2-s2.0-42749100809
+Noh J.,,Random Walks on Complex Networks,2004,Physical Review Letters,718,10.1103/PhysRevLett.92.118701,South Korea,Article,Daejeon,0,Journal,2-s2.0-2342616749
+Barrat A.,,The architecture of complex weighted networks,2004,Proceedings of the National Academy of Sciences of the United States of America,2202,10.1073/pnas.0400087101,France,Article,Orsay,1,Journal,2-s2.0-1642308591
+Radicchi F.,,Defining and identifying communities in networks,2004,Proceedings of the National Academy of Sciences of the United States of America,1536,10.1073/pnas.0400054101,Italy,Article,Rome,1,Journal,2-s2.0-1542357701
+Wu F.,,Finding communities in linear time: A physics approach,2004,European Physical Journal B,357,10.1140/epjb/e2004-00125-x,United States,Conference Paper,Palo Alto,0,Journal,2-s2.0-2942619068
+Newman M.E.J.,,Finding and evaluating community structure in networks,2004,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",7687,10.1103/PhysRevE.69.026113,United States;United States,Article,Santa Fe;Ann Arbor,0,Journal,2-s2.0-37649028224
+Krause A.,,Compartments revealed in food-web structure,2003,Nature,454,10.1038/nature02115,United States,Article,East Lansing,0,Journal,2-s2.0-0344875024
+Almaas E.,,Scaling properties of random walks on small-world networks,2003,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",61,,United States,Article,Notre Dame,0,Journal,2-s2.0-0942300139
+Newman M.,,The structure and function of complex networks,2003,SIAM Review,11537,10.1137/S003614450342480,United States,Review,Ann Arbor,0,Journal,2-s2.0-0038718854
+Noh J.D.,,Stability of shortest paths in complex networks with random edge weights,2002,"Physical Review E - Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics",41,10.1103/PhysRevE.66.066127,Germany,Article,Saarbrucken,0,Journal,2-s2.0-41349107757
+Albert R.,,Statistical mechanics of complex networks,2002,Reviews of Modern Physics,13645,10.1103/RevModPhys.74.47,United States;United States,Article,Minneapolis;Notre Dame,0,Journal,2-s2.0-0036013593
+Motter A.E.,,Topology of the conceptual network of language,2002,"Physical Review E - Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics",236,10.1103/PhysRevE.65.065102,United States,Article,Tempe,0,Journal,2-s2.0-41349116699
+Girvan M.,,Community structure in social and biological networks,2002,Proceedings of the National Academy of Sciences of the United States of America,8662,10.1073/pnas.122653799,United States;United States,Article,Santa Fe;Ithaca,1,Journal,2-s2.0-0037062448
+Dorogovtsev S.,,Evolution of networks,2002,Advances in Physics,2215,10.1080/00018730110112519,Portugal,Article,Porto,0,Journal,2-s2.0-0036610173
+Dorogovtsev S.,,Language as an evolving word web,2001,Proceedings of the Royal Society B: Biological Sciences,194,10.1098/rspb.2001.1824,Portugal,Article,Porto,0,Journal,2-s2.0-41049092467
+Newman M.E.J.,,"Scientific collaboration networks. II. Shortest paths, weighted networks, and centrality",2001,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",1499,,United States,Article,Santa Fe,0,Journal,2-s2.0-0042635247
+Yook S.,,Weighted evolving networks,2001,Physical Review Letters,344,10.1103/PhysRevLett.86.5835,United States,Article,Notre Dame,0,Journal,2-s2.0-0035907404
+Strogatz S.,,Exploring complex networks,2001,Nature,5562,10.1038/35065725,United States,Review,Ithaca,1,Journal,2-s2.0-0035826155
+Kleinberg J.M.,,Authoritative sources in a hyperlinked environment,1999,Journal of the ACM,5010,10.1145/324133.324140,United States,Article,Ithaca,0,Journal,2-s2.0-4243148480
+Redner S.,,How popular is your paper? An empirical study of the citation distribution,1998,European Physical Journal B,985,10.1007/s100510050359,United States,Article,Boston,0,Journal,2-s2.0-0031622508
+Page L.,,The anatomy of a large-scale hypertextual Web search engine,1998,Computer Networks,7260,,United States,Article,Palo Alto,0,Journal,2-s2.0-0038589165
+Sade D.,,Sociometrics of Macaca mulatta. I. Linkages and cliques in grooming matrices.,1972,Folia primatologica; international journal of primatology,152,10.1159/000155480,,Article,,0,Journal,2-s2.0-0015464620
+Bonacich P.,,Factoring and weighting approaches to status scores and clique identification,1972,The Journal of Mathematical Sociology,1364,10.1080/0022250X.1972.9989806,United States,Article,Los Angeles,0,Journal,2-s2.0-0001316531
+Kernighan B.,,An Efficient Heuristic Procedure for Partitioning Graphs,1970,Bell System Technical Journal,3149,10.1002/j.1538-7305.1970.tb01770.x,,Article,,0,Journal,2-s2.0-84990479742
+De Solla Price D.,,Networks of scientific papers,1965,Science,1664,10.1126/science.149.3683.510,United States,Article,New Haven,0,Journal,2-s2.0-0000432228

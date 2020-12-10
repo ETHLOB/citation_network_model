@@ -1,0 +1,21 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Silvestri F.,,Sorting out the document identifier assignment problem,2007,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),56,10.1007/978-3-540-71496-5_12,Italy,Conference Paper,Pisa,0,Book Series,2-s2.0-37149046010
+Kumar R.,,Structure and evolution of online social networks,2006,Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,627,10.1145/1150402.1150476,United States,Conference Paper,Sunnyvale,0,Conference Proceeding,2-s2.0-33749563834
+Gibson D.,,Discovering large dense subgraphs in massive graphs,2005,VLDB 2005 - Proceedings of 31st International Conference on Very Large Data Bases,231,,United States,Conference Paper,San Jose,0,Conference Proceeding,2-s2.0-33745630997
+Liben-Nowell D.,,Geographic routing in social networks,2005,Proceedings of the National Academy of Sciences of the United States of America,515,10.1073/pnas.0503018102,United States;United States;United States,Article,Northfield;San Jose;Cambridge,1,Journal,2-s2.0-23844493748
+Rao S.,,New approximation techniques for some linear ordering problems,2005,SIAM Journal on Computing,31,10.1137/S0097539702413197,United States,Article,Berkeley,0,Journal,2-s2.0-18444402512
+Flaxman A.,,High degree vertices and eigenvalues in the preferential attachment graph,2005,Internet Mathematics,19,10.1080/15427951.2005.10129097,United States,Article,Pittsburgh,1,Journal,2-s2.0-49049100973
+Boldi P.,,The WebGraph framework I: Compression techniques,2004,"Thirteenth International World Wide Web Conference Proceedings, WWW2004",655,,Italy,Conference Paper,Milan,0,Conference Proceeding,2-s2.0-19944376183
+Boldi P.,,The webgraph framework II: Codes for the world-wide web,2004,Data Compression Conference Proceedings,33,,Italy,Conference Paper,Milan,0,Conference Proceeding,2-s2.0-2642581914
+Silivestri F.,,Assigning document identifiers to enhance compressibility of Web search engines indexes,2004,Proceedings of the ACM Symposium on Applied Computing,23,,Italy,Conference Paper,Pisa,0,Conference Proceeding,2-s2.0-2442464849
+Shieh W.,,Inverted file compression through document identifier reassignment,2003,Information Processing and Management,57,10.1016/S0306-4573(02)00020-1,Taiwan,Article,Hsinchu,0,Journal,2-s2.0-0037213772
+McDiarmid C.,,Concentration for independent permutations,2002,Combinatorics Probability and Computing,34,10.1017/S0963548301005089,United Kingdom,Article,Oxford,0,Journal,2-s2.0-0036004171
+Randall K.,,The Link Database: Fast access to graphs of the Web,2002,Data Compression Conference Proceedings,61,10.1109/DCC.2002.999950,United States,Conference Paper,Palo Alto,0,Conference Proceeding,2-s2.0-84948402438
+Blandford D.,,Index compression through document reordering,2002,Data Compression Conference Proceedings,88,10.1109/DCC.2002.999972,United States,Conference Paper,Pittsburgh,0,Conference Proceeding,2-s2.0-84948432170
+Håstad J.,,Some optimal inapproximability results,2001,Journal of the ACM,829,10.1145/502090.502098,Sweden,Article,Stockholm,0,Journal,2-s2.0-0000844603
+Bollobás B.,,The degree sequence of a scale-free random graph process,2001,Random Structures and Algorithms,463,10.1002/rsa.1009,United States;United Kingdom,Article,Memphis;Cambridge,0,Journal,2-s2.0-0035625228
+Suel T.,,Compressing the graph structure of the Web,2001,Data Compression Conference Proceedings,80,,United States,Conference Paper,New York,0,Conference Proceeding,2-s2.0-0035014419
+Adler M.,,Towards compressing Web graphs,2001,Data Compression Conference Proceedings,129,10.1109/DCC.2001.917151,United States,Article,Amherst MA,0,Journal,2-s2.0-0035019833
+Broder A.,,Min-wise independent permutations,2000,Journal of Computer and System Sciences,331,10.1006/jcss.1999.1690,United States,Article,San Mateo,1,Journal,2-s2.0-0034207121
+Barabási A.,,Emergence of scaling in random networks,1999,Science,22132,10.1126/science.286.5439.509,United States,Article,Notre Dame,0,Journal,2-s2.0-0038483826
+Garey M.,,Some simplified NP-complete graph problems,1976,Theoretical Computer Science,1305,10.1016/0304-3975(76)90059-1,,Article,,1,Journal,2-s2.0-30244473678

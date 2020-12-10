@@ -1,0 +1,33 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Müller H.,,Textpresso: An ontology-based information retrieval and extraction system for biological literature,2004,PLoS Biology,441,10.1371/journal.pbio.0020309,United States,Article,Pasadena,1,Journal,2-s2.0-14044254746
+Bigelow H.,,CisOrtho: A program pipeline for genome-wide identification of transcription factor target using phylogenetic footprinting,2004,BMC Bioinformatics,30,10.1186/1471-2105-5-27,United States,Article,New York,1,Journal,2-s2.0-2942521105
+Hwang B.,,Genome annotation by high-throughput 5′ RNA end determination,2004,Proceedings of the National Academy of Sciences of the United States of America,19,10.1073/pnas.0308384100,United States,Article,Pasadena,1,Journal,2-s2.0-1242274627
+Li S.,,A Map of the Interactome Network of the Metazoan C. elegans,2004,Science,1334,10.1126/science.1091403,United States,Article,Boston,0,Journal,2-s2.0-9144264169
+Chen N.,,WormBase as an integrated platform for the C. elegans ORFeome,2004,Genome Research,16,10.1101/gr.2521304,United States,Article,Cold Spring Harbor,1,Journal,2-s2.0-7444261393
+Bult C.J.,,The Mouse Genome Database (MGD): Integrating biology with the genome,2004,Nucleic Acids Research,54,,United States,Article,Bar Harbor,0,Journal,2-s2.0-9144234728
+Harris T.W.,,WormBase: A multi-species resource for nematode biology and genomics,2004,Nucleic Acids Research,135,,United States,Article,Cold Spring Harbor,0,Journal,2-s2.0-0346494826
+Birney E.,,Ensembl 2004,2004,Nucleic Acids Research,139,,United Kingdom,Article,Cambridge,0,Journal,2-s2.0-9144259164
+Christie K.,,Saccharomyces Genome Database (SGD) provides tools to identify and analyze sequences from Saccharomyces cerevisiae and related sequences from other organisms,2004,Nucleic Acids Research,205,,United States,Article,Stanford,0,Journal,2-s2.0-9144256665
+Krieger C.,,MetaCyc: A multiorganism database of metabolic pathways and enzymes,2004,Nucleic Acids Research,215,,United States,Article,Menlo Park,0,Journal,2-s2.0-0346494819
+Kasprzk A.,,EnsMart: A generic system for fast and flexible access to biological data,2004,Genome Research,321,10.1101/gr.1645104,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-9144269670
+Gupta B.,,"The draft genome sequence of the nematode Caenorhabditis briggsae, a companion to C. elegans",2003,Genome Biology,22,10.1186/gb-2003-4-12-238,United States,Short Survey,Pasadena,1,Journal,2-s2.0-0347756679
+Stein L.,,The genome sequence of Caenorhabditis briggsae: A platform for comparative genomics,2003,PLoS Biology,613,10.1371/journal.pbio.0000045,United States,Article,Cold Spring Harbor,1,Journal,2-s2.0-4243088097
+Tatusov R.,,The COG database: An updated vesion includes eukaryotes,2003,BMC Bioinformatics,2968,10.1186/1471-2105-4-41,United States,Article,Bethesda,1,Journal,2-s2.0-0042902833
+Lopez R.,,WU-Blast2 server at the European Bioinformatics Institute,2003,Nucleic Acids Research,103,10.1093/nar/gkg573,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-0043122927
+Kamath R.,,Systematic functional analysis of the Caenorhabditis elegans genome using RNAi,2003,Nature,2485,10.1038/nature01278,United Kingdom,Article,Cambridge,0,Journal,2-s2.0-0037448540
+Harris T.W.,,WormBase: A cross-species database for comparative genomics,2003,Nucleic Acids Research,95,10.1093/nar/gkg053,United States,Review,Cold Spring Harbor,1,Journal,2-s2.0-0037246685
+McKay S.J.,,"Gene expression profiling of cells, tissues, and developmental stages of the nematode C. elegans",2003,Cold Spring Harbor Symposia on Quantitative Biology,217,10.1101/sqb.2003.68.159,Canada,Conference Paper,Vancouver,0,Book Series,2-s2.0-3242683216
+Gelbart W.M.,,The FlyBase database of the Drosophila genome projects and community literature,2003,Nucleic Acids Research,361,10.1093/nar/gkg094,United States,Review,Cambridge,1,Journal,2-s2.0-0037249406
+Stein L.,,The generic genome browser: A building block for a model organism system database,2002,Genome Research,879,10.1101/gr.403602,United States,Article,Cold Spring Harbor,1,Journal,2-s2.0-18644378331
+Stajich J.E.,,The Bioperl toolkit: Perl modules for the life sciences,2002,Genome Research,1169,10.1101/gr.361602,United States;United States,Article,San Diego;Durham,1,Journal,2-s2.0-18644368714
+Kent W.,,BLAT - The BLAST-like alignment tool,2002,Genome Research,5206,10.1101/gr.229202. Article published online before March 2002,United States,Article,Santa Cruz,0,Journal,2-s2.0-0036226603
+Twigger S.,,Rat Genome Database (RGD): Mapping disease onto the genome,2002,Nucleic Acids Research,79,10.1093/nar/30.1.125,United States,Article,Milwaukee,1,Journal,2-s2.0-18444394318
+Lewis S.,,Apollo: a sequence annotation editor.,2002,Genome biology,261,,United States,Review,Berkeley,0,Journal,2-s2.0-0012306021
+Berman H.M.,,The protein data bank,2002,Acta Crystallographica Section D: Biological Crystallography,1377,10.1107/S0907444902003451,United States,Article,New Brunswick,0,Journal,2-s2.0-0036616218
+Dowell R.,,The distributed annotation system,2001,BMC Bioinformatics,330,10.1186/1471-2105-2-7,United States,Article,St. Louis,1,Journal,2-s2.0-2942547885
+Kim S.K.,,A gene expression map for Caenorhabditis elegans,2001,Science,528,10.1126/science.1061603,United States,Article,Stanford,0,Journal,2-s2.0-0035860551
+Jones S.J.M.,,Changes in gene expression associated with development arrest and longevity in Caenorhabditis elegans,2001,Genome Research,176,10.1101/gr.184401,Canada,Article,Vancouver,1,Journal,2-s2.0-0034892172
+Stein L.,,WormBase: Network access to the genome and biology of Caenorhabditis elegans,2001,Nucleic Acids Research,231,10.1093/nar/29.1.82,United States,Article,Cold Spring Harbor,1,Journal,2-s2.0-0035165576
+,,Genome sequence of the nematode C. elegans: A platform for investigating biology,1998,Science,3146,10.1126/science.282.5396.2012,,Review,,0,Journal,2-s2.0-0032509302
+Stein L.D.,,Scriptable access to the Caenorhabditis elegans genome sequence and other ACEDB databases,1998,Genome Research,55,10.1101/gr.8.12.1308,United States,Article,Cold Spring Harbor,1,Journal,2-s2.0-0032441460
+Schuler G.,,Sequence mapping by electronic PCR,1997,Genome Research,264,10.1101/gr.7.5.541,United States,Article,Bethesda,1,Journal,2-s2.0-0030920610

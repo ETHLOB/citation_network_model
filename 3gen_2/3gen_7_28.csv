@@ -1,0 +1,55 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Hu H.,,Disassortative mixing in online social networks,2009,EPL,61,10.1209/0295-5075/86/18003,China,Article,Shanghai,0,Journal,2-s2.0-79051469663
+Sun D.,,Information filtering based on transferring similarity,2009,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",60,10.1103/PhysRevE.80.017101,China,Article,Hefei,0,Journal,2-s2.0-68949088440
+Grabowski A.,,Dynamic phenomena and human activity in an artificial society,2008,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",50,10.1103/PhysRevE.78.066110,Poland,Article,Warsaw,0,Journal,2-s2.0-58149311054
+Redner S.,,Networks: Teasing out the missing links,2008,Nature,45,10.1038/453047a,United States,Short Survey,Boston,0,Journal,2-s2.0-43049149409
+Clauset A.,,Hierarchical structure and the prediction of missing links in networks,2008,Nature,1221,10.1038/nature06830,United States;United States,Article,Albuquerque;Santa Fe,0,Journal,2-s2.0-43049151837
+Xie Y.,,Scale-free networks without growth,2008,Physica A: Statistical Mechanics and its Applications,75,10.1016/j.physa.2007.11.005,China,Article,Hefei,0,Journal,2-s2.0-37549059614
+Zhou T.,,Effect of initial configuration on network-based recommendation,2008,EPL,211,10.1209/0295-5075/81/58004,Switzerland;China;China,Article,Fribourg;Hefei;Chengdu,0,Journal,2-s2.0-79051469559
+Zhou T.,,Bipartite network projection and personal recommendation,2007,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",697,10.1103/PhysRevE.76.046115,Switzerland;China,Article,Fribourg;Hefei,0,Journal,2-s2.0-35648957764
+Zhou T.,,Phase synchronization on scale-free networks with community structure,2007,"Physics Letters, Section A: General, Atomic and Solid State Physics",61,10.1016/j.physleta.2007.04.083,China;Hong Kong,Article,Hefei;Kowloon,0,Journal,2-s2.0-34548052701
+Zhang G.Q.,,Enhancing the transmission efficiency by edge deletion in scale-free networks,2007,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",155,10.1103/PhysRevE.76.017101,China;China,Article,Beijing;Beijing,0,Journal,2-s2.0-34547188071
+Zhou S.,,Structural constraints in complex networks,2007,New Journal of Physics,53,10.1088/1367-2630/9/6/173,United Kingdom,Article,London,1,Journal,2-s2.0-34547315625
+Liben-Nowell D.,,The link-prediction problem for social networks,2007,Journal of the American Society for Information Science and Technology,2154,10.1002/asi.20591,United States,Article,Northfield,0,Journal,2-s2.0-34249751638
+Fouss F.,,Random-walk computation of similarities between nodes of a graph with application to collaborative recommendation,2007,IEEE Transactions on Knowledge and Data Engineering,744,10.1109/TKDE.2007.46,Belgium,Article,Louvain-la-Neuve,0,Journal,2-s2.0-33847766633
+Ou Q.,,Power-law strength-degree correlation from resource-allocation dynamics on weighted networks,2007,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",132,10.1103/PhysRevE.75.021102,China,Article,Hefei,0,Journal,2-s2.0-33846833581
+Zhou T.,,Modelling collaboration networks based on nonlinear preferential attachment,2007,International Journal of Modern Physics C,37,10.1142/S0129183107010437,China,Article,Hefei,0,Journal,2-s2.0-34249091758
+Liu H.,,Empirical study of Chinese city airline network,2007,Wuli Xuebao/Acta Physica Sinica,99,,China,Article,Chengdu,0,Journal,2-s2.0-33847781407
+Costa L.,,Characterization of complex networks: A survey of measurements,2007,Advances in Physics,1372,10.1080/00018730601170527,Brazil,Review,Sao Paulo,0,Journal,2-s2.0-33947724499
+Yin C.Y.,,Decoupling process for better synchronizability on scale-free networks,2006,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",62,10.1103/PhysRevE.74.047102,China,Article,Hefei,0,Journal,2-s2.0-33750091076
+Arenas A.,,Synchronization reveals topological scales in complex networks,2006,Physical Review Letters,579,10.1103/PhysRevLett.96.114102,Spain,Article,Tarragona,0,Journal,2-s2.0-33645156787
+Leicht E.A.,,Vertex similarity in networks,2006,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",516,10.1103/PhysRevE.73.026120,United States,Article,Ann Arbor,0,Journal,2-s2.0-33344464122
+Colizza V.,,Detecting rich-club ordering in complex networks,2006,Nature Physics,504,10.1038/nphys209,United States,Article,Bloomington,1,Journal,2-s2.0-33646680105
+Boccaletti S.,,Complex networks: Structure and dynamics,2006,Physics Reports,6606,10.1016/j.physrep.2005.10.009,Italy,Review,Sesto Fiorentino,0,Journal,2-s2.0-31344474880
+Gastner M.,,The spatial structure of networks,2006,European Physical Journal B,274,10.1140/epjb/e2006-00046-8,United States,Article,Santa Fe,0,Journal,2-s2.0-32944467861
+Newman M.E.J.,,Finding community structure in networks using the eigenvectors of matrices,2006,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",2559,10.1103/PhysRevE.74.036104,United States,Article,Ann Arbor,0,Journal,2-s2.0-33749468596
+Schmith J.,,"Damage, connectivity and essentiality in protein-protein interaction networks",2005,Physica A: Statistical Mechanics and its Applications,11,10.1016/j.physa.2004.10.038,Brazil,Article,Sao Leopoldo,0,Journal,2-s2.0-13444269154
+Huang Z.,,Link prediction approach to collaborative filtering,2005,Proceedings of the ACM/IEEE Joint Conference on Digital Libraries,230,10.1145/1065385.1065415,United States,Conference Paper,Tucson,0,Conference Proceeding,2-s2.0-27544435556
+Li W.,,Statistical analysis of airport network of China,2004,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",358,,Germany;China,Article,Leipzig;Wuhan,0,Journal,2-s2.0-42749101286
+Barrat A.,,The architecture of complex weighted networks,2004,Proceedings of the National Academy of Sciences of the United States of America,2202,10.1073/pnas.0400087101,France,Article,Orsay,1,Journal,2-s2.0-1642308591
+Tadić B.,,Traffic on complex networks: Towards understanding global statistical properties from microscopic density fluctuations,2004,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",199,10.1103/PhysRevE.69.036102,Slovenia,Article,Ljubljana,0,Journal,2-s2.0-42749106419
+Zhou S.,,The rich-club phenomenon in the internet topology,2004,IEEE Communications Letters,356,10.1109/LCOMM.2004.823426,United Kingdom,Article,London,0,Journal,2-s2.0-1942488295
+Spring N.,,Measuring ISP Topologies With Rocketfuel,2004,IEEE/ACM Transactions on Networking,557,10.1109/TNET.2003.822655,United States,Article,Seattle,0,Journal,2-s2.0-1642408605
+Adamic L.,,Friends and neighbors on the Web,2003,Social Networks,1496,10.1016/S0378-8733(03)00009-1,United States,Article,Palo Alto,0,Journal,2-s2.0-10944272139
+Goldberg D.,,Assessing experimentally derived interactions in a small world,2003,Proceedings of the National Academy of Sciences of the United States of America,302,10.1073/pnas.0735871100,United States,Article,Boston,1,Journal,2-s2.0-0037447257
+Sprinzak E.,,How reliable are experimental protein-protein interaction data?,2003,Journal of Molecular Biology,324,10.1016/S0022-2836(03)00239-0,Israel,Article,Jerusalem,0,Journal,2-s2.0-0037432528
+Ravasz E.,,Hierarchical organization in complex networks,2003,"Physical Review E - Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics",1243,10.1103/PhysRevE.67.026112,United States,Article,Notre Dame,0,Journal,2-s2.0-84930064585
+Newman M.,,The structure and function of complex networks,2003,SIAM Review,11537,10.1137/S003614450342480,United States,Review,Ann Arbor,0,Journal,2-s2.0-0038718854
+Yook S.,,Modeling the internet's large-scale topology,2002,Proceedings of the National Academy of Sciences of the United States of America,482,10.1073/pnas.172501399,United States,Article,Notre Dame,1,Journal,2-s2.0-0037108908
+Albert R.,,Statistical mechanics of complex networks,2002,Reviews of Modern Physics,13645,10.1103/RevModPhys.74.47,United States;United States,Article,Minneapolis;Notre Dame,0,Journal,2-s2.0-0036013593
+Girvan M.,,Community structure in social and biological networks,2002,Proceedings of the National Academy of Sciences of the United States of America,8662,10.1073/pnas.122653799,United States;United States,Article,Santa Fe;Ithaca,1,Journal,2-s2.0-0037062448
+Dorogovtsev S.,,Evolution of networks,2002,Advances in Physics,2215,10.1080/00018730110112519,Portugal,Article,Porto,0,Journal,2-s2.0-0036610173
+von Mering C.,,Comparative assessment of large-scale data sets of protein-protein interactions,2002,Nature,1786,10.1038/nature750,Germany,Article,Heidelberg,0,Journal,2-s2.0-0037161731
+Maslov S.,,Specificity and stability in topology of protein networks,2002,Science,1958,10.1126/science.1065103,United States,Article,Upton,0,Journal,2-s2.0-0037012880
+Holme P.,,Attack vulnerability of complex networks,2002,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",1090,10.1103/PhysRevE.65.056109,Sweden,Article,Umea,0,Journal,2-s2.0-41349120887
+Newman M.,,Assortative Mixing in Networks,2002,Physical Review Letters,3012,10.1103/PhysRevLett.89.208701,United States,Article,Ann Arbor,0,Journal,2-s2.0-18744389789
+Latora V.,,Efficient behavior of small-world networks,2001,Physical Review Letters,1461,,France;Italy,Article,Orsay;Catania,0,Journal,2-s2.0-35348957264
+Craven M.,,Learning to construct knowledge bases from the World Wide Web,2000,Artificial Intelligence,258,10.1016/S0004-3702(00)00004-7,United States,Article,Pittsburgh,1,Journal,2-s2.0-0034172483
+Barabási A.,,Emergence of scaling in random networks,1999,Science,22122,10.1126/science.286.5439.509,United States,Article,Notre Dame,0,Journal,2-s2.0-0038483826
+Martinez N.,,Effects of sampling effort on characterization of food-web structure,1999,Ecology,185,10.1890/0012-9658(1999)080[1044:EOSEOC]2.0.CO;2,United States,Article,San Francisco,0,Journal,2-s2.0-0032897662
+Watts D.J.,,Collective dynamics of 'small-world9 networks,1998,Nature,25779,10.1038/30918,United States,Article,Ithaca,0,Journal,2-s2.0-0032482432
+Page L.,,The anatomy of a large-scale hypertextual Web search engine,1998,Computer Networks,7260,,United States,Article,Palo Alto,0,Journal,2-s2.0-0038589165
+Molloy M.,,A critical point for random graphs with a given degree sequence,1995,Random Structures &amp; Algorithms,1427,10.1002/rsa.3240060204,United States,Article,Pittsburgh,0,Journal,2-s2.0-84990671447
+Hanley J.,,The meaning and use of the area under a receiver operating characteristic (ROC) curve,1982,Radiology,13683,10.1148/radiology.143.1.7063747,Canada,Article,Montreal,0,Journal,2-s2.0-0020083498
+Göbel F.,,Random walks on graphs,1974,Stochastic Processes and their Applications,91,10.1016/0304-4149(74)90001-5,Netherlands,Article,Enschede,1,Journal,2-s2.0-0009989570
+Katz L.,,A new status index derived from sociometric analysis,1953,Psychometrika,1764,10.1007/BF02289026,United States,Article,East Lansing,0,Journal,2-s2.0-0002827622

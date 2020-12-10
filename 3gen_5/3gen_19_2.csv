@@ -1,0 +1,43 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Denzler R.,,Assessing the ceRNA Hypothesis with Quantitative Measurements of miRNA and Target Abundance,2014,Molecular Cell,324,10.1016/j.molcel.2014.03.045,Switzerland,Article,"Zurich ZH,",1,Journal,2-s2.0-84901838697
+Kozomara A.,,MiRBase: Annotating high confidence microRNAs using deep sequencing data,2014,Nucleic Acids Research,3057,10.1093/nar/gkt1181,United Kingdom,Article,Manchester,1,Journal,2-s2.0-84891818318
+Khorshid M.,,A biophysical miRNA-mRNA interaction model infers canonical and noncanonical targets,2013,Nature Methods,95,10.1038/nmeth.2341,Switzerland;Switzerland,Article,Geneva;Basel,0,Journal,2-s2.0-84874646362
+Sengupta D.,,Topological patterns in microRNA-gene regulatory network: Studies in colorectal and breast cancer,2013,Molecular BioSystems,27,10.1039/c3mb25518b,India,Article,Kolkata,0,Journal,2-s2.0-84877728814
+Majoros W.,,MicroRNA target site identification by integrating sequence and binding information,2013,Nature Methods,37,10.1038/nmeth.2489,United States,Article,Durham,0,Journal,2-s2.0-85027931294
+Vergoulis T.,,TarBase 6.0: Capturing the exponential growth of miRNA targets with experimental support,2012,Nucleic Acids Research,413,10.1093/nar/gkr1161,Greece,Article,Athens,1,Journal,2-s2.0-84862176128
+Yang Y.,,"ℓ<inf>2,1</inf>-Norm regularized discriminative feature selection for unsupervised learning",2011,IJCAI International Joint Conference on Artificial Intelligence,456,10.5591/978-1-57735-516-8/IJCAI11-267,Australia,Conference Paper,Brisbane,0,Conference Proceeding,2-s2.0-84881041271
+Lorenz R.,,ViennaRNA Package 2.0,2011,Algorithms for Molecular Biology,1586,10.1186/1748-7188-6-26,Austria,Article,Vienna,1,Journal,2-s2.0-82055164092
+Mitra R.,,MultiMiTar: A novel multi objective optimization based miRNA-target prediction method,2011,PLoS ONE,31,10.1371/journal.pone.0024583,India,Article,Kolkata,1,Journal,2-s2.0-80052842349
+Yang J.,,StarBase: A database for exploring microRNA-mRNA interaction maps from Argonaute CLIP-Seq and Degradome-Seq data,2011,Nucleic Acids Research,493,10.1093/nar/gkq1056,China,Article,Guangzhou,1,Journal,2-s2.0-78651307694
+Kozomara A.,,MiRBase: Integrating microRNA annotation and deep-sequencing data,2011,Nucleic Acids Research,2620,10.1093/nar/gkq1027,United Kingdom,Article,Manchester,1,Journal,2-s2.0-78651293534
+Liu H.,,Improving performance of mammalian microRNA target prediction,2010,BMC Bioinformatics,61,10.1186/1471-2105-11-476,China,Article,Xuzhou,1,Journal,2-s2.0-77956846500
+Cai D.,,Unsupervised feature selection for Multi-Cluster data,2010,Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,587,10.1145/1835804.1835848,China,Conference Paper,Hangzhou,0,Conference Proceeding,2-s2.0-77956216411
+Betel D.,,Comprehensive modeling of microRNA targets predicts functional non-conserved and non-canonical sites,2010,Genome Biology,973,10.1186/gb-2010-11-8-r90,United States,Article,New York,1,Journal,2-s2.0-77955963884
+Sturm M.,,TargetSpy: A supervised machine learning approach for microRNA target prediction,2010,BMC Bioinformatics,104,10.1186/1471-2105-11-292,Germany,Article,Neuherberg,1,Journal,2-s2.0-77952671774
+Peter M.,,Targeting of mRNAs by multiple miRNAs: The next step,2010,Oncogene,164,10.1038/onc.2010.59,United States,Review,Chicago,1,Journal,2-s2.0-77951092180
+Hafner M.,,Transcriptome-wide Identification of RNA-Binding Protein and MicroRNA Target Sites by PAR-CLIP,2010,Cell,1756,10.1016/j.cell.2010.03.009,United States,Article,New York,1,Journal,2-s2.0-77950920903
+Bandyopadhyay S.,,TargetMiner: MicroRNA target prediction with systematic identification of tissue-specific negative examples,2009,Bioinformatics,144,10.1093/bioinformatics/btp503,India,Article,Kolkata,1,Journal,2-s2.0-70350000602
+Bandyopadhyay S.,,Analyzing miRNA co-expression networks to explore TF-miRNA regulation,2009,BMC Bioinformatics,36,10.1186/1471-2105-10-163,India,Article,Kolkata,1,Journal,2-s2.0-67650550765
+Xiao F.,,miRecords: An integrated resource for microRNA-target interactions,2009,Nucleic Acids Research,970,10.1093/nar/gkn851,United States,Article,Minneapolis,1,Journal,2-s2.0-58149186499
+Friedman R.,,Most mammalian mRNAs are conserved targets of microRNAs,2009,Genome Research,5184,10.1101/gr.082701.108,United States;United States,Article,Cambridge;Chevy Chase,1,Journal,2-s2.0-60149095444
+Wang X.,,miRDB: A microRNA target prediction and functional annotation database with a wiki interface,2008,RNA,515,10.1261/rna.965408,United States,Article,St. Louis,1,Journal,2-s2.0-44149083586
+Wang X.,,Prediction of both conserved and nonconserved microRNA targets in animals,2008,Bioinformatics,425,10.1093/bioinformatics/btm595,United States,Article,St. Louis,1,Journal,2-s2.0-38849145861
+Yousef M.,,Naïve Bayes for microRNA target predictions - Machine learning for microRNA targets,2007,Bioinformatics,108,10.1093/bioinformatics/btm484,United States,Article,Philadelphia,1,Journal,2-s2.0-36448982458
+Kertesz M.,,The role of site accessibility in microRNA target recognition,2007,Nature Genetics,1631,10.1038/ng2135,Israel,Article,Rehovot,0,Journal,2-s2.0-34748821761
+Grimson A.,,MicroRNA Targeting Specificity in Mammals: Determinants beyond Seed Pairing,2007,Molecular Cell,2720,10.1016/j.molcel.2007.06.017,United States;United States,Article,Cambridge;Cambridge,1,Journal,2-s2.0-34250805982
+Lytle J.,,Target mRNAs are repressed as efficiently by microRNA-binding sites in the 5′ UTR as in the 3′ UTR,2007,Proceedings of the National Academy of Sciences of the United States of America,780,10.1073/pnas.0703820104,United States,Article,New Haven,1,Journal,2-s2.0-34547441263
+Kim S.,,miTarget: MicroRNA target gene prediction using a support vector machine,2006,BMC Bioinformatics,165,10.1186/1471-2105-7-411,South Korea,Article,Seoul,1,Journal,2-s2.0-33749645474
+Blockeel H.,,Multi-instance tree learning,2005,ICML 2005 - Proceedings of the 22nd International Conference on Machine Learning,57,10.1145/1102351.1102359,Belgium,Conference Paper,3000 Leuven,0,Conference Proceeding,2-s2.0-31844431728
+He X.,,Laplacian Score for feature selection,2005,Advances in Neural Information Processing Systems,1159,,United States,Conference Paper,Chicago,0,Conference Proceeding,2-s2.0-84864039505
+Brennecke J.,,Principles of microRNA-target recognition,2005,PLoS Biology,1665,10.1371/journal.pbio.0030085,Germany,Conference Paper,Heidelberg,1,Journal,2-s2.0-18044377963
+Lewis B.P.,,"Conserved seed pairing, often flanked by adenosines, indicates that thousands of human genes are microRNA targets",2005,Cell,8815,10.1016/j.cell.2004.12.035,United States;United States,Letter,Cambridge;Cambridge,1,Journal,2-s2.0-11844278458
+John B.,,Human microRNA targets,2004,PLoS Biology,2538,10.1371/journal.pbio.0020363,United States,Article,New York,1,Journal,2-s2.0-14044251458
+Rehmsmeier M.,,Fast and effective prediction of microRNA/target duplexes,2004,RNA,1509,10.1261/rna.5248604,Germany,Article,Bielefeld,1,Journal,2-s2.0-4644237189
+Ambros V.,,The functions of animal microRNAs,2004,Nature,7823,10.1038/nature02871,United States,Review,Hanover,0,Journal,2-s2.0-4644309196
+Bartel D.,,"MicroRNAs: Genomics, Biogenesis, Mechanism, and Function",2004,Cell,25016,10.1016/S0092-8674(04)00045-5,United States;United States,Review,Cambridge;Cambridge,1,Journal,2-s2.0-0347444723
+Breiman L.,,Random forests,2001,Machine Learning,38873,10.1023/A:1010933404324,United States,Article,Berkeley,1,Journal,2-s2.0-0035478854
+Maron O.,,A framework for multiple-instance learning,1998,Advances in Neural Information Processing Systems,814,,United States,Conference Paper,Cambridge,0,Conference Proceeding,2-s2.0-84898935332
+Amit Y.,,Shape Quantization and Recognition with Randomized Trees,1997,Neural Computation,628,10.1162/neco.1997.9.7.1545,United States,Article,Chicago,0,Journal,2-s2.0-0001492549
+Dietterich T.G.,,Solving the multiple instance problem with axis-parallel rectangles,1997,Artificial Intelligence,1518,10.1016/s0004-3702(96)00034-3,United States,Article,Corvallis,1,Journal,2-s2.0-0030649484
+Ho T.,,Random decision forests,1995,"Proceedings of the International Conference on Document Analysis and Recognition, ICDAR",1773,10.1109/ICDAR.1995.598994,United States,Conference Paper,Murray,0,Conference Proceeding,2-s2.0-85057943047
+Rose K.,,"Deterministic annealing, constrained clustering, and optimization",1991,,6,10.1109/ijcnn.1991.170767,,Conference Paper,,0,Conference Proceeding,2-s2.0-0026296890

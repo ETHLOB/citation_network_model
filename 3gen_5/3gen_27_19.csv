@@ -1,0 +1,29 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Oti M.,,Predicting disease genes using protein-protein interactions,2006,Journal of Medical Genetics,389,10.1136/jmg.2006.041376,Netherlands,Article,Nijmegen,0,Journal,2-s2.0-33747035889
+Calvo S.,,Systematic identification of human mitochondrial disease genes through integrative genomics,2006,Nature Genetics,264,10.1038/ng1776,United States;United States;United States,Article,Boston;Boston;Cambridge,0,Journal,2-s2.0-33646362551
+Aerts S.,,Gene prioritization through genomic data fusion,2006,Nature Biotechnology,655,10.1038/nbt1203,Belgium,Article,3000 Leuven,0,Journal,2-s2.0-33646568805
+Tu Z.,,Further understanding human disease genes by comparing with housekeeping genes and other genes,2006,BMC Genomics,110,10.1186/1471-2164-7-31,United States,Article,Los Angeles,1,Journal,2-s2.0-33644897576
+Gandhi T.,,"Analysis of the human protein interactome and comparison with yeast, worm and fly interaction datasets",2006,Nature Genetics,345,10.1038/ng1747,India,Article,Bangalore,0,Journal,2-s2.0-33644617753
+Franke L.,,"Reconstruction of a functional human gene network, with an application for prioritizing positional candidate genes",2006,American Journal of Human Genetics,381,10.1086/504300,Netherlands,Article,Utrecht,1,Journal,2-s2.0-33646884801
+Morlon A.,,"TAB2, TRAF6 and TAK1 are involved in NF-κB activation induced by the TNF-receptor, Edar and its adaptator Edaradd",2005,Human Molecular Genetics,63,10.1093/hmg/ddi405,France;France,Article,Paris;Illkirch-Graffenstaden,1,Journal,2-s2.0-28744438757
+Rual J.F.,,Towards a proteome-scale map of the human protein-protein interaction network,2005,Nature,2023,10.1038/nature04209,United States;United States,Article,Boston;Boston,0,Journal,2-s2.0-27144530248
+Stelzl U.,,A human protein-protein interaction network: A resource for annotating the proteome,2005,Cell,1693,10.1016/j.cell.2005.08.029,Germany,Article,Berlin,1,Journal,2-s2.0-25144498379
+Brown K.,,Online predicted human interaction database,2005,Bioinformatics,445,10.1093/bioinformatics/bti273,Canada,Article,Toronto,1,Journal,2-s2.0-18744376914
+Adie E.,,Speeding disease gene discovery by sequence based candidate prioritization,2005,BMC Bioinformatics,200,10.1186/1471-2105-6-55,United Kingdom,Article,Edinburgh,1,Journal,2-s2.0-25444482801
+Ramani A.,,Consolidating the set of known human protein-protein interactions in preparation for large-scale mapping of the human interactome.,2005,Genome biology,183,,United States,Article,Austin,0,Journal,2-s2.0-25144516911
+Hamosh A.,,"Online Mendelian Inheritance in Man (OMIM), a knowledgebase of human genes and genetic disorders",2005,Nucleic Acids Research,1530,10.1093/nar/gki033,,Article,,1,Journal,2-s2.0-13444266370
+López-Bigas N.,,Genome-wide identification of genes likely to be involved in human genetic disease,2004,Nucleic Acids Research,204,10.1093/nar/gkh605,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-3543106033
+Brunner H.,,From syndrome families to functional genomics,2004,Nature Reviews Genetics,143,10.1038/nrg1383,Netherlands,Review,Nijmegen,0,Journal,2-s2.0-3042841887
+Arking D.,,Genomics in Sudden Cardiac Death,2004,Circulation Research,82,10.1161/01.RES.0000123861.16082.95,United States,Review,Baltimore,1,Journal,2-s2.0-1842507609
+Turner F.,,POCUS: Mining genomic sequence annotation to predict disease genes,2003,Genome Biology,179,10.1186/gb-2003-4-11-r75,United Kingdom,Article,Edinburgh,1,Journal,2-s2.0-1542787787
+Peri S.,,Development of human protein reference database as an initial platform for approaching systems biology in humans,2003,Genome Research,776,10.1101/gr.1680803,Denmark;United States,Article,Odense;Baltimore,1,Journal,2-s2.0-10744224197
+Tse J.Y.M.,,Specific expression of VCY2 in human male germ cells and its involvement in the pathogenesis of male infertility,2003,Biology of Reproduction,29,10.1095/biolreprod.103.015792,Hong Kong;Hong Kong,Article,Pokfulam;Kowloon,1,Journal,2-s2.0-0041914418
+Okumura S.,,Disruption of type 5 adenylyl cyclase gene preserves cardiac function against pressure overload,2003,Proceedings of the National Academy of Sciences of the United States of America,148,10.1073/pnas.1733772100,United States,Article,Newark,1,Journal,2-s2.0-0042691820
+Goldberg D.,,Assessing experimentally derived interactions in a small world,2003,Proceedings of the National Academy of Sciences of the United States of America,302,10.1073/pnas.0735871100,United States,Article,Boston,1,Journal,2-s2.0-0037447257
+Bader G.,,BIND: The Biomolecular Interaction Network Database,2003,Nucleic Acids Research,918,10.1093/nar/gkg056,Canada,Review,Toronto,0,Journal,2-s2.0-0037245913
+Botstein D.,,"Discovering genotypes underlying human phenotypes: Past successes for mendelian disease, future approaches for complex disease",2003,Nature Genetics,1134,10.1038/ng1090,United States,Review,Stanford,0,Journal,2-s2.0-0037373275
+Badano J.,,Beyond mendel: An evolving view of human genetic disease transmission,2002,Nature Reviews Genetics,261,10.1038/nrg910,United States,Review,Baltimore,0,Journal,2-s2.0-0036787307
+Zhao Y.,,Expression of adenylyl cyclase V/VI mRNA and protein is upregulated in cyanotic infant human myocardium,2002,Pediatric Cardiology,5,10.1007/s00246-001-0097-9,United States,Article,New York,0,Journal,2-s2.0-0036715858
+Perez-Iratxeta C.,,Association of genes to genetically inherited diseases using data mining,2002,Nature Genetics,278,10.1038/ng895,Germany,Article,Heidelberg,0,Journal,2-s2.0-0036649742
+Zanzoni A.,,MINT: A Molecular INTeraction database,2002,FEBS Letters,574,10.1016/S0014-5793(01)03293-8,Italy,Short Survey,Rome,1,Journal,2-s2.0-0037138406
+Perinchery G.,,Deletion of Y-chromosome specific genes in human prostate cancer,2000,Journal of Urology,66,10.1016/S0022-5347(05)67774-9,United States,Article,San Francisco,0,Journal,2-s2.0-0034064082

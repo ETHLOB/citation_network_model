@@ -1,0 +1,15 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Schafer J.,,Recommender systems in e-commerce,1999,ACM International Conference Proceeding Series,975,10.1145/336992.337035,United States,Conference Paper,Minneapolis,0,Conference Proceeding,2-s2.0-84883877353
+Herlocker J.,,An algorithmic framework for performing collaborative filtering,1999,"Proceedings of the 22nd Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 1999",2044,10.1145/312624.312682,United States,Conference Paper,,0,Conference Proceeding,2-s2.0-85015559680
+Good N.,,Combining collaborative filtering with personal agents for better recommendations,1999,Proceedings of the National Conference on Artificial Intelligence,456,,United States,Article,Minneapolis,0,Conference Proceeding,2-s2.0-0032596552
+Sarwar B.M.,,Using filtering agents to improve prediction quality in the GroupLens Research collaborative filtering system,1998,Proceedings of the ACM Conference on Computer Supported Cooperative Work,237,10.1145/289444.289509,United States,Article,Minneapolis,0,Conference Proceeding,2-s2.0-0032276564
+Terveen L.,,A System for Sharing Recommendations,1997,Communications of the ACM,316,10.1145/245108.245122,United States,Article,Florham Park,0,Journal,2-s2.0-0031104279
+Konstan J.A.,,Applying Collaborative Filtering to Usenet News,1997,Communications of the ACM,1632,10.1145/245108.245126,United States,Article,Minneapolis,0,Journal,2-s2.0-0031103122
+Resnick P.,,Recommender Systems,1997,Communications of the ACM,2322,10.1145/245108.245121,United States,Article,San Antonio,0,Journal,2-s2.0-0031104254
+Brachman R.,,Mining Business Databases,1996,Communications of the ACM,134,10.1145/240455.240468,,Article,,0,Journal,2-s2.0-0030290137
+Berry M.,,Using linear algebra for intelligent information retrieval,Dec,SIAM Review,914,10.1137/1037127,United States,Article,Knoxville,0,Journal,2-s2.0-0029546874
+Resnick P.,,GroupLens: An open architecture for collaborative filtering of netnews,1994,"Proceedings of the 1994 ACM Conference on Computer Supported Cooperative Work, CSCW 1994",3498,10.1145/192844.192905,United States,Conference Paper,Cambridge,0,Conference Proceeding,2-s2.0-85030174634
+Reichheld F.,,Loyalty-based management.,1993,Harvard Business Review,678,,,Article,,0,Journal,2-s2.0-0027566971
+Goldberg D.,,Using collaborative filtering to Weave an Information tapestry,1992,Communications of the ACM,2333,10.1145/138859.138867,United States,Article,Palo Alto,0,Journal,2-s2.0-84976668719
+Reichheld F.,,Zero defections: quality comes to services.,1990,Harvard business review,2849,,,Article,,0,Journal,2-s2.0-0025486182
+Deerwester S.,,Indexing by latent semantic analysis,1990,Journal of the American Society for Information Science,7497,10.1002/(SICI)1097-4571(199009)41:6<391::AID-ASI1>3.0.CO;2-9,United States,Article,Chicago,0,Journal,2-s2.0-84989525001

@@ -1,0 +1,5 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Hardoon D.,,Canonical correlation analysis: An overview with application to learning methods,2004,Neural Computation,1673,10.1162/0899766042321814,United Kingdom,Review,Southampton,0,Journal,2-s2.0-10044285992
+Fergus R.,,Object class recognition by unsupervised scale-invariant learning,2003,Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition,1545,,United Kingdom,Conference Paper,Oxford,0,Conference Proceeding,2-s2.0-0041940256
+Bartlett P.,,Rademacher and Gaussian complexities: Risk bounds and structural results,2003,Journal of Machine Learning Research,839,10.1162/153244303321897690,Australia,Conference Paper,Canberra,0,Journal,2-s2.0-0038453192
+Bach F.R.,,Kernel independent component analysis,2003,Journal of Machine Learning Research,1081,10.1162/153244303768966085,United States,Article,Berkeley,0,Journal,2-s2.0-0011812771

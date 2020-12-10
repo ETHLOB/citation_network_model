@@ -1,0 +1,13 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Welling M.,,Herding dynamical weights to learn,2009,"Proceedings of the 26th International Conference On Machine Learning, ICML 2009",43,,United States,Conference Paper,Irvine,0,Conference Proceeding,2-s2.0-71149083295
+Tieleman T.,,Using fast weights to improve persistent contrastive divergence,2009,"Proceedings of the 26th International Conference On Machine Learning, ICML 2009",162,,Canada,Conference Paper,Toronto,0,Conference Proceeding,2-s2.0-71149084943
+Tieleman T.,,Training restricted boltzmann machines using approximations to the likelihood gradient,2008,Proceedings of the 25th International Conference on Machine Learning,497,10.1145/1390156.1390290,Canada,Conference Paper,Toronto,0,Conference Proceeding,2-s2.0-56449086223
+Welling M.,,Bayesian random fields: The bethe-laplace approximation,2006,"Proceedings of the 22nd Conference on Uncertainty in Artificial Intelligence, UAI 2006",10,,United States,Conference Paper,Irvine,0,Conference Proceeding,2-s2.0-70049090225
+Hyvärinen A.,,Estimation of non-normalized statistical models by score matching,2005,Journal of Machine Learning Research,197,,Finland,Article,Helsinki,0,Journal,2-s2.0-22044434800
+Hinton G.E.,,Training products of experts by minimizing contrastive divergence,2002,Neural Computation,2671,10.1162/089976602760128018,United Kingdom,Article,London,0,Journal,2-s2.0-0013344078
+Zhu S.,,Learning in Gibbsian fields: How accurate and how fast can it be?,2002,IEEE Transactions on Pattern Analysis and Machine Intelligence,18,10.1109/TPAMI.2002.1017626,United States,Article,Los Angeles,0,Journal,2-s2.0-0036647281
+Goetz A.,,Dynamics of piecewise isometries,2000,Illinois Journal of Mathematics,70,10.1215/ijm/1256060408,United States,Article,San Francisco,1,Journal,2-s2.0-0034259482
+Maass W.,,Dynamic stochastic synapses as computational units,1998,Advances in Neural Information Processing Systems,15,,Austria,Conference Paper,Graz,0,Conference Proceeding,2-s2.0-84898956641
+Neal R.,,Connectionist learning of belief networks,1992,Artificial Intelligence,259,10.1016/0004-3702(92)90065-6,Canada,Article,Toronto,0,Journal,2-s2.0-44049116681
+Younes L.,,Parametric Inference for imperfectly observed Gibbsian fields,1989,Probability Theory and Related Fields,112,10.1007/BF00341287,France,Article,Saint-Aubin,0,Journal,2-s2.0-0000355193
+Besag J.,,Efficiency of pseudolikelihood estimation for simple Gaussian fields,1977,Biometrika,195,10.1093/biomet/64.3.616,United Kingdom,Article,Durham,0,Journal,2-s2.0-0017751656

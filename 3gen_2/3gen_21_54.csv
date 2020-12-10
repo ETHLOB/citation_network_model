@@ -1,0 +1,23 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Albert R.,,Statistical mechanics of complex networks,2002,Reviews of Modern Physics,13645,10.1103/RevModPhys.74.47,United States;United States,Article,Minneapolis;Notre Dame,0,Journal,2-s2.0-0036013593
+Pastor-Satorras R.,,Epidemic dynamics in finite size scale-free networks,2002,"Physical Review E - Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics",522,10.1103/PhysRevE.65.035108,Spain,Article,Barcelona,0,Journal,2-s2.0-41349112686
+Dorogovtsev S.N.,,Anomalous percolation properties of growing networks,2001,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",83,,Portugal,Article,Porto,0,Journal,2-s2.0-0035689340
+Dorogovtsev S.N.,,"Comment on ""breakdown of the internet under intentional attack""",2001,Physical Review Letters,31,,Portugal,Article,Porto,0,Journal,2-s2.0-18044404521
+Callaway D.S.,,Are randomly grown graphs really random?,2001,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",281,,United States,Article,Ithaca,0,Journal,2-s2.0-0035474697
+Newman M.E.J.,,Random graphs with arbitrary degree distributions and their applications,2001,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",2213,,United States;United States,Article,Santa Fe;Ithaca,0,Journal,2-s2.0-0035420732
+Cohen R.,,Breakdown of the internet under intentional attack,2001,Physical Review Letters,1004,10.1103/PhysRevLett.86.3682,Israel,Article,Ramat Gan,0,Journal,2-s2.0-0035896667
+Pastor-Satorras R.,,Epidemic spreading in scale-free networks,2001,Physical Review Letters,3738,10.1103/PhysRevLett.86.3200,Spain,Article,Barcelona,0,Journal,2-s2.0-0035794256
+Strogatz S.,,Exploring complex networks,2001,Nature,5562,10.1038/35065725,United States,Review,Ithaca,1,Journal,2-s2.0-0035826155
+Pastor-Satorras R.,,Epidemic dynamics and endemic states in complex networks,2001,"Physical Review E - Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics",1153,10.1103/PhysRevE.63.066117,Spain,Article,Barcelona,0,Journal,2-s2.0-0035363452
+Callaway D.,,Network robustness and fragility: percolation on random graphs,2000,Physical Review Letters,1632,10.1103/PhysRevLett.85.5468,United States,Article,Ithaca,0,Journal,2-s2.0-4243939794
+Cohen R.,,Resilience of the Internet to random breakdowns,2000,Physical Review Letters,1644,10.1103/PhysRevLett.85.4626,Israel,Article,Ramat Gan,0,Journal,2-s2.0-0034323311
+Amaral L.A.N.,,Classes of small-world networks,2000,Proceedings of the National Academy of Sciences of the United States of America,2116,10.1073/pnas.200327197,United States,Conference Paper,Boston,1,Journal,2-s2.0-0034633749
+Albert R.,,Error and attack tolerance of complex networks,2000,Nature,5597,10.1038/35019019,United States,Article,Notre Dame,0,Journal,2-s2.0-0034721164
+Barabási A.,,Emergence of scaling in random networks,1999,Science,22122,10.1126/science.286.5439.509,United States,Article,Notre Dame,0,Journal,2-s2.0-0038483826
+Molloy M.,,The Size of the Giant Component of a Random Graph with a Given Degree Sequence,1998,Combinatorics Probability and Computing,533,10.1017/S0963548398003526,Canada,Article,Toronto,0,Journal,2-s2.0-0032286776
+Molloy M.,,A critical point for random graphs with a given degree sequence,1995,Random Structures &amp; Algorithms,1427,10.1002/rsa.3240060204,United States,Article,Pittsburgh,0,Journal,2-s2.0-84990671447
+Kazakov V.,,Ising model on a dynamical planar random lattice: Exact solution,1986,Physics Letters A,312,10.1016/0375-9601(86)90433-0,Russian Federation,Article,Moscow,0,Journal,2-s2.0-17144426793
+Wormald N.,,The asymptotic connectivity of labelled regular graphs,1981,"Journal of Combinatorial Theory, Series B",75,10.1016/S0095-8956(81)80021-4,United States,Article,Baton Rouge,1,Journal,2-s2.0-58149404605
+Wormald N.,,The asymptotic distribution of short cycles in random regular graphs,1981,"Journal of Combinatorial Theory, Series B",87,10.1016/S0095-8956(81)80022-6,United States,Article,Baton Rouge,1,Journal,2-s2.0-0010746686
+Bollobás B.,,A Probabilistic Proof of an Asymptotic Formula for the Number of Labelled Regular Graphs,1980,European Journal of Combinatorics,539,10.1016/S0195-6698(80)80030-8,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-85012603843
+Bender E.,,The asymptotic number of labeled graphs with given degree sequences,1978,"Journal of Combinatorial Theory, Series A",555,10.1016/0097-3165(78)90059-6,United States,Article,San Diego,1,Journal,2-s2.0-0000664045

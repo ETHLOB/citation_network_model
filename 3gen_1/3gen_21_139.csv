@@ -1,0 +1,10 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Gaynier R.,,Method of training multi-layer networks with heaviside characteristics using internal representations,1993,1993 IEEE International Conference on Neural Networks,1,,Australia,Conference Paper,Brisbane,0,Conference Proceeding,2-s2.0-0027277566
+Bengio Y.,,Problem of learning long-term dependencies in recurrent networks,1993,1993 IEEE International Conference on Neural Networks,83,,Italy,Conference Paper,Florence,0,Conference Proceeding,2-s2.0-84943223999
+Giles C.,,Inserting rules into recurrent neural networks,1992,Neural Networks for Signal Processing - Proceedings of the IEEE Workshop,20,10.1109/NNSP.1992.253712,United States,Conference Paper,Princeton,0,Conference Proceeding,2-s2.0-84947459398
+Bartlett P.,,Using Random Weights to Train Multilayer Networks of Hard-Limiting Units,1992,IEEE Transactions on Neural Networks,27,10.1109/72.125861,Australia,Article,Brisbane,0,Journal,2-s2.0-0026836876
+Bengio Y.,,Global Optimization of a Neural Network-Hidden Markov Model Hybrid,1992,IEEE Transactions on Neural Networks,97,10.1109/72.125866,Canada,Article,Montreal,0,Journal,2-s2.0-0026835134
+Marcus C.,,Nonlinear dynamics and stability of analog neural networks,1991,Physica D: Nonlinear Phenomena,62,10.1016/0167-2789(91)90236-3,United States,Article,Cambridge,0,Journal,2-s2.0-0000380827
+Gori M.,,BPS: A learning algorithm for capturing the dynamic nature of speech,1989,IJCNN Int Jt Conf Neural Network,47,,Italy,Conference Paper,Florence,0,Conference Proceeding,2-s2.0-0024903887
+Corana A.,,Minimizing Multimodal Functions of Continuous Variables with the “Simulated Annealing” Algorithm,1987,ACM Transactions on Mathematical Software (TOMS),1152,10.1145/29380.29864,Italy,Article,Rome,0,Journal,2-s2.0-0023416976
+Kirkpatrick S.,,Optimization by simulated annealing,1983,Science,26815,10.1126/science.220.4598.671,United States,Article,Yorktown Heights,0,Journal,2-s2.0-26444479778

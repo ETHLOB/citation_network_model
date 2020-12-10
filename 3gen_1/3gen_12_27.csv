@@ -1,0 +1,23 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Hansen K.,,Removing technical variability in RNA-seq data using conditional quantile normalization,2012,Biostatistics,259,10.1093/biostatistics/kxr054,United States,Article,Baltimore,1,Journal,2-s2.0-84858068675
+Risso D.,,GC-Content Normalization for RNA-Seq Data,2011,BMC Bioinformatics,296,10.1186/1471-2105-12-480,Italy,Article,Padua,1,Journal,2-s2.0-83455238345
+Frazee A.,,ReCount: A multi-experiment resource of analysis-ready RNA-seq gene count datasets,2011,BMC Bioinformatics,97,10.1186/1471-2105-12-449,United States,Article,Baltimore,1,Journal,2-s2.0-81055124271
+Łabaj P.,,Characterization and improvement of RNA-seq precision in quantitative transcript expression profiling,2011,Bioinformatics,99,10.1093/bioinformatics/btr247,Austria,Article,Vienna,0,Journal,2-s2.0-79959473093
+Auer P.,,A two-stage poisson model for testing RNA-Seq data,2011,Statistical Applications in Genetics and Molecular Biology,85,10.2202/1544-6115.1627,United States,Article,Seattle,0,Journal,2-s2.0-79958115654
+Strub T.,,"Essential role of microphthalmia transcription factor for DNA replication, mitosis and genomic stability in melanoma",2011,Oncogene,145,10.1038/onc.2010.612,France,Article,Strasbourg,1,Journal,2-s2.0-79956120349
+Bottomly D.,,Evaluating gene expression in C57BL/6J and DBA/2J mouse striatum using RNA-Seq and microarrays,2011,PLoS ONE,140,10.1371/journal.pone.0017820,United States,Article,Portland,1,Journal,2-s2.0-79953034289
+Sam L.T.,,A comparison of single molecule and amplification based sequencing of cancer transcriptomes,2011,PLoS ONE,37,10.1371/journal.pone.0017305,United States;United States,Article,Ann Arbor;Ann Arbor,1,Journal,2-s2.0-79952301722
+Oshlack A.,,From RNA-seq reads to differential expression results,2010,Genome Biology,394,10.1186/gb-2010-11-12-220,Australia,Review,Melbourne,1,Journal,2-s2.0-78650539308
+Cánovas A.,,SNP discovery in the bovine milk transcriptome using RNA-Seq technology,2010,Mammalian Genome,102,10.1007/s00335-010-9297-z,Spain,Article,Caldes de Montbui,1,Journal,2-s2.0-78650970907
+Anders S.,,Differential expression analysis for sequence count data,2010,Genome Biology,7661,10.1186/gb-2010-11-10-r106,Germany,Article,Heidelberg,1,Journal,2-s2.0-77958471357
+Bourgon R.,,Independent filtering increases detection power for high-throughput experiments,2010,Proceedings of the National Academy of Sciences of the United States of America,347,10.1073/pnas.0914005107,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-77953095629
+Robinson M.,,A scaling normalization method for differential expression analysis of RNA-seq data,2010,Genome Biology,2570,10.1186/gb-2010-11-3-r25,Australia;Australia,Article,Melbourne;Sydney,1,Journal,2-s2.0-77953176036
+Ramsköld D.,,An abundance of ubiquitously expressed genes revealed by tissue transcriptome sequence data,2009,PLoS Computational Biology,533,10.1371/journal.pcbi.1000598,Sweden,Article,Stockholm,1,Journal,2-s2.0-74549125753
+Robinson M.,,edgeR: A Bioconductor package for differential expression analysis of digital gene expression data,2009,Bioinformatics,11835,10.1093/bioinformatics/btp616,Australia;Australia,Article,Melbourne;Sydney,1,Journal,2-s2.0-75249087100
+Wang L.,,DEGseq: An R package for identifying differentially expressed genes from RNA-seq data,2009,Bioinformatics,1853,10.1093/bioinformatics/btp612,China;China,Article,Beijing;Changchun,0,Journal,2-s2.0-75249095274
+Oshlack A.,,Transcript length bias in RNA-seq data confounds systems biology,2009,Biology Direct,293,10.1186/1745-6150-4-14,Australia,Article,Melbourne,1,Journal,2-s2.0-65649126066
+Sultan M.,,A global view of gene activity and alternative splicing by deep sequencing of the human transcriptome,2008,Science,913,10.1126/science.1160342,Germany,Article,Berlin,0,Journal,2-s2.0-47649124124
+Mortazavi A.,,Mapping and quantifying mammalian transcriptomes by RNA-Seq,2008,Nature Methods,8281,10.1038/nmeth.1226,United States,Article,Pasadena,0,Journal,2-s2.0-46249106990
+Birney E.,,An overview of Ensembl,2004,Genome Research,300,10.1101/gr.1860604,United Kingdom,Review,London,1,Journal,2-s2.0-2442706422
+Kasprzk A.,,EnsMart: A generic system for fast and flexible access to biological data,2004,Genome Research,321,10.1101/gr.1645104,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-9144269670
+Cleveland W.,,Robust locally weighted regression and smoothing scatterplots,1979,Journal of the American Statistical Association,6306,10.1080/01621459.1979.10481038,United States,Article,Murray,0,Journal,2-s2.0-84936916896

@@ -1,0 +1,21 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Speer N.,,Functional grouping of genes using spectral clustering and gene ontology,2005,Proceedings of the International Joint Conference on Neural Networks,23,10.1109/IJCNN.2005.1555846,Germany,Conference Paper,Tubingen,0,Conference Proceeding,2-s2.0-33745786698
+Speer N.,,A memetic clustering algorithm for the functional partition of genes based on the gene ontology,2004,"Proceedings of the 2004 IEEE Symposium on Computational Intelligence in Bioinformatics and Computational Biology, CIBCB'04",47,,Germany,Conference Paper,Tubingen,0,Conference Proceeding,2-s2.0-17044402067
+Joslyn C.A.,,The gene ontology categorizer,2004,Bioinformatics,58,10.1093/bioinformatics/bth921,United States,Conference Paper,Los Alamos,1,Journal,2-s2.0-15544388510
+Adryan B.,,Gene-Ontology-based clustering of gene expression data,2004,Bioinformatics,40,10.1093/bioinformatics/bth289,Germany,Article,Gottingen,1,Journal,2-s2.0-8844285933
+Beißbarth T.,,GOstat: Find statistically overrepresented Gene Ontologies with a group of genes,2004,Bioinformatics,943,10.1093/bioinformatics/bth088,Australia,Article,Melbourne,1,Journal,2-s2.0-3142665525
+Shah N.H.,,CLENCH: A program for calculating CLuster ENriCHment using the gene ontology,2004,Bioinformatics,41,10.1093/bioinformatics/bth056,United States,Article,University Park,1,Journal,2-s2.0-2442685416
+Robinson P.,,Ontologizing gene-expression microarray data: Characterizing clusters with gene oncology,2004,Bioinformatics,68,10.1093/bioinformatics/bth040,Germany,Review,Berlin,1,Journal,2-s2.0-2342432868
+Lee S.,,A graph-theoretic modeling on GO space for biological interpretation of gene clusters,2004,Bioinformatics,66,10.1093/bioinformatics/btg420,South Korea,Article,Goyang,1,Journal,2-s2.0-1342330530
+Harris M.,,The Gene Oncology (GO) database and informatics resource,2004,Nucleic Acids Research,2478,,United Kingdom,Article,London,0,Journal,2-s2.0-0346801873
+Gat-Viks I.,,Scoring clustering solutions by their biological relevance,2003,Bioinformatics,54,10.1093/bioinformatics/btg330,Israel,Article,Tel Aviv-Yafo,1,Journal,2-s2.0-0348143190
+Hvidsten T.,,Learning rule-based models of biological process from gene expression time profiles using gene ontology,2003,Bioinformatics,82,10.1093/bioinformatics/btg047,Norway;Sweden,Article,Trondheim;Uppsala,1,Journal,2-s2.0-0038729567
+Lord P.,,Semantic similarity measures as tools for exploring the gene ontology.,2003,Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing,155,,United Kingdom,Article,Manchester,0,Journal,2-s2.0-0038478096
+Doniger S.,,MAPPFinder: using Gene Ontology and GenMAPP to create a global gene-expression profile from microarray data.,2003,Genome biology,737,,United States,Article,San Francisco,0,Journal,2-s2.0-0037263812
+Zeeberg B.,,GoMiner: a resource for biological interpretation of genomic and proteomic data.,2003,Genome biology,961,,United States,Article,Bethesda,0,Journal,2-s2.0-0038175144
+Ng A.Y.,,On spectral clustering: Analysis and an algorithm,2002,Advances in Neural Information Processing Systems,2978,,United States,Conference Paper,Berkeley,0,Conference Proceeding,2-s2.0-84899013108
+Lenhard B.,,GeneLynx: A gene-centric portal to the human genome,2001,Genome Research,42,10.1101/gr.199801,Sweden,Article,Stockholm,1,Journal,2-s2.0-0035207865
+Cho R.,,Transcriptional regulation and function during the human cell cycle,2001,Nature Genetics,351,10.1038/83751,United States;United States,Article,Redwood City;Stanford,0,Journal,2-s2.0-0035163845
+Schölkopf B.,,Input space versus feature space in kernel-based methods,1999,IEEE Transactions on Neural Networks,939,10.1109/72.788641,United Kingdom,Article,Cambridge,0,Journal,2-s2.0-0032594954
+Iyer V.,,The transcriptional program in the response of human fibroblasts to serum,1999,Science,1661,10.1126/science.283.5398.83,United States,Article,Stanford,0,Journal,2-s2.0-0032903908
+Rousseeuw P.,,Silhouettes: A graphical aid to the interpretation and validation of cluster analysis,1987,Journal of Computational and Applied Mathematics,5983,10.1016/0377-0427(87)90125-7,Switzerland,Article,Fribourg,1,Journal,2-s2.0-0023453329

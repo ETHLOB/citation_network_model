@@ -1,0 +1,19 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Rosset S.,,Boosting as a regularized path to a maximum margin classifier,2004,Journal of Machine Learning Research,147,,United States,Article,Yorktown Heights,0,Journal,2-s2.0-12844274244
+Zhu J.,,Classification of gene microarrays by penalized logistic regression,2004,Biostatistics,210,10.1093/biostatistics/kxg046,United States,Article,Ann Arbor,1,Journal,2-s2.0-15944363312
+Efron B.,,Least angle regression,2004,Annals of Statistics,5214,10.1214/009053604000000067,United States,Article,Palo Alto,1,Journal,2-s2.0-3242708140
+Zhang T.,,Statistical behavior and consistency of classification methods based on convex risk minimization,2004,Annals of Statistics,436,10.1214/aos/1079120130,United States,Article,Yorktown Heights,1,Journal,2-s2.0-4644257995
+Dettling M.,,Finding predictive gene groups from microarray data,2004,Journal of Multivariate Analysis,74,10.1016/j.jmva.2004.02.012,Switzerland,Article,"Zurich ZH,",1,Journal,2-s2.0-4143134783
+Segal M.,,Regression Approaches for Microarray Data Analysis,2003,Journal of Computational Biology,118,10.1089/106652703322756177,United States,Article,San Francisco,0,Journal,2-s2.0-0742321914
+Tibshirani R.,,Diagnosis of multiple cancer types by shrunken centroids of gene expression,2002,Proceedings of the National Academy of Sciences of the United States of America,1974,10.1073/pnas.082099299,United States,Article,Palo Alto,1,Journal,2-s2.0-0037076272
+Guyon I.,,Gene selection for cancer classification using support vector machines,2002,Machine Learning,5269,10.1023/A:1012487302797,,Article,,1,Journal,2-s2.0-0036161259
+Fan J.,,Variable selection via nonconcave penalized likelihood and its oracle properties,2001,Journal of the American Statistical Association,3858,10.1198/016214501753382273,United States;Hong Kong,Article,Los Angeles;Shatin,0,Journal,2-s2.0-1542784498
+West M.,,Predicting the clinical status of human breast cancer by using gene expression profiles,2001,Proceedings of the National Academy of Sciences of the United States of America,1049,10.1073/pnas.201162998,United States,Article,Durham,1,Journal,2-s2.0-0035949684
+Tusher V.G.,,Significance analysis of microarrays applied to the ionizing radiation response,2001,Proceedings of the National Academy of Sciences of the United States of America,9212,10.1073/pnas.091062498,United States,Article,Palo Alto,1,Journal,2-s2.0-0035942271
+Hastie T.,,'Gene shaving' as a method for identifying distinct sets of genes with similar expression patterns.,2000,Genome biology,351,,United States,Article,Palo Alto,0,Journal,2-s2.0-0034568109
+Golub T.,,Molecular classification of cancer: Class discovery and class prediction by gene expression monitoring,1999,Science,8575,10.1126/science.286.5439.531,United States;United States,Article,Cambridge;Boston,0,Journal,2-s2.0-0033569406
+Fu W.,,Penalized regressions: The bridge versus the lasso?,1998,Journal of Computational and Graphical Statistics,578,10.1080/10618600.1998.10474784,United States,Article,East Lansing,0,Journal,2-s2.0-0032361278
+Breiman L.,,Heuristics of instability and stabilization in model selection,1996,Annals of Statistics,649,10.1214/aos/1032181158,United States,Article,Berkeley,1,Journal,2-s2.0-0030344230
+Frank L.,,A statistical view of some chemometrics regression tools,1993,Technometrics,1360,10.1080/00401706.1993.10485033,United States,Article,Stanford,0,Journal,2-s2.0-84952149204
+Stamey T.,,Prostate specific antigen in the diagnosis and treatment of adenocarcinoma of the prostate. II. Radical prostatectomy treated patients,1989,Journal of Urology,580,10.1016/S0022-5347(17)41175-X,United States,Article,Stanford,0,Journal,2-s2.0-0024599612
+Friedman J.,,Regularized discriminant analysis,1989,Journal of the American Statistical Association,1628,10.1080/01621459.1989.10478752,United States,Article,Menlo Park,0,Journal,2-s2.0-84887916087

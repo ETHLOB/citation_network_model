@@ -1,0 +1,14 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Newman M.,,Modularity and community structure in networks,2006,Proceedings of the National Academy of Sciences of the United States of America,5550,10.1073/pnas.0601602103,United States,Article,Ann Arbor,1,Journal,2-s2.0-33745012299
+Arenas A.,,Synchronization reveals topological scales in complex networks,2006,Physical Review Letters,579,10.1103/PhysRevLett.96.114102,Spain,Article,Tarragona,0,Journal,2-s2.0-33645156787
+Boccaletti S.,,Complex networks: Structure and dynamics,2006,Physics Reports,6606,10.1016/j.physrep.2005.10.009,Italy,Review,Sesto Fiorentino,0,Journal,2-s2.0-31344474880
+Duch J.,,Community detection in complex networks using extremal optimization,2005,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",1096,10.1103/PhysRevE.72.027104,Spain,Article,Tarragona,0,Journal,2-s2.0-27244441304
+Guimerà R.,,Functional cartography of complex metabolic networks,2005,Nature,2029,10.1038/nature03288,United States,Article,Evanston,0,Journal,2-s2.0-14644396645
+Reichardt J.,,Detecting fuzzy community structures in complex networks with a potts model,2004,Physical Review Letters,401,10.1103/PhysRevLett.93.218701,Germany;Germany,Article,Bremen;Leipzig,0,Journal,2-s2.0-37649031573
+Newman M.E.J.,,Fast algorithm for detecting community structure in networks,2004,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",2954,10.1103/PhysRevE.69.066133,United States,Article,Ann Arbor,0,Journal,2-s2.0-42749100809
+Newman M.,,Detecting community structure in networks,2004,European Physical Journal B,1360,10.1140/epjb/e2004-00124-y,United States,Conference Paper,Ann Arbor,0,Journal,2-s2.0-2942564706
+Girvan M.,,Community structure in social and biological networks,2002,Proceedings of the National Academy of Sciences of the United States of America,8662,10.1073/pnas.122653799,United States;United States,Article,Santa Fe;Ithaca,1,Journal,2-s2.0-0037062448
+Girolami M.,,Mercer kernel-based clustering in feature space,2002,IEEE Transactions on Neural Networks,666,10.1109/TNN.2002.1000150,Finland;United Kingdom,Article,Espoo;Ayr,0,Journal,2-s2.0-0036565280
+Angelini L.,,Cost functions for pairwise data clustering,2001,"Physics Letters, Section A: General, Atomic and Solid State Physics",4,10.1016/S0375-9601(01)00373-5,Italy;Italy,Article,Bari;Bari,0,Journal,2-s2.0-0035832853
+Shi J.,,Normalized cuts and image segmentation,2000,IEEE Transactions on Pattern Analysis and Machine Intelligence,9931,10.1109/34.868688,United States,Article,Pittsburgh,0,Journal,2-s2.0-0034244751
+Rose K.,,A deterministic annealing approach to clustering,1990,Pattern Recognition Letters,266,10.1016/0167-8655(90)90010-Y,United States,Article,Pasadena,0,Journal,2-s2.0-0025585402

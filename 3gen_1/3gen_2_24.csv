@@ -1,0 +1,23 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Zhang J.,,BioMart: A data federation framework for large collaborative projects,2011,Database,62,10.1093/database/bar038,Canada,Article,Toronto,1,Journal,2-s2.0-84855410433
+Vizcaíno J.A.,,"PRIDE and ""Database on Demand"" as valuable tools for computational proteomics.",2011,"Methods in molecular biology (Clifton, N.J.)",12,10.1007/978-1-60761-987-1_6,United Kingdom,Article,Cambridge,0,Journal,2-s2.0-79952201691
+Raney B.,,ENCODE whole-genome data in the UCSC genome browser (2011 update),2011,Nucleic Acids Research,144,10.1093/nar/gkq1017,United States,Article,Richmond,1,Journal,2-s2.0-78651338017
+Flicek P.,,Ensembl 2011,2011,Nucleic Acids Research,574,10.1093/nar/gkq1064,United Kingdom;United Kingdom,Article,Cambridge;Hinxton,1,Journal,2-s2.0-78651289449
+Croft D.,,"Reactome: A database of reactions, pathways and biological processes",2011,Nucleic Acids Research,902,10.1093/nar/gkq1018,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-78651275182
+Neafsey D.,,SNP genotyping defines complex gene-flow boundaries among african malaria vector mosquitoes,2010,Science,119,10.1126/science.1193036,United States,Article,Cambridge,0,Journal,2-s2.0-77958191949
+McLaren W.,,Deriving the consequences of genomic variants with the Ensembl API and SNP Effect Predictor,2010,Bioinformatics,1048,10.1093/bioinformatics/btq330,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-77955405475
+Parker A.,,Using caching and optimization techniques to improve performance of the Ensembl website,2010,BMC Bioinformatics,6,10.1186/1471-2105-11-239,United Kingdom,Letter,Hinxton,1,Journal,2-s2.0-77951958139
+Ballester B.,,Consistent annotation of gene expression arrays,2010,BMC Genomics,20,10.1186/1471-2164-11-294,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-77951973535
+Chen Y.,,Ensembl variation resources,2010,BMC Genomics,83,10.1186/1471-2164-11-293,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-77951943748
+Church D.M.,,Public data archives for genomic structural variation,2010,Nature Genetics,59,10.1038/ng1010-813,United States,Letter,Bethesda,0,Journal,2-s2.0-77957550192
+Forbes S.,,COSMIC (the Catalogue of Somatic Mutations In Cancer): A resource to investigate acquired mutations in human cancer,2009,Nucleic Acids Research,391,10.1093/nar/gkp995,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-75549087826
+Kersey P.,,Ensembl Genomes: Extending Ensembl across the taxonomic space,2009,Nucleic Acids Research,119,10.1093/nar/gkp871,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-75549090948
+Durinck S.,,Mapping identifiers for the integration of genomic datasets with the R/ Bioconductor package biomaRt,2009,Nature Protocols,790,10.1038/nprot.2009.97,United States,Article,Berkeley,0,Journal,2-s2.0-68449101067
+Vilella A.,,"EnsemblCompara GeneTrees: Complete, duplication-aware phylogenetic trees in vertebrates",2009,Genome Research,714,10.1101/gr.073585.107,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-59949096873
+Smedley D.,,BioMart - Biological queries made easy,2009,BMC Genomics,399,10.1186/1471-2164-10-22,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-61649083057
+Hunter S.,,InterPro: The integrative protein signature database,2009,Nucleic Acids Research,1172,10.1093/nar/gkn785,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-58149203231
+Wilming L.,,The vertebrate genome annotation (Vega) database,2008,Nucleic Acids Research,174,10.1093/nar/gkm987,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-38549148703
+Bruford E.,,The HGNC database in 2008: A resource for the human genome,2008,Nucleic Acids Research,169,10.1093/nar/gkm881,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-38549117309
+Redon R.,,Global variation in copy number in the human genome,2006,Nature,2916,10.1038/nature05329,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-33751329250
+Stabenau A.,,The Ensembl core software libraries,2004,Genome Research,96,10.1101/gr.1857204,United Kingdom,Article,London,1,Journal,2-s2.0-2442666425
+Curwen V.,,The Ensembl automatic gene annotation system,2004,Genome Research,294,10.1101/gr.1858004,United Kingdom,Article,London,1,Journal,2-s2.0-2442707676

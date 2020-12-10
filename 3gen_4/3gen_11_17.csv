@@ -1,0 +1,37 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Altafini C.,,Dynamics of opinion forming in structurally balanced social networks,2012,PLoS ONE,118,10.1371/journal.pone.0038135,Italy,Article,Trieste,1,Journal,2-s2.0-84862531737
+Facchetti G.,,Computing global structural balance in large-scale signed social networks,2011,Proceedings of the National Academy of Sciences of the United States of America,174,10.1073/pnas.1109521108,Italy,Article,Trieste,1,Journal,2-s2.0-84855504473
+Srivastava V.,,On bifurcations in nonlinear consensus networks,2011,Journal of Nonlinear Science,9,10.1007/s00332-011-9103-4,United States,Article,Santa Barbara,0,Journal,2-s2.0-84855616230
+Cao L.,,A necessary and sufficient condition for consensus of continuous-time agents over undirected time-varying networks,2011,IEEE Transactions on Automatic Control,31,10.1109/TAC.2011.2157393,China,Article,Shanghai,0,Journal,2-s2.0-80051490627
+Ajorlou A.,,Sufficient conditions for the convergence of a class of nonlinear distributed consensus algorithms,2011,Automatica,30,10.1016/j.automatica.2011.01.042,Canada,Article,Montreal,0,Journal,2-s2.0-79952487208
+Mesbahi M.,,Graph theoretic methods in multiagent networks,2010,Graph Theoretic Methods in Multiagent Networks,1555,,United States,Book,Seattle,0,Book,2-s2.0-84883932589
+Iacono G.,,"Monotonicity, frustration, and ordered response: An analysis of the energy landscape of perturbed large-scale biological networks",2010,BMC Systems Biology,16,10.1186/1752-0509-4-83,Italy,Article,Trieste,1,Journal,2-s2.0-77953279667
+Kunegis J.,,"Spectral analysis of signed graphs for clustering, prediction and visualization",2010,"Proceedings of the 10th SIAM International Conference on Data Mining, SDM 2010",190,10.1137/1.9781611972801.49,Germany,Conference Paper,Berlin,1,Conference Proceeding,2-s2.0-84880094149
+Ermon S.,,Trust Estimation in autonomic networks: A statistical mechanics approach,2009,Proceedings of the IEEE Conference on Decision and Control,13,10.1109/CDC.2009.5400923,United States,Conference Paper,Ithaca,0,Conference Proceeding,2-s2.0-77950790750
+Bauso D.,,"Dissensus, death and division",2009,Proceedings of the American Control Conference,4,10.1109/ACC.2009.5160410,Italy,Conference Paper,Palermo,0,Conference Proceeding,2-s2.0-70449642519
+Liu X.,,Consensus problem in directed networks of multi-agents via nonlinear protocols,2009,"Physics Letters, Section A: General, Atomic and Solid State Physics",129,10.1016/j.physleta.2009.06.054,China,Article,Shanghai,0,Journal,2-s2.0-67849097172
+Hui Q.,,Finite-time semistability and consensus for nonlinear dynamical networks,2008,IEEE Transactions on Automatic Control,261,10.1109/TAC.2008.929392,United States,Article,Lubbock,0,Journal,2-s2.0-54049150392
+Hui Q.,,Distributed nonlinear control algorithms for network consensus,2008,Automatica,212,10.1016/j.automatica.2008.01.011,United States,Article,Atlanta,0,Journal,2-s2.0-50049099130
+Cortés J.,,Distributed algorithms for reaching consensus on general functions,2008,Automatica,300,10.1016/j.automatica.2007.07.022,United States,Article,San Diego,0,Journal,2-s2.0-39549110199
+Zhiyun L.,,State agreement for continuous-time coupled nonlinear systems,2007,SIAM Journal on Control and Optimization,376,10.1137/050626405,Canada,Article,Toronto,0,Journal,2-s2.0-39449107783
+Ren W.,,Collective Group Behavior Through Local Interaction,2007,IEEE Control Systems,2222,10.1109/MCS.2007.338264,,Article,,0,Journal,2-s2.0-34147163355
+Sontag E.,,Monotone and near-monotone biochemical networks,2007,Systems and Synthetic Biology,122,10.1007/s11693-007-9005-9,United States,Article,New Brunswick,1,Journal,2-s2.0-34548530660
+Boyd S.,,Convex optimization of graph Laplacian eigenvalues,2006,"International Congress of Mathematicians, ICM 2006",132,,United States,Conference Paper,Palo Alto,0,Conference Proceeding,2-s2.0-84878059249
+Bauso D.,,Non-linear protocols for optimal distributed consensus in networks of dynamic agents,2006,Systems and Control Letters,197,10.1016/j.sysconle.2006.06.005,Italy,Article,Palermo,0,Journal,2-s2.0-33748420028
+Olfati-Saber R.,,Consensus problems in networks of agents with switching topology and time-delays,2004,IEEE Transactions on Automatic Control,8292,10.1109/TAC.2004.834113,United States,Article,Pasadena,0,Journal,2-s2.0-4644244041
+Lin Z.,,Local control strategies for groups of mobile autonomous agents,2004,IEEE Transactions on Automatic Control,670,10.1109/TAC.2004.825639,Canada,Article,Toronto,0,Journal,2-s2.0-2442428325
+Moreau L.,,Stability of continuous-time distributed consensus algorithms,2004,Proceedings of the IEEE Conference on Decision and Control,530,10.1109/cdc.2004.1429377,Belgium,Conference Paper,Ghent,0,Conference Proceeding,2-s2.0-14244267540
+Olfati Saber R.,,Consensus Protocols for Networks of Dynamic Agents,2003,Proceedings of the American Control Conference,597,,United States,Conference Paper,Pasadena,0,Conference Proceeding,2-s2.0-0142169419
+Hou Y.,,On the Laplacian eigenvalues of signed graphs,2003,Linear and Multilinear Algebra,71,10.1080/0308108031000053611,China,Article,Changsha,0,Journal,2-s2.0-0037356228
+Hegselmann R.,,"Opinion dynamics and bounded confidence: Models, analysis and simulation",2002,JASSS,1437,,,Article,,0,Journal,2-s2.0-0011697225
+Tin-Zhu H.,,Stability criteria for matrices,1998,Automatica,8,10.1016/S0005-1098(97)00234-3,China,Article,Chengdu,0,Journal,2-s2.0-0042579374
+Vicsek T.,,Novel type of phase transition in a system of self-driven particles,1995,Physical Review Letters,4161,10.1103/PhysRevLett.75.1226,Hungary;Hungary,Article,Budapest;Budapest,0,Journal,2-s2.0-0001730998
+Hershkowitz D.,,Recent directions in matrix stability,1992,Linear Algebra and Its Applications,107,10.1016/0024-3795(92)90257-B,Israel,Article,Haifa,1,Journal,2-s2.0-38249012613
+Smith H.,,Systems of ordinary differential equations which generate an order preserving flow. A survey of results,Mar,SIAM Review,179,10.1137/1030003,United States,Article,Tempe,0,Journal,2-s2.0-0023967009
+Reynolds C.,,"FLOCKS, HERDS, AND SCHOOLS: A DISTRIBUTED BEHAVIORAL MODEL.",Jul,Computer Graphics (ACM),4511,10.1145/37402.37406,United States,Article,Los Angeles,0,Trade Journal,2-s2.0-0023379184
+Binder K.,,"Spin glasses: Experimental facts, theoretical concepts, and open questions",1986,Reviews of Modern Physics,3975,10.1103/RevModPhys.58.801,Germany;Germany,Article,Mainz;Jülich,0,Journal,2-s2.0-0043230411
+Brualdi R.,,"Matrices, Eigenvalues, and Directed Graphs",1982,Linear and Multilinear Algebra,83,10.1080/03081088208817439,United States,Article,Madison,0,Journal,2-s2.0-0039579464
+Zaslavsky T.,,Signed graphs,1982,Discrete Applied Mathematics,366,10.1016/0166-218X(82)90033-6,United States,Article,Columbus,1,Journal,2-s2.0-0019897730
+Harary F.,,A simple algorithm to detect balance in signed graphs,1980,Mathematical Social Sciences,66,10.1016/0165-4896(80)90010-4,United States,Article,Ann Arbor,0,Journal,2-s2.0-84925923678
+Degroot M.,,Reaching a consensus,1974,Journal of the American Statistical Association,1641,10.1080/01621459.1974.10480137,United States,Article,Pittsburgh,0,Journal,2-s2.0-84909522870
+Cartwright D.,,Structural balance: a generalization of Heider's theory,1956,Psychological Review,1142,10.1037/h0046049,,Article,,0,Journal,2-s2.0-0001245990

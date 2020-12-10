@@ -1,0 +1,29 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Papalexakis E.,,From K-means to higher-way co-clustering: Multilinear decomposition with sparse latent factors,2013,IEEE Transactions on Signal Processing,72,10.1109/TSP.2012.2225052,United States;Greece,Article,Pittsburgh;Chania,0,Journal,2-s2.0-84872112858
+Bro R.,,Coclustering-a useful tool for chemometrics,2012,Journal of Chemometrics,20,10.1002/cem.1424,Denmark,Article,Copenhagen,0,Journal,2-s2.0-84862756829
+Tibshirani R.,,Regression shrinkage and selection via the lasso: A retrospective,2011,Journal of the Royal Statistical Society. Series B: Statistical Methodology,1050,10.1111/j.1467-9868.2011.00771.x,United States,Article,Palo Alto,0,Journal,2-s2.0-79955040218
+Lee M.,,Biclustering via Sparse Singular Value Decomposition,2010,Biometrics,144,10.1111/j.1541-0420.2010.01392.x,United States,Article,Chapel Hill,0,Journal,2-s2.0-78650059908
+Huang S.,,Learning brain connectivity of Alzheimer's disease by sparse inverse covariance estimation,2010,NeuroImage,177,10.1016/j.neuroimage.2009.12.120,United States,Article,Tempe,0,Journal,2-s2.0-77249118678
+Chun H.,,Sparse partial least squares regression for simultaneous dimension reduction and variable selection,2010,Journal of the Royal Statistical Society. Series B: Statistical Methodology,421,10.1111/j.1467-9868.2009.00723.x,United States,Article,Madison,1,Journal,2-s2.0-74049093630
+Friedman J.,,Regularization paths for generalized linear models via coordinate descent,2010,Journal of Statistical Software,4969,10.18637/jss.v033.i01,United States,Article,Palo Alto,1,Journal,2-s2.0-77950537175
+Zhao P.,,The composite absolute penalties family for grouped and hierarchical variable selection,2009,Annals of Statistics,395,10.1214/07-AOS584,United States,Article,Berkeley,1,Journal,2-s2.0-69949155103
+Witten D.,,"A penalized matrix decomposition, with applications to sparse principal components and canonical correlation analysis",2009,Biostatistics,724,10.1093/biostatistics/kxp008,United States,Article,Palo Alto,1,Journal,2-s2.0-70149096300
+Wu M.,,Sparse linear discriminant analysis for simultaneous testing for the significance of a gene set/pathway and gene selection,2009,Bioinformatics,76,10.1093/bioinformatics/btp019,United States,Article,Boston,0,Journal,2-s2.0-65449167549
+Martínez-Montes E.,,Penalized PARAFAC analysis of spontaneous EEG recordings,2008,Statistica Sinica,11,,Cuba,Article,Havana,0,Journal,2-s2.0-60149110922
+Mørup M.,,Algorithms for sparse nonnegative tucker decompositions,2008,Neural Computation,109,10.1162/neco.2008.11-06-407,Denmark,Article,Lyngby,0,Journal,2-s2.0-48249100881
+Shen H.,,Sparse principal component analysis via regularized low rank matrix approximation,2008,Journal of Multivariate Analysis,366,10.1016/j.jmva.2007.06.007,United States,Article,Chapel Hill,1,Journal,2-s2.0-43049086717
+Friedman J.,,Sparse inverse covariance estimation with the graphical lasso,2008,Biostatistics,2221,10.1093/biostatistics/kxm045,United States,Article,Palo Alto,1,Journal,2-s2.0-45849134070
+Candès E.,,The restricted isometry property and its implications for compressed sensing,2008,Comptes Rendus Mathematique,2319,10.1016/j.crma.2008.03.014,United States,Article,Pasadena,0,Journal,2-s2.0-42649140570
+Lustig M.,,Sparse MRI: The application of compressed sensing for rapid MR imaging,2007,Magnetic Resonance in Medicine,3797,10.1002/mrm.21391,United States,Article,Palo Alto,1,Journal,2-s2.0-36849088522
+Zou H.,,Sparse principal component analysis,2006,Journal of Computational and Graphical Statistics,1460,10.1198/106186006X113430,United States,Article,Minneapolis,0,Journal,2-s2.0-33745309913
+Candes E.,,Decoding by linear programming,2005,IEEE Transactions on Information Theory,4632,10.1109/TIT.2005.858979,United States,Article,Pasadena,0,Journal,2-s2.0-29144439194
+Zou H.,,Regularization and variable selection via the elastic net,2005,Journal of the Royal Statistical Society. Series B: Statistical Methodology,6708,10.1111/j.1467-9868.2005.00503.x,United States,Article,Palo Alto,0,Journal,2-s2.0-16244401458
+Tibshirani R.,,Sparsity and smoothness via the fused lasso,2005,Journal of the Royal Statistical Society. Series B: Statistical Methodology,1263,10.1111/j.1467-9868.2005.00490.x,United States,Article,Palo Alto,0,Journal,2-s2.0-12844266177
+Vorobyov S.,,Robust Iterative Fitting of Multilinear Models,2005,IEEE Transactions on Signal Processing,89,10.1109/TSP.2005.850343,Germany,Article,Darmstadt,0,Journal,2-s2.0-85008006603
+Efron B.,,Least angle regression,2004,Annals of Statistics,5214,10.1214/009053604000000067,United States,Article,Palo Alto,1,Journal,2-s2.0-3242708140
+Jolliffe I.,,A Modified Principal Component Technique Based on the LASSO,2003,Journal of Computational and Graphical Statistics,402,10.1198/1061860032148,United Kingdom,Article,Aberdeen,0,Journal,2-s2.0-0141941674
+Bi J.,,Dimensionality reduction via sparse support vector machines,2003,Journal of Machine Learning Research,299,,United States,Article,Troy,0,Journal,2-s2.0-1542365112
+Petricoin E.F.,,Use of proteomic patterns in serum to identify ovarian cancer,2002,Lancet,2724,10.1016/S0140-6736(02)07746-2,United States,Article,Bethesda,0,Journal,2-s2.0-0037116832
+Chen S.,,Basis pursuit,1994,"Conference Record - Asilomar Conference on Signals, Systems and Computers",199,10.1109/ACSSC.1994.471413,United States,Conference Paper,Palo Alto,0,Conference Proceeding,2-s2.0-85032865218
+Gunst R.,,Regression analysis and its application - a data-oriented approach.,1980,Regression analysis and its application - a data-oriented approach.,307,,United States,Article,Dallas,0,Book,2-s2.0-84881172698
+Hoerl A.,,Ridge Regression: Biased Estimation for Nonorthogonal Problems,1970,Technometrics,4874,10.1080/00401706.1970.10488634,United States,Article,Newark,0,Journal,2-s2.0-84942484786

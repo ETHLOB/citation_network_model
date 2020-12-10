@@ -1,0 +1,23 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Biau G.,,"On the layered nearest neighbour estimate, the bagged nearest neighbour estimate and the random forest method in regression and classification",2010,Journal of Multivariate Analysis,49,10.1016/j.jmva.2010.06.019,France;France,Article,Paris;Paris,1,Journal,2-s2.0-77956747417
+Genuer R.,,Variable selection using random forests,2010,Pattern Recognition Letters,887,10.1016/j.patrec.2010.03.014,France,Article,Orsay,0,Journal,2-s2.0-77957922514
+Biau G.,,On the rate of convergence of the bagged nearest neighbor estimate,2010,Journal of Machine Learning Research,37,,France,Article,Paris,0,Journal,2-s2.0-77949521444
+Bickel P.J.,,Simultaneous analysis of lasso and dantzig selector,2009,Annals of Statistics,985,10.1214/08-AOS620,United States,Article,Berkeley,1,Journal,2-s2.0-68649086910
+Bruckstein A.,,From sparse solutions of systems of equations to sparse modeling of signals and images,2009,SIAM Review,1465,10.1137/060657704,Israel,Review,Haifa,0,Journal,2-s2.0-59749104367
+Amaratunga D.,,Enriched random forests,2008,Bioinformatics,100,10.1093/bioinformatics/btn356,United States,Article,New Brunswick,1,Journal,2-s2.0-51749102692
+Biau G.,,Consistency of random forests and other averaging classifiers,2008,Journal of Machine Learning Research,215,,France,Article,Paris,0,Journal,2-s2.0-54249099241
+Candes E.,,The Dantzig selector: Statistical estimation when p is much larger than n,2007,Annals of Statistics,1737,10.1214/009053606000001523,United States;United States,Article,Pasadena;Los Angeles,1,Journal,2-s2.0-34548275795
+Bunea F.,,Sparsity oracle inequalities for the Lasso,2007,Electronic Journal of Statistics,209,10.1214/07-EJS008,United States,Article,Tallahassee,1,Journal,2-s2.0-50849114939
+Lin Y.,,Random forests and adaptive nearest neighbors,2006,Journal of the American Statistical Association,190,10.1198/016214505000001230,United States,Article,Madison,0,Journal,2-s2.0-33745653724
+Meinshausen N.,,Quantile regression forests,2006,Journal of Machine Learning Research,455,,Switzerland,Article,"Zurich ZH,",0,Journal,2-s2.0-33745174860
+Buja A.,,Observations on bagging,2006,Statistica Sinica,58,,United States;United States,Article,Philadelphia;Philadelphia,0,Journal,2-s2.0-33746171809
+Díaz-Uriarte R.,,Gene selection and classification of microarray data using random forest,2006,BMC Bioinformatics,1550,10.1186/1471-2105-7-3,Spain,Article,Madrid,1,Journal,2-s2.0-30644464444
+Blanchard G.,,Different Paradigms for Choosing Sequential Reweighting Algorithms,2004,Neural Computation,3,10.1162/089976604322860712,Germany;France,Review,Berlin;Orsay,0,Journal,2-s2.0-1542351222
+Svetnik V.,,Random Forest: A Classification and Regression Tool for Compound Classification and QSAR Modeling,2003,Journal of Chemical Information and Computer Sciences,1311,10.1021/ci034160g,United States,Article,Kenilworth,0,Journal,2-s2.0-0345548657
+Bühlmann P.,,Analyzing bagging,2002,Annals of Statistics,349,10.1214/aos/1031689014,Switzerland,Review,"Zurich ZH,",1,Journal,2-s2.0-0043289776
+Van't Veer L.,,Gene expression profiling predicts clinical outcome of breast cancer,2002,Nature,7083,10.1038/415530a,Netherlands,Article,Amsterdam,0,Journal,2-s2.0-18244409687
+Breiman L.,,Random forests,2001,Machine Learning,38822,10.1023/A:1010933404324,United States,Article,Berkeley,1,Journal,2-s2.0-0035478854
+Dietterich T.,,"Experimental comparison of three methods for constructing ensembles of decision trees: bagging, boosting, and randomization",2000,Machine Learning,1653,10.1023/A:1007607513941,United States,Article,Corvallis,1,Journal,2-s2.0-0034250160
+Ho T.K.,,The random subspace method for constructing decision forests,1998,IEEE Transactions on Pattern Analysis and Machine Intelligence,3431,10.1109/34.709601,United States,Article,Murray,0,Journal,2-s2.0-0032139235
+Amit Y.,,Shape Quantization and Recognition with Randomized Trees,1997,Neural Computation,627,10.1162/neco.1997.9.7.1545,United States,Article,Chicago,0,Journal,2-s2.0-0001492549
+Breiman L.,,Bagging predictors,1996,Machine Learning,13256,10.1023/A:1018054314350,United States,Article,Berkeley,1,Journal,2-s2.0-0030211964

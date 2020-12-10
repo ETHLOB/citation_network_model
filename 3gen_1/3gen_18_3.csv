@@ -1,0 +1,31 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Giancarlo R.,,Speeding up the Consensus Clustering methodology for microarray data analysis,2011,Algorithms for Molecular Biology,15,10.1186/1748-7188-6-1,Italy,Article,Palermo,1,Journal,2-s2.0-78651336872
+Freyhult E.,,"Challenges in microarray class discovery: A comprehensive examination of normalization, gene selection and clustering",2010,BMC Bioinformatics,36,10.1186/1471-2105-11-503,Sweden,Article,Umea,1,Journal,2-s2.0-77957674888
+Giancarlo R.,,"Distance functions, clustering algorithms and microarray data analysis",2010,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),26,10.1007/978-3-642-13800-3_10,Italy,Conference Paper,Palermo,0,Book Series,2-s2.0-77954619865
+Kraus J.,,A highly efficient multi-core algorithm for clustering extremely large datasets,2010,BMC Bioinformatics,21,10.1186/1471-2105-11-169,Germany;Germany,Article,Ulm;Ulm,1,Journal,2-s2.0-77950541370
+Giancarlo R.,,Statistical indices for computational and data driven class discovery in microarray data,2009,Biological Data Mining,4,,Italy,Chapter,Palermo,0,Book,2-s2.0-80051699322
+Giancarlo R.,,"Computational cluster validation for microarray data analysis: Experimental assessment of Clest, Consensus Clustering, Figure of Merit, Gap Statistics and Model Explorer",2008,BMC Bioinformatics,39,10.1186/1471-2105-9-462,Italy,Article,Palermo,1,Journal,2-s2.0-62849090487
+Devarajan K.,,Nonnegative matrix factorization: An analytical and interpretive tool in computational biology,2008,PLoS Computational Biology,208,10.1371/journal.pcbi.1000029,United States,Review,Philadelphia,1,Journal,2-s2.0-48249151183
+Priness I.,,Evaluation of gene-expression clustering via mutual information distance measure,2007,BMC Bioinformatics,109,10.1186/1471-2105-8-111,Israel,Article,Tel Aviv-Yafo,1,Journal,2-s2.0-34247875975
+Frahling G.,,A fast k-means implementation using coresets,2006,Proceedings of the Annual Symposium on Computational Geometry,37,10.1145/1137856.1137879,Germany,Conference Paper,Paderborn,0,Conference Proceeding,2-s2.0-33748042955
+Deza E.,,Dictionary of Distances,2006,Dictionary of Distances,223,10.1016/B978-0-444-52087-6.X5000-8,,Book,,0,Book,2-s2.0-85013932278
+Di Gesú V.,,GenClust: A genetic algorithm for clustering gene expression data,2005,BMC Bioinformatics,33,10.1186/1471-2105-6-289,Italy,Article,Palermo,1,Journal,2-s2.0-29244458348
+D'Haeseleer P.,,How does gene expression clustering work?,2005,Nature Biotechnology,332,10.1038/nbt1205-1499,United States,Short Survey,Livermore,0,Journal,2-s2.0-28644449917
+Handl J.,,Computational cluster validation in post-genomic data analysis,2005,Bioinformatics,555,10.1093/bioinformatics/bti517,United Kingdom,Review,Manchester,1,Journal,2-s2.0-25144456056
+Seal S.,,An optimal hierarchical clustering algorithm for gene expression data,2005,Information Processing Letters,14,10.1016/j.ipl.2004.11.001,United States,Article,Ames,0,Journal,2-s2.0-10444223920
+Mehta T.,,Towards sound epistemological foundations of statistical methods for high-dimensional biology,2004,Nature Genetics,93,10.1038/ng1422,United States,Review,Birmingham,1,Journal,2-s2.0-4444371602
+Borodin A.,,Subquadratic approximation algorithms for clustering problems in high dimensional spaces,2004,Machine Learning,6,10.1023/B:MACH.0000033118.09057.80,Canada,Article,Toronto,1,Journal,2-s2.0-3142700648
+Brunet J.,,Metagenes and molecular pattern discovery using matrix factorization,2004,Proceedings of the National Academy of Sciences of the United States of America,993,10.1073/pnas.0308531101,United States,Article,Cambridge,1,Journal,2-s2.0-1642529511
+Monti S.,,Consensus clustering: A resampling-based method for class discovery and visualization of gene expression microarray data,2003,Machine Learning,996,10.1023/A:1023949509487,United States,Article,Cambridge,1,Journal,2-s2.0-0038724494
+Su A.I.,,Large-scale analysis of the human and mouse transcriptomes,2002,Proceedings of the National Academy of Sciences of the United States of America,1201,10.1073/pnas.012025199,United States,Article,San Diego,1,Journal,2-s2.0-0037007048
+Xu Y.,,Clustering gene expression data using a graph-theoretic approach: An application of minimum spanning trees,2002,Bioinformatics,187,10.1093/bioinformatics/18.4.536,United States,Article,Oak Ridge,1,Journal,2-s2.0-0035999974
+Ben-Hur A.,,A stability based method for discovering structure in clustered data.,2002,Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing,373,,United States,Article,Berkeley,0,Journal,2-s2.0-0036359730
+Dudoit S.,,A prediction-based resampling method for estimating the number of clusters in a dataset.,2002,Genome biology,481,,United States,Article,Berkeley,0,Journal,2-s2.0-0037172724
+Yeung K.,,Validating clustering for gene expression data,2001,Bioinformatics,494,10.1093/bioinformatics/17.4.309,United States,Article,Seattle,1,Journal,2-s2.0-0035024021
+Tibshirani R.,,Estimating the number of clusters in a data set via the gap statistic,2001,Journal of the Royal Statistical Society. Series B: Statistical Methodology,2424,10.1111/1467-9868.00293,United States,Article,Palo Alto,0,Journal,2-s2.0-0035532141
+Hartuv E.,,An algorithm for clustering cDNA fingerprints,2000,Genomics,73,10.1006/geno.2000.6187,Israel,Article,Tel Aviv-Yafo,0,Journal,2-s2.0-0034659448
+Alizadeh A.A.,,Distinct types of diffuse large B-cell lymphoma identified by gene expression profiling,2000,Nature,7183,10.1038/35000501,United States,Article,Stanford,0,Journal,2-s2.0-0034598746
+Jain A.,,Data clustering: A review,1999,ACM Computing Surveys,8744,10.1145/331499.331504,United States,Conference Paper,East Lansing,0,Journal,2-s2.0-84893405732
+Lee D.,,Learning the parts of objects by non-negative matrix factorization,1999,Nature,7530,10.1038/44565,United States,Article,Murray,0,Journal,2-s2.0-0033592606
+Fisher D.,,The adjusted rand statistic: A SAS macro,1988,Psychometrika,20,10.1007/BF02294222,United States,Article,Anchorage,0,Journal,2-s2.0-0043263914
+Hanley J.,,The meaning and use of the area under a receiver operating characteristic (ROC) curve,1982,Radiology,13664,10.1148/radiology.143.1.7063747,Canada,Article,Montreal,0,Journal,2-s2.0-0020083498

@@ -1,0 +1,19 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Gretton A.,,A kernel method for the two-sample-problem,2007,Advances in Neural Information Processing Systems,592,,Germany,Conference Paper,Tubingen,0,Conference Proceeding,2-s2.0-84864063983
+Caponnetto A.,,Optimal rates for the regularized least-squares algorithm,2007,Foundations of Computational Mathematics,236,10.1007/s10208-006-0196-8,United States;Italy,Article,Chicago;Genoa,0,Journal,2-s2.0-34548537866
+Reisert M.,,Learning equivariant functions with matrix valued kernels,2007,Journal of Machine Learning Research,17,,Germany,Article,Freiburg im Breisgau,0,Journal,2-s2.0-33947215991
+Micchelli C.A.,,Feature space perspectives for learning the kernel,2007,Machine Learning,26,10.1007/s10994-006-0679-0,United States,Article,Albany,1,Journal,2-s2.0-33847662483
+Micchelli C.,,Universal kernels,2006,Journal of Machine Learning Research,171,,United States,Article,Albany,0,Journal,2-s2.0-33845518144
+Mukherjee S.,,Learning coordinate covariances via gradients,2006,Journal of Machine Learning Research,60,,United States,Article,Durham,0,Journal,2-s2.0-33646374652
+Steinwart I.,,Function classes that approximate the Bayes risk,2006,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),10,10.1007/11776420_9,United States,Conference Paper,Los Alamos,0,Book Series,2-s2.0-33746071553
+Evgeniou T.,,Learning multiple tasks with kernel methods,2005,Journal of Machine Learning Research,546,,France,Article,Fontainebleau,0,Journal,2-s2.0-21844456299
+Lowitzsch S.,,A density theorem for matrix-valued radial basis functions,2005,Numerical Algorithms,16,10.1007/s11075-004-3641-x,United States,Article,Morgantown,0,Journal,2-s2.0-17444417421
+Micchelli C.,,On learning vector-valued functions,2005,Neural Computation,265,10.1162/0899766052530802,United States,Article,Albany,0,Journal,2-s2.0-14544299611
+Chen D.,,Support vector machine soft margin classifiers: Error analysis,2004,Journal of Machine Learning Research,186,,China,Article,Beijing,0,Journal,2-s2.0-84879394399
+Micchelli C.A.,,A function representation for learning in Banach spaces,2004,Lecture Notes in Artificial Intelligence (Subseries of Lecture Notes in Computer Science),21,10.1007/978-3-540-27819-1_18,United States,Conference Paper,Albany,0,Conference Proceeding,2-s2.0-9444284439
+Vazquez E.,,Multi-Output Suppport Vector Regression,2003,IFAC Proceedings Volumes (IFAC-PapersOnline),15,10.1016/S1474-6670(17)35018-8,France,Conference Paper,Gif-sur-Yvette,0,Conference Proceeding,2-s2.0-40649109995
+Solak E.,,Derivative observations in Gaussian Process Models of Dynamic Systems,2003,Advances in Neural Information Processing Systems,117,,United Kingdom,Conference Paper,Glasgow,0,Conference Proceeding,2-s2.0-84898995949
+Cucker F.,,On the mathematical foundations of learning,2002,Bulletin of the American Mathematical Society,817,10.1090/S0273-0979-01-00923-5,Hong Kong,Article,Kowloon,1,Journal,2-s2.0-0036071370
+Micchelli C.,,Interpolation of scattered data: Distance matrices and conditionally positive definite functions,1986,Constructive Approximation,991,10.1007/BF01893414,United States,Article,Yorktown Heights,0,Journal,2-s2.0-34250122797
+Devestatz A.,,On measurable positive definite operator functions,1960,Journal of the London Mathematical Society,8,10.1112/jlms/s1-35.4.417,United States,Note,St. Louis,0,Journal,2-s2.0-0008548569
+Aronszajn N.,,Theory of reproducing kernels,1950,Transactions of the American Mathematical Society,3032,10.1090/s0002-9947-1950-0051437-7,United States,Article,Stillwater,1,Journal,2-s2.0-5844297152

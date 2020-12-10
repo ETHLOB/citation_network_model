@@ -1,0 +1,20 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Levien R.,,Attack-resistant trust metrics for public key certification,1998,Proceedings of the 7th USENIX Security Symposium,143,,United States,Conference Paper,Berkeley,0,Conference Proceeding,2-s2.0-85084162792
+Reiter M.K.,,Path independence for authentication in large-scale systems,1997,Proceedings of the ACM Conference on Computer and Communications Security,43,10.1145/266420.266435,United States,Conference Paper,San Antonio,0,Conference Proceeding,2-s2.0-0030709945
+Reiter M.,,Toward acceptable metrics of authentication,1997,Proceedings of the IEEE Computer Society Symposium on Research in Security and Privacy,60,,United States,Conference Paper,San Antonio,0,Conference Proceeding,2-s2.0-0030671980
+Yahalom R.,,Trust-based navigation in distributed systems,1994,Computing systems,30,,Israel,Article,Jerusalem,0,Journal,2-s2.0-0028675688
+Kent S.T.,,Internet Privacy Enhanced Mail,1993,Communications of the ACM,53,10.1145/163381.163390,United States,Article,Cambridge,0,Journal,2-s2.0-0040268965
+Yahalom R.,,Trust relationships in secure systems - a distributed authentication perspective,1993,Proceedings of the IEEE Computer Society Symposium on Research in Security and Privacy,166,,Israel,Conference Paper,Jerusalem,0,Conference Proceeding,2-s2.0-0027266208
+King V.,,A faster deterministic maximum flow algorithm,1992,Proceedings of the Annual ACM-SIAM Symposium on Discrete Algorithms,31,,United States,Conference Paper,Princeton,0,Conference Proceeding,2-s2.0-85025242609
+Gilgor V.,,On inter-realm authentication in large distributed systems,1992,Proceedings of the Symposium on Security and Privacy,10,,United States,Conference Paper,College Park,0,Conference Proceeding,2-s2.0-0026850050
+Lampson B.,,Authentication in Distributed Systems: Theory and Practice,1992,ACM Transactions on Computer Systems (TOCS),294,10.1145/138873.138874,United States,Article,Palo Alto,0,Journal,2-s2.0-84976834054
+Tarah A.,,Associating metrics to certification paths,1992,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),19,10.1007/bfb0013898,France,Conference Paper,Valbonne,0,Book Series,2-s2.0-0242621248
+Schneider F.,,Implementing Fault-Tolerant Services Using the State Machine Approach: A Tutorial,1990,ACM Computing Surveys (CSUR),1154,10.1145/98163.98167,United States,Article,Ithaca,0,Journal,2-s2.0-0025564050
+Birrell A.,,GLOBAL AUTHENTICATION SERVICE WITHOUT GLOBAL TRUST.,1986,Proceedings of the Symposium on Security and Privacy,33,,United States,Conference Paper,Palo Alto,0,Conference Proceeding,2-s2.0-0022614501
+Ronen D.,,Heuristics for finding a maximum number of disjoint bounded paths,1984,Networks,25,10.1002/net.3230140405,Israel,Article,Ramat Gan,0,Journal,2-s2.0-0021691733
+Itai A.,,The complexity of finding maximum disjoint paths with length constraints,1982,Networks,119,10.1002/net.3230120306,Israel,Article,Haifa,0,Journal,2-s2.0-0020175940
+Lovász L.,,Mengerian theorems for paths of bounded length,1978,Periodica Mathematica Hungarica,49,10.1007/BF02019432,Hungary,Article,Szeged,0,Journal,2-s2.0-0002493849
+Entringer R.,,Geodetic Connectivity of Graphs,1977,IEEE Transactions on Circuits and Systems,23,10.1109/TCS.1977.1084370,United States;United States;United States,Article,Albuquerque;Albuquerque;Los Alamos,0,Journal,2-s2.0-0017524308
+Garey M.,,Some simplified NP-complete graph problems,1976,Theoretical Computer Science,1305,10.1016/0304-3975(76)90059-1,,Article,,1,Journal,2-s2.0-30244473678
+Suurballe J.,,Disjoint paths in a network,1974,Networks,482,10.1002/net.3230040204,United States,Article,Murray,0,Journal,2-s2.0-0015955981
+Dijkstra E.,,A note on two problems in connexion with graphs,1959,Numerische Mathematik,13116,10.1007/BF01386390,Netherlands,Article,Amsterdam,0,Journal,2-s2.0-34147120474

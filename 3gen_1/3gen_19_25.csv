@@ -1,0 +1,11 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Hardoon D.,,Unsupervised analysis of fMRI data using kernel canonical correlation,2007,NeuroImage,79,10.1016/j.neuroimage.2007.06.017,United Kingdom,Article,London,0,Journal,2-s2.0-34548537654
+Fukumizu K.,,Statistical consistency of kernel canonical correlation analysis,2007,Journal of Machine Learning Research,144,,Japan,Article,Tokyo,0,Journal,2-s2.0-33847186281
+Hardoon D.R.,,A correlation approach for automatic image annotation,2006,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),37,10.1007/11811305_75,United Kingdom,Conference Paper,Southampton,0,Book Series,2-s2.0-33749389481
+Hardoon D.,,Canonical correlation analysis: An overview with application to learning methods,2004,Neural Computation,1673,10.1162/0899766042321814,United Kingdom,Review,Southampton,0,Journal,2-s2.0-10044285992
+Friman O.,,Adaptive analysis of fMRI data,2003,NeuroImage,158,10.1016/S1053-8119(03)00077-6,Sweden;Sweden,Article,Linkoping;Linkoping,0,Journal,2-s2.0-0042170182
+Bartlett P.,,Rademacher and Gaussian complexities: Risk bounds and structural results,2003,Journal of Machine Learning Research,839,10.1162/153244303321897690,Australia,Conference Paper,Canberra,0,Journal,2-s2.0-0038453192
+Bach F.R.,,Kernel independent component analysis,2003,Journal of Machine Learning Research,1081,10.1162/153244303768966085,United States,Article,Berkeley,0,Journal,2-s2.0-0011812771
+Kolenda T.,,Independent component analysis for understanding multimedia content,2002,Neural Networks for Signal Processing - Proceedings of the IEEE Workshop,39,10.1109/NNSP.2002.1030096,Denmark,Conference Paper,Lyngby,0,Conference Proceeding,2-s2.0-84953744795
+Breiman L.,,Estimating optimal transformations for multiple regression and correlation,1985,Journal of the American Statistical Association,1025,10.1080/01621459.1985.10478157,United States,Article,Berkeley,0,Journal,2-s2.0-84950771789
+Kettenring J.,,Canonical analysis of several sets of variables,1971,Biometrika,461,10.1093/biomet/58.3.433,United States,Article,Murray,0,Journal,2-s2.0-0000020007

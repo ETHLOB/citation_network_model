@@ -1,0 +1,20 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Dunham I.,,An integrated encyclopedia of DNA elements in the human genome,2012,Nature,8344,10.1038/nature11247,United Kingdom,Article,London,1,Journal,2-s2.0-84865790047
+Baker M.,,Gene data to hit milestone,2012,Nature,21,10.1038/487282a,,Short Survey,,0,Journal,2-s2.0-84863895244
+Barrett T.,,BioProject and BioSample databases at NCBI: Facilitating capture and organization of metadata,2012,Nucleic Acids Research,136,10.1093/nar/gkr1163,United States,Article,Bethesda,1,Journal,2-s2.0-84862179132
+Piwowar H.,,Data archiving is a good investment,2011,Nature,47,10.1038/473285a,United States,Letter,Durham,1,Journal,2-s2.0-79956297138
+Fingerman I.,,NCBI Epigenomics: A new public resource for exploring epigenomic data sets,2011,Nucleic Acids Research,40,10.1093/nar/gkq1146,United States,Article,Bethesda,1,Journal,2-s2.0-78651298894
+Parkinson H.,,Arrayexpress update-An archive of microarray and high-throughput sequencing-based functional genomics experiments,2011,Nucleic Acids Research,256,10.1093/nar/gkq1040,United Kingdom,Article,London,1,Journal,2-s2.0-78651284406
+Barrett T.,,NCBI GEO: Archive for functional genomics data sets-10 years on,2011,Nucleic Acids Research,764,10.1093/nar/gkq1184,United States,Article,Bethesda,1,Journal,2-s2.0-78651339534
+Bernstein B.,,The NIH roadmap epigenomics mapping consortium,2010,Nature Biotechnology,981,10.1038/nbt1010-1045,United States;United States,Note,Boston;Cambridge,0,Journal,2-s2.0-77957940722
+Lebsack T.,,Microarray analysis of spaceflown murine thymus tissue reveals changes in gene expression regulating stress and glucocorticoid receptors,2010,Journal of Cellular Biochemistry,28,10.1002/jcb.22547,United States,Article,Tucson,0,Journal,2-s2.0-77952042490
+Shumway M.,,Archiving next generation sequencing data,2009,Nucleic Acids Research,77,10.1093/nar/gkp1078,United States,Article,Bethesda,1,Journal,2-s2.0-75549084998
+Geer L.,,The NCBI BioSystems database,2009,Nucleic Acids Research,421,10.1093/nar/gkp858,United States,Article,Bethesda,1,Journal,2-s2.0-75549088021
+Barrett T.,,NCBI GEO: Archive for high-throughput functional genomic data,2009,Nucleic Acids Research,736,10.1093/nar/gkn764,United States,Article,Bethesda,1,Journal,2-s2.0-58149182724
+Lin J.,,PubMed related articles: A probabilistic topic-based model for content similarity,2007,BMC Bioinformatics,124,10.1186/1471-2105-8-423,United States;United States,Article,College Park;Bethesda,1,Journal,2-s2.0-38549166666
+Sean D.,,GEOquery: A bridge between the Gene Expression Omnibus (GEO) and BioConductor,2007,Bioinformatics,580,10.1093/bioinformatics/btm254,United States,Article,Bethesda,1,Journal,2-s2.0-34547871639
+Smyth G.K.,,Linear models and empirical bayes methods for assessing differential expression in microarray experiments,2004,Statistical Applications in Genetics and Molecular Biology,7988,10.2202/1544-6115.1027,Australia,Article,Melbourne,0,Journal,2-s2.0-4544341015
+Gentleman R.,,Bioconductor: open software development for computational biology and bioinformatics.,2004,Genome biology,8443,,United States,Article,Boston,0,Journal,2-s2.0-28744458859
+,,Microarray standards at last,2002,Nature,60,10.1038/419323a,,Short Survey,,1,Journal,2-s2.0-0037179669
+Edgar R.,,Gene Expression Omnibus: NCBI gene expression and hybridization array data repository,2002,Nucleic Acids Research,6511,10.1093/nar/30.1.207,United States,Article,Bethesda,1,Journal,2-s2.0-0036081355
+Brazma A.,,Minimum information about a microarray experiment (MIAME) - Toward standards for microarray data,2001,Nature Genetics,3107,10.1038/ng1201-365,United Kingdom,Review,London,0,Journal,2-s2.0-18344396568

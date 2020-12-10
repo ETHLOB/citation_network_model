@@ -1,0 +1,10 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Germain P.,,PAC-Bayesian learning of linear classifiers,2009,"Proceedings of the 26th International Conference On Machine Learning, ICML 2009",75,,Canada,Conference Paper,Quebec,0,Conference Proceeding,2-s2.0-71149105482
+Ambroladze A.,,Tighter PAC-Bayes bounds,2007,Advances in Neural Information Processing Systems,31,,Sweden,Conference Paper,Lund,0,Conference Proceeding,2-s2.0-84864069264
+Langford J.,,Tutorial on practical prediction theory for classification,2005,Journal of Machine Learning Research,178,,United States,Review,Chicago,0,Journal,2-s2.0-21844462365
+Bartlett P.,,Rademacher and Gaussian complexities: Risk bounds and structural results,2003,Journal of Machine Learning Research,839,10.1162/153244303321897690,Australia,Conference Paper,Canberra,0,Journal,2-s2.0-0038453192
+Seeger M.,,PAC-Bayesian generalisation error bounds for Gaussian process classification,2003,Journal of Machine Learning Research,112,10.1162/153244303765208386,United Kingdom,Article,Edinburgh,0,Journal,2-s2.0-0041464774
+Zhang T.,,Covering Number Bounds of Certain Regularized Linear Function Classes,2002,Journal of Machine Learning Research,113,10.1162/153244302760200713,United States,Article,Yorktown Heights,0,Journal,2-s2.0-0347067948
+McAllester D.A.,,PAC-Bayesian model averaging,1999,Proceedings of the Annual ACM Conference on Computational Learning Theory,113,10.1145/307400.307435,United States,Conference Paper,Florham Park,0,Conference Proceeding,2-s2.0-0033280443
+Shawe-Taylor J.,,Structural risk minimization over data-dependent hierarchies,1998,IEEE Transactions on Information Theory,299,10.1109/18.705570,United Kingdom;Australia,Article,Egham;Canberra,0,Journal,2-s2.0-0032166068
+Boser B.,,Training algorithm for optimal margin classifiers,1992,Proceedings of the Fifth Annual ACM Workshop on Computational Learning Theory,6217,,United States,Conference Paper,Berkeley,0,Conference Proceeding,2-s2.0-0026966646

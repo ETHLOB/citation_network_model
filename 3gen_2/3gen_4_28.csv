@@ -1,0 +1,19 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Doerr B.,,Social networks spread rumors in sublogarithmic time,2011,Proceedings of the Annual ACM Symposium on Theory of Computing,78,10.1145/1993636.1993640,Germany,Conference Paper,Saarbrucken,0,Conference Proceeding,2-s2.0-79959760477
+Chierichetti F.,,Rumor spreading in social networks,2011,Theoretical Computer Science,69,10.1016/j.tcs.2010.11.001,United States,Article,Ithaca,1,Journal,2-s2.0-84950170865
+Fountoulakis N.,,Reliable broadcasting in random networks and the effect of density,2010,Proceedings - IEEE INFOCOM,44,10.1109/INFCOM.2010.5462084,Germany,Conference Paper,Saarbrucken,0,Conference Proceeding,2-s2.0-77953320475
+Bohman T.,,Hamilton cycles in 3-out,2009,Random Structures and Algorithms,16,10.1002/rsa.20272,United States,Article,Pittsburgh,0,Journal,2-s2.0-70350545478
+Flaxman A.,,Adversarial deletion in a scale-free random graph process,2007,Combinatorics Probability and Computing,5,10.1017/S0963548306007681,United States,Article,Pittsburgh,0,Journal,2-s2.0-33847109724
+Boyd S.,,Randomized gossip algorithms,2006,IEEE Transactions on Information Theory,1536,10.1109/TIT.2006.874516,United States,Article,Palo Alto,0,Journal,2-s2.0-33745136409
+Mihail M.,,On certain connectivity properties of the internet topology,2006,Journal of Computer and System Sciences,34,10.1016/j.jcss.2005.06.009,United States,Article,Atlanta,1,Journal,2-s2.0-32844455081
+Berger N.,,On the spread of viruses on the Internet,2005,Proceedings of the Annual ACM-SIAM Symposium on Discrete Algorithms,122,,United States,Conference Paper,Pasadena,0,Conference Proceeding,2-s2.0-20744442724
+Bollobás B.,,The diameter of a scale-free random graph,2004,Combinatorica,317,10.1007/s00493-004-0002-2,United States;United Kingdom,Article,Memphis;Cambridge,0,Journal,2-s2.0-2542530739
+Bollobás B.,,Coupling scale-free and classical random graphs,2004,Internet Mathematics,31,10.1080/15427951.2004.10129084,United States,Article,Memphis,1,Journal,2-s2.0-84906214576
+Cooper C.,,Random deletion in a scale-free random graph process,2004,Internet Mathematics,56,10.1080/15427951.2004.10129095,United Kingdom,Article,London,1,Journal,2-s2.0-33745054693
+Bollobás B.,,Robustness and Vulnerability of scale-free random graphs,2004,Internet Mathematics,178,10.1080/15427951.2004.10129080,United States,Article,Memphis,1,Journal,2-s2.0-84906244198
+Kempe D.,,Gossip-based computation of aggregate information,2003,Annual Symposium on Foundations of Computer Science - Proceedings,498,,United States,Conference Paper,Ithaca,0,Conference Proceeding,2-s2.0-0344118858
+Bollobás B.,,The degree sequence of a scale-free random graph process,2001,Random Structures and Algorithms,463,10.1002/rsa.1009,United States;United Kingdom,Article,Memphis;Cambridge,0,Journal,2-s2.0-0035625228
+Karp R.,,Randomized rumor spreading,2000,Annual Symposium on Foundations of Computer Science - Proceedings,428,,United States,Conference Paper,Berkeley,0,Conference Proceeding,2-s2.0-0034516311
+Broder A.,,Graph structure in the Web,2000,Computer Networks,1699,10.1016/S1389-1286(00)00083-9,United States,Article,San Mateo,0,Journal,2-s2.0-0033721503
+Barabási A.,,Emergence of scaling in random networks,1999,Science,22122,10.1126/science.286.5439.509,United States,Article,Notre Dame,0,Journal,2-s2.0-0038483826
+Albert R.,,Diameter of the world-wide web,1999,Nature,3115,10.1038/43601,United States,Article,Notre Dame,0,Journal,2-s2.0-0033539175

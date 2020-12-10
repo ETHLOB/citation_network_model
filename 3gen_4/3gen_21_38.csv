@@ -1,0 +1,9 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Domingos P.,,Mining the network value of customers,2001,Proceedings of the Seventh ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,1685,10.1145/502512.502525,United States,Conference Paper,Seattle,0,Conference Proceeding,2-s2.0-0035789667
+Barabási A.,,Scale-free characteristics of random networks: The topology of the world-wide web,2000,Physica A: Statistical Mechanics and its Applications,866,10.1016/S0378-4371(00)00018-2,United States,Article,Notre Dame,0,Journal,2-s2.0-0342521525
+Gelbrich K.,,Value miner: A data mining environment for the calculation of the customer lifetime value with application to the automotive industry,2000,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),6,10.1007/3-540-45164-1_16,Germany,Conference Paper,Stuttgart,1,Book Series,2-s2.0-84898817621
+Kleinberg J.,,Authoritative sources in a hyperlinked environment,1998,Proceedings of the Annual ACM-SIAM Symposium on Discrete Algorithms,1269,,United States,Conference Paper,Ithaca,0,Conference Proceeding,2-s2.0-0032256758
+Kautz H.,,Combining Social Networks and Collaborative Filtering,1997,Communications of the ACM,597,10.1145/245108.245123,United States,Article,Florham Park,0,Journal,2-s2.0-0031103689
+Domingos P.,,On the Optimality of the Simple Bayesian Classifier under Zero-One Loss,1997,Machine Learning,2013,10.1023/a:1007413511361,United States,Article,Irvine,1,Journal,2-s2.0-0031269184
+Schwartz M.,,Discovering shared interests using graph analysis,1993,Communications of the ACM,134,10.1145/163381.163402,,Article,,0,Journal,2-s2.0-84976851626
+Howard R.,,Information Value Theory,1966,IEEE Transactions on Systems Science and Cybernetics,462,10.1109/TSSC.1966.300074,United States,Article,Palo Alto,0,Journal,2-s2.0-84939003870

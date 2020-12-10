@@ -1,0 +1,44 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Chang G.,,High-throughput sequencing reveals the disruption of methylation of imprinted gene in induced pluripotent stem cells,2014,Cell Research,36,10.1038/cr.2013.173,China;China,Article,Beijing;Beijing,1,Journal,2-s2.0-84897655065
+Chawla G.,,ADAR mediates differential expression of polycistronic microRNAs,2014,Nucleic Acids Research,24,10.1093/nar/gku145,United States,Article,Bloomington,1,Journal,2-s2.0-84899894179
+Kozomara A.,,MiRBase: Annotating high confidence microRNAs using deep sequencing data,2014,Nucleic Acids Research,3057,10.1093/nar/gkt1181,United Kingdom,Article,Manchester,1,Journal,2-s2.0-84891818318
+Monnier P.,,H19 lncRNA controls gene expression of the Imprinted Gene Network by recruiting MBD1,2013,Proceedings of the National Academy of Sciences of the United States of America,164,10.1073/pnas.1310201110,France;France,Article,Paris;Paris,1,Journal,2-s2.0-84890828236
+Wu X.,,XDivergent transcription: A driving force for new gene origination?,2013,Cell,93,10.1016/j.cell.2013.10.048,United States,Review,Cambridge,1,Journal,2-s2.0-84889562158
+Jin F.,,A high-resolution map of the three-dimensional chromatin interactome in human cells,2013,Nature,632,10.1038/nature12644,United States,Article,San Diego,0,Journal,2-s2.0-84887620842
+Kallen A.N.,,The Imprinted H19 LncRNA Antagonizes Let-7 MicroRNAs,2013,Molecular Cell,672,10.1016/j.molcel.2013.08.027,United States,Article,New Haven,1,Journal,2-s2.0-84885374473
+Davis M.,,Kraken: A set of tools for quality control and analysis of high-throughput sequence data,2013,Methods,160,10.1016/j.ymeth.2013.06.027,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-84883492771
+Economides A.N.,,Conditionals by inversion provide a universal method for the generation of conditional alleles,2013,Proceedings of the National Academy of Sciences of the United States of America,31,10.1073/pnas.1217812110,United States,Article,Tarrytown,1,Journal,2-s2.0-84882801469
+Fan P.,,miRNA Biogenesis Enzyme Drosha Is Required for Vascular Smooth Muscle Cell Survival,2013,PLoS ONE,26,10.1371/journal.pone.0060888,China;United States,Article,Guangzhou;Memphis,1,Journal,2-s2.0-84876334208
+Sigova A.A.,,Divergent transcription of long noncoding RNA/mRNA gene pairs in embryonic stem cells,2013,Proceedings of the National Academy of Sciences of the United States of America,287,10.1073/pnas.1221904110,United States,Article,Cambridge,1,Journal,2-s2.0-84874248583
+Marsico A.,,PROmiRNA: A new miRNA promoter recognition method uncovers the complex regulation of intronic miRNAs,2013,Genome Biology,65,10.1186/gb-2013-14-8-r84,Germany,Article,Berlin,1,Journal,2-s2.0-84918542774
+Paraskevopoulou M.,,DIANA-microT web server v5.0: service integration into miRNA functional analysis workflows.,2013,Nucleic acids research,520,10.1093/nar/gkt393,Greece,Article,Vari,1,,2-s2.0-84883579190
+Flicek P.,,Ensembl 2013,2013,Nucleic Acids Research,743,10.1093/nar/gks1236,United Kingdom;United Kingdom,Article,Cambridge;Hinxton,1,Journal,2-s2.0-84875391572
+Derrien T.,,"The GENCODE v7 catalog of human long noncoding RNAs: Analysis of their gene structure, evolution, and expression",2012,Genome Research,2677,10.1101/gr.132159.111,Spain,Article,Barcelona,1,Journal,2-s2.0-84865727393
+Shen Y.,,A map of the cis-regulatory sequences in the mouse genome,2012,Nature,802,10.1038/nature11243,United States,Article,San Diego,0,Journal,2-s2.0-84864462544
+Clark M.B.,,Genome-wide analysis of long noncoding RNA stability,2012,Genome Research,298,10.1101/gr.131037.111,Australia,Article,Brisbane,1,Journal,2-s2.0-84860581983
+Vergoulis T.,,TarBase 6.0: Capturing the exponential growth of miRNA targets with experimental support,2012,Nucleic Acids Research,413,10.1093/nar/gkr1161,Greece,Article,Athens,1,Journal,2-s2.0-84862176128
+Chien C.,,Identifying transcriptional start sites of human microRNAs based on high-throughput sequencing data,2011,Nucleic Acids Research,121,10.1093/nar/gkr604,Taiwan,Article,Hsinchu,1,Journal,2-s2.0-82255185653
+Min I.M.,,Regulating RNA polymerase pausing and transcription elongation in embryonic stem cells,2011,Genes and Development,214,10.1101/gad.2005511,United States,Article,Ithaca,1,Journal,2-s2.0-79954562232
+Chang C.,,LIBSVM: A Library for support vector machines,2011,ACM Transactions on Intelligent Systems and Technology,20519,10.1145/1961189.1961199,Taiwan,Article,Taipei,0,Journal,2-s2.0-79955702502
+Chong M.,,Canonical and alternate functions of the microRNA biogenesis machinery,2010,Genes and Development,145,10.1101/gad.1953310,Australia;United States,Article,Melbourne;New York,1,Journal,2-s2.0-77956278269
+Wu T.,,Fast and SNP-tolerant detection of complex variants and splicing in short reads,2010,Bioinformatics,1162,10.1093/bioinformatics/btq057,United States,Article,San Francisco,1,Journal,2-s2.0-77951820899
+Robinson M.,,edgeR: A Bioconductor package for differential expression analysis of digital gene expression data,2009,Bioinformatics,11916,10.1093/bioinformatics/btp616,Australia;Australia,Article,Melbourne;Sydney,1,Journal,2-s2.0-75249087100
+Barski A.,,Chromatin poises miRNA- and protein-coding genes for expression,2009,Genome Research,122,10.1101/gr.090951.109,United States,Article,Bethesda,1,Journal,2-s2.0-70349643725
+Seila A.,,Divergent transcription: A new feature of active promoters,2009,Cell Cycle,128,10.4161/cc.8.16.9305,United States;United States,Review,Cambridge;Cambridge,1,Journal,2-s2.0-69249215400
+Zang C.,,A clustering approach for identification of enriched domains from histone modification ChIP-Seq data,2009,Bioinformatics,602,10.1093/bioinformatics/btp340,United States,Article,"Washington, D.C.",0,Journal,2-s2.0-67650711619
+Garber M.,,Identifying novel constrained elements by exploiting biased substitution patterns,2009,Bioinformatics,168,10.1093/bioinformatics/btp190,United States,Conference Paper,Cambridge,1,Journal,2-s2.0-66349086264
+Corcoran D.L.,,Features of mammalian microRNA promoters emerge from polymerase II chromatin immunoprecipitation data,2009,PLoS ONE,217,10.1371/journal.pone.0005279,United States;United States,Article,Pittsburgh;Durham,1,Journal,2-s2.0-65449183132
+Megraw M.,,A transcription factor affinity-based code for mammalian transcription initiation,2009,Genome Research,41,10.1101/gr.085449.108,United States,Article,Durham,1,Journal,2-s2.0-63849237976
+Langmead B.,,Ultrafast and memory-efficient alignment of short DNA sequences to the human genome,2009,Genome Biology,11983,10.1186/gb-2009-10-3-r25,United States,Article,College Park,1,Journal,2-s2.0-62349130698
+Seila A.,,Divergent transcription from active promoters,2008,Science,610,10.1126/science.1162253,United States,Article,Cambridge,1,Journal,2-s2.0-57849140661
+Core L.,,Nascent RNA sequencing reveals widespread pausing and divergent initiation at human promoters,2008,Science,1207,10.1126/science.1162228,United States,Article,Ithaca,1,Journal,2-s2.0-57849109058
+Saini H.,,Annotation of mammalian primary microRNAs,2008,BMC Genomics,98,10.1186/1471-2164-9-564,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-60849112259
+Ozsolak F.,,Chromatin structure analyses identify miRNA promoters,2008,Genes and Development,449,10.1101/gad.1706508,United States;United States,Article,Boston;Boston,1,Journal,2-s2.0-56549129538
+Zhang Y.,,Model-based analysis of ChIP-Seq (MACS),2008,Genome Biology,5542,10.1186/gb-2008-9-9-r137,United States,Article,Boston,1,Journal,2-s2.0-53849146020
+Marson A.,,Connecting microRNA Genes to the Core Transcriptional Regulatory Circuitry of Embryonic Stem Cells,2008,Cell,1121,10.1016/j.cell.2008.07.020,United States;United States,Article,Cambridge;Cambridge,1,Journal,2-s2.0-48449084118
+Saini H.,,Genomic analysis of human microRNA transcripts,2007,Proceedings of the National Academy of Sciences of the United States of America,369,10.1073/pnas.0703890104,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-36749026287
+Zhou X.,,Characterization and identification of microRNA core promoters in four model species,2007,PLoS Computational Biology,236,10.1371/journal.pcbi.0030037,United States,Article,St. Louis,1,Journal,2-s2.0-34047234690
+Lee Y.,,The nuclear RNase III Drosha initiates microRNA processing,2003,Nature,3490,10.1038/nature01957,South Korea,Article,Seoul,0,Journal,2-s2.0-0141843656
+Ambros V.,,microRNAs: Tiny regulators with great potential,2001,Cell,1216,10.1016/S0092-8674(01)00616-X,United States,Review,Hanover,1,Journal,2-s2.0-0035966319
+Lee R.,,An extensive class of small RNAs in Caenorhabditis elegans,2001,Science,2112,10.1126/science.1065329,United States,Article,Hanover,0,Journal,2-s2.0-0035955366
+Lau N.,,An abundant class of tiny RNAs with probable regulatory roles in Caenorhabditis elegans,2001,Science,2478,10.1126/science.1065062,United States,Article,Cambridge,0,Journal,2-s2.0-0035955361

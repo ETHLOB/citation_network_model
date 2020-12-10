@@ -1,0 +1,41 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Benson D.,,GenBank,2008,Nucleic Acids Research,777,10.1093/nar/gkm929,United States,Article,Bethesda,1,Journal,2-s2.0-38549164691
+Apweiler R.,,The Universal Protein resource (UniProt),2008,Nucleic Acids Research,729,10.1093/nar/gkm895,Switzerland;United Kingdom;United States,Article,"Geneva;Cambridge;Washington, D.C.",1,Journal,2-s2.0-38549097071
+Alber F.,,Determining the architectures of macromolecular assemblies,2007,Nature,392,10.1038/nature06404,United States,Article,Berkeley,0,Journal,2-s2.0-36749088906
+Kerrien S.,,Broadening the horizon - Level 2.5 of the HUPO-PSI format for molecular interactions,2007,BMC Biology,186,10.1186/1741-7007-5-44,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-35348976204
+Hogue C.,,The other side of staying out of a BIND [1],2007,Nature Biotechnology,2,10.1038/nbt0907-971a,,Letter,,0,Journal,2-s2.0-34948906730
+Orchard S.,,The minimum information required for reporting a molecular interaction experiment (MIMIx),2007,Nature Biotechnology,188,10.1038/nbt1324,United Kingdom,Review,Cambridge,1,Journal,2-s2.0-34249107988
+Parrish J.R.,,A proteome-wide protein interaction map for Campylobacter jejuni,2007,Genome Biology,183,10.1186/gb-2007-8-7-r130,United States,Article,Detroit,1,Journal,2-s2.0-38549161592
+Goh K.,,The human disease network,2007,Proceedings of the National Academy of Sciences of the United States of America,2104,10.1073/pnas.0701361104,United States;United States;South Korea;United States,Article,Notre Dame;Boston;Seoul;Boston,1,Journal,2-s2.0-34547140875
+Shoemaker B.,,Deciphering protein-protein interactions. Part II. Computational methods to predict protein and domain interaction partners,2007,PLoS Computational Biology,261,10.1371/journal.pcbi.0030043,United States,Review,Bethesda,1,Journal,2-s2.0-34247586171
+Shoemaker B.,,Deciphering protein-protein interactions. Part I. Experimental techniques and databases,2007,PLoS Computational Biology,271,10.1371/journal.pcbi.0030042,United States,Review,Bethesda,1,Journal,2-s2.0-34047202181
+Lage K.,,A human phenome-interactome network of protein complexes implicated in genetic disorders,2007,Nature Biotechnology,700,10.1038/nbt1295,Denmark,Article,Lyngby,0,Journal,2-s2.0-33947095027
+Côté R.,,The Protein Identifier Cross-Referencing (PICR) service: reconciling protein identifiers across multiple source databases.,2007,BMC bioinformatics,94,10.1186/1471-2105-8-401,United Kingdom,Article,London,1,Journal,2-s2.0-38449100072
+Jayapandian M.,,Michigan molecular interactions (MiMI): Putting the jigsaw puzzle together,2007,Nucleic Acids Research,97,10.1093/nar/gkl859,United States,Article,Ann Arbor,1,Journal,2-s2.0-33846077413
+Chatr-aryamontri A.,,MINT: The Molecular INTeraction database,2007,Nucleic Acids Research,615,10.1093/nar/gkl950,Italy,Article,Rome,1,Journal,2-s2.0-33846073818
+Kerrien S.,,IntAct - Open source resource for molecular interaction data,2007,Nucleic Acids Research,605,10.1093/nar/gkl958,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-33846047770
+Pruitt K.D.,,"NCBI reference sequences (RefSeq): A curated non-redundant sequence database of genomes, transcripts and proteins",2007,Nucleic Acids Research,1747,10.1093/nar/gkl842,United States,Article,Bethesda,1,Journal,2-s2.0-33846057724
+Cerami E.,,"cPath: Open source software for collecting, storing, and querying biological pathways",2006,BMC Bioinformatics,89,10.1186/1471-2105-7-497,United States,Article,New York,1,Journal,2-s2.0-33751435209
+Babnigg G.,,A database of unique protein sequence identifiers for proteome studies,2006,Proteomics,13,10.1002/pmic.200600032,United States,Article,Lemont,0,Journal,2-s2.0-33748337944
+Aragues R.,,PIANA: Protein interactions and network analysis,2006,Bioinformatics,45,10.1093/bioinformatics/btl072,Spain,Article,Barcelona,1,Journal,2-s2.0-33645832196
+Güldener U.,,MPact: the MIPS protein interaction resource on yeast.,2006,Nucleic acids research,257,10.1093/nar/gkj003,Germany,Article,Neuherberg,1,Journal,2-s2.0-33644878150
+Bader G.D.,,Pathguide: a pathway resource list.,2006,Nucleic acids research,292,10.1093/nar/gkj126,United States,Article,New York,1,Journal,2-s2.0-33644873677
+Mishra G.R.,,Human protein reference database--2006 update.,2006,Nucleic acids research,460,10.1093/nar/gkj141,India,Article,Bengaluru,1,Journal,2-s2.0-33644877439
+Stark C.,,BioGRID: a general repository for interaction datasets.,2006,Nucleic acids research,2188,10.1093/nar/gkj109,Canada,Article,Toronto,1,Journal,2-s2.0-33644873184
+Scholtens D.,,Local modeling of global interactome networks,2005,Bioinformatics,63,10.1093/bioinformatics/bti567,United States;United States,Article,Boston;Chicago,1,Journal,2-s2.0-24144486554
+Smith M.,,MagicMatch - Cross-referencing sequence identifiers across databases,2005,Bioinformatics,17,10.1093/bioinformatics/bti548,United Kingdom;United Kingdom,Article,Holmbury St. Mary;Cambridge,1,Journal,2-s2.0-24044478768
+Brown K.,,Online predicted human interaction database,2005,Bioinformatics,445,10.1093/bioinformatics/bti273,Canada,Article,Toronto,1,Journal,2-s2.0-18744376914
+Pagel P.,,The MIPS mammalian protein-protein interaction database,2005,Bioinformatics,377,10.1093/bioinformatics/bti115,Germany,Article,Neuherberg,1,Journal,2-s2.0-20144387067
+Alfarano C.,,The Biomolecular Interaction Network Database and related tools 2005 update,2005,Nucleic Acids Research,448,10.1093/nar/gki051,Canada,Article,Toronto,1,Journal,2-s2.0-13444272070
+Iragne F.,,AliasServer: A web server to handle multiple aliases used to refer to proteins,2004,Bioinformatics,19,10.1093/bioinformatics/bth241,France,Article,Bordeaux,1,Journal,2-s2.0-4344662111
+Kersey P.,,The international protein index: An integrated database for proteomics experiments,2004,Proteomics,625,10.1002/pmic.200300721,United Kingdom,Article,Cambridge,0,Journal,2-s2.0-3042818018
+Clark T.,,Globally distributed object identification for biological knowledgebases.,2004,Briefings in bioinformatics,114,10.1093/bib/5.1.59,,Article,,1,Journal,2-s2.0-6044224544
+Hermjakob H.,,IntAct: An open source molecular interaction database,2004,Nucleic Acids Research,623,,United Kingdom,Article,Cambridge,0,Journal,2-s2.0-9144248312
+Salwinski L.,,The Database of Interacting Proteins: 2004 update,2004,Nucleic Acids Research,1498,,United States,Article,Los Angeles,0,Journal,2-s2.0-0347755535
+Giot L.,,A Protein Interaction Map of Drosophila melanogaster,2003,Science,1782,10.1126/science.1090289,United States,Article,Branford,0,Journal,2-s2.0-0345600247
+Shannon P.,,Cytoscape: A software Environment for integrated models of biomolecular interaction networks,2003,Genome Research,14465,10.1101/gr.1239303,United States,Article,Seattle,1,Journal,2-s2.0-0242490780
+Peri S.,,Development of human protein reference database as an initial platform for approaching systems biology in humans,2003,Genome Research,776,10.1101/gr.1680803,Denmark;United States,Article,Odense;Baltimore,1,Journal,2-s2.0-10744224197
+Bermudez V.,,The alternative Ctf18-Dcc1-Ctf8-replication factor C complex required for sister chromatid cohesion loads proliferating cell nuclear antigen onto DNA,2003,Proceedings of the National Academy of Sciences of the United States of America,93,10.1073/pnas.1434308100,United States,Article,New York,1,Journal,2-s2.0-0042337435
+Bader G.,,BIND: The Biomolecular Interaction Network Database,2003,Nucleic Acids Research,918,10.1093/nar/gkg056,Canada,Review,Toronto,0,Journal,2-s2.0-0037245913
+Bader G.,,"BIND - A data specification for storing and describing biomolecular interactions, molecular complexes and pathways",2000,Bioinformatics,142,10.1093/bioinformatics/16.5.465,Canada,Article,Toronto,1,Journal,2-s2.0-0033930882
+Berman H.M.,,The Protein Data Bank,2000,Nucleic Acids Research,22516,10.1093/nar/28.1.235,United States,Review,New Brunswick,1,Journal,2-s2.0-0033954256

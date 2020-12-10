@@ -1,0 +1,20 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Banfield R.,,Ensemble diversity measures and their application to thinning,2005,Information Fusion,172,10.1016/j.inffus.2004.04.005,United States,Article,Tampa,0,Journal,2-s2.0-10444241978
+Tsymbal A.,,Diversity in search strategies for ensemble feature selection,2005,Information Fusion,225,10.1016/j.inffus.2004.04.003,Ireland,Article,Dublin,0,Journal,2-s2.0-10444238133
+Brown G.,,Diversity creation methods: A survey and categorisation,2005,Information Fusion,616,10.1016/j.inffus.2004.04.004,United Kingdom,Article,Birmingham,0,Journal,2-s2.0-10444221886
+Kuncheva L.,,Measures of diversity in classifier ensembles and their relationship with the ensemble accuracy,2003,Machine Learning,1495,10.1023/A:1022859003006,United Kingdom,Article,Bangor,1,Journal,2-s2.0-0037403516
+Todorovski L.,,Combining classifiers with meta decision trees,2003,Machine Learning,131,10.1023/A:1021709817809,Slovenia,Article,Ljubljana,1,Journal,2-s2.0-0037365188
+Iguyon I.,,An introduction to variable and feature selection,2003,Journal of Machine Learning Research,9130,,United States,Review,Berkeley,0,Journal,2-s2.0-33745561205
+Saranli A.,,On output independence and complementariness in rank-based multiple classifier decision systems,2001,Pattern Recognition,8,10.1016/S0031-3203(00)00175-8,Turkey,Article,Ankara,0,Journal,2-s2.0-0035546359
+Breiman L.,,Random forests,2001,Machine Learning,38636,10.1023/A:1010933404324,United States,Article,Berkeley,1,Journal,2-s2.0-0035478854
+Nicolelis M.,,Actions from thoughts,2001,Nature,502,10.1038/35053191,United States,Review,Durham,0,Journal,2-s2.0-0035905783
+Dietterich T.,,"Experimental comparison of three methods for constructing ensembles of decision trees: bagging, boosting, and randomization",2000,Machine Learning,1650,10.1023/A:1007607513941,United States,Article,Corvallis,1,Journal,2-s2.0-0034250160
+Opitz D.,,Feature selection for ensembles,1999,Proceedings of the National Conference on Artificial Intelligence,233,,United States,Article,Missoula,0,Conference Proceeding,2-s2.0-0032596573
+Bauer E.,,"Empirical comparison of voting classification algorithms: bagging, boosting, and variants",1999,Machine Learning,1533,10.1023/a:1007515423169,United States,Article,Palo Alto,1,Journal,2-s2.0-0032645080
+Ho T.K.,,The random subspace method for constructing decision forests,1998,IEEE Transactions on Pattern Analysis and Machine Intelligence,3419,10.1109/34.709601,United States,Article,Murray,0,Journal,2-s2.0-0032139235
+Kittler J.,,On combining classifiers,1998,IEEE Transactions on Pattern Analysis and Machine Intelligence,4115,10.1109/34.667881,Netherlands,Article,Delft,0,Journal,2-s2.0-0032021555
+Kohavi R.,,Wrappers for feature subset selection,1997,Artificial Intelligence,5483,10.1016/s0004-3702(97)00043-x,United States,Article,Mountain View,1,Journal,2-s2.0-0031381525
+Freund Y.,,A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting,1997,Journal of Computer and System Sciences,7899,10.1006/jcss.1997.1504,United States,Article,Florham Park,1,Journal,2-s2.0-0031211090
+Breiman L.,,Bagging predictors,1996,Machine Learning,13227,10.1023/A:1018054314350,United States,Article,Berkeley,1,Journal,2-s2.0-0030211964
+Ueda N.,,Generalization error of ensemble estimators,1996,IEEE International Conference on Neural Networks - Conference Proceedings,124,,Japan,Conference Paper,Tokyo,0,Conference Proceeding,2-s2.0-0029727747
+Hansen L.K.,,Neural Network Ensembles,1990,IEEE Transactions on Pattern Analysis and Machine Intelligence,2525,10.1109/34.58871,United States,Article,San Diego,0,Journal,2-s2.0-0025507176

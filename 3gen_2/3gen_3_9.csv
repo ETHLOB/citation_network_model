@@ -1,0 +1,31 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Batool K.,,Towards a methodology for validation of centrality measures in complex networks,2014,PLoS ONE,41,10.1371/journal.pone.0090283,Pakistan,Article,Islamabad,1,Journal,2-s2.0-84899436031
+Raman K.,,The organisational structure of protein networks: Revisiting the centrality-lethality hypothesis,2014,Systems and Synthetic Biology,35,10.1007/s11693-013-9123-5,India,Article,Chennai,0,Journal,2-s2.0-84894462144
+Mones E.,,Hierarchy measure for complex networks,2012,PLoS ONE,101,10.1371/journal.pone.0033799,Hungary,Article,Budapest,1,Journal,2-s2.0-84859056317
+Shah D.,,Rumors in a network: Who's the culprit?,2011,IEEE Transactions on Information Theory,314,10.1109/TIT.2011.2158885,United States,Article,Cambridge,0,Journal,2-s2.0-79961005336
+Cohen R.,,"Complex networks: Structure, robustness and function",2011,"Complex Networks: Structure, Robustness and Function",372,10.1017/CBO9780511780356,Israel,Book,Ramat Gan,0,Book,2-s2.0-84922962285
+Jackson M.O.,,Social and economic networks,2010,Social and Economic Networks,1668,,United States,Book,Palo Alto,0,Book,2-s2.0-84884055882
+Newman M.,,Networks: An Introduction,2010,Networks: An Introduction,6212,10.1093/acprof:oso/9780199206650.001.0001,United States,Book,Ann Arbor,0,Book,2-s2.0-77954826067
+Fortunato S.,,Community detection in graphs,2010,Physics Reports,5864,10.1016/j.physrep.2009.11.002,Italy,Review,Turin,0,Journal,2-s2.0-74049087026
+del Rio G.,,How to identify essential genes from molecular networks?,2009,BMC Systems Biology,60,10.1186/1752-0509-3-102,Mexico,Article,Ciudad de México,1,Journal,2-s2.0-70449647110
+Estrada E.,,Communicability in complex networks,2008,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",319,10.1103/PhysRevE.77.036111,Spain,Article,Santiago de Compostela,0,Journal,2-s2.0-40949124684
+Tew K.L.,,Functional centrality: detecting lethality of proteins in protein interaction networks.,2007,Genome informatics. International Conference on Genome Informatics,25,10.1142/9781860949852_0015,Singapore,Article,Singapore City,0,Journal,2-s2.0-46749091303
+Estrada E.,,Subgraph centrality and clustering in complex hyper-networks,2006,Physica A: Statistical Mechanics and its Applications,121,10.1016/j.physa.2005.12.002,Spain,Article,Santiago de Compostela,0,Journal,2-s2.0-33645159637
+Colizza V.,,The role of the airline transportation network in the prediction and predictability of global epidemics,2006,Proceedings of the National Academy of Sciences of the United States of America,608,10.1073/pnas.0510525103,United States,Article,Bloomington,1,Journal,2-s2.0-33144474437
+Boccaletti S.,,Complex networks: Structure and dynamics,2006,Physics Reports,6606,10.1016/j.physrep.2005.10.009,Italy,Review,Sesto Fiorentino,0,Journal,2-s2.0-31344474880
+Koschützki D.,,Centrality indices,2005,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),245,10.1007/978-3-540-31955-9_3,,Conference Paper,,0,Book Series,2-s2.0-33746685687
+Borgatti S.P.,,Centrality and network flow,2005,Social Networks,1619,10.1016/j.socnet.2004.11.008,United States,Article,Chestnut Hill,0,Journal,2-s2.0-13944249973
+Newman M.E.J.,,Finding and evaluating community structure in networks,2004,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",7687,10.1103/PhysRevE.69.026113,United States;United States,Article,Santa Fe;Ann Arbor,0,Journal,2-s2.0-37649028224
+Moreno Y.,,Disease spreading in structured scale-free networks,2003,European Physical Journal B,54,10.1140/epjb/e2003-00031-9,Italy;Spain,Article,Trieste;Zaragoza,0,Journal,2-s2.0-18044395560
+Ravasz E.,,Hierarchical organization in complex networks,2003,"Physical Review E - Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics",1243,10.1103/PhysRevE.67.026112,United States,Article,Notre Dame,0,Journal,2-s2.0-84930064585
+Newman M.,,The structure and function of complex networks,2003,SIAM Review,11537,10.1137/S003614450342480,United States,Review,Ann Arbor,0,Journal,2-s2.0-0038718854
+Jeong H.,,Lethality and centrality in protein networks,2001,Nature,3479,10.1038/35075138,United States,Article,Notre Dame,0,Journal,2-s2.0-0035799707
+Pastor-Satorras R.,,Epidemic spreading in scale-free networks,2001,Physical Review Letters,3738,10.1103/PhysRevLett.86.3200,Spain,Article,Barcelona,0,Journal,2-s2.0-0035794256
+Brandes U.,,A faster algorithm for betweenness centrality,2001,Journal of Mathematical Sociology,2218,10.1080/0022250X.2001.9990249,Germany,Article,Konstanz,0,Journal,2-s2.0-0035648637
+Barabási A.,,Emergence of scaling in random networks,1999,Science,22122,10.1126/science.286.5439.509,United States,Article,Notre Dame,0,Journal,2-s2.0-0038483826
+Lipkus A.H.,,A proof of the triangle inequality for the Tanimoto distance,1999,Journal of Mathematical Chemistry,129,10.1023/a:1019154432472,United States,Article,Columbus,0,Journal,2-s2.0-0034350524
+Watts D.J.,,Collective dynamics of 'small-world9 networks,1998,Nature,25779,10.1038/30918,United States,Article,Ithaca,0,Journal,2-s2.0-0032482432
+Page L.,,The anatomy of a large-scale hypertextual Web search engine,1998,Computer Networks,7260,,United States,Article,Palo Alto,0,Journal,2-s2.0-0038589165
+Stephenson K.,,Rethinking centrality: Methods and examples,1989,Social Networks,515,10.1016/0378-8733(89)90016-6,United States,Article,Cambridge,0,Journal,2-s2.0-45249126392
+Levandowsky M.,,Distance between sets [5],1971,Nature,312,10.1038/234034a0,United States,Letter,New Haven,0,Journal,2-s2.0-0002727513
+Sabidussi G.,,The centrality index of a graph,1966,Psychometrika,1175,10.1007/BF02289527,Canada,Article,Hamilton,0,Journal,2-s2.0-0013987194

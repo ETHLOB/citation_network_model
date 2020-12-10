@@ -1,0 +1,20 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Berchtold S.,,Fast nearest neighbor search in high-dimensional space,1998,Proceedings - International Conference on Data Engineering,103,,Germany,Conference Paper,Munich,0,Conference Proceeding,2-s2.0-0031653130
+Chaudhuri S.,,Data Warehousing and OLAP for Decision Support,1997,SIGMOD Record (ACM Special Interest Group on Management of Data),40,10.1145/253262.253373,,Article,,0,Journal,2-s2.0-0031166712
+Seidl T.,,Efficient user-adaptable similarity search in large multimedia databases,1997,"Proceedings of the 23rd International Conference on Very Large Databases, VLDB 1997",110,,Germany,Conference Paper,Munich,0,Conference Proceeding,2-s2.0-84993661650
+Berchtold S.,,Fast Parallel Similarity Search in Multimedia Databases,1997,SIGMOD Record (ACM Special Interest Group on Management of Data),110,10.1145/253262.253263,,Article,,0,Journal,2-s2.0-0031168920
+Berchtold S.,,Cost model for nearest neighbor search in high-dimensional data space,1997,Proceedings of the ACM SIGACT-SIGMOD-SIGART Symposium on Principles of Database Systems - PODS,220,,Germany,Conference Paper,Munich,0,Conference Proceeding,2-s2.0-0030679825
+Katayama N.,,The SR-tree: An Index Structure for High-Dimensional Nearest Neighbor Queries,1997,SIGMOD Record (ACM Special Interest Group on Management of Data),609,10.1145/253262.253347,,Article,,0,Journal,2-s2.0-0031162081
+White D.,,Similarity indexing: algorithms and performance,1996,Proceedings of SPIE - The International Society for Optical Engineering,108,,United States,Conference Paper,San Diego,0,Conference Proceeding,2-s2.0-0029772894
+White D.,,Similarity indexing with the SS-tree,1996,Proceedings - International Conference on Data Engineering,468,,United States,Conference Paper,San Diego,0,Conference Proceeding,2-s2.0-0029752929
+Hjaltason G.,,Ranking in spatial databases,1995,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),216,10.1007/3-540-60159-7_6,United States,Conference Paper,College Park,0,Book Series,2-s2.0-84957646742
+Lin K.,,The TV-tree: An index structure for high-dimensional data,1994,The VLDB Journal,323,10.1007/BF01231606,United States,Article,College Park,0,Journal,2-s2.0-34249762939
+Faloutsos C.,,Efficient and effective Querying by Image Content,1994,Journal of Intelligent Information Systems,824,10.1007/BF00962238,United States,Article,College Park,0,Journal,2-s2.0-34249772390
+Mehrotra R.,,Feature-based retrieval of similar shapes,1993,Proceedings - International Conference on Data Engineering,48,,United States,Conference Paper,Lexington,0,Conference Proceeding,2-s2.0-0027166421
+Faloutsos C.,,Declustering using fractals,1993,"Proceedings of the 2nd International Conference on Parallel and Distributed Information Systems, PDIS 1993",89,10.1109/PDIS.1993.253078,United States,Conference Paper,College Park,0,Conference Proceeding,2-s2.0-71549172581
+Jagadish H.,,A Retrieval Technique for Similar Shapes,1991,ACM SIGMOD Record,142,10.1145/119995.115821,United States,Article,Murray,0,Journal,2-s2.0-84976786298
+Beckmann N.,,The R-tree: An Efficient and Robust Access Method for Points and Rectangles,1990,ACM SIGMOD Record,2903,10.1145/93605.98741,Germany,Article,Bremen,0,Journal,2-s2.0-0025447750
+Robinson J.,,The K-D-B-tree: A search structure for large multidimensional dynamic indexes,1981,Proceedings of the ACM SIGMOD International Conference on Management of Data,583,10.1145/582318.582321,United States,Conference Paper,Pittsburgh,0,Conference Proceeding,2-s2.0-85010847034
+Comer D.,,UBIQUITOUS B-TREE.,Jun,Comput Surv,682,,,Article,,0,Journal,2-s2.0-0018480749
+Friedman J.,,An Algorithm for Finding Best Matches in Logarithmic Expected Time,1977,ACM Transactions on Mathematical Software (TOMS),1679,10.1145/355744.355745,United States,Article,Menlo Park,0,Journal,2-s2.0-84945709355
+Bayer R.,,Organization and maintenance of large ordered indexes,1972,Acta Informatica,865,10.1007/BF00288683,United States,Article,West Lafayette,0,Journal,2-s2.0-0015489880

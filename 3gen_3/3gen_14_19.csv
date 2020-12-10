@@ -1,0 +1,35 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Newman M.,,The structure and dynamics of networks,2011,The Structure and Dynamics of Networks,1018,,,Book,,0,Book,2-s2.0-84884073625
+Du H.,,Function projective synchronization in coupled chaotic systems,2010,Nonlinear Analysis: Real World Applications,90,10.1016/j.nonrwa.2009.01.016,China;China,Article,Harbin;Harbin,0,Journal,2-s2.0-70449638070
+Wong K.,,An efficient diffusion approach for chaos-based image encryption,2009,"Chaos, Solitons and Fractals",100,10.1016/j.chaos.2008.09.047,Hong Kong,Article,Kowloon,0,Journal,2-s2.0-67649324980
+Wang Y.,,A chaos-based image encryption algorithm with variable control parameters,2009,"Chaos, Solitons and Fractals",217,10.1016/j.chaos.2008.07.031,China;China,Article,Chongqing;Chongqing,0,Journal,2-s2.0-67449096190
+Huang C.,,Multi chaotic systems based pixel shuffle for image encryption,2009,Optics Communications,208,10.1016/j.optcom.2009.02.044,Taiwan,Article,Changhua,0,Journal,2-s2.0-64249094192
+Wang X.y.,,A block encryption algorithm based on dynamic sequences of multiple chaotic systems,2009,Communications in Nonlinear Science and Numerical Simulation,71,10.1016/j.cnsns.2007.10.011,China,Article,Dalian,0,Journal,2-s2.0-47749087080
+Han Q.,,Anticipating synchronization of chaotic systems with time delay and parameter mismatch,2009,Chaos,17,10.1063/1.3013600,China,Article,Chongqing,0,Journal,2-s2.0-63849304572
+Ghosh D.,,Generalized projective synchronization in time-delayed systems: Nonlinear observer approach,2009,Chaos,42,10.1063/1.3054711,India,Article,Kolkata,0,Journal,2-s2.0-63849260794
+Ghosh D.,,Nonlinear-observer-based synchronization scheme for multiparameter estimation,2008,EPL,30,10.1209/0295-5075/84/40012,India,Article,Kolkata,0,Journal,2-s2.0-79051471397
+Ghosh D.,,Adaptive scheme for synchronization-based multiparameter estimation from a single chaotic time series and its applications,2008,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",47,10.1103/PhysRevE.78.056211,India,Article,Kolkata,0,Journal,2-s2.0-57049094318
+Pisarchik A.,,Image encryption with chaotically coupled chaotic maps,2008,Physica D: Nonlinear Phenomena,133,10.1016/j.physd.2008.03.049,Mexico,Article,Leon,0,Journal,2-s2.0-51249123329
+Hu M.,,Adaptive feedback controller for projective synchronization,2008,Nonlinear Analysis: Real World Applications,94,10.1016/j.nonrwa.2007.03.005,China,Article,Wuxi,0,Journal,2-s2.0-38949101427
+Hu M.,,Projective cluster synchronization in drive-response dynamical networks,2008,Physica A: Statistical Mechanics and its Applications,42,10.1016/j.physa.2008.02.066,China,Article,Wuxi,0,Journal,2-s2.0-41649098816
+Wong K.W.,,A fast image encryption scheme based on chaotic standard map,2008,"Physics Letters, Section A: General, Atomic and Solid State Physics",329,10.1016/j.physleta.2007.12.026,Hong Kong,Article,Kowloon,0,Journal,2-s2.0-40849137988
+Gao T.,,A new image encryption algorithm based on hyper-chaos,2008,"Physics Letters, Section A: General, Atomic and Solid State Physics",472,10.1016/j.physleta.2007.07.040,China,Article,Tianjin,0,Journal,2-s2.0-37549014203
+Feng C.,,"Projective-anticipating, projective, and projective-lag synchronization of time-delayed chaotic systems on random networks",2008,Chaos,23,10.1063/1.2912720,China,Article,Lanzhou,0,Journal,2-s2.0-46449133654
+Banerjee S.,,Synchronization between two different time-delayed systems and image encryption,2008,EPL,45,10.1209/0295-5075/81/20006,India;India,Article,Kalyani;Kolkata,0,Journal,2-s2.0-79051471376
+Ghosh D.,,Synchronization between variable time-delayed systems and cryptography,2007,EPL,55,10.1209/0295-5075/80/30006,India;India,Article,Kalyani;Kolkata,0,Journal,2-s2.0-79051469732
+Hu M.,,Projective synchronization in drive-response dynamical networks,2007,Physica A: Statistical Mechanics and its Applications,62,10.1016/j.physa.2007.03.023,China,Article,Wuxi,0,Journal,2-s2.0-34249672323
+Hoang T.M.,,Anticipating and projective-anticipating synchronization of coupled multidelay feedback systems,2007,"Physics Letters, Section A: General, Atomic and Solid State Physics",30,10.1016/j.physleta.2007.01.041,Japan,Article,Nagaoka,0,Journal,2-s2.0-34247378268
+Hoang T.,,Projective-lag synchronization of coupled multidelay feedback systems,2006,Journal of the Physical Society of Japan,16,10.1143/JPSJ.75.094801,Japan,Article,Nagaoka,0,Journal,2-s2.0-33847246995
+Pareek N.,,Image encryption using chaotic logistic map,2006,Image and Vision Computing,805,10.1016/j.imavis.2006.02.021,India,Article,Udaipur,0,Journal,2-s2.0-33747058774
+Guan Z.H.,,Chaos-based image encryption algorithm,2005,"Physics Letters, Section A: General, Atomic and Solid State Physics",482,10.1016/j.physleta.2005.08.006,China,Article,Wuhan,0,Journal,2-s2.0-24944459842
+Belykh I.,,Persistent clusters in lattices of coupled nonidentical chaotic systems,2003,Chaos,98,10.1063/1.1514202,Switzerland,Article,Lausanne,0,Journal,2-s2.0-0242668717
+Xu D.,,Control of projective synchronization in chaotic systems,2001,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",119,10.1103/PhysRevE.63.027201,Singapore,Article,Singapore City,0,Journal,2-s2.0-18344383420
+Strogatz S.,,Exploring complex networks,2001,Nature,5562,10.1038/35065725,United States,Review,Ithaca,1,Journal,2-s2.0-0035826155
+Voss H.,,Dynamic long-term anticipation of chaotic states,2001,Physical Review Letters,141,10.1103/PhysRevLett.87.014102,Germany,Article,Freiburg im Breisgau,0,Journal,2-s2.0-39249084516
+Mainieri R.,,Periodic orbit quantization of mixed regular chaotic systems,1999,Physical Review Letters,700,10.1103/PhysRevLett.82.3042,United States,Article,Los Alamos,0,Journal,2-s2.0-0000777715
+Cao L.Y.,,Antiphase synchronism in chaotic systems,1998,"Physical Review E - Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics",98,10.1103/PhysRevE.58.382,United States,Article,Lawrence,0,Journal,2-s2.0-0032110927
+Rosenblum M.,,From phase to lag synchronization in coupled chaotic oscillators,1997,Physical Review Letters,1124,10.1103/PhysRevLett.78.4193,Germany,Article,Potsdam,0,Journal,2-s2.0-0031548743
+Rosenblum M.,,Phase synchronization of chaotic oscillators,1996,Physical Review Letters,2241,10.1103/PhysRevLett.76.1804,Germany,Article,Potsdam,0,Journal,2-s2.0-4243262725
+Rulkov N.F.,,Generalized synchronization of chaos in directionally coupled chaotic systems,1995,Physical Review E,1498,10.1103/PhysRevE.51.980,United States,Article,San Diego,0,Journal,2-s2.0-33744833457
+Kaneko K.,,"Clustering, coding, switching, hierarchical ordering, and control in a network of chaotic elements",1990,Physica D: Nonlinear Phenomena,678,10.1016/0167-2789(90)90119-A,United States,Article,Los Alamos,0,Journal,2-s2.0-45149135778
+Pecora L.,,Synchronization in chaotic systems,1990,Physical Review Letters,8806,10.1103/PhysRevLett.64.821,United States,Article,"Washington, D.C.",0,Journal,2-s2.0-0343689904

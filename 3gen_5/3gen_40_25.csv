@@ -1,0 +1,26 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Oinn T.,,Taverna: A tool for the composition and enactment of bioinformatics workflows,2004,Bioinformatics,1079,10.1093/bioinformatics/bth361,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-10244255212
+Demir E.,,An ontology for collaborative construction and analysis of cellular pathways,2004,Bioinformatics,36,10.1093/bioinformatics/btg416,Turkey,Article,Ankara,1,Journal,2-s2.0-1342330541
+Hermjakob H.,,The HUPO PSI's Molecular Interaction format - A community standard for the representation of protein interaction data,2004,Nature Biotechnology,464,10.1038/nbt926,United Kingdom,Review,Cambridge,0,Journal,2-s2.0-0742323374
+Lewis K.,,MyMED: A database system for biomedical research on MEDLINE data,2004,IBM Systems Journal,4,10.1147/SJ.2004.5386762,Singapore,Article,Singapore City,0,Journal,2-s2.0-12944263573
+Papin J.,,Bioinformatics and cellular signaling,2004,Current Opinion in Biotechnology,28,10.1016/j.copbio.2004.01.003,United States,Review,San Diego,0,Journal,2-s2.0-1242351307
+Mewes H.,,MIPS: Analysis and annotation of proteins from whole genomes,2004,Nucleic Acids Research,452,,Germany;Germany,Article,Neuherberg;Munich,0,Journal,2-s2.0-9144242935
+Hermjakob H.,,IntAct: An open source molecular interaction database,2004,Nucleic Acids Research,623,,United Kingdom,Article,Cambridge,0,Journal,2-s2.0-9144248312
+Salwinski L.,,The Database of Interacting Proteins: 2004 update,2004,Nucleic Acids Research,1498,,United States,Article,Los Angeles,0,Journal,2-s2.0-0347755535
+Harris M.,,The Gene Oncology (GO) database and informatics resource,2004,Nucleic Acids Research,2482,,United Kingdom,Article,London,0,Journal,2-s2.0-0346801873
+Shannon P.,,Cytoscape: A software Environment for integrated models of biomolecular interaction networks,2003,Genome Research,14465,10.1101/gr.1239303,United States,Article,Seattle,1,Journal,2-s2.0-0242490780
+Tatusov R.,,The COG database: An updated vesion includes eukaryotes,2003,BMC Bioinformatics,2972,10.1186/1471-2105-4-41,United States,Article,Bethesda,1,Journal,2-s2.0-0042902833
+Donaldson I.,,PreBIND and textomy - Mining the biomedical literature for protein-protein interactions using a support vector machine,2003,BMC Bioinformatics,230,10.1186/1471-2105-4-11,Canada,Article,Toronto,1,Journal,2-s2.0-2942549190
+Bader G.,,An automated method for finding molecular complexes in large protein interaction networks,2003,BMC Bioinformatics,2457,10.1186/1471-2105-4-2,Canada;Canada;United States,Article,Toronto;Toronto;New York,1,Journal,2-s2.0-2942552459
+Marchler-Bauer A.,,CDD: A curated Entrez database of conserved domain alignments,2003,Nucleic Acids Research,623,10.1093/nar/gkg087,United States,Review,Bethesda,1,Journal,2-s2.0-0037252683
+Bader G.,,BIND: The Biomolecular Interaction Network Database,2003,Nucleic Acids Research,918,10.1093/nar/gkg056,Canada,Review,Toronto,0,Journal,2-s2.0-0037245913
+Michalickova K.,,SeqHound: Biological sequence and structure database as a platform for bioinformatics research,2002,BMC Bioinformatics,38,10.1186/1471-2105-3-32,Canada;Canada,Article,Toronto;Toronto,1,Journal,2-s2.0-0012787398
+Bader G.,,Analyzing yeast protein-protein interaction data obtained from different sources,2002,Nature Biotechnology,436,10.1038/nbt1002-991,Canada,Article,Toronto,0,Journal,2-s2.0-0036789265
+Stajich J.E.,,The Bioperl toolkit: Perl modules for the life sciences,2002,Genome Research,1169,10.1101/gr.361602,United States;United States,Article,San Diego;Durham,1,Journal,2-s2.0-18644368714
+Zanzoni A.,,MINT: A Molecular INTeraction database,2002,FEBS Letters,574,10.1016/S0014-5793(01)03293-8,Italy,Short Survey,Rome,1,Journal,2-s2.0-0037138406
+Duan X.,,Describing biological protein interactions in terms of protein states and state transitions: the LiveDIP database.,2002,Molecular &amp; cellular proteomics : MCP,34,10.1074/mcp.M100026-MCP200,United States,Article,Los Angeles,1,Journal,2-s2.0-0036463402
+Wilkinson M.D.,,BioMOBY: an open source biological web services proposal.,2002,Briefings in bioinformatics,239,10.1093/bib/3.4.331,Canada,Article,"Ottawa ON,",1,Journal,2-s2.0-0037935183
+Marchler-Bauer A.,,CDD: A database of conserved domain alignments with links to domain three-dimensional structure,2002,Nucleic Acids Research,500,10.1093/nar/30.1.281,United States,Article,Bethesda,1,Journal,2-s2.0-0036087630
+Salama J.,,Automatic annotation of BIND molecular interactions from three-dimensional structures,2001,Biopolymers,10,10.1002/1097-0282(2001/2002)61:2<111::AID-BIP10143>3.0.CO;2-8,Canada,Article,Toronto,0,Journal,2-s2.0-0012845191
+Bader G.,,BIND - The Biomolecular Interaction Network Database,2001,Nucleic Acids Research,425,,Canada;Canada,Article,Toronto;Toronto,0,Journal,2-s2.0-0035171884
+Bader G.,,"BIND - A data specification for storing and describing biomolecular interactions, molecular complexes and pathways",2000,Bioinformatics,142,10.1093/bioinformatics/16.5.465,Canada,Article,Toronto,1,Journal,2-s2.0-0033930882

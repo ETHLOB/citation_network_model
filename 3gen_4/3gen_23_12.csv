@@ -1,0 +1,24 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Haddad W.,,Thermodynamics: A dynamical systems approach,2009,Thermodynamics: A Dynamical Systems Approach,120,,,Book,,0,Book,2-s2.0-84884105577
+Cortés J.,,Finite-time convergent gradient flows with applications to network consensus,2006,Automatica,542,10.1016/j.automatica.2006.06.015,United States,Article,Santa Cruz,0,Journal,2-s2.0-33748930431
+Cortés J.,,Coordination and geometric optimization via distributed dynamical systems,2006,SIAM Journal on Control and Optimization,303,10.1137/S0363012903428652,United States,Article,Santa Cruz,0,Journal,2-s2.0-33748936901
+Olfati-Saber R.,,Flocking for multi-agent dynamic systems: Algorithms and theory,2006,IEEE Transactions on Automatic Control,3296,10.1109/TAC.2005.864190,United States,Article,Hanover,0,Journal,2-s2.0-33644997478
+Bhat S.,,Geometric homogeneity with applications to finite-time stability,2005,"Mathematics of Control, Signals, and Systems",912,10.1007/s00498-005-0151-x,India,Article,Mumbai,0,Journal,2-s2.0-21344471250
+Marshall J.,,Formations of vehicles in cyclic pursuit,2004,IEEE Transactions on Automatic Control,501,10.1109/TAC.2004.837589,Canada,Article,Toronto,0,Journal,2-s2.0-9744283567
+Fax J.,,Information flow and cooperative control of vehicle formations,2004,IEEE Transactions on Automatic Control,3370,10.1109/TAC.2004.834433,United States,Article,Los Angeles,0,Journal,2-s2.0-4644317383
+Olfati-Saber R.,,Consensus problems in networks of agents with switching topology and time-delays,2004,IEEE Transactions on Automatic Control,8298,10.1109/TAC.2004.834113,United States,Article,Pasadena,0,Journal,2-s2.0-4644244041
+Bhat S.,,Nontangency-based Lyapunov tests for convergence and stability in systems having a continuum of equilibria,2003,SIAM Journal on Control and Optimization,110,10.1137/S0363012902407119,India,Article,Mumbai,0,Journal,2-s2.0-4944234701
+Bhat S.,,Arc-length-based Lyapunov tests for convergence and stability in systems having a continuum of equilibria,2003,Proceedings of the American Control Conference,31,,India,Conference Paper,Mumbai,0,Conference Proceeding,2-s2.0-0142184076
+Jadbabaie A.,,Coordination of groups of mobile autonomous agents using nearest neighbor rules,2003,IEEE Transactions on Automatic Control,6057,10.1109/TAC.2003.812781,United States;United States,Article,Philadelphia;New Haven,0,Journal,2-s2.0-0038548185
+Hong Y.,,Finite-time stabilization and stabilizability of a class of controllable systems,2002,Systems and Control Letters,477,10.1016/S0167-6911(02)00119-6,China;United States,Article,Beijing;Durham,0,Journal,2-s2.0-0037162403
+Hong Y.,,On an output feedback finite-time stabilization problem,2001,IEEE Transactions on Automatic Control,524,10.1109/9.905699,China,Article,Beijing,0,Journal,2-s2.0-0035249145
+Bhat S.,,Finite-time stability of continuous autonomous systems,2000,SIAM Journal on Control and Optimization,2521,10.1137/S0363012997321358,India,Article,Mumbai,0,Journal,2-s2.0-0000761428
+Bhat S.,,Continuous finite-time stabilization of the translational and rotational double integrators,1998,IEEE Transactions on Automatic Control,1003,10.1109/9.668834,India,Article,Mumbai,0,Journal,2-s2.0-0032070908
+Bernstein D.,,"Lyapunow stability, semistability, and asymptotic stability of matrix second-order systems",1995,"Journal of Vibration and Acoustics, Transactions of the ASME",60,10.1115/1.2838656,United States,Article,Ann Arbor,0,Journal,2-s2.0-0029323801
+Jacquez J.,,Qualitative theory of compartmental systems,Mar,SIAM Review,292,10.1137/1035003,United States,Article,Ann Arbor,0,Journal,2-s2.0-0027555111
+Rosier L.,,Homogeneous Lyapunov function for homogeneous continuous vector field,1992,Systems and Control Letters,529,10.1016/0167-6911(92)90078-7,France,Article,Saint-Aubin,0,Journal,2-s2.0-0026998882
+Ryan E.,,Finite-time stabilization of uncertain nonlinear planar systems,1991,Dynamics and Control,51,10.1007/BF02169426,United Kingdom,Article,Bath,0,Journal,2-s2.0-0026126242
+Haimo V.,,FINITE TIME CONTROLLERS.,Jul,SIAM Journal on Control and Optimization,635,10.1137/0324047,United States,Article,Cambridge,0,Journal,2-s2.0-0022751616
+Ryan E.,,Singular optimal controls for second-order saturating systems,1979,International Journal of Control,54,10.1080/00207177908922792,United Kingdom,Article,Bath,0,Journal,2-s2.0-0018530017
+Wilson F.,,Smoothing derivatives of functions and applications,1969,Transactions of the American Mathematical Society,112,10.1090/S0002-9947-1969-0251747-9,United States,Article,Boulder,1,Journal,2-s2.0-84968514083
+Fuller A.,,Optimization of some non-linear control systems by means of bellmans' equation and dimensional analysis,1966,International Journal of Control,18,10.1080/00207176608921390,United Kingdom,Article,Cambridge,0,Journal,2-s2.0-84945611126

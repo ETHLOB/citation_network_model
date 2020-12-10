@@ -1,0 +1,15 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Pletscher P.,,Spanning tree approximations for conditional random fields,2009,Journal of Machine Learning Research,3,,Switzerland,Conference Paper,"Zurich ZH,",0,Journal,2-s2.0-84862293207
+Nair V.,,Implicit mixtures of Restricted Boltzmann machines,2009,Advances in Neural Information Processing Systems 21 - Proceedings of the 2008 Conference,60,,Canada,Conference Paper,Toronto,0,Conference Proceeding,2-s2.0-84858768016
+Kulesza A.,,Structured learning with approximate inference,2009,Advances in Neural Information Processing Systems 20 - Proceedings of the 2007 Conference,72,,United States,Conference Paper,Philadelphia,0,Conference Proceeding,2-s2.0-84858771284
+Salakhutdinov R.,,Deep Boltzmann machines,2009,Journal of Machine Learning Research,894,,Canada,Conference Paper,Toronto,0,Journal,2-s2.0-84862286946
+Tieleman T.,,Training restricted boltzmann machines using approximations to the likelihood gradient,2008,Proceedings of the 25th International Conference on Machine Learning,497,10.1145/1390156.1390290,Canada,Conference Paper,Toronto,0,Conference Proceeding,2-s2.0-56449086223
+Welling M.,,Learning in Markov random fields with contrastive free energies,2005,AISTATS 2005 - Proceedings of the 10th International Workshop on Artificial Intelligence and Statistics,18,,United States,Conference Paper,Irvine,0,Conference Proceeding,2-s2.0-78651077964
+Yedidia J.,,Constructing free-energy approximations and generalized belief propagation algorithms,2005,IEEE Transactions on Information Theory,838,10.1109/TIT.2005.850085,United States,Article,Cambridge,0,Journal,2-s2.0-23744513375
+LeCun Y.,,Learning methods for generic object recognition with invariance to pose and lighting,2004,Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition,687,,United States,Conference Paper,New York,0,Conference Proceeding,2-s2.0-5044231640
+Hinton G.E.,,Training products of experts by minimizing contrastive divergence,2002,Neural Computation,2671,10.1162/089976602760128018,United Kingdom,Article,London,0,Journal,2-s2.0-0013344078
+Neal R.,,Annealed importance sampling,2001,Statistics and Computing,537,10.1023/A:1008923215028,Canada,Article,Toronto,0,Journal,2-s2.0-0000273048
+Zhu S.,,Learning in Gibbsian fields: how accurate and how fast can it be?,2000,Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition,4,,United States,Conference Paper,Columbus,0,Conference Proceeding,2-s2.0-0033718516
+Neal R.,,Sampling from multimodal distributions using tempered transitions,1996,Statistics and Computing,164,10.1007/BF00143556,Canada,Article,Toronto,0,Journal,2-s2.0-21444452127
+Marinari E.,,Simulated tempering: A New Monte Carlo Scheme,1992,EPL,1184,10.1209/0295-5075/19/6/002,United States;Italy;Italy,Letter,Syracuse;Rome;Rome,0,Journal,2-s2.0-33644899039
+Besag J.,,Efficiency of pseudolikelihood estimation for simple Gaussian fields,1977,Biometrika,195,10.1093/biomet/64.3.616,United Kingdom,Article,Durham,0,Journal,2-s2.0-0017751656

@@ -1,0 +1,21 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Meinshausen N.,,Relaxed Lasso,2007,Computational Statistics and Data Analysis,221,10.1016/j.csda.2006.12.019,United States,Article,Berkeley,0,Journal,2-s2.0-34548286564
+Park M.,,L<inf>1</inf>-regularization path algorithm for generalized linear models,2007,Journal of the Royal Statistical Society. Series B: Statistical Methodology,445,10.1111/j.1467-9868.2007.00607.x,United States,Article,Mountain View,0,Journal,2-s2.0-34547849507
+Genkin A.,,Large-scale bayesian logistic regression for text categorization,2007,Technometrics,400,10.1198/004017007000000245,United States,Article,Piscataway,0,Journal,2-s2.0-34548105186
+Kim Y.,,Blockwise sparse regression,2006,Statistica Sinica,99,,South Korea,Article,Seoul,0,Journal,2-s2.0-33746126624
+Yuan M.,,Model selection and estimation in regression with grouped variables,2006,Journal of the Royal Statistical Society. Series B: Statistical Methodology,3547,10.1111/j.1467-9868.2005.00532.x,United States,Article,Atlanta,0,Journal,2-s2.0-33645035051
+Tarigan B.,,Classifiers of support vector machine type with ℓ<inf>1</inf>complexity regularization,2006,Bernoulli,38,10.3150/bj/1165269150,Switzerland,Article,"Zurich ZH,",1,Journal,2-s2.0-34250697375
+Krishnapuram B.,,Sparse multinomial logistic regression: Fast algorithms and generalization bounds,2005,IEEE Transactions on Pattern Analysis and Machine Intelligence,578,10.1109/TPAMI.2005.127,United States,Article,New York,0,Journal,2-s2.0-21244437589
+Rosset S.,,Following curved regularized optimization solution paths,2005,Advances in Neural Information Processing Systems,21,,United States,Conference Paper,Yorktown Heights,0,Conference Proceeding,2-s2.0-84898950954
+Yeo G.,,Maximum entropy modeling of short sequence motifs with applications to RNA splicing signals,2004,Journal of Computational Biology,978,10.1089/1066527041410418,United States;United States,Conference Paper,Cambridge;Cambridge,0,Journal,2-s2.0-2442441507
+Efron B.,,Least angle regression,2004,Annals of Statistics,5214,10.1214/009053604000000067,United States,Article,Palo Alto,1,Journal,2-s2.0-3242708140
+Roth V.,,The generalized LASSO,2004,IEEE Transactions on Neural Networks,158,10.1109/TNN.2003.809398,Germany,Article,Bonn,0,Journal,2-s2.0-1242263806
+Shevade S.,,A simple and efficient algorithm for gene selection using sparse logistic regression,2003,Bioinformatics,253,10.1093/bioinformatics/btg308,India,Article,Bengaluru,1,Journal,2-s2.0-0345327592
+van de Geer S.,,Adaptive quantile regression,2003,Recent Advances and Trends in Nonparametric Statistics,6,10.1016/B978-044451378-6/50016-8,Netherlands,Chapter,Leiden,0,Book,2-s2.0-23744510605
+Cai T.,,Discussion,2001,Journal of the American Statistical Association,8,,United States,Article,Philadelphia,0,Journal,2-s2.0-33644553976
+Antoniadis A.,,Regularization of wavelet approximations,2001,Journal of the American Statistical Association,338,10.1198/016214501753208942,France,Article,Saint Martin d'Heres,0,Journal,2-s2.0-0442312210
+Tseng P.,,Convergence of a block coordinate descent method for nondifferentiable minimization,2001,Journal of Optimization Theory and Applications,1013,10.1023/A:1017501703105,United States,Article,Seattle,0,Journal,2-s2.0-0035533631
+Osborne M.,,A new approach to variable selection in least squares problems,2000,IMA Journal of Numerical Analysis,491,10.1093/imanum/20.3.389,Australia,Article,Canberra,0,Journal,2-s2.0-0034215549
+Burge C.,,Chapter 8 Modeling dependencies in pre-mRNA splicing signals,1998,New Comprehensive Biochemistry,26,10.1016/S0167-7306(08)60465-2,United States,Chapter,Cambridge,0,Book Series,2-s2.0-61649085735
+Burge C.,,Prediction of complete gene structures in human genomic DNA,1997,Journal of Molecular Biology,2757,10.1006/jmbi.1997.0951,United States,Article,Palo Alto,0,Journal,2-s2.0-0031586003
+Tibshirani R.,,The lasso method for variable selection in the cox model,1997,Statistics in Medicine,1158,10.1002/(SICI)1097-0258(19970228)16:4<385::AID-SIM380>3.0.CO;2-3,Canada,Article,Toronto,0,Journal,2-s2.0-0031015557

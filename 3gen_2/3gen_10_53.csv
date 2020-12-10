@@ -1,0 +1,13 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Molina C.,,Modelling the spread of diseases in clustered networks,2012,Journal of Theoretical Biology,21,10.1016/j.jtbi.2012.08.036,Canada;Israel,Article,Hamilton;Tel Aviv-Yafo,0,Journal,2-s2.0-84866950410
+Van Mieghem P.,,Epidemic phase transition of the SIS type in networks,2012,EPL,64,10.1209/0295-5075/97/48004,Netherlands;Netherlands,Article,Delft;Delft,0,Journal,2-s2.0-84857623735
+Van Mieghem P.,,The N-intertwined SIS epidemic network model,2011,Computing (Vienna/New York),143,10.1007/s00607-011-0155-y,Netherlands,Article,Delft,1,Journal,2-s2.0-84855519936
+Givan O.,,Predicting epidemic thresholds on complex networks: Limitations of mean-field approaches,2011,Journal of Theoretical Biology,24,10.1016/j.jtbi.2011.07.015,Israel,Article,Tel Aviv-Yafo,0,Journal,2-s2.0-80051953857
+Keeling M.,,Modeling infectious diseases in humans and animals,2011,Modeling Infectious Diseases in Humans and Animals,1375,,,Book,,0,Book,2-s2.0-84924261283
+Berchenko Y.,,Emergence and size of the giant component in clustered random graphs with a given degree distribution,2009,Physical Review Letters,16,10.1103/PhysRevLett.102.138701,Israel,Article,Ramat Gan,0,Journal,2-s2.0-63849226106
+Van Mieghem P.,,Virus spread in networks,2009,IEEE/ACM Transactions on Networking,524,10.1109/TNET.2008.925623,Netherlands,Article,Delft,0,Journal,2-s2.0-61449222889
+Chakrabarti D.,,Epidemic thresholds in real networks,2008,ACM Transactions on Information and System Security,410,10.1145/1284680.1284681,United States,Article,Pittsburgh,0,Journal,2-s2.0-39349087037
+Ganesh A.,,The effect of network topology on the spread of epidemics,2005,Proceedings - IEEE INFOCOM,478,10.1109/INFCOM.2005.1498374,United Kingdom,Conference Paper,Cambridge,0,Conference Proceeding,2-s2.0-25844439630
+Madar N.,,Immunization and epidemic dynamics in complex networks,2004,European Physical Journal B,198,10.1140/epjb/e2004-00119-8,Israel,Conference Paper,Ramat Gan,0,Journal,2-s2.0-2942672808
+Pastor-Satorras R.,,Epidemic spreading in scale-free networks,2001,Physical Review Letters,3738,10.1103/PhysRevLett.86.3200,Spain,Article,Barcelona,0,Journal,2-s2.0-0035794256
+May R.M.,,Infection dynamics on scale-free networks,2001,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",552,10.1103/PhysRevE.64.066112,United Kingdom,Article,Oxford,0,Journal,2-s2.0-0035689341

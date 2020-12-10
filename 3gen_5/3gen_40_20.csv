@@ -1,0 +1,58 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Malik R.,,CONAN: An integrative system for biomedical literature mining,2005,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),5,10.1007/11595014_25,Netherlands,Conference Paper,Utrecht,0,Book Series,2-s2.0-33646883760
+Rual J.F.,,Towards a proteome-scale map of the human protein-protein interaction network,2005,Nature,2023,10.1038/nature04209,United States;United States,Article,Boston;Boston,0,Journal,2-s2.0-27144530248
+Stelzl U.,,A human protein-protein interaction network: A resource for annotating the proteome,2005,Cell,1693,10.1016/j.cell.2005.08.029,Germany,Article,Berlin,1,Journal,2-s2.0-25144498379
+Egmont-Petersen M.,,Confidence intervals for probabilistic network classifiers,2005,Computational Statistics and Data Analysis,4,10.1016/j.csda.2004.06.018,Netherlands,Article,Utrecht,0,Journal,2-s2.0-19044376700
+Basso K.,,Reverse engineering of regulatory networks in human B cells,2005,Nature Genetics,987,10.1038/ng1532,United States,Article,New York,0,Journal,2-s2.0-16844376909
+Ball C.A.,,The Stanford Microarray Database accommodates additional microarray platforms and data formats,2005,Nucleic Acids Research,152,10.1093/nar/gki006,United States,Article,Stanford,1,Journal,2-s2.0-13444282425
+Mulder N.J.,,"InterPro, progress and status in 2005",2005,Nucleic Acids Research,403,10.1093/nar/gki106,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-13444282474
+Alfarano C.,,The Biomolecular Interaction Network Database and related tools 2005 update,2005,Nucleic Acids Research,448,10.1093/nar/gki051,Canada,Article,Toronto,1,Journal,2-s2.0-13444272070
+Barrett T.,,NCBI GEO: Mining millions of expression profiles - Database and tools,2005,Nucleic Acids Research,719,10.1093/nar/gki022,United States,Article,Bethesda,1,Journal,2-s2.0-13444304325
+Joshi-Tope G.,,Reactome: A knowledgebase of biological pathways,2005,Nucleic Acids Research,865,10.1093/nar/gki072,United States,Article,Cold Spring Harbor,1,Journal,2-s2.0-13444259844
+Hamosh A.,,"Online Mendelian Inheritance in Man (OMIM), a knowledgebase of human genes and genetic disorders",2005,Nucleic Acids Research,1530,10.1093/nar/gki033,,Article,,1,Journal,2-s2.0-13444266370
+Lee I.,,A probabilistic functional network of yeast genes,2004,Science,522,10.1126/science.1099511,United States,Article,Austin,0,Journal,2-s2.0-9444239213
+Rieger K.E.,,Portrait of transcriptional responses to ultraviolet and ionizing radiation in human cells,2004,Nucleic Acids Research,116,10.1093/nar/gkh783,United States,Article,Stanford,1,Journal,2-s2.0-4444236147
+Jansen R.,,Analyzing protein function on a genomic scale: The importance of gold-standard positives and negatives for network prediction,2004,Current Opinion in Microbiology,135,10.1016/j.mib.2004.08.012,United States,Review,New York,0,Journal,2-s2.0-4644306020
+Xia Y.,,Analyzing cellular biochemistry in terms of molecular networks,2004,Annual Review of Biochemistry,114,10.1146/annurev.biochem.73.011303.073950,United States,Review,New Haven,0,Book Series,2-s2.0-3943087720
+Morloy M.,,Genetic analysis of genome-wide variation in human gene expression,2004,Nature,919,10.1038/nature02797,United States;United States,Article,Philadelphia;Philadelphia,0,Journal,2-s2.0-4043128071
+Franke L.,,"TEAM: A tool for the integration of expression, and linkage and association maps",2004,European Journal of Human Genetics,22,10.1038/sj.ejhg.5201215,Netherlands,Article,Utrecht,1,Journal,2-s2.0-4444371815
+Brunner H.,,From syndrome families to functional genomics,2004,Nature Reviews Genetics,143,10.1038/nrg1383,Netherlands,Review,Nijmegen,0,Journal,2-s2.0-3042841887
+Lee H.,,Coexpresion analysis of human genes across many microarray data sets,2004,Genome Research,546,10.1101/gr.1910904,United States,Article,New York,1,Journal,2-s2.0-3042514191
+Birney E.,,An overview of Ensembl,2004,Genome Research,300,10.1101/gr.1860604,United Kingdom,Review,London,1,Journal,2-s2.0-2442706422
+Rieger K.E.,,Toxicity from radiation therapy associated with abnormal transcriptional responses to DNA damage,2004,Proceedings of the National Academy of Sciences of the United States of America,84,10.1073/pnas.0307761101,United States,Article,Stanford,1,Journal,2-s2.0-2342561003
+Su A.I.,,A gene atlas of the mouse and human protein-encoding transcriptomes,2004,Proceedings of the National Academy of Sciences of the United States of America,2671,10.1073/pnas.0400782101,United States,Article,San Diego,1,Journal,2-s2.0-11144358198
+Vidalain P.,,Increasing specificity in high-throughput yeast two-hybrid experiments,2004,Methods,115,10.1016/j.ymeth.2003.10.001,United States,Article,Boston,0,Journal,2-s2.0-1542345539
+Beaumont M.,,The bayesian revolution in genetics,2004,Nature Reviews Genetics,313,10.1038/nrg1318,United Kingdom,Review,Reading,0,Journal,2-s2.0-1842532350
+Stegmaier K.,,Gene expression-based high-throughput screening (GE-HTS) and application to leukemia differentiation,2004,Nature Genetics,211,10.1038/ng1305,United States,Article,Boston,1,Journal,2-s2.0-1442335997
+Barabási A.,,Network biology: Understanding the cell's functional organization,2004,Nature Reviews Genetics,5035,10.1038/nrg1272,United States,Review,Notre Dame,0,Journal,2-s2.0-0742305866
+Egmont-Petersen M.,,Discovery of regulatory connections in microarray data,2004,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),1,10.1007/978-3-540-30116-5_16,Netherlands,Article,Utrecht,1,Book Series,2-s2.0-35048852763
+Dudbridge F.,,"Efficient computation of significance levels for multiple associations in large studies of correlated data, including genomewide association studies",2004,American Journal of Human Genetics,126,10.1086/423738,United Kingdom;United Kingdom,Article,Cambridge;Cambridge,1,Journal,2-s2.0-4143076901
+Lehner B.,,A first-draft human protein-interaction map.,2004,Genome biology,170,,United Kingdom,Article,Hinxton,0,Journal,2-s2.0-14744270216
+Bader J.,,Gaining confidence in high-throughput protein interaction networks,2004,Nature Biotechnology,369,10.1038/nbt924,United States,Article,Baltimore,0,Journal,2-s2.0-0347473809
+Peri S.,,Human protein reference database as a discovery resource for proteomics,2004,Nucleic Acids Research,419,,Denmark;United States,Article,Odense;Baltimore,0,Journal,2-s2.0-9144236198
+Harris M.,,The Gene Oncology (GO) database and informatics resource,2004,Nucleic Acids Research,2482,,United Kingdom,Article,London,0,Journal,2-s2.0-0346801873
+Kanehisa M.,,The KEGG resource for deciphering the genome,2004,Nucleic Acids Research,2705,,Japan,Article,Kyoto,0,Journal,2-s2.0-0345863935
+Giot L.,,A Protein Interaction Map of Drosophila melanogaster,2003,Science,1782,10.1126/science.1090289,United States,Article,Branford,0,Journal,2-s2.0-0345600247
+Jansen R.,,A Bayesian Networks Approach for Predicting Protein-Protein Interactions from Genomic Data,2003,Science,980,10.1126/science.1087361,United States;United States,Article,New York;New Haven,0,Journal,2-s2.0-0142052944
+Turner F.,,POCUS: Mining genomic sequence annotation to predict disease genes,2003,Genome Biology,179,10.1186/gb-2003-4-11-r75,United Kingdom,Article,Edinburgh,1,Journal,2-s2.0-1542787787
+Schadt E.E.,,"Genetics of gene expression surveyed in maize, mouse and man",2003,Nature,1135,10.1038/nature01434,United States,Article,Seattle,0,Journal,2-s2.0-0037456823
+Zatz M.,,The 10 autosomal recessive limb-girdle muscular dystrophies,2003,Neuromuscular Disorders,118,10.1016/S0960-8966(03)00100-7,Brazil,Review,Sao Paulo,0,Journal,2-s2.0-0042071489
+D'Andrea A.,,The fanconi anaemia/BRCA pathway,2003,Nature Reviews Cancer,626,10.1038/nrc970,United States,Review,Boston,0,Journal,2-s2.0-0037268338
+Tümer Z.,,"Genomic structure, chromosome mapping and expression analysis of the human AVIL gene, and its exclusion as a candidate for locus for inflammatory bowel disease at 12q13-14 (IBD2)",2002,Gene,13,10.1016/S0378-1119(02)00478-X,Denmark,Article,Copenhagen,0,Journal,2-s2.0-0037123369
+Yandell M.,,Genomics and natural language processing,2002,Nature Reviews Genetics,95,10.1038/nrg861,United States,Review,Berkeley,0,Journal,2-s2.0-0036325427
+Ho Y.,,Systematic identification of protein complexes in Saccharomyces cerevisiae by mass spectrometry,2002,Nature,2837,10.1038/415180a,Canada,Letter,Toronto,0,Journal,2-s2.0-0037050004
+Gavin A.C.,,Functional organization of the yeast proteome by systematic analysis of protein complexes,2002,Nature,3693,10.1038/415141a,United Kingdom,Article,Brentford,0,Journal,2-s2.0-0037050026
+Joenje H.,,The emerging genetic and molecular basis of Fanconi anaemia,2001,Nature Reviews Genetics,484,10.1038/35076590,Netherlands,Review,Amsterdam,0,Journal,2-s2.0-0035379611
+Ning Z.,,SSAHA: A fast search method for large DNA databases,2001,Genome Research,721,10.1101/gr.194201,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-0034764307
+De Winter J.P.,,"The Fanconi anemia protein FANCF forms a nuclear complex with FANCA, FANCC and FANCG",2000,Human Molecular Genetics,171,10.1093/hmg/9.18.2665,Netherlands,Article,Amsterdam,1,Journal,2-s2.0-0034326299
+Jacobi F.,,Physical mapping and exclusion of GPR34 as the causative gene for congenital stationary night blindness type 1,2000,Human Genetics,6,10.1007/s004390000337,Germany,Article,Tubingen,0,Journal,2-s2.0-0033873202
+Walpole S.,,Exclusion of RAI2 as the causative gene for Nance-Horan syndrome,1999,Human Genetics,10,10.1007/s004390050976,United Kingdom,Article,Cambridge,0,Journal,2-s2.0-0033033352
+Seri M.,,Exclusion of the Sonic Hedgehog gene as responsible for Currarino syndrome and anorectal malformations with sacral hypodevelopment,1999,Human Genetics,23,10.1007/s004390050919,Italy,Article,Genoa,0,Journal,2-s2.0-0033044696
+Yamashita T.,,The Fanconi anemia pathway requires FAA phosphorylation and FAA/FAC nuclear accumulation,1998,Proceedings of the National Academy of Sciences of the United States of America,106,10.1073/pnas.95.22.13085,Japan,Article,Tokyo,1,Journal,2-s2.0-0032573229
+Jain A.,,"Feature selection: evaluation, application, and small sample performance",1997,IEEE Transactions on Pattern Analysis and Machine Intelligence,1544,10.1109/34.574797,United States,Article,East Lansing,0,Journal,2-s2.0-0031078007
+Friedman N.,,Bayesian Network Classifiers,1997,Machine Learning,3092,10.1023/a:1007465528199,United States,Article,Berkeley,1,Journal,2-s2.0-0031276011
+Miki Y.,,A strong candidate for the breast and ovarian cancer susceptibility gene BRCA1,1994,Science,4873,10.1126/science.7545954,United States,Article,Salt Lake City,1,Journal,2-s2.0-0028113345
+Simard J.,,Genetic mapping of the breast-ovarian cancer syndrome to a small interval on chromosome 17q12-21: Exclusion of candidate genes EDH17B2 and RARA,1993,Human Molecular Genetics,66,10.1093/hmg/2.8.1193,Canada,Article,Quebec,0,Journal,2-s2.0-0027162213
+Waller W.,,On the Monotonicity of the Performance of Bayesian Classifiers,1978,IEEE Transactions on Information Theory,24,10.1109/TIT.1978.1055877,United States,Article,Baton Rouge,0,Journal,2-s2.0-0017971122
+Floyd R.,,Algorithm 97: Shortest path,1962,Communications of the ACM,2154,10.1145/367766.368168,United States,Article,Chicago,0,Journal,2-s2.0-84945709831
+Shannon C.,,A Mathematical Theory of Communication,1948,Bell System Technical Journal,19063,10.1002/j.1538-7305.1948.tb00917.x,,Article,,0,Journal,2-s2.0-84856043672

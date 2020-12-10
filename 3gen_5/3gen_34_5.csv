@@ -1,0 +1,43 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Kent W.,,BigWig and BigBed: Enabling browsing of large distributed datasets,2010,Bioinformatics,341,10.1093/bioinformatics/btq351,United States,Article,Santa Cruz,1,Journal,2-s2.0-77955895425
+Kiran A.,,DARNED: A DAtabase of RNa editing in humans,2010,Bioinformatics,140,10.1093/bioinformatics/btq285,Ireland,Article,Cork,1,Journal,2-s2.0-77954505224
+Miller D.T.,,Consensus Statement: Chromosomal Microarray Is a First-Tier Clinical Diagnostic Test for Individuals with Developmental Disabilities or Congenital Anomalies,2010,American Journal of Human Genetics,1562,10.1016/j.ajhg.2010.04.006,United States,Article,Boston,1,Journal,2-s2.0-77952032690
+Green R.E.,,A draft sequence of the neandertal genome,2010,Science,1957,10.1126/science.1188021,United States;Germany,Article,Santa Cruz;Leipzig,1,Journal,2-s2.0-77952136530
+Stein L.,,The case for cloud computing in genome informatics,2010,Genome Biology,354,10.1186/gb-2010-11-5-207,Canada,Review,Toronto,1,Journal,2-s2.0-77954526823
+McLean C.,,GREAT improves functional interpretation of cis-regulatory regions,2010,Nature Biotechnology,1690,10.1038/nbt.1630,United States,Article,Palo Alto,0,Journal,2-s2.0-77952214662
+Schuster S.C.,,Complete Khoisan and Bantu genomes from southern Africa,2010,Nature,269,10.1038/nature08795,United States,Article,University Park,1,Journal,2-s2.0-77249155642
+Rasmussen M.,,Ancient human genome sequence of an extinct Palaeo-Eskimo,2010,Nature,464,10.1038/nature08835,Denmark;China,Article,"Copenhagen;Qingshuihe, Shenzhen",1,Journal,2-s2.0-76749141381
+Rosenbloom K.,,ENCODE whole-genome data in the UCSC Genome Browser,2009,Nucleic Acids Research,189,10.1093/nar/gkp961,United States,Article,Santa Cruz,1,Journal,2-s2.0-75549091651
+Benson D.,,GenBank,2009,Nucleic Acids Research,278,10.1093/nar/gkp1024,United States,Article,Bethesda,1,Journal,2-s2.0-75549090056
+Flicek P.,,Ensembl's 10th year,2009,Nucleic Acids Research,236,10.1093/nar/gkp972,United Kingdom;United Kingdom,Article,Cambridge;Hinxton,1,Journal,2-s2.0-75549089335
+Rhead B.,,The UCSC genome browser database: Update 2010,2009,Nucleic Acids Research,483,10.1093/nar/gkp939,United States,Article,Santa Cruz,1,Journal,2-s2.0-75549089967
+Ahn S.M.,,The first Korean genome sequence and analysis: Full genome sequencing for a socio-ethnic group,2009,Genome Research,237,10.1101/gr.092197.109,South Korea,Article,"Seongnam-si, Gyeonggi-do",1,Journal,2-s2.0-69749124820
+Li H.,,The Sequence Alignment/Map format and SAMtools,2009,Bioinformatics,19680,10.1093/bioinformatics/btp352,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-68549104404
+Romanov M.N.,,The value of avian genomics to the conservation of wildlife,2009,BMC Genomics,62,10.1186/1471-2164-10-S1-S10,United States;United States,Conference Paper,San Diego;Oakland,1,Journal,2-s2.0-67649258849
+Pruitt K.D.,,The consensus coding sequence (CCDS) project: Identifying a common protein-coding gene set for the human and mouse genomes,2009,Genome Research,364,10.1101/gr.080531.108,United States,Article,Bethesda,1,Journal,2-s2.0-67650064594
+Hindorff L.,,Potential etiologic and functional implications of genome-wide association loci for human diseases and traits,2009,Proceedings of the National Academy of Sciences of the United States of America,2719,10.1073/pnas.0903103106,United States,Article,Bethesda,1,Journal,2-s2.0-67249117049
+Firth H.,,DECIPHER: Database of Chromosomal Imbalance and Phenotype in Humans Using Ensembl Resources,2009,American Journal of Human Genetics,769,10.1016/j.ajhg.2009.03.010,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-64149099583
+Pruitt K.D.,,"NCBI reference sequences: Current status, policy and new initiatives",2009,Nucleic Acids Research,577,10.1093/nar/gkn721,United States,Article,Bethesda,1,Journal,2-s2.0-58149178579
+Sayers E.W.,,Database resources of the National Center for Biotechnology Information,2009,Nucleic Acids Research,647,10.1093/nar/gkn741,United States,Article,Bethesda,1,Journal,2-s2.0-58149200954
+Green R.E.,,A Complete Neandertal Mitochondrial Genome Sequence Determined by High-Throughput Sequencing,2008,Cell,339,10.1016/j.cell.2008.06.021,Germany,Article,Leipzig,1,Journal,2-s2.0-48649096196
+Bult C.J.,,The Mouse Genome Database (MGD): Mouse biology and model systems,2008,Nucleic Acids Research,321,10.1093/nar/gkm961,United States,Article,Bar Harbor,1,Journal,2-s2.0-38549174065
+Karolchik D.,,The UCSC genome browser database: 2008 update,2008,Nucleic Acids Research,407,10.1093/nar/gkm966,United States,Article,Santa Cruz,1,Journal,2-s2.0-38549131376
+Lamesch P.,,"hORFeome v3.1: A resource of human open reading frames representing over 10,000 human genes",2007,Genomics,205,10.1016/j.ygeno.2006.11.012,United States;Belgium,Article,Boston;Namur WNA,1,Journal,2-s2.0-33846844989
+Thomas D.,,The ENCODE project at UC Santa Cruz,2007,Nucleic Acids Research,72,10.1093/nar/gkl1017,United States,Article,Santa Cruz,1,Journal,2-s2.0-33846072868
+Kuhn R.,,The UCSC genome browser database: Update 2007,2007,Nucleic Acids Research,231,10.1093/nar/gkl928,United States,Article,Santa Cruz,1,Journal,2-s2.0-33846078622
+Pruitt K.D.,,"NCBI reference sequences (RefSeq): A curated non-redundant sequence database of genomes, transcripts and proteins",2007,Nucleic Acids Research,1747,10.1093/nar/gkl842,United States,Article,Bethesda,1,Journal,2-s2.0-33846057724
+Hsu F.,,The UCSC known genes,2006,Bioinformatics,371,10.1093/bioinformatics/btl048,United States,Article,Santa Cruz,1,Journal,2-s2.0-33646133653
+Feuk L.,,Structural variation in the human genome,2006,Nature Reviews Genetics,1253,10.1038/nrg1767,Canada,Review,Toronto,0,Journal,2-s2.0-31144469134
+Nord A.S.,,The International Gene Trap Consortium Website: a portal to all publicly available gene trap cell lines in mouse.,2006,Nucleic acids research,113,10.1093/nar/gkj097,United States,Article,San Francisco,1,Journal,2-s2.0-33644878125
+Giardine B.,,Galaxy: A platform for interactive large-scale genome analysis,2005,Genome Research,1386,10.1101/gr.4086505,United States,Article,University Park,1,Journal,2-s2.0-25844449770
+Kent W.,,Exploring relationships and mining data with the UCSC Gene Sorter,2005,Genome Research,57,10.1101/gr.3694705,United States,Article,Santa Cruz,1,Journal,2-s2.0-19844367341
+Hsu F.,,The UCSC Proteome Browser,2005,Nucleic Acids Research,38,10.1093/nar/gki100,United States,Article,Santa Cruz,1,Journal,2-s2.0-13444270846
+Feingold E.A.,,The ENCODE (ENCyclopedia of DNA Elements) Project,2004,Science,1382,10.1126/science.1105136,United States,Review,Bethesda,0,Journal,2-s2.0-7444260846
+Austin C.P.,,The Knockout Mouse Project,2004,Nature Genetics,446,10.1038/ng0904-921,United States,Note,Bethesda,0,Journal,2-s2.0-4444262688
+Iafrate A.J.,,Detection of large-scale variation in the human genome,2004,Nature Genetics,2193,10.1038/ng1416,United States;United States,Article,Boston;Boston,1,Journal,2-s2.0-4444291843
+Blanchette M.,,Aligning multiple genomic sequences with the threaded blockset aligner,2004,Genome Research,798,10.1101/gr.1933104,United States;Canada,Article,Santa Cruz;Montreal,1,Journal,2-s2.0-1542748076
+Gerhard D.S.,,"The status, quality, and expansion of the NIH full-length cDNA project: The Mammalian Gene Collection (MGC)",2004,Genome Research,378,10.1101/gr.2596504,United States,Article,Bethesda,1,Journal,2-s2.0-7444262496
+Karolchik D.,,The UCSC table browser data retrieval tool,2004,Nucleic Acids Research,1164,,United States,Article,Santa Cruz,0,Journal,2-s2.0-0347755531
+Karolchik D.,,The UCSC Genome Browser Database,2003,Nucleic Acids Research,1109,10.1093/nar/gkg129,United States,Review,Santa Cruz,1,Journal,2-s2.0-0037250168
+Kent W.,,BLAT - The BLAST-like alignment tool,2002,Genome Research,5216,10.1101/gr.229202. Article published online before March 2002,United States,Article,Santa Cruz,0,Journal,2-s2.0-0036226603
+Sherry S.T.,,DbSNP: The NCBI database of genetic variation,2001,Nucleic Acids Research,3807,10.1093/nar/29.1.308,United States,Article,Bethesda,1,Journal,2-s2.0-0035173378

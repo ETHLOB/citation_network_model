@@ -1,0 +1,6 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Goldberg K.,,Eigentaste: A Constant Time Collaborative Filtering Algorithm,2001,Information Retrieval,942,10.1023/A:1011419012209,United States,Article,Berkeley,0,Journal,2-s2.0-0002549585
+Sarwar B.,,Item-based collaborative filtering recommendation algorithms,2001,"Proceedings of the 10th International Conference on World Wide Web, WWW 2001",4990,10.1145/371920.372071,United States,Conference Paper,Minneapolis,0,Conference Proceeding,2-s2.0-85052617391
+Schafer J.B.,,E-commerce recommendation applications,2001,Data Mining and Knowledge Discovery,1065,10.1007/978-1-4615-1627-9_6,United States,Article,Minneapolis,0,Journal,2-s2.0-23044524651
+Balabanović M.,,"Content-Based, Collaborative Recommendation",1997,Communications of the ACM,2063,10.1145/245108.245124,United States,Article,Palo Alto,0,Journal,2-s2.0-0031103679
+Resnick P.,,GroupLens: An open architecture for collaborative filtering of netnews,1994,"Proceedings of the 1994 ACM Conference on Computer Supported Cooperative Work, CSCW 1994",3498,10.1145/192844.192905,United States,Conference Paper,Cambridge,0,Conference Proceeding,2-s2.0-85030174634

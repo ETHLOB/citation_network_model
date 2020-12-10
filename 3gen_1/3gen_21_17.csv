@@ -1,0 +1,8 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Stolcke A.,,Recent innovations in speech-to-text transcription at SRI-ICSI-UW,2006,"IEEE Transactions on Audio, Speech and Language Processing",63,10.1109/TASL.2006.879807,United States;United States;United States,Article,Berkeley;Menlo Park;New York,0,Journal,2-s2.0-34047270914
+Hinton G.,,A fast learning algorithm for deep belief nets,2006,Neural Computation,8546,10.1162/neco.2006.18.7.1527,Canada,Article,Toronto,0,Journal,2-s2.0-33745805403
+Fritsch J.,,ACID/HNN: Clustering hierarchies of neural networks for context-dependent connectionist acoustic modeling,1998,"ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings",14,10.1109/ICASSP.1998.674478,Germany,Conference Paper,Karlsruhe,0,Conference Proceeding,2-s2.0-0031643047
+Saul L.K.,,Mean field theory for sigmoid belief networks,1996,Journal of Artificial Intelligence Research,195,10.1613/jair.251,United States,Article,Cambridge,1,Journal,2-s2.0-0029679189
+Franco H.,,Context-dependent connectionist probability estimation in a hybrid hidden markov model-neural net speech recognition system,1994,Computer Speech and Language,32,10.1006/csla.1994.1010,United States,Article,Menlo Park,0,Journal,2-s2.0-0028464214
+Renals S.,,Connectionist Probability Estimators In Hmm Speech Recognition,1994,IEEE Transactions on Speech and Audio Processing,139,10.1109/89.260359,United States,Letter,Berkeley,0,Journal,2-s2.0-0028194709
+Rumelhart D.,,Learning representations by back-propagating errors,1986,Nature,10220,10.1038/323533a0,United States,Article,San Diego,0,Journal,2-s2.0-0022471098

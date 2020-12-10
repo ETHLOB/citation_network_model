@@ -1,0 +1,25 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Cover T.M.,,Elements of Information Theory,2005,Elements of Information Theory,27546,10.1002/047174882X,,Book,,0,Book,2-s2.0-84889281816
+Basso K.,,Reverse engineering of regulatory networks in human B cells,2005,Nature Genetics,985,10.1038/ng1532,United States,Article,New York,0,Journal,2-s2.0-16844376909
+Friedman N.,,Inferring Cellular Networks Using Probabilistic Graphical Models,2004,Science,829,10.1126/science.1094068,Israel,Review,Jerusalem,0,Journal,2-s2.0-0842288337
+Mendes P.,,Artificial gene networks for objective comparison of analysis algorithms,2003,Bioinformatics,148,10.1093/bioinformatics/btg1069,United States,Conference Paper,Blacksburg,1,Journal,2-s2.0-2942694772
+Gardner T.S.,,Inferring genetic networks and identifying compound mode of action via expression profiling,2003,Science,866,10.1126/science.1081900,United States,Article,Boston,0,Journal,2-s2.0-0038048325
+Tegnér J.,,Reverse engineering gene networks: Integrating genetic perturbations with dynamical modeling,2003,Proceedings of the National Academy of Sciences of the United States of America,322,10.1073/pnas.0933416100,United States;Sweden;Sweden,Article,Boston;Linkoping;Stockholm,1,Journal,2-s2.0-0037687416
+Fernandez P.C.,,Genomic targets of the human c-Myc protein,2003,Genes and Development,691,10.1101/gad.1067003,Switzerland;United States,Article,Bern;Kenilworth,1,Journal,2-s2.0-0038185378
+Wiggins C.H.,,Process pathway inference via time series analysis,2003,Experimental Mechanics,13,10.1007/BF02410536,United States;United States,Article,Santa Barbara;New York,0,Journal,2-s2.0-0141925279
+Newman M.,,The structure and function of complex networks,2003,SIAM Review,11524,10.1137/S003614450342480,United States,Review,Ann Arbor,0,Journal,2-s2.0-0038718854
+van Someren E.,,Genetic network modeling,2002,Pharmacogenomics,149,10.1517/14622416.3.4.507,Netherlands,Review,Delft,0,Journal,2-s2.0-0036020655
+Yeung M.K.S.,,Reverse engineering gene networks using singular value decomposition and robust regression,2002,Proceedings of the National Academy of Sciences of the United States of America,493,10.1073/pnas.092576199,United States,Article,Boston,1,Journal,2-s2.0-0037197936
+Klein U.,,Gene expression profiling of B cell chronic lymphocytic leukemia reveals a homogeneous phenotype related to memory B cells,2001,Journal of Experimental Medicine,745,10.1084/jem.194.11.1625,United States,Article,New York,1,Journal,2-s2.0-0035803464
+Ideker T.,,Integrated genomic and proteomic analyses of a systematically perturbed metabolic network,2001,Science,1595,10.1126/science.292.5518.929,United States,Article,Seattle,0,Journal,2-s2.0-0035805255
+Mézard M.,,The Bethe lattice spin glass revisited,2001,European Physical Journal B,552,10.1007/PL00011099,France,Article,Orsay,0,Journal,2-s2.0-0038401954
+Yedidia J.,,Generalized belief propagation,2001,Advances in Neural Information Processing Systems,252,,United States,Conference Paper,Cambridge,0,Conference Proceeding,2-s2.0-84898975095
+Hartemink A.,,Using graphical models and genomic expression data to statistically validate models of genetic regulatory networks.,2001,Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing,263,,United States,Article,Cambridge,0,Journal,2-s2.0-0035221560
+Butte A.,,Mutual information relevance networks: functional genomic clustering using pairwise entropy measurements.,2000,Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing,600,,United States,Article,Boston,0,Journal,2-s2.0-0033655775
+Barabási A.,,Emergence of scaling in random networks,1999,Science,22102,10.1126/science.286.5439.509,United States,Article,Notre Dame,0,Journal,2-s2.0-0038483826
+Eisen M.,,Cluster analysis and display of genome-wide expression patterns,1998,Proceedings of the National Academy of Sciences of the United States of America,12573,10.1073/pnas.95.25.14863,United States,Article,Stanford,0,Journal,2-s2.0-0032441150
+Strong S.,,Entropy and information in neural spike trains,1998,Physical Review Letters,609,10.1103/PhysRevLett.80.197,United States,Article,Princeton,0,Journal,2-s2.0-0000989527
+Cooper G.,,A Bayesian Method for the Induction of Probabilistic Networks from Data,1992,Machine Learning,2718,10.1023/A:1022649401552,United States,Article,Pittsburgh,1,Journal,2-s2.0-34249832377
+Chow C.,,Approximating Discrete Probability Distributions with Dependence Trees,1968,IEEE Transactions on Information Theory,1531,10.1109/TIT.1968.1054142,United States,Article,Yorktown Heights,0,Journal,2-s2.0-84933530882
+Jaynes E.,,Information theory and statistical mechanics,1957,Physical Review,6823,10.1103/PhysRev.106.620,United States,Article,Palo Alto,0,Journal,2-s2.0-11944266539
+Kikuchi R.,,A theory of cooperative phenomena,1951,Physical Review,1425,10.1103/PhysRev.81.988,United States;Japan,Article,Pasadena;Tokyo,0,Journal,2-s2.0-36149021742

@@ -1,0 +1,42 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Bandyopadhyay S.,,TargetMiner: MicroRNA target prediction with systematic identification of tissue-specific negative examples,2009,Bioinformatics,144,10.1093/bioinformatics/btp503,India,Article,Kolkata,1,Journal,2-s2.0-70350000602
+Maragkakis M.,,DIANA-microT web server: Elucidating microRNA functions through target prediction,2009,Nucleic Acids Research,421,10.1093/nar/gkp292,Greece,Article,Vari,1,Journal,2-s2.0-67650747402
+Chi S.,,Argonaute HITS-CLIP decodes microRNA-mRNA interaction maps,2009,Nature,1247,10.1038/nature08170,United States,Article,New York,0,Journal,2-s2.0-67749132423
+Xu Z.,,Fast and efficient strategies for model selection of Gaussian support vector machine,2009,"IEEE Transactions on Systems, Man, and Cybernetics, Part B: Cybernetics",71,10.1109/TSMCB.2009.2015672,China,Article,Xi'an,0,Journal,2-s2.0-67649403178
+Bartel D.,,MicroRNAs: Target Recognition and Regulatory Functions,2009,Cell,13032,10.1016/j.cell.2009.01.002,United States;United States,Review,Cambridge;Cambridge,1,Journal,2-s2.0-58249088751
+Busch A.,,IntaRNA: Efficient prediction of bacterial sRNA targets incorporating target site accessibility and seed regions,2008,Bioinformatics,296,10.1093/bioinformatics/btn544,Germany,Article,Freiburg im Breisgau,1,Journal,2-s2.0-57249083988
+Selbach M.,,Widespread changes in protein synthesis induced by microRNAs,2008,Nature,2487,10.1038/nature07228,Germany,Article,Berlin,0,Journal,2-s2.0-49949117302
+Baek D.,,The impact of microRNAs on protein output,2008,Nature,2648,10.1038/nature07242,United States;United States,Article,Cambridge;Cambridge,0,Journal,2-s2.0-49949116902
+Wang X.,,Prediction of both conserved and nonconserved microRNA targets in animals,2008,Bioinformatics,425,10.1093/bioinformatics/btm595,United States,Article,St. Louis,1,Journal,2-s2.0-38849145861
+Karolchik D.,,The UCSC genome browser database: 2008 update,2008,Nucleic Acids Research,407,10.1093/nar/gkm966,United States,Article,Santa Cruz,1,Journal,2-s2.0-38549131376
+Betel D.,,The microRNA.org resource: Targets and expression,2008,Nucleic Acids Research,1730,10.1093/nar/gkm995,United States,Article,New York,1,Journal,2-s2.0-38549124383
+Yousef M.,,Naïve Bayes for microRNA target predictions - Machine learning for microRNA targets,2007,Bioinformatics,108,10.1093/bioinformatics/btm484,United States,Article,Philadelphia,1,Journal,2-s2.0-36448982458
+Nielsen C.,,Determinants of targeting by endogenous and exogenous microRNAs and siRNAs,2007,RNA,272,10.1261/rna.768207,United States,Article,Cambridge,1,Journal,2-s2.0-35548996307
+Kertesz M.,,The role of site accessibility in microRNA target recognition,2007,Nature Genetics,1631,10.1038/ng2135,Israel,Article,Rehovot,0,Journal,2-s2.0-34748821761
+Gaidatzis D.,,Inference of miRNA targets using evolutionary conservation and pathway analysis,2007,BMC Bioinformatics,234,10.1186/1471-2105-8-69,Switzerland;Switzerland,Article,Geneva;Basel,1,Journal,2-s2.0-34347398567
+Chen K.,,Natural selection on human microRNA binding sites inferred from SNP data,2006,Nature Genetics,347,10.1038/ng1910,United States,Article,New York,0,Journal,2-s2.0-33751520430
+Miranda K.C.,,A Pattern-Based Method for the Identification of MicroRNA Binding Sites and Their Corresponding Heteroduplexes,2006,Cell,1312,10.1016/j.cell.2006.07.031,United States,Article,Yorktown Heights,1,Journal,2-s2.0-33748587841
+Kim S.,,miTarget: MicroRNA target gene prediction using a support vector machine,2006,BMC Bioinformatics,165,10.1186/1471-2105-7-411,South Korea,Article,Seoul,1,Journal,2-s2.0-33749645474
+Didiano D.,,Perfect seed pairing is not a generally reliable predictor for miRNA-target interactions,2006,Nature Structural and Molecular Biology,327,10.1038/nsmb1138,United States,Article,New York,0,Journal,2-s2.0-33748346026
+Mückstein U.,,Thermodynamics of RNA-RNA binding,2006,Bioinformatics,235,10.1093/bioinformatics/btl024,Austria,Article,Vienna,1,Journal,2-s2.0-33646877072
+Sethupathy P.,,TarBase: A comprehensive database of experimentally supported animal microRNA targets,2006,RNA,459,10.1261/rna.2239606,United States,Article,Philadelphia,1,Journal,2-s2.0-31044444975
+Stark A.,,Animal microRNAs confer robustness to gene expression and have a significant impact on 3′UTR evolution,2005,Cell,823,10.1016/j.cell.2005.11.023,Germany;United States;United States,Article,Heidelberg;Cambridge;Cambridge,1,Journal,2-s2.0-28944439309
+Bentwich I.,,Identification of hundreds of conserved and nonconserved human microRNAs,2005,Nature Genetics,1445,10.1038/ng1590,Israel,Article,Rehovot,0,Journal,2-s2.0-22844440427
+Robins H.,,Human microRNAs target a functionally distinct population of genes with AT-rich 3′ UTRs,2005,Proceedings of the National Academy of Sciences of the United States of America,70,10.1073/pnas.0507443102,United States,Article,Princeton,1,Journal,2-s2.0-27344448283
+Giardine B.,,Galaxy: A platform for interactive large-scale genome analysis,2005,Genome Research,1386,10.1101/gr.4086505,United States,Article,University Park,1,Journal,2-s2.0-25844449770
+Zhao Y.,,Serum response factor regulates a muscle-specific microRNA that targets Hand2 during cardiogenesis,2005,Nature,1245,10.1038/nature03817,United States;United States;United States,Article,Dallas;San Francisco;Dallas,0,Journal,2-s2.0-22444437609
+Krek A.,,Combinatorial microRNA target predictions,2005,Nature Genetics,3564,10.1038/ng1536,United States,Article,New York,0,Journal,2-s2.0-20944450160
+Brennecke J.,,Principles of microRNA-target recognition,2005,PLoS Biology,1665,10.1371/journal.pbio.0030085,Germany,Conference Paper,Heidelberg,1,Journal,2-s2.0-18044377963
+Lewis B.P.,,"Conserved seed pairing, often flanked by adenosines, indicates that thousands of human genes are microRNA targets",2005,Cell,8815,10.1016/j.cell.2004.12.035,United States;United States,Letter,Cambridge;Cambridge,1,Journal,2-s2.0-11844278458
+John B.,,Human microRNA targets,2004,PLoS Biology,2538,10.1371/journal.pbio.0020363,United States,Article,New York,1,Journal,2-s2.0-14044251458
+Ambros V.,,The functions of animal microRNAs,2004,Nature,7823,10.1038/nature02871,United States,Review,Hanover,0,Journal,2-s2.0-4644309196
+Rajewsky N.,,Computational identification of microRNA targets,2004,Developmental Biology,233,10.1016/j.ydbio.2003.12.003,United States,Article,New York,1,Journal,2-s2.0-1542297345
+Doench J.,,Specificity of microRNA target selection in translational repression,2004,Genes and Development,1221,10.1101/gad.1184404,United States,Article,Cambridge,1,Journal,2-s2.0-1642374097
+Griffiths-Jones S.,,The microRNA registry,2004,Nucleic Acids Research,1627,,United Kingdom,Article,Hinxton,0,Journal,2-s2.0-0347755643
+Lewis B.,,Prediction of Mammalian MicroRNA Targets,2003,Cell,3786,10.1016/S0092-8674(03)01018-3,United States,Article,Cambridge,1,Journal,2-s2.0-0346094457
+Enright A.,,MicroRNA targets in Drosophila.,2003,Genome biology,1863,,United States,Article,New York,0,Journal,2-s2.0-0842321501
+Lai E.,,Micro RNAs are complementary to 3′ UTR sequence motifs that mediate negative post-transcriptional regulation,2002,Nature Genetics,1027,10.1038/ng865,United States,Article,Berkeley,0,Journal,2-s2.0-0036544755
+Webb G.,,MultiBoosting: a technique for combining boosting and wagging,2000,Machine Learning,487,10.1023/A:1007659514849,Australia,Article,Geelong,1,Journal,2-s2.0-0034247206
+Kononenko I.,,Estimating attributes: Analysis and extensions of RELIEF,1994,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),1624,10.1007/3-540-57868-4_57,Slovenia,Conference Paper,Ljubljana,1,Book Series,2-s2.0-84992726552
+Hofacker I.,,Fast folding and comparison of RNA secondary structures,1994,Monatshefte für Chemie Chemical Monthly,1639,10.1007/BF00818163,Austria,Article,Vienna,0,Journal,2-s2.0-34249772381
+Lee R.,,The C. elegans heterochronic gene lin-4 encodes small RNAs with antisense complementarity to lin-14,1993,Cell,8085,10.1016/0092-8674(93)90529-Y,United States,Article,Cambridge,1,Journal,2-s2.0-0027751663

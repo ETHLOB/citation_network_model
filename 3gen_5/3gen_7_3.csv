@@ -1,0 +1,69 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Kitts P.A.,,Assembly: A resource for assembled genomes at NCBI,2016,Nucleic Acids Research,61,10.1093/nar/gkv1226,United States,Article,Bethesda,1,Journal,2-s2.0-84976864801
+Clark K.,,GenBank,2016,Nucleic Acids Research,385,10.1093/nar/gkv1276,United States,Article,Bethesda,1,Journal,2-s2.0-84976871868
+Federhen S.,,"Toward richer metadata for microbial sequences: Replacing strain-level NCBI taxonomy taxids with BioProject, BioSample and Assembly records",2015,Standards in Genomic Sciences,21,10.4056/sigs.4851102,United States,Article,Bethesda,1,Journal,2-s2.0-84954097597
+Federhen S.,,Type material in the NCBI Taxonomy Database,2015,Nucleic Acids Research,79,10.1093/nar/gku1127,United States,Article,Bethesda,1,Journal,2-s2.0-84946023382
+Brister J.,,NCBI viral Genomes resource,2015,Nucleic Acids Research,167,10.1093/nar/gku1207,United States,Article,Bethesda,1,Journal,2-s2.0-84941073363
+Brown G.R.,,Gene: A gene-centered information resource at NCBI,2015,Nucleic Acids Research,211,10.1093/nar/gku1055,United States,Article,Bethesda,1,Journal,2-s2.0-84946047645
+Barrett T.,,Database resources of the National Center for Biotechnology Information,2015,Nucleic Acids Research,206,10.1093/nar/gku1130,United States,Article,Bethesda,1,Journal,2-s2.0-84946027595
+Marchler-Bauer A.,,CDD: NCBI's conserved domain database,2015,Nucleic Acids Research,1726,10.1093/nar/gku1221,United States,Article,Bethesda,1,Journal,2-s2.0-84941042486
+Brister J.,,Virus Variation Resource - Recent updates and future directions,2014,Nucleic Acids Research,34,10.1093/nar/gkt1268,United States,Article,Bethesda,1,Journal,2-s2.0-84891764244
+Farrell C.M.,,Current status and new features of the Consensus Coding Sequence database,2014,Nucleic Acids Research,100,10.1093/nar/gkt1059,United States,Review,Bethesda,1,Journal,2-s2.0-84891777450
+Landrum M.J.,,ClinVar: Public archive of relationships among sequence variation and human phenotype,2014,Nucleic Acids Research,1097,10.1093/nar/gkt1113,United States,Article,Bethesda,1,Journal,2-s2.0-84891809093
+Schneider V.A.,,Clone DB: An integrated NCBI resource for clone-associated data,2013,Nucleic Acids Research,11,10.1093/nar/gks1164,United States,Article,Bethesda,1,Journal,2-s2.0-84876533640
+Rubinstein W.S.,,"The NIH genetic testing registry: A new, centralized database of genetic tests to enable access to comprehensive information and improve transparency",2013,Nucleic Acids Research,76,10.1093/nar/gks1173,United States,Article,Bethesda,1,Journal,2-s2.0-84875964664
+Ye J.,,IgBLAST: an immunoglobulin variable domain sequence analysis tool.,2013,Nucleic acids research,352,10.1093/nar/gkt382,United States,Article,Bethesda,1,,2-s2.0-84883563447
+Boratyn G.M.,,BLAST: a more efficient report with usability improvements.,2013,Nucleic acids research,395,10.1093/nar/gkt282,United States,Article,Bethesda,1,,2-s2.0-84883580751
+Green R.C.,,ACMG recommendations for reporting of incidental findings in clinical exome and genome sequencing,2013,Genetics in Medicine,1477,10.1038/gim.2013.73,United States;United States,Article,Cambridge;Boston,1,Journal,2-s2.0-84880535720
+Barrett T.,,NCBI GEO: Archive for functional genomics data sets - Update,2013,Nucleic Acids Research,2789,10.1093/nar/gks1193,United States,Article,Bethesda,1,Journal,2-s2.0-84874271270
+Madej T.,,MMDB: 3D structures and macromolecular interactions,2012,Nucleic Acids Research,78,10.1093/nar/gkr1162,United States,Article,Bethesda,1,Journal,2-s2.0-84861664072
+Barrett T.,,BioProject and BioSample databases at NCBI: Facilitating capture and organization of metadata,2012,Nucleic Acids Research,136,10.1093/nar/gkr1163,United States,Article,Bethesda,1,Journal,2-s2.0-84862179132
+Wang Y.,,PubChem's BioAssay database,2012,Nucleic Acids Research,343,10.1093/nar/gkr1132,United States,Article,Bethesda,1,Journal,2-s2.0-84861400021
+Kodama Y.,,The sequence read archive: Explosive growth of sequencing data,2012,Nucleic Acids Research,393,10.1093/nar/gkr854,Japan,Article,Mishima,1,Journal,2-s2.0-84862198590
+Federhen S.,,The NCBI Taxonomy database,2012,Nucleic Acids Research,479,10.1093/nar/gkr1178,United States,Article,Bethesda,1,Journal,2-s2.0-84856562355
+Pruitt K.D.,,"NCBI Reference Sequences (RefSeq): Current status, new features and genome annotation policy",2012,Nucleic Acids Research,759,10.1093/nar/gkr1079,United States,Article,Bethesda,1,Journal,2-s2.0-84859436530
+Magrane M.,,UniProt Knowledgebase: A hub of integrated protein data,2011,Database,928,10.1093/database/bar009,United Kingdom;United States,Article,Cambridge;Newark,1,Journal,2-s2.0-79960976768
+Fingerman I.,,NCBI Epigenomics: A new public resource for exploring epigenomic data sets,2011,Nucleic Acids Research,40,10.1093/nar/gkq1146,United States,Article,Bethesda,1,Journal,2-s2.0-78651298894
+Sudmant P.H.,,Diversity of human copy number variation and multicopy genes,2010,Science,428,10.1126/science.1197005,United States,Article,Seattle,0,Journal,2-s2.0-78049412267
+Church D.M.,,Public data archives for genomic structural variation,2010,Nature Genetics,59,10.1038/ng1010-813,United States,Letter,Bethesda,0,Journal,2-s2.0-77957550192
+Wang Y.,,PubChem: A public information system for analyzing bioactivities of small molecules,2009,Nucleic Acids Research,774,10.1093/nar/gkp456,United States,Review,Bethesda,1,Journal,2-s2.0-67849104638
+Kelder T.,,Mining biological pathways using WikiPathways web services,2009,PLoS ONE,80,10.1371/journal.pone.0006447,Netherlands,Article,Maastricht,1,Journal,2-s2.0-68149137101
+Resch W.,,Virus variation resources at the National Center for Biotechnology Information: Dengue virus,2009,BMC Microbiology,25,10.1186/1471-2180-9-65,United States,Article,Bethesda,1,Journal,2-s2.0-65149087854
+Fu W.,,"Human immunodeficiency virus type 1, human protein interaction database at NCBI",2009,Nucleic Acids Research,186,10.1093/nar/gkn708,United States,Article,Birmingham,1,Journal,2-s2.0-58149200940
+Klimke W.,,The National Center for Biotechnology Information's Protein Clusters Database,2009,Nucleic Acids Research,202,10.1093/nar/gkn734,United States,Article,Bethesda,1,Journal,2-s2.0-58149186488
+Keseler I.M.,,EcoCyc: A comprehensive view of Escherichia coli biology,2009,Nucleic Acids Research,289,10.1093/nar/gkn751,United States,Article,Menlo Park,1,Journal,2-s2.0-58149179979
+Amberger J.,,McKusick's Online Mendelian Inheritance in Man (OMIM®),2009,Nucleic Acids Research,474,10.1093/nar/gkn665,United States,Article,Baltimore,1,Journal,2-s2.0-58149189856
+Matthews L.,,Reactome knowledgebase of human biological pathways and processes,2009,Nucleic Acids Research,633,10.1093/nar/gkn863,United States,Article,Cold Spring Harbor,1,Journal,2-s2.0-58149177166
+Marchler-Bauer A.,,CDD: Specific functional annotation with the Conserved Domain Database,2009,Nucleic Acids Research,871,10.1093/nar/gkn845,United States,Article,Bethesda,1,Journal,2-s2.0-58149203237
+Schaefer C.,,PID: The pathway interaction database,2009,Nucleic Acids Research,861,10.1093/nar/gkn653,United States,Article,Bethesda,1,Journal,2-s2.0-58149186477
+Pico A.,,WikiPathways: Pathway Editing for the People,2008,PLoS Biology,377,10.1371/journal.pbio.0060184,United States;United States,Review,San Francisco;San Francisco,1,Journal,2-s2.0-48349105261
+Zaslavsky L.,,Visualization of large influenza virus sequence datasets using adaptively aggregated trees with sampling-based subscale representation,2008,BMC Bioinformatics,21,10.1186/1471-2105-9-237,United States,Article,Bethesda,1,Journal,2-s2.0-44849127354
+Hong E.,,Gene Ontology annotations at SGD: New data sources and annotation methods,2008,Nucleic Acids Research,187,10.1093/nar/gkm909,United States,Article,Palo Alto,1,Journal,2-s2.0-38549123363
+Kanehisa M.,,KEGG for linking genomes to life and the environment,2008,Nucleic Acids Research,3303,10.1093/nar/gkm882,Japan;Japan,Article,Tokyo;Kyoto,1,Journal,2-s2.0-38549126643
+Manolio T.A.,,New models of collaboration in genome-wide association studies: The Genetic Association Information Network,2007,Nature Genetics,244,10.1038/ng2127,United States,Review,Bethesda,0,Journal,2-s2.0-34548340684
+Gulley M.L.,,Clinical laboratory reports in molecular pathology,2007,Archives of Pathology and Laboratory Medicine,84,,United States,Article,Chapel Hill,0,Journal,2-s2.0-34250175491
+Papadopoulos J.,,COBALT: Constraint-based alignment tool for multiple protein sequences,2007,Bioinformatics,531,10.1093/bioinformatics/btm076,United States,Article,Bethesda,1,Journal,2-s2.0-34249857539
+Eppig J.,,The mouse genome database (MGD): New features facilitating a model system,2007,Nucleic Acids Research,81,10.1093/nar/gkl940,United States,Article,Bar Harbor,1,Journal,2-s2.0-33846042972
+Crosby M.,,FlyBase: Genomes by the dozen,2007,Nucleic Acids Research,190,10.1093/nar/gkl827,United States,Article,Cambridge,1,Journal,2-s2.0-33846040145
+Berman H.,,"The worldwide Protein Data Bank (wwPDB): Ensuring a single, uniform archive of PDB data",2007,Nucleic Acids Research,714,10.1093/nar/gkl971,United States,Article,New Brunswick,1,Journal,2-s2.0-33846036096
+Sprague J.,,The Zebrafish Information Network: the zebrafish model organism database.,2006,Nucleic acids research,185,10.1093/nar/gkj086,United States,Article,Eugene,1,Journal,2-s2.0-33644876661
+Letunic I.,,SMART 5: domains in the context of genomes and networks.,2006,Nucleic acids research,785,10.1093/nar/gkj079,Germany,Article,Heidelberg,1,Journal,2-s2.0-33644877451
+Finn R.D.,,"Pfam: clans, web tools and services.",2006,Nucleic acids research,1665,10.1093/nar/gkj149,United Kingdom,Article,London,1,Journal,2-s2.0-33644876020
+Kanehisa M.,,From genomics to chemical genomics: new developments in KEGG.,2006,Nucleic acids research,2082,10.1093/nar/gkj102,Japan,Article,Kyoto,1,Journal,2-s2.0-33644874819
+Helmberg W.,,The sequencing-based typing tool of dbMHC: Typing highly polymorphic gene sequences,2004,Nucleic Acids Research,31,10.1093/nar/gkh424,United States,Article,Bethesda,1,Journal,2-s2.0-3242886601
+Blumenfeld O.,,Allelic Genes of Blood Group Antigens: A Source of Human Mutations and cSNPs Documented in the Blood Group Antigen Gene Mutation Database,2004,Human Mutation,117,10.1002/humu.10296,United States,Review,New York,0,Journal,2-s2.0-0346096786
+Haft D.,,The TIGRFAMs database of protein families,2003,Nucleic Acids Research,498,10.1093/nar/gkg128,United States,Review,Rockville,1,Journal,2-s2.0-0037249633
+Ma B.,,PatternHunter: Faster and more sensitive homology search,2002,Bioinformatics,544,10.1093/bioinformatics/18.3.440,Canada,Article,London,1,Journal,2-s2.0-0036202921
+Sherry S.T.,,DbSNP: The NCBI database of genetic variation,2001,Nucleic Acids Research,3807,10.1093/nar/29.1.308,United States,Article,Bethesda,1,Journal,2-s2.0-0035173378
+Zhang Z.,,A greedy algorithm for aligning DNA sequences,2000,Journal of Computational Biology,2871,10.1089/10665270050081478,United States,Review,University Park,0,Journal,2-s2.0-0034053725
+Wang Y.,,Cn3D: Sequence and structure views for Entrez,2000,Trends in Biochemical Sciences,211,10.1016/S0968-0004(00)01561-9,United States,Note,Bethesda,0,Journal,2-s2.0-0034213347
+Ashburner M.,,Gene ontology: Tool for the unification of biology,2000,Nature Genetics,21253,10.1038/75556,,Review,,0,Journal,2-s2.0-0034069495
+Kanehisa M.,,KEGG: Kyoto Encyclopedia of Genes and Genomes,2000,Nucleic Acids Research,11174,10.1093/nar/28.1.27,Japan,Short Survey,Kyoto,1,Journal,2-s2.0-0033982936
+Rozen S.,,Primer3 on the WWW for general users and for biologist programmers.,2000,"Methods in molecular biology (Clifton, N.J.)",12791,,United States,Article,Cambridge,0,Journal,2-s2.0-0033990048
+Altschul S.,,Gapped BLAST and PSI-BLAST: A new generation of protein database search programs,1997,Nucleic Acids Research,54867,10.1093/nar/25.17.3389,United States,Review,Bethesda,1,Journal,2-s2.0-0030801002
+Sehuler G.D.,,Pieces of use puzzle: Expressed sequence tags and the catalog of human genes,1997,Journal of Molecular Medicine,314,10.1007/s001090050155,United States,Article,Bethesda,0,Journal,2-s2.0-0031256078
+Schuler G.D.,,[10] Entrez: Molecular biology database and retrieval system,1996,Methods in Enzymology,278,10.1016/s0076-6879(96)66012-1,,Article,,0,Book Series,2-s2.0-0030010970
+Gibrat J.F.,,Surprising similarities in structure comparison,1996,Current Opinion in Structural Biology,860,10.1016/S0959-440X(96)80058-3,France,Article,Jouy-en-Josas,0,Journal,2-s2.0-0029936121
+Madej T.,,Threading a database of protein cores,1995,"Proteins: Structure, Function, and Bioinformatics",366,10.1002/prot.340230309,United States,Article,Bethesda,0,Journal,2-s2.0-0028838717
+Altschul S.,,Basic local alignment search tool,1990,Journal of Molecular Biology,60434,10.1016/S0022-2836(05)80360-2,United States,Article,Bethesda,0,Journal,2-s2.0-0025183708
+SEWELL W.,,MEDICAL SUBJECT HEADINGS IN MEDLARS.,1964,Bulletin of the Medical Library Association,30,,,Article,,0,Journal,2-s2.0-0004670395

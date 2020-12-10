@@ -1,0 +1,21 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Cover T.M.,,Elements of Information Theory,2005,Elements of Information Theory,27546,10.1002/047174882X,,Book,,0,Book,2-s2.0-84889281816
+Samoilov M.,,On the deduction of chemical reaction pathways from measurements of time series of concentrations,2001,Chaos,62,10.1063/1.1336499,United States,Review,Palo Alto,0,Journal,2-s2.0-0041744850
+Brazma A.,,Gene expression data analysis,2000,FEBS Letters,412,10.1016/S0014-5793(00)01772-5,United Kingdom,Review,Cambridge,0,Journal,2-s2.0-0034714421
+Schreiber T.,,Surrogate time series,2000,Physica D: Nonlinear Phenomena,1133,10.1016/S0167-2789(00)00043-9,Germany,Review,Wuppertal,0,Journal,2-s2.0-0345792394
+Hughes T.,,Functional discovery via a compendium of expression profiles,2000,Cell,2000,10.1016/S0092-8674(00)00015-5,United States,Article,Seattle,1,Journal,2-s2.0-0034616930
+Butte A.,,Mutual information relevance networks: functional genomic clustering using pairwise entropy measurements.,2000,Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing,600,,United States,Article,Boston,0,Journal,2-s2.0-0033655775
+D'Haeseleer P.,,Genetic network inference: From co-expression clustering to reverse engineering,2000,Bioinformatics,687,10.1093/bioinformatics/16.8.707,United States,Article,Albuquerque,1,Journal,2-s2.0-0033736476
+Roulston M.,,Estimating the errors on measured entropy and mutual information,1999,Physica D: Nonlinear Phenomena,197,10.1016/S0167-2789(98)00269-3,United States,Article,Pasadena,0,Journal,2-s2.0-0001234725
+Eisen M.,,Cluster analysis and display of genome-wide expression patterns,1998,Proceedings of the National Academy of Sciences of the United States of America,12573,10.1073/pnas.95.25.14863,United States,Article,Stanford,0,Journal,2-s2.0-0032441150
+Michaels G.,,Cluster analysis and data visualization of large-scale gene expression data.,1998,Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing,139,,United States,Article,Fairfax,0,Journal,2-s2.0-0031616361
+Herzel H.,,Measuring correlations in symbol sequences,1995,Physica A: Statistical Mechanics and its Applications,152,10.1016/0378-4371(95)00104-F,Germany,Article,Berlin,0,Journal,2-s2.0-0001818891
+Moon Y.I.,,Estimation of mutual information using kernel density estimators,1995,Physical Review E,257,10.1103/PhysRevE.52.2318,United States,Article,Logan,0,Journal,2-s2.0-0001259448
+Schena M.,,Quantitative monitoring of gene expression patterns with a complementary DNA microarray,1995,Science,7244,10.1126/science.270.5235.467,United States,Article,Stanford,0,Journal,2-s2.0-0028806048
+Rapp P.E.,,The algorithmic complexity of neural spike trains increases during focal seizures,1994,Journal of Neuroscience,81,10.1523/jneurosci.14-08-04731.1994,United States,Article,Philadelphia,1,Journal,2-s2.0-0028145756
+Herzel H.,,Finite sample effects in sequence analysis,1994,"Chaos, Solitons and Fractals",84,10.1016/0960-0779(94)90020-5,Germany,Article,Berlin,0,Journal,2-s2.0-0028346501
+Theiler J.,,Testing for nonlinearity in time series: the method of surrogate data,1992,Physica D: Nonlinear Phenomena,2721,10.1016/0167-2789(92)90102-S,United States;United States,Article,Los Alamos;Los Alamos,0,Journal,2-s2.0-44049111332
+Grassberger P.,,Finite sample corrections to entropy and dimension estimates,1988,Physics Letters A,211,10.1016/0375-9601(88)90193-4,Germany,Article,Wuppertal,0,Journal,2-s2.0-0000090102
+Fraser A.,,Independent coordinates for strange attractors from mutual information,1986,Physical Review A,3178,10.1103/PhysRevA.33.1134,United States,Article,Austin,0,Journal,2-s2.0-34548696055
+Kolmogorov A.,,Logical Basis for Information Theory and Probability Theory,1968,IEEE Transactions on Information Theory,306,10.1109/TIT.1968.1054210,Russian Federation,Article,Moscow,0,Journal,2-s2.0-84937652953
+Shannon C.,,A Mathematical Theory of Communication,1948,Bell System Technical Journal,19057,10.1002/j.1538-7305.1948.tb00917.x,,Article,,0,Journal,2-s2.0-84856043672

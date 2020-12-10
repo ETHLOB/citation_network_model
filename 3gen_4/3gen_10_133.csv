@@ -1,0 +1,11 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Lee D.,,Learning the parts of objects by non-negative matrix factorization,1999,Nature,7546,10.1038/44565,United States,Article,Murray,0,Journal,2-s2.0-0033592606
+Bell A.,,The 'independent components' of natural scenes are edge filters,1997,Vision Research,1419,10.1016/S0042-6989(97)00121-1,United States,Article,Chevy Chase,1,Journal,2-s2.0-0030832881
+Penev P.,,Local feature analysis: A general statistical theory for object representation,1996,Network: Computation in Neural Systems,467,10.1088/0954-898X_7_3_002,United States,Article,New York,0,Journal,2-s2.0-0000209334
+Murase H.,,Visual learning and recognition of 3-d objects from appearance,1995,International Journal of Computer Vision,1359,10.1007/BF01421486,Japan,Article,Tokyo,0,Journal,2-s2.0-0029220876
+Pentland A.,,View-based and modular eigenspaces for face recognition,1994,Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition,1255,10.1109/cvpr.1994.323814,United States,Conference Paper,Cambridge,0,Conference Proceeding,2-s2.0-0027928121
+Comon P.,,"Independent component analysis, A new concept?",1994,Signal Processing,5734,10.1016/0165-1684(94)90029-9,France,Article,Valbonne,0,Journal,2-s2.0-0028416938
+Turk M.,,Face recognition using eigenfaces,1991,,3911,,,Conference Paper,,0,Conference Proceeding,2-s2.0-0026384289
+Jutten C.,,"Blind separation of sources, part I: An adaptive algorithm based on neuromimetic architecture",1991,Signal Processing,1781,10.1016/0165-1684(91)90079-X,France,Article,Grenoble,0,Journal,2-s2.0-0026191274
+Kirby M.,,Application of the Karhunen-Loéve Procedure for the Characterization of Human Faces,1990,IEEE Transactions on Pattern Analysis and Machine Intelligence,1750,10.1109/34.41390,United States,Article,Providence,0,Journal,2-s2.0-0025236073
+Sirovich L.,,Low-dimensional procedure for the characterization of human faces,1979,"Journal of the Optical Society of America A: Optics and Image Science, and Vision",1347,10.1364/JOSAA.4.000519,United States,Article,Providence,0,Journal,2-s2.0-84975551912

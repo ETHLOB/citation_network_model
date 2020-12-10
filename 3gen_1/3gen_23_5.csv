@@ -1,0 +1,28 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Honkela A.,,Unsupervised variational bayesian learning of nonlinear models,2005,Advances in Neural Information Processing Systems,29,,Finland,Conference Paper,Espoo,0,Conference Proceeding,2-s2.0-27844480834
+Grochow K.,,Style-based inverse kinematics,2004,ACM Transactions on Graphics,411,10.1145/1015706.1015755,United States,Conference Paper,Seattle,0,Conference Proceeding,2-s2.0-12844276276
+Lawrence N.,,Gaussian process latent variable models for visualisation of high dimensional data,2004,Advances in Neural Information Processing Systems,371,,United Kingdom,Conference Paper,Sheffield,0,Conference Proceeding,2-s2.0-84898980901
+Lawrence N.,,Fast sparse Gaussian process methods: The informative vector machine,2003,Advances in Neural Information Processing Systems,236,,United Kingdom,Conference Paper,Sheffield,0,Conference Proceeding,2-s2.0-80053225881
+Hinton G.,,Stochastic neighbor embedding,2003,Advances in Neural Information Processing Systems,314,,Canada,Conference Paper,Toronto,0,Conference Proceeding,2-s2.0-84898964829
+Oh M.,,Bayesian multidimensional scaling and choice of dimension,2001,Journal of the American Statistical Association,51,10.1198/016214501753208690,South Korea,Article,Seoul,0,Journal,2-s2.0-0442280664
+Williams C.,,On a connection between kernel PCA and metric multidimensional scaling,2001,Advances in Neural Information Processing Systems,39,,United Kingdom,Conference Paper,Edinburgh,0,Conference Proceeding,2-s2.0-84898939890
+Tipping M.,,Sparse kernel principal component analysis,2001,Advances in Neural Information Processing Systems,83,,United Kingdom,Conference Paper,Cambridge,0,Conference Proceeding,2-s2.0-84898942701
+Tenenbaum J.,,A global geometric framework for nonlinear dimensionality reduction,2000,Science,8778,10.1126/science.290.5500.2319,United States,Article,Palo Alto,0,Journal,2-s2.0-0034704229
+Roweis S.T.,,Nonlinear dimensionality reduction by locally linear embedding,2000,Science,10053,10.1126/science.290.5500.2323,United Kingdom,Article,London,0,Journal,2-s2.0-0034704222
+Shi J.,,Normalized cuts and image segmentation,2000,IEEE Transactions on Pattern Analysis and Machine Intelligence,9925,10.1109/34.868688,United States,Article,Pittsburgh,0,Journal,2-s2.0-0034244751
+Tipping M.,,Probabilistic visualisation of high-dimensional binary data,1999,Advances in Neural Information Processing Systems,51,,United Kingdom,Conference Paper,Cambridge,0,Conference Proceeding,2-s2.0-84899007505
+Bishop C.,,Bayesian PCA,1999,Advances in Neural Information Processing Systems,177,,United Kingdom,Conference Paper,Cambridge,0,Conference Proceeding,2-s2.0-78651329401
+Tipping M.,,Probabilistic principal component analysis,1999,Journal of the Royal Statistical Society. Series B: Statistical Methodology,1841,10.1111/1467-9868.00196,United Kingdom,Article,Cambridge,0,Journal,2-s2.0-0038959172
+Schölkopf B.,,Nonlinear Component Analysis as a Kernel Eigenvalue Problem,1998,Neural Computation,5439,10.1162/089976698300017467,Germany,Article,Tubingen,0,Journal,2-s2.0-0347243182
+Bishop C.,,GTM: The Generative Topographic Mapping,1998,Neural Computation,895,10.1162/089976698300017953,United Kingdom,Article,Birmingham,0,Journal,2-s2.0-0347963789
+Bishop C.,,GTM: A principled alternative to the self-organizing map,1997,Advances in Neural Information Processing Systems,40,,United Kingdom,Conference Paper,Birmingham,0,Conference Proceeding,2-s2.0-0000479287
+Williams C.,,Computing with infinite networks,1997,Advances in Neural Information Processing Systems,78,,United Kingdom,Conference Paper,Birmingham,0,Conference Proceeding,2-s2.0-84898974226
+Lowe D.,,Feed-forward neural networks and topographic mappings for exploratory data analysis,1996,Neural Computing and Applications,95,10.1007/BF01413744,United Kingdom,Article,Birmingham,0,Journal,2-s2.0-0030556435
+Hinton G.,,"The ""wake-sleep"" algorithm for unsupervised neural networks",1995,Science,490,10.1126/science.7761831,Canada,Article,Toronto,0,Journal,2-s2.0-0029652445
+MacKay D.,,Bayesian neural networks and density networks,1995,"Nuclear Inst. and Methods in Physics Research, A",69,10.1016/0168-9002(94)00931-7,United Kingdom,Article,Cambridge,0,Journal,2-s2.0-33645246465
+Bishop C.,,Analysis of multiphase flows using dual-energy gamma densitometry and neural networks,1993,"Nuclear Inst. and Methods in Physics Research, A",71,10.1016/0168-9002(93)90728-Z,United Kingdom,Article,,0,Journal,2-s2.0-0027574219
+Møller M.,,A scaled conjugate gradient algorithm for fast supervised learning,1993,Neural Networks,2550,10.1016/S0893-6080(05)80056-5,Denmark,Article,Aarhus,0,Journal,2-s2.0-0027205884
+Kohonen T.,,The Self-Organizing Map,1990,Proceedings of the IEEE,5085,10.1109/5.58325,Finland;Finland,Article,Espoo;Helsinki,0,Journal,2-s2.0-0025489075
+Sammon J.,,A Nonlinear Mapping for Data Structure Analysis,1969,IEEE Transactions on Computers,2448,10.1109/T-C.1969.222678,United States,Article,,0,Journal,2-s2.0-84887006810
+Kruskal J.,,Multidimensional scaling by optimizing goodness of fit to a nonmetric hypothesis,1964,Psychometrika,4109,10.1007/BF02289565,United States,Article,Murray,0,Journal,2-s2.0-0041654220
+Torgerson W.,,Multidimensional scaling: I. Theory and method,1952,Psychometrika,1084,10.1007/BF02288916,United States,Article,New York,0,Journal,2-s2.0-84950351930

@@ -1,0 +1,9 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Yu K.,,Soft clustering on graphs,2005,Advances in Neural Information Processing Systems,69,,Germany,Conference Paper,Munich,0,Conference Proceeding,2-s2.0-84864052219
+Banerjee A.,,Clustering with Bregman divergences,2005,Journal of Machine Learning Research,799,,United States,Article,Austin,0,Journal,2-s2.0-26244461684
+Strehl A.,,Cluster ensembles - A knowledge reuse framework for combining multiple partitions,2003,Journal of Machine Learning Research,2806,10.1162/153244303321897735,United States,Conference Paper,Austin,0,Journal,2-s2.0-0041965980
+Ng A.Y.,,On spectral clustering: Analysis and an algorithm,2002,Advances in Neural Information Processing Systems,2981,,United States,Conference Paper,Berkeley,0,Conference Proceeding,2-s2.0-84899013108
+Lee D.,,Algorithms for non-negative matrix factorization,2001,Advances in Neural Information Processing Systems,4041,,United States,Conference Paper,Murray,0,Conference Proceeding,2-s2.0-84898964201
+Shi J.,,Normalized cuts and image segmentation,2000,IEEE Transactions on Pattern Analysis and Machine Intelligence,9931,10.1109/34.868688,United States,Article,Pittsburgh,0,Journal,2-s2.0-0034244751
+Karypis G.,,A fast and high quality multilevel scheme for partitioning irregular graphs,1998,SIAM Journal of Scientific Computing,2941,10.1137/S1064827595287997,United States,Article,Minneapolis,0,Journal,2-s2.0-0032131147
+Kernighan B.,,An Efficient Heuristic Procedure for Partitioning Graphs,1970,Bell System Technical Journal,3149,10.1002/j.1538-7305.1970.tb01770.x,,Article,,0,Journal,2-s2.0-84990479742

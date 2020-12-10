@@ -1,0 +1,21 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Costa I.,,Comparative study on proximity indices for cluster analysis of gene expression time series,2003,Journal of Intelligent and Fuzzy Systems,10,,Brazil,Article,Recife,0,Journal,2-s2.0-0142056016
+Datta S.,,Comparisons and validation of statistical clustering techniques for microarray gene expression data,2003,Bioinformatics,249,10.1093/bioinformatics/btg025,United States,Article,Atlanta,1,Journal,2-s2.0-0037342510
+Costa I.G.,,A symbolic approach to gene expression time series analysis,2002,"Proceedings - Brazilian Symposium on Neural Networks, SBRN",9,10.1109/SBRN.2002.1181430,Brazil,Conference Paper,Recife,0,Conference Proceeding,2-s2.0-29544450894
+Slonim D.,,From patterns to pathways: Gene expression data analysis comes of age,2002,Nature Genetics,434,10.1038/ng1033,United States,Review,New York,0,Journal,2-s2.0-0036899286
+Quackenbush J.,,Computational analysis of microarray data,2001,Nature Reviews Genetics,1119,10.1038/35076576,United States,Review,Rockville,0,Journal,2-s2.0-0035375137
+Yeung K.,,Validating clustering for gene expression data,2001,Bioinformatics,494,10.1093/bioinformatics/17.4.309,United States,Article,Seattle,1,Journal,2-s2.0-0035024021
+Vesanto J.,,Clustering of the self-organizing map,2000,IEEE Transactions on Neural Networks,1621,10.1109/72.846731,Finland,Article,Espoo,0,Journal,2-s2.0-0034187784
+Brown M.,,Knowledge-based analysis of microarray gene expression data by using support vector machines,2000,Proceedings of the National Academy of Sciences of the United States of America,1723,10.1073/pnas.97.1.262,United States,Article,Santa Cruz,1,Journal,2-s2.0-0034602774
+Zhu J.,,"Cluster, function and promoter: analysis of yeast expression array.",2000,Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing,26,,United States,Article,Cold Spring Harbor,0,Journal,2-s2.0-0033643183
+Sharan R.,,CLICK: a clustering algorithm with applications to gene expression analysis.,2000,Proceedings / ... International Conference on Intelligent Systems for Molecular Biology ; ISMB. International Conference on Intelligent Systems for Molecular Biology,291,,Israel,Article,Tel Aviv-Yafo,0,Journal,2-s2.0-0034565041
+Jain A.,,Data clustering: A review,1999,ACM Computing Surveys,8744,10.1145/331499.331504,United States,Conference Paper,East Lansing,0,Journal,2-s2.0-84893405732
+Heyer L.,,Exploring expression data identification and analysis of coexpressed genes,1999,Genome Research,765,10.1101/gr.9.11.1106,,Article,,1,Journal,2-s2.0-0032729435
+Tavazoie S.,,Systematic determination of genetic network architecture,1999,Nature Genetics,1870,10.1038/10343,United States,Article,Boston,0,Journal,2-s2.0-0033028596
+Tamayo P.,,Interpreting patterns of gene expression with self-organizing maps: Methods and application to hematopoietic differentiation,1999,Proceedings of the National Academy of Sciences of the United States of America,2309,10.1073/pnas.96.6.2907,United States,Conference Paper,Cambridge,1,Journal,2-s2.0-0033027794
+Eisen M.,,Cluster analysis and display of genome-wide expression patterns,1998,Proceedings of the National Academy of Sciences of the United States of America,12573,10.1073/pnas.95.25.14863,United States,Article,Stanford,0,Journal,2-s2.0-0032441150
+Cho R.,,A genome-wide transcriptional analysis of the mitotic cell cycle,1998,Molecular Cell,1661,10.1016/S1097-2765(00)80114-8,United States,Article,Stanford,1,Journal,2-s2.0-0032112293
+Mangiameli P.,,A comparison of SOM neural network and hierarchical clustering methods,1996,European Journal of Operational Research,230,10.1016/0377-2217(96)00038-0,United States,Article,Kingston,0,Journal,2-s2.0-0030572617
+Dubes R.,,How many clusters are best? - An experiment,1987,Pattern Recognition,143,10.1016/0031-3203(87)90034-3,United States,Article,East Lansing,0,Journal,2-s2.0-0023523514
+Milligan G.,,A Study of the Comparability of External Criteria for Hierarchical Cluster Analysis,1986,Multivariate Behavioral Research,305,10.1207/s15327906mbr2104_5,United States,Article,Columbus,0,Journal,2-s2.0-84948872101
+Diday E.,,Clustering analysis.,1980,Digital pattern recognition. 2nd edition,134,10.1007/978-3-642-67740-3_3,France,Article,Paris,0,Book,2-s2.0-0019111672

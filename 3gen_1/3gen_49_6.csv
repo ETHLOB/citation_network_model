@@ -1,0 +1,11 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Robinson J.,,The K-D-B-tree: A search structure for large multidimensional dynamic indexes,1981,Proceedings of the ACM SIGMOD International Conference on Management of Data,583,10.1145/582318.582321,United States,Conference Paper,Pittsburgh,0,Conference Proceeding,2-s2.0-85010847034
+Bentley J.,,Data Structures for Range Searching,1979,ACM Computing Surveys (CSUR),352,10.1145/356789.356797,United States,Article,Pittsburgh,0,Journal,2-s2.0-0018702060
+Wong K.,,Interval Hierarchies and Their Application to Predicate Files,1977,ACM Transactions on Database Systems (TODS),10,10.1145/320557.320562,United States,Article,Blue Bell,0,Journal,2-s2.0-0017538369
+Bentley J.,,The complexity of finding fixed-radius near neighbors,1977,Information Processing Letters,52,10.1016/0020-0190(77)90070-9,United States,Article,Chapel Hill,0,Journal,2-s2.0-0011703962
+Astrahan M.,,System R: Relational approach to database management,1976,ACM Transactions on Database Systems (TODS),525,10.1145/320455.320457,United States,Article,San Jose,0,Journal,2-s2.0-84976770519
+Bentley J.,,Multidimensional Binary Search Trees Used for Associative Searching,1975,Communications of the ACM,3759,10.1145/361002.361007,United States,Article,Palo Alto,0,Journal,2-s2.0-0016557674
+Yuval G.,,Finding near neighbours in K-dimensional space,1975,Information Processing Letters,22,10.1016/0020-0190(75)90044-7,Israel,Article,Jerusalem,0,Journal,2-s2.0-0040068855
+Held G.,,INGRES - A RELATIONAL DATA BASE SYSTEM.,1975,AFIPS Natl Comput Conf Expo Conf Proc,127,,,Conference Paper,,0,Journal,2-s2.0-0016600187
+Finkel R.,,Quad trees a data structure for retrieval on composite keys,1974,Acta Informatica,1125,10.1007/BF00288933,United States,Article,Palo Alto,0,Journal,2-s2.0-0016353777
+Bayer R.,,Organization and maintenance of large ordered indices,1970,Proceedings of the ACM SIGMOD International Conference on Management of Data,101,10.1145/1734663.1734671,United States,Conference Paper,Chicago,0,Conference Proceeding,2-s2.0-84865588615

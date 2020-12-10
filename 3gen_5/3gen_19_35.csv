@@ -1,0 +1,15 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Petersen T.,,SignalP 4.0: Discriminating signal peptides from transmembrane regions,2011,Nature Methods,6107,10.1038/nmeth.1701,Denmark,Letter,Lyngby,0,Journal,2-s2.0-80053345905
+Church D.M.,,Modernizing reference genome assemblies,2011,PLoS Biology,186,10.1371/journal.pbio.1001091,United States,Article,Bethesda,1,Journal,2-s2.0-79960925372
+Seal R.L.,,Genenames.org: The HGNC resources in 2011,2011,Nucleic Acids Research,181,10.1093/nar/gkq892,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-78651320425
+Maglott D.,,Entrez gene: Gene-centered information at NCBI,2011,Nucleic Acids Research,459,10.1093/nar/gkq1237,United States,Article,Bethesda,1,Journal,2-s2.0-78651317908
+Marchler-Bauer A.,,CDD: A Conserved Domain Database for the functional annotation of proteins,2011,Nucleic Acids Research,2023,10.1093/nar/gkq1189,United States,Article,Bethesda,1,Journal,2-s2.0-78651285748
+Kozomara A.,,MiRBase: Integrating microRNA annotation and deep-sequencing data,2011,Nucleic Acids Research,2620,10.1093/nar/gkq1027,United Kingdom,Article,Manchester,1,Journal,2-s2.0-78651293534
+Prakash T.,,Expression of conjoined genes: Another mechanism for gene regulation in eukaryotes,2010,PLoS ONE,64,10.1371/journal.pone.0013284,Japan,Article,Wako,1,Journal,2-s2.0-78149432714
+Dalgleish R.,,Locus Reference Genomic sequences: An improved basis for describing human DNA variants,2010,Genome Medicine,87,10.1186/gm145,United Kingdom,Article,Leicester,1,Journal,2-s2.0-77954314621
+Apweiler R.,,The universal protein resource (UniProt) in 2010,2009,Nucleic Acids Research,890,10.1093/nar/gkp846,Switzerland;United States;United Kingdom;United States,Article,"Geneva;Newark;London;Washington, D.C.",1,Journal,2-s2.0-75849153303
+Pruitt K.D.,,The consensus coding sequence (CCDS) project: Identifying a common protein-coding gene set for the human and mouse genomes,2009,Genome Research,364,10.1101/gr.080531.108,United States,Article,Bethesda,1,Journal,2-s2.0-67650064594
+Pruitt K.D.,,"NCBI reference sequences: Current status, policy and new initiatives",2009,Nucleic Acids Research,577,10.1093/nar/gkn721,United States,Article,Bethesda,1,Journal,2-s2.0-58149178579
+Karro J.,,Pseudogene.org: A comprehensive database and comparison platform for pseudogene annotation,2007,Nucleic Acids Research,121,10.1093/nar/gkl851,United States,Article,University Park,1,Journal,2-s2.0-33846074757
+Sherry S.T.,,DbSNP: The NCBI database of genetic variation,2001,Nucleic Acids Research,3807,10.1093/nar/29.1.308,United States,Article,Bethesda,1,Journal,2-s2.0-0035173378
+Pruitt K.D.,,Introducing RefSeq and LocusLink: Curated human genome resources at the NCBI,2000,Trends in Genetics,196,10.1016/S0168-9525(99)01882-X,United States,Note,Bethesda,0,Journal,2-s2.0-0033967692

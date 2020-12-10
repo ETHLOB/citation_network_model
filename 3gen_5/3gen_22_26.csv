@@ -1,0 +1,47 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Gonzalez-Perez A.,,IntOGen-mutations identifies cancer drivers across tumor types,2013,Nature Methods,255,10.1038/nmeth.2642,Spain,Article,Barcelona,1,Journal,2-s2.0-84887032986
+Reimand J.,,The mutational landscape of phosphorylation signaling in cancer,2013,Scientific Reports,98,10.1038/srep02651,Canada,Article,Toronto,1,Journal,2-s2.0-84885100832
+Weinstein J.N.,,The cancer genome atlas pan-cancer analysis project,2013,Nature Genetics,2406,10.1038/ng.2764,United States;United States,Review,San Francisco;Houston,1,Journal,2-s2.0-84884994218
+Gonzalez-Perez A.,,Computational approaches to identify functional genetic variants in cancer genomes,2013,Nature Methods,113,10.1038/nmeth.2562,Spain,Review,Barcelona,0,Journal,2-s2.0-84881396090
+Lawrence M.S.,,Mutational heterogeneity in cancer and the search for new cancer-associated genes,2013,Nature,2675,10.1038/nature12213,United States,Article,Cambridge,0,Journal,2-s2.0-84880507665
+Vogelstein B.,,Cancer genome landscapes,2013,Science,3950,10.1126/science.1235122,United States,Review,Baltimore,1,Journal,2-s2.0-84875490185
+Garraway L.,,Lessons from the cancer genome,2013,Cell,740,10.1016/j.cell.2013.03.002,United States;United States;United States,Review,Boston;Boston;Cambridge,1,Journal,2-s2.0-84875758730
+Insinga A.,,"DNA damage in stem cells activates p21, inhibits p53, and induces symmetric self-renewing divisions",2013,Proceedings of the National Academy of Sciences of the United States of America,87,10.1073/pnas.1213394110,Italy,Article,Milan,1,Journal,2-s2.0-84874611142
+Tamborero D.,,Oncodrive-CIS: A Method to Reveal Likely Driver Genes Based on the Impact of Their Copy Number Changes on Expression,2013,PLoS ONE,16,10.1371/journal.pone.0055489,Spain,Article,Barcelona,1,Journal,2-s2.0-84873686922
+Reimand J.,,Systematic analysis of somatic mutations in phosphorylation signaling predicts novel cancer drivers,2013,Molecular Systems Biology,141,10.1038/msb.2012.68,Canada,Article,Toronto,1,Journal,2-s2.0-84873802661
+Gonzalez-Perez A.,,Functional impact bias reveals cancer drivers,2012,Nucleic Acids Research,178,10.1093/nar/gks743,Spain,Article,Barcelona,1,Journal,2-s2.0-84870599966
+Imamura Y.,,FOXA1 promotes tumor progression in prostate cancer via the insulin-like growth factor binding protein 3 pathway,2012,PLoS ONE,35,10.1371/journal.pone.0042456,Japan,Article,Chiba,1,Journal,2-s2.0-84864532021
+Dees N.,,MuSiC: Identifying mutational significance in cancer genomes,2012,Genome Research,369,10.1101/gr.134635.111,United States,Article,St. Louis,1,Journal,2-s2.0-84864598664
+Hodis E.,,A landscape of driver mutations in melanoma,2012,Cell,1470,10.1016/j.cell.2012.06.024,United States;United States,Article,Cambridge;Boston,1,Journal,2-s2.0-84864258996
+Deutsch L.,,Opposite roles of FOXA1 and NKX2-1 in lung cancer progression,2012,Genes Chromosomes and Cancer,21,10.1002/gcc.21950,Germany,Article,Hamburg,0,Journal,2-s2.0-84859444521
+Bernardo G.,,FOXA1: A transcription factor with parallel functions in development and cancer,2012,Bioscience Reports,110,10.1042/BSR20110046,United States,Review,Cleveland,0,Journal,2-s2.0-84856937196
+Liu M.,,IKKα Activation of NOTCH Links Tumorigenesis via FOXA2 Suppression,2012,Molecular Cell,65,10.1016/j.molcel.2011.11.018,United States;United States,Article,Houston;Houston,1,Journal,2-s2.0-84856264859
+Reva B.,,Predicting the functional impact of protein mutations: Application to cancer genomics,2011,Nucleic Acids Research,942,10.1093/nar/gkr407,United States,Article,New York,1,Journal,2-s2.0-80053189298
+Perez-Llamas C.,,Gitools: Analysis and visualisation of genomic data using interactive heat-maps,2011,PLoS ONE,183,10.1371/journal.pone.0019541,Spain,Article,Barcelona,1,Journal,2-s2.0-79955934629
+Kumar A.,,Nuclear but not cytosolic phosphoinositide 3-kinase beta has an essential function in cell survival,2011,Molecular and Cellular Biology,52,10.1128/MCB.01313-10,Spain,Article,Madrid,1,Journal,2-s2.0-79956108913
+Mermel C.,,GISTIC2.0 facilitates sensitive and confident localization of the targets of focal somatic copy-number alteration in human cancers,2011,Genome Biology,1010,10.1186/gb-2011-12-4-r41,United States;United States,Article,Boston;Cambridge,1,Journal,2-s2.0-79955166265
+Cerami E.,,"Pathway Commons, a web resource for biological pathway data",2011,Nucleic Acids Research,625,10.1093/nar/gkq1039,United States;United States,Article,New York;New York,1,Journal,2-s2.0-78651332286
+Wu G.,,A human functional protein interaction network and its application to cancer data analysis,2010,Genome Biology,397,10.1186/gb-2010-11-5-r53,Canada,Article,Toronto,1,Journal,2-s2.0-77952310528
+Hill K.,,"The role of PI 3-kinase p110β in AKT signally, cell survival, and proliferation in human prostate cancer cells",2010,Prostate,33,10.1002/pros.21108,United States,Article,"Washington, D.C.",0,Journal,2-s2.0-77951817931
+Hudson T.J.,,International network of cancer genome projects,2010,Nature,1355,10.1038/nature08987,Canada;Canada,Review,Toronto;Toronto,1,Journal,2-s2.0-77951115122
+Adzhubei I.,,A method and server for predicting damaging missense mutations,2010,Nature Methods,7393,10.1038/nmeth0410-248,United States,Letter,Boston,0,Journal,2-s2.0-77951640946
+Lee J.,,The function of p27<sup>KIP1</sup> during tumor development,2009,Experimental and Molecular Medicine,81,10.3858/emm.2009.41.11.102,South Korea,Review,Busan,1,Journal,2-s2.0-73649145175
+Kanehisa M.,,KEGG for representation and analysis of molecular networks involving diseases and drugs,2009,Nucleic Acids Research,1587,10.1093/nar/gkp896,Japan;Japan,Article,Tokyo;Kyoto,1,Journal,2-s2.0-75549090213
+Stratton M.,,The cancer genome,2009,Nature,1912,10.1038/nature07943,United Kingdom;United Kingdom,Review,London;Hinxton,1,Journal,2-s2.0-64749094310
+McLendon R.,,Comprehensive genomic characterization defines human glioblastoma genes and core pathways,2008,Nature,4803,10.1038/nature07385,United States,Article,Durham,1,Journal,2-s2.0-54549108740
+Wee S.,,PTEN-deficient cancers depend on PIK3CB,2008,Proceedings of the National Academy of Sciences of the United States of America,373,10.1073/pnas.0802655105,United States,Article,Cambridge,1,Journal,2-s2.0-51349148948
+Schinzel A.,,Oncogenic transformation and experimental models of human cancer,2008,Frontiers in Bioscience,43,10.2741/2661,,Review,,0,Journal,2-s2.0-38449094794
+Marqués M.,,"Phosphoinositide 3-kinases p110α and p110β regulate cell cycle entry, exhibiting distinct activation kinetics in G<inf>1</inf> phase",2008,Molecular and Cellular Biology,46,10.1128/MCB.01786-07,Spain,Article,Madrid,1,Journal,2-s2.0-42149140646
+Greenman C.,,Patterns of somatic mutation in human cancer genomes,2007,Nature,2108,10.1038/nature05610,United Kingdom,Article,Hinxton,0,Journal,2-s2.0-33947101019
+Mirosevich J.,,Expression and role of Foxa proteins in prostate cancer,2006,Prostate,98,10.1002/pros.20299,United States;United States,Article,Nashville;Tampa,0,Journal,2-s2.0-33745304363
+Williamson E.,,BRCA1 and FOXA1 proteins coregulate the expression of the cell cycle-dependent kinase inhibitor p27<sup>Kip1</sup>,2006,Oncogene,58,10.1038/sj.onc.1209170,United States;United States,Article,Albuquerque;Los Angeles,1,Journal,2-s2.0-33644747188
+Vogelmann R.,,TGFβ-induced downregulation of E-cadherin-based cell-cell adhesion depends on PI3-kinase and PTEN,2005,Journal of Cell Science,116,10.1242/jcs.02594,United States;Germany,Article,Palo Alto;Ulm,1,Journal,2-s2.0-27844478189
+Dart D.A.,,Recruitment of the Cell Cycle Checkpoint Kinase ATR to Chromatin during S-phase,2004,Journal of Biological Chemistry,103,10.1074/jbc.M314212200,United Kingdom,Article,Oxford,1,Journal,2-s2.0-1942437440
+Futreal P.,,A census of human cancer genes,2004,Nature Reviews Cancer,2180,10.1038/nrc1299,United Kingdom,Review,London,0,Journal,2-s2.0-1542515338
+Ng P.,,SIFT: Predicting amino acid changes that affect protein function,2003,Nucleic Acids Research,3141,10.1093/nar/gkg509,United States,Article,Seattle,1,Journal,2-s2.0-0043122919
+Rausa F.M.,,Association between hepatocyte nuclear factor 6 (HNF-6) and FoxA2 DNA binding domains stimulates FoxA2 transcriptional activity but inhibits HNF-6 DNA binding,2003,Molecular and Cellular Biology,68,10.1128/MCB.23.2.437-449.2003,United States,Article,Chicago,1,Journal,2-s2.0-0037221521
+Semba S.,,"Down-regulation of PIK3CG, a catalytic subunit of phosphatidylinositol 3-OH kinase, by CpG hypermethylation in human colorectal carcinoma",2002,Clinical Cancer Research,50,,Japan,Article,Yamagata,0,Journal,2-s2.0-0036898614
+Sasaki T.,,Colorectal carcinomas in mice lacking the catalytic submit of PI(3)kγ,2000,Nature,88,10.1038/35022585,Canada,Article,Toronto,0,Journal,2-s2.0-0034710675
+Ashburner M.,,Gene ontology: Tool for the unification of biology,2000,Nature Genetics,21253,10.1038/75556,,Review,,0,Journal,2-s2.0-0034069495
+Reddy E.,,A point mutation is responsible for the acquisition of transforming properties by the T24 human bladder carcinoma oncogene,1982,Nature,816,10.1038/300149a0,United States,Article,Bethesda,0,Journal,2-s2.0-0019960812
+Tabin C.J.,,Mechanism of activation of a human oncogene,1982,Nature,820,10.1038/300143a0,United States,Article,Cambridge,0,Journal,2-s2.0-0019947771

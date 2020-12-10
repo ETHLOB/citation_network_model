@@ -1,0 +1,30 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Tarca A.L.,,Strengths and limitations of microarray-based phenotype prediction: Lessons learned from the IMPROVER Diagnostic Signature Challenge,2013,Bioinformatics,81,10.1093/bioinformatics/btt492,United States;United States,Article,Bethesda;Detroit,1,Journal,2-s2.0-84885895107
+Hänzelmann S.,,GSVA: Gene set variation analysis for microarray and RNA-Seq data,2013,BMC Bioinformatics,820,10.1186/1471-2105-14-7,Spain;Spain,Article,Barcelona;Barcelona,1,Journal,2-s2.0-84872202078
+Wu D.,,Camera: A competitive gene set test accounting for inter-gene correlation,2012,Nucleic Acids Research,259,10.1093/nar/gks461,Australia;Australia;United States,Article,Melbourne;Parkville;Cambridge,1,Journal,2-s2.0-84866911829
+Khatri P.,,Ten years of pathway analysis: Current approaches and outstanding challenges,2012,PLoS Computational Biology,801,10.1371/journal.pcbi.1002375,United States;United States,Review,Stanford;Palo Alto,1,Journal,2-s2.0-84861123691
+Tarca A.L.,,Down-weighting overlapping genes improves gene set analysis.,2012,BMC bioinformatics,61,10.1186/1471-2105-13-136,United States,Article,Bethesda,1,Journal,2-s2.0-84862275365
+Barbie D.,,Systematic RNA interference reveals that oncogenic KRAS-driven cancers require TBK1,2009,Nature,1023,10.1038/nature08460,United States;United States;United States,Article,Boston;Boston;Cambridge,0,Journal,2-s2.0-70449091786
+Luo W.,,GAGE: Generally applicable gene set enrichment for pathway analysis,2009,BMC Bioinformatics,503,10.1186/1471-2105-10-161,United States;United States,Article,Cold Spring Harbor;Ann Arbor,1,Journal,2-s2.0-67649202800
+Tarca A.L.,,A novel signaling pathway impact analysis,2009,Bioinformatics,547,10.1093/bioinformatics/btn577,United States;United States,Article,Detroit;Bethesda,1,Journal,2-s2.0-58049215467
+Lee E.,,Inferring pathway activity toward precise disease classification,2008,PLoS Computational Biology,313,10.1371/journal.pcbi.1000217,South Korea,Article,Yusong,1,Journal,2-s2.0-57149092133
+Michaud J.,,Integrative analysis of RUNX1 downstream pathways and target genes,2008,BMC Genomics,84,10.1186/1471-2164-9-363,Australia;Australia;Switzerland,Article,Melbourne;Parkville;Lausanne,1,Journal,2-s2.0-51249106466
+Draghici S.,,A systems biology approach for pathway level analysis,2007,Genome Research,704,10.1101/gr.6202607,United States,Article,Detroit,1,Journal,2-s2.0-34548400259
+Huang D.,,DAVID Bioinformatics Resources: Expanded annotation database and novel algorithms to better extract biology from large gene lists,2007,Nucleic Acids Research,1071,10.1093/nar/gkm415,United States,Article,Frederick,1,Journal,2-s2.0-34547589578
+Goeman J.,,Analyzing gene expression data in terms of gene sets: Methodological issues,2007,Bioinformatics,498,10.1093/bioinformatics/btm051,Netherlands,Article,Leiden,1,Journal,2-s2.0-34249663294
+Falcon S.,,Using GOstats to test gene lists for GO term association,2007,Bioinformatics,1179,10.1093/bioinformatics/btl567,United States,Article,Seattle,1,Journal,2-s2.0-33846689706
+Tarca A.L.,,Machine learning and its applications to biology.,2007,PLoS computational biology,249,10.1371/journal.pcbi.0030116,,Review,,1,Journal,2-s2.0-84872256757
+Subramanian A.,,Gene set enrichment analysis: A knowledge-based approach for interpreting genome-wide expression profiles,2005,Proceedings of the National Academy of Sciences of the United States of America,16322,10.1073/pnas.0506580102,United States,Article,Cambridge,1,Journal,2-s2.0-27344435774
+Tian L.,,Discovering statistically significant pathways in expression profiling studies,2005,Proceedings of the National Academy of Sciences of the United States of America,486,10.1073/pnas.0506577102,United States,Article,Chicago,1,Journal,2-s2.0-26444608611
+Tomfohr J.,,Pathway level analysis of gene expression using singular value decomposition,2005,BMC Bioinformatics,190,10.1186/1471-2105-6-225,United States,Article,Durham,1,Journal,2-s2.0-25444472585
+Barry W.,,Significance analysis of functional categories in gene expression studies: A structured permutation approach,2005,Bioinformatics,231,10.1093/bioinformatics/bti260,United States,Article,Chapel Hill,1,Journal,2-s2.0-18744389489
+Joshi-Tope G.,,Reactome: A knowledgebase of biological pathways,2005,Nucleic Acids Research,865,10.1093/nar/gki072,United States,Article,Cold Spring Harbor,1,Journal,2-s2.0-13444259844
+Beißbarth T.,,GOstat: Find statistically overrepresented Gene Ontologies with a group of genes,2004,Bioinformatics,943,10.1093/bioinformatics/bth088,Australia,Article,Melbourne,1,Journal,2-s2.0-3142665525
+Goeman J.,,A global test for groups fo genes: Testing association with a clinical outcome,2004,Bioinformatics,711,10.1093/bioinformatics/btg382,Netherlands;Netherlands,Article,Leiden;Leiden,1,Journal,2-s2.0-0345832338
+Mootha V.K.,,PGC-1α-responsive genes involved in oxidative phosphorylation are coordinately downregulated in human diabetes,2003,Nature Genetics,4404,10.1038/ng1180,United States;United States;United States,Article,Cambridge;Boston;Boston,0,Journal,2-s2.0-0038054341
+Drǎghici S.,,Global functional profiling of gene expression,2003,Genomics,463,10.1016/S0888-7543(02)00021-6,United States,Article,Detroit,0,Journal,2-s2.0-0037293075
+Khatri P.,,Profiling gene expression using Onto-Express,2002,Genomics,368,10.1006/geno.2002.6698,United States,Article,Detroit,0,Journal,2-s2.0-0035704901
+Ashburner M.,,Gene ontology: Tool for the unification of biology,2000,Nature Genetics,21253,10.1038/75556,,Review,,0,Journal,2-s2.0-0034069495
+Tavazoie S.,,Systematic determination of genetic network architecture,1999,Nature Genetics,1871,10.1038/10343,United States,Article,Boston,0,Journal,2-s2.0-0033028596
+Ogata H.,,KEGG: Kyoto encyclopedia of genes and genomes,1999,Nucleic Acids Research,2465,10.1093/nar/27.1.29,Japan,Review,Uji,1,Journal,2-s2.0-0032919364
+Schena M.,,Quantitative monitoring of gene expression patterns with a complementary DNA microarray,1995,Science,7244,10.1126/science.270.5235.467,United States,Article,Stanford,0,Journal,2-s2.0-0028806048

@@ -1,0 +1,5 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Lin S.,,Model-based variance-stabilizing transformation for Illumina microarray data,2008,Nucleic Acids Research,368,10.1093/nar/gkm1075,United States,Article,Chicago,1,Journal,2-s2.0-39149111937
+Dunning M.,,Beadarray: R classes and methods for Illumina bead-based data,2007,Bioinformatics,340,10.1093/bioinformatics/btm311,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-34548561818
+Du P.,,"NuID: A universal naming scheme of oligonucleotides for Illumina, Affymetrix, and other microarrays",2007,Biology Direct,67,10.1186/1745-6150-2-16,United States,Article,Chicago,1,Journal,2-s2.0-34250705360
+Kuhn K.,,"A novel, high-performance random array platform for quantitative gene expression profiling",2004,Genome Research,158,10.1101/gr.2739104,United States,Article,San Diego,1,Journal,2-s2.0-8744290969

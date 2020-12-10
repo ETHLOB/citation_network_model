@@ -1,0 +1,11 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Larochelle H.,,Classification using discriminative restricted boltzmann machines,2008,Proceedings of the 25th International Conference on Machine Learning,471,10.1145/1390156.1390224,Canada,Conference Paper,Montreal,0,Conference Proceeding,2-s2.0-56449110012
+Tieleman T.,,Training restricted boltzmann machines using approximations to the likelihood gradient,2008,Proceedings of the 25th International Conference on Machine Learning,497,10.1145/1390156.1390290,Canada,Conference Paper,Toronto,0,Conference Proceeding,2-s2.0-56449086223
+Hinton G.,,A fast learning algorithm for deep belief nets,2006,Neural Computation,8546,10.1162/neco.2006.18.7.1527,Canada,Article,Toronto,0,Journal,2-s2.0-33745805403
+LeCun Y.,,Learning methods for generic object recognition with invariance to pose and lighting,2004,Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition,687,,United States,Conference Paper,New York,0,Conference Proceeding,2-s2.0-5044231640
+Hinton G.E.,,Training products of experts by minimizing contrastive divergence,2002,Neural Computation,2671,10.1162/089976602760128018,United Kingdom,Article,London,0,Journal,2-s2.0-0013344078
+Welling M.,,A new learning algorithm for Mean Field Boltzmann Machines,2002,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),64,10.1007/3-540-46084-5_57,Canada,Conference Paper,Toronto,0,Book Series,2-s2.0-84862289622
+Jordan M.I.,,Introduction to variational methods for graphical models,1999,Machine Learning,1530,10.1023/A:1007665907178,United States,Article,Berkeley,1,Journal,2-s2.0-0033225865
+Bharath B.,,Stochastic approximation algorithms: Overview and recent trends,1999,Sadhana - Academy Proceedings in Engineering Sciences,18,10.1007/BF02823149,India,Article,Bengaluru,0,Journal,2-s2.0-0033329123
+Cvijović D.,,Taboo search: An approach to the multiple minima problem,1995,Science,327,10.1126/science.267.5198.664,United Kingdom,Article,Cambridge,0,Journal,2-s2.0-0000390120
+Neal R.,,Connectionist learning of belief networks,1992,Artificial Intelligence,259,10.1016/0004-3702(92)90065-6,Canada,Article,Toronto,0,Journal,2-s2.0-44049116681

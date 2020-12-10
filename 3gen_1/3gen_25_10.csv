@@ -1,0 +1,16 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Donoho D.,,Image manifolds which are isometric to Euclidean space,2005,Journal of Mathematical Imaging and Vision,63,10.1007/s10851-005-4965-4,United States,Article,Palo Alto,0,Journal,2-s2.0-17444432924
+Saul L.,,"Think globally, fit locally: Unsupervised learning of low dimensional manifolds",2004,Journal of Machine Learning Research,1201,10.1162/153244304322972667,United States,Article,Philadelphia,0,Journal,2-s2.0-2342517502
+Belkin M.,,Laplacian eigenmaps for dimensionality reduction and data representation,2003,Neural Computation,4760,10.1162/089976603321780317,United States,Article,Chicago,0,Journal,2-s2.0-0042378381
+Donoho D.,,Hessian eigenmaps: Locally linear embedding techniques for high-dimensional data,2003,Proceedings of the National Academy of Sciences of the United States of America,1010,10.1073/pnas.1031596100,United States,Article,Palo Alto,1,Journal,2-s2.0-0037948870
+Kégl B.,,Intrinsic dimension estimation using packing numbers,2003,Advances in Neural Information Processing Systems,71,,Canada,Conference Paper,Montreal,0,Conference Proceeding,2-s2.0-84898957854
+Brand M.,,Charting a manifold,2003,Advances in Neural Information Processing Systems,198,,United States,Conference Paper,Cambridge,0,Conference Proceeding,2-s2.0-84898990205
+Freedman D.,,Efficient simplicial reconstructions of manifolds from their samples,2002,IEEE Transactions on Pattern Analysis and Machine Intelligence,34,10.1109/TPAMI.2002.1039206,United States;United States,Article,Troy;New York,0,Journal,2-s2.0-0036807135
+Verbeek J.J.,,Coordinating principal component analyzers,2002,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),18,10.1007/3-540-46084-5_148,Netherlands,Conference Paper,Amsterdam,0,Book Series,2-s2.0-84902150065
+Polito M.,,Grouping arid dimensionality reduction by locally linear embedding,2002,Advances in Neural Information Processing Systems,48,,United States,Conference Paper,Pasadena,0,Conference Proceeding,2-s2.0-84898934594
+Tenenbaum J.,,A global geometric framework for nonlinear dimensionality reduction,2000,Science,8778,10.1126/science.290.5500.2319,United States,Article,Palo Alto,0,Journal,2-s2.0-0034704229
+Roweis S.T.,,Nonlinear dimensionality reduction by locally linear embedding,2000,Science,10053,10.1126/science.290.5500.2323,United Kingdom,Article,London,0,Journal,2-s2.0-0034704222
+Shi J.,,Normalized cuts and image segmentation,2000,IEEE Transactions on Pattern Analysis and Machine Intelligence,9925,10.1109/34.868688,United States,Article,Pittsburgh,0,Journal,2-s2.0-0034244751
+Martinetz T.,,Topology representing networks,1994,Neural Networks,590,10.1016/0893-6080(94)90109-0,United States;United States,Article,New York;Urbana,0,Journal,2-s2.0-0028204732
+Hastie T.,,Principal curves,1989,Journal of the American Statistical Association,956,10.1080/01621459.1989.10478797,United States,Article,Murray,0,Journal,2-s2.0-84950453673
+Bentley J.,,Data Structures for Range Searching,1979,ACM Computing Surveys (CSUR),352,10.1145/356789.356797,United States,Article,Pittsburgh,0,Journal,2-s2.0-0018702060

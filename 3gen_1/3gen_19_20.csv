@@ -1,0 +1,16 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Zhang D.,,Interactive localized content based image retrieval with multiple-instance active learning,2010,Pattern Recognition,42,10.1016/j.patcog.2009.03.002,China,Article,,0,Journal,2-s2.0-70349307199
+Sun S.,,The random electrode selection ensemble for EEG signal classification,2008,Pattern Recognition,30,10.1016/j.patcog.2007.10.023,China,Article,Shanghai,0,Journal,2-s2.0-38349098748
+Sun S.,,An experimental evaluation of ensemble methods for EEG signal classification,2007,Pattern Recognition Letters,79,10.1016/j.patrec.2007.06.018,China,Article,Shanghai,0,Journal,2-s2.0-34548688428
+Zhou Z.,,Semi-supervised learning with very few labeled training examples,2007,Proceedings of the National Conference on Artificial Intelligence,106,,China,Conference Paper,Nanjing,0,Conference Proceeding,2-s2.0-36348938695
+Hoi S.,,Batch mode active learning and its application to medical image classification,2006,ICML 2006 - Proceedings of the 23rd International Conference on Machine Learning,116,,Hong Kong,Conference Paper,Shatin,0,Conference Proceeding,2-s2.0-33749263388
+Zhou Y.,,Democratic Co-learning,2004,"Proceedings - International Conference on Tools with Artificial Intelligence, ICTAI",136,10.1109/ICTAI.2004.48,United States,Conference Paper,Mobile,0,Conference Proceeding,2-s2.0-16244378563
+Viola P.,,Robust Real-Time Face Detection,2004,International Journal of Computer Vision,9033,10.1023/B:VISI.0000013087.49260.fb,United States,Article,Redmond,0,Journal,2-s2.0-2142812371
+Nigam K.,,Text classification from labeled and unlabeled documents using EM,2000,Machine Learning,1883,10.1023/a:1007692713085,United States,Article,Pittsburgh,1,Journal,2-s2.0-0033886806
+Blum A.,,Combining labeled and unlabeled data with co-training,1998,Proceedings of the Annual ACM Conference on Computational Learning Theory,3259,10.1145/279943.279962,United States,Conference Paper,Pittsburgh,0,Conference Proceeding,2-s2.0-0031620208
+Freund Y.,,Selective Sampling Using the Query by Committee Algorithm,1997,Machine Learning,689,10.1023/a:1007330508534,United States,Article,Florham Park,1,Journal,2-s2.0-0031209604
+Freund Y.,,A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting,1997,Journal of Computer and System Sciences,7899,10.1006/jcss.1997.1504,United States,Article,Florham Park,1,Journal,2-s2.0-0031211090
+Breiman L.,,Bagging predictors,1996,Machine Learning,13227,10.1023/A:1018054314350,United States,Article,Berkeley,1,Journal,2-s2.0-0030211964
+Cohn D.A.,,Active learning with statistical models,1996,Journal of Artificial Intelligence Research,915,10.1613/jair.295,United States,Article,Cambridge,1,Journal,2-s2.0-0029679131
+Lewis D.D.,,A sequential algorithm for training text classifiers,1994,"Proceedings of the 17th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 1994",1144,10.1007/978-1-4471-2099-5_1,United States,Conference Paper,Murray,0,Conference Proceeding,2-s2.0-85013879626
+Seung H.S.,,Query by committee,1992,Proceedings of the Fifth Annual ACM Workshop on Computational Learning Theory,856,10.1145/130385.130417,Israel,Conference Paper,Jerusalem,0,Conference Proceeding,2-s2.0-0026981853

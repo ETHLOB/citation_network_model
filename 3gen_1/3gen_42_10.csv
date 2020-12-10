@@ -1,0 +1,6 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Zhu X.,,Semi-Supervised Learning Using Gaussian Fields and Harmonic Functions,2003,"Proceedings, Twentieth International Conference on Machine Learning",2480,,United States,Conference Paper,Pittsburgh,0,Conference Proceeding,2-s2.0-1942484430
+Chapelle O.,,Cluster kernels for semi-supervised learning,2003,Advances in Neural Information Processing Systems,195,,Germany,Conference Paper,Tubingen,0,Conference Proceeding,2-s2.0-50649084677
+Jow H.,,Bayesian phylogenetics using an RNA substitution model applied to early mammalian evolution,2002,Molecular Biology and Evolution,137,10.1093/oxfordjournals.molbev.a004221,United Kingdom,Article,Manchester,0,Journal,2-s2.0-0036728808
+Szummer M.,,Partially labeled classification with markov random walks,2002,Advances in Neural Information Processing Systems,209,,United States,Conference Paper,Cambridge,0,Conference Proceeding,2-s2.0-84858874031
+Haussler D.,,Bounds on the Sample Complexity of Bayesian Learning Using Information Theory and the VC Dimension,1994,Machine Learning,67,10.1023/A:1022698821832,United States,Article,Santa Cruz,1,Journal,2-s2.0-0028132501

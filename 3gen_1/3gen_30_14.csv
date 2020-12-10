@@ -1,0 +1,18 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Zhang Y.,,Divide and conquer kernel ridge regression,2013,Journal of Machine Learning Research,61,,United States,Conference Paper,Berkeley,0,Journal,2-s2.0-84898041590
+Bach F.,,Sharp analysis of low-rank kernel matrix approximations,2013,Journal of Machine Learning Research,61,,France,Conference Paper,Paris,0,Journal,2-s2.0-84898034803
+Drineas P.,,Fast approximation of matrix coherence and statistical leverage,2012,Journal of Machine Learning Research,162,,United States,Article,Troy,0,Journal,2-s2.0-84873435224
+Tropp J.A.,,User-Friendly Tail Bounds for Sums of Random Matrices,2012,Foundations of Computational Mathematics,433,10.1007/s10208-011-9099-z,United States,Article,Pasadena,0,Journal,2-s2.0-84864315555
+Drineas P.,,Faster least squares approximation,2011,Numerische Mathematik,145,10.1007/s00211-010-0331-6,United States,Article,Troy,0,Journal,2-s2.0-78651450265
+Mahoney M.,,Randomized algorithms for matrices and data,2010,Foundations and Trends in Machine Learning,304,10.1561/2200000035,United States,Review,Palo Alto,0,Journal,2-s2.0-84856463292
+Bach F.,,Self-concordant analysis for logistic regression,2010,Electronic Journal of Statistics,57,10.1214/09-EJS521,France,Article,Paris,1,Journal,2-s2.0-80555158386
+Kumar S.,,Sampling techniques for the Nyström method,2009,Journal of Machine Learning Research,66,,United States,Conference Paper,Mountain View,0,Journal,2-s2.0-84862286216
+Mahoney M.,,CUR matrix decompositions for improved data analysis,2009,Proceedings of the National Academy of Sciences of the United States of America,307,10.1073/pnas.0803205106,United States,Article,Palo Alto,1,Journal,2-s2.0-58849086813
+Drineas P.,,Relative-error cur matrix decompositions,2008,SIAM Journal on Matrix Analysis and Applications,200,10.1137/07070471X,United States,Article,Troy,0,Journal,2-s2.0-58849107202
+Drineas P.,,Fast Monte Carlo algorithms for matrices I: Approximating matrix multiplication,2006,SIAM Journal on Computing,201,10.1137/S0097539704442684,United States,Article,Troy,0,Journal,2-s2.0-33751115359
+Drineas P.,,Fast Monte Carlo algorithms for matrices II: Computing a low-rank approximation to a matrix,2006,SIAM Journal on Computing,286,10.1137/S0097539704442696,United States,Article,Troy,0,Journal,2-s2.0-33751075906
+Frieze A.,,Fast Monte-Carlo algorithms for finding low-rank approximations,2004,Journal of the ACM,270,10.1145/1039488.1039494,United States,Article,Pittsburgh,0,Journal,2-s2.0-20444476106
+Schölkopf B.,,A generalized representer theorem,2001,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),693,10.1007/3-540-44581-1_27,United Kingdom;Australia;United States,Conference Paper,Cambridge;Canberra;New York,0,Book Series,2-s2.0-84865131152
+Williams C.,,Using the nyström method to speed up kernel machines,2001,Advances in Neural Information Processing Systems,976,,United Kingdom,Conference Paper,Edinburgh,0,Conference Proceeding,2-s2.0-84899010839
+Chatterjee S.,,"Influential observations, high leverage points, and outliers in linear regression",1986,Statistical Science,465,10.1214/ss/1177013622,United States,Article,New York,1,Journal,2-s2.0-84972496372
+Kimeldorf G.,,Some results on Tchebycheffian spline functions,1971,Journal of Mathematical Analysis and Applications,764,10.1016/0022-247X(71)90184-3,United States,Article,Tallahassee,1,Journal,2-s2.0-0015000439

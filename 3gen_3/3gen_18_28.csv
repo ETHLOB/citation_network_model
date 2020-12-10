@@ -1,0 +1,26 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Duch J.,,Community detection in complex networks using extremal optimization,2005,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",1096,10.1103/PhysRevE.72.027104,Spain,Article,Tarragona,0,Journal,2-s2.0-27244441304
+Guimerà R.,,Functional cartography of complex metabolic networks,2005,Nature,2029,10.1038/nature03288,United States,Article,Evanston,0,Journal,2-s2.0-14644396645
+Masuda N.,,Return times of random walk on generalized random graphs,2004,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",18,10.1103/PhysRevE.69.066113,Japan,Article,Wako,0,Journal,2-s2.0-42749108755
+Newman M.E.J.,,Finding and evaluating community structure in networks,2004,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",7687,10.1103/PhysRevE.69.026113,United States;United States,Article,Santa Fe;Ann Arbor,0,Journal,2-s2.0-37649028224
+Borgs C.,,Exploring the community structure of newsgroups,2004,KDD-2004 - Proceedings of the Tenth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,32,10.1145/1014052.1016914,,Conference Paper,,0,Conference Proceeding,2-s2.0-12244273278
+Flake G.,,Graph clustering and minimum cut trees,2004,Internet Mathematics,211,10.1080/15427951.2004.10129093,United States,Article,Sunnyvale,1,Journal,2-s2.0-84906283185
+Bu D.,,Topological structure analysis of the protein-protein interaction network in budding yeast,2003,Nucleic Acids Research,501,10.1093/nar/gkg340,China,Article,Beijing,1,Journal,2-s2.0-0038074373
+Brandes U.,,Experiments on graph clustering algorithms,2003,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),157,10.1007/978-3-540-39658-1_52,Germany;Germany,Article,Karlsruhe;Passau,0,Book Series,2-s2.0-0142214892
+Newman M.,,The structure and function of complex networks,2003,SIAM Review,11537,10.1137/S003614450342480,United States,Review,Ann Arbor,0,Journal,2-s2.0-0038718854
+Albert R.,,Statistical mechanics of complex networks,2002,Reviews of Modern Physics,13645,10.1103/RevModPhys.74.47,United States;United States,Article,Minneapolis;Notre Dame,0,Journal,2-s2.0-0036013593
+Girvan M.,,Community structure in social and biological networks,2002,Proceedings of the National Academy of Sciences of the United States of America,8662,10.1073/pnas.122653799,United States;United States,Article,Santa Fe;Ithaca,1,Journal,2-s2.0-0037062448
+Gusfield D.,,Partition-distance: A problem and class of perfect graphs arising in clustering,2002,Information Processing Letters,110,10.1016/S0020-0190(01)00263-0,United States,Article,Davis,0,Journal,2-s2.0-0037118191
+Newman M.E.J.,,Scientific collaboration networks. I. Network construction and fundamental results,2001,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",1361,,United States,Article,Santa Fe,0,Journal,2-s2.0-0035395881
+Liljeros F.,,Social networks: The web of human sexual contacts,2001,Nature,1172,10.1038/35082140,Sweden,Article,Stockholm,0,Journal,2-s2.0-0035927795
+Jeong H.,,Lethality and centrality in protein networks,2001,Nature,3479,10.1038/35075138,United States,Article,Notre Dame,0,Journal,2-s2.0-0035799707
+Harel D.,,On clustering using random walks,2001,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),68,10.1007/3-540-45294-x_3,Israel,Conference Paper,Rehovot,0,Book Series,2-s2.0-84944038341
+Aiello W.,,A random graph model for massive graphs,2000,Proceedings of the Annual ACM Symposium on Theory of Computing,597,10.1145/335305.335326,United States,Conference Paper,Florham Park,0,Conference Proceeding,2-s2.0-0033687763
+Jeong H.,,The large-scale organization of metabolic networks,2000,Nature,3533,10.1038/35036627,United States,Article,Notre Dame,0,Journal,2-s2.0-0034609791
+Albert R.,,Error and attack tolerance of complex networks,2000,Nature,5597,10.1038/35019019,United States,Article,Notre Dame,0,Journal,2-s2.0-0034721164
+Jain A.,,Data clustering: A review,1999,ACM Computing Surveys,8758,10.1145/331499.331504,United States,Conference Paper,East Lansing,0,Journal,2-s2.0-84893405732
+Barabási A.,,Emergence of scaling in random networks,1999,Science,22122,10.1126/science.286.5439.509,United States,Article,Notre Dame,0,Journal,2-s2.0-0038483826
+Albert R.,,Diameter of the world-wide web,1999,Nature,3115,10.1038/43601,United States,Article,Notre Dame,0,Journal,2-s2.0-0033539175
+Watts D.J.,,Collective dynamics of 'small-world9 networks,1998,Nature,25779,10.1038/30918,United States,Article,Ithaca,0,Journal,2-s2.0-0032482432
+Gibson D.,,Inferring Web communities from link topology,1998,Proceedings of the ACM Conference on Hypertext,478,10.1145/276627.276652,United States,Conference Paper,Berkeley,0,Conference Proceeding,2-s2.0-0031617713
+Simon H.,,Partitioning of unstructured problems for parallel processing,1991,Computing Systems in Engineering,416,10.1016/0956-0521(91)90014-V,United States,Article,Moffett Field,0,Journal,2-s2.0-44949282112

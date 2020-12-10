@@ -1,0 +1,17 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Ford L.,,Flows in networks,2015,Flows in Networks,2984,,United States,Book,Houston,0,Book,2-s2.0-84957946170
+Sanchis L.,,Multiple-Way Network Partitioning,1989,IEEE Transactions on Computers,194,10.1109/12.8730,United States,Article,Rochester,0,Journal,2-s2.0-0024481167
+Sechen C.,,Improved objective function for mincut circuit partitioning,1988,,21,,United States,Conference Paper,New Haven,0,Conference Proceeding,2-s2.0-0024178684
+Schuier D.,,Clustering and linear placement,1988,Proceedings - Design Automation Conference,32,10.1145/62882.62885,United States,Conference Paper,New York,0,Conference Proceeding,2-s2.0-84893812096
+Camposano R.,,PARTITIONING BEFORE LOGIC SYNTHESIS.,1987,,16,,United States,Conference Paper,Armonk,0,Conference Proceeding,2-s2.0-0023600384
+Dai W.,,Simultaneous Floor Planning and Global Routing for Hierarchical Building-Block Layout,1987,IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems,53,10.1109/TCAD.1987.1270326,United States,Article,Berkeley,0,Journal,2-s2.0-0000359078
+Frankle J.,,CIRCUIT PLACEMENTS AND COST BOUNDS BY EIGENVECTOR DECOMPOSITION.,1986,,33,,United States,Conference Paper,Berkeley,0,Conference Proceeding,2-s2.0-0022983522
+Krishnamurthy B.,,An Improved Min-Cut Algorithm For Partitioning VLSI Networks,1984,IEEE Transactions on Computers,179,10.1109/TC.1984.1676460,United States,Article,Niskayuna,0,Journal,2-s2.0-0021425044
+Hennessy J.,,PARTITIONING PROGRAMMABLE LOGIC ARRAYS SUMMARY.,1983,,9,,,Conference Paper,,0,Conference Proceeding,2-s2.0-0020942647
+McFarland M.C.,,COMPUTER-AIDED PARTITIONING OF BEHAVIORAL HARDWARE DESCRIPTIONS.,1983,Proceedings - Design Automation Conference,18,10.1109/dac.1983.1585695,,Conference Paper,,0,Conference Proceeding,2-s2.0-0020591653
+Kirkpatrick S.,,Optimization by simulated annealing,1983,Science,26831,10.1126/science.220.4598.671,United States,Article,Yorktown Heights,0,Journal,2-s2.0-26444479778
+Fiduccia C.,,A linear-time heuristic for improving network partitions,1982,Proceedings - Design Automation Conference,1322,10.1109/DAC.1982.1585498,United States,Conference Paper,Niskayuna,0,Conference Proceeding,2-s2.0-85046457769
+Schweikert D.,,A proper model for the partitioning of electrical circuits,1972,Proceedings - Design Automation Conference,107,10.1145/800153.804930,United States,Conference Paper,Murray,0,Conference Proceeding,2-s2.0-85025041244
+Onaga K.,,On Feasibility Conditions of Multicommodity Flows in Networks,1971,IEEE Transactions on Circuit Theory,92,10.1109/TCT.1971.1083312,Japan,Article,Suita,0,Journal,2-s2.0-0015095649
+Kernighan B.,,An Efficient Heuristic Procedure for Partitioning Graphs,1970,Bell System Technical Journal,3149,10.1002/j.1538-7305.1970.tb01770.x,,Article,,0,Journal,2-s2.0-84990479742
+CHARNEY HR,,EFFICIENT PARTITIONING OF COMPONENTS,1968,,24,,,Conference Paper,,0,Journal,2-s2.0-85069387521

@@ -1,0 +1,16 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Covões T.,,An experimental study on unsupervised clustering-based feature selection methods,2009,ISDA 2009 - 9th International Conference on Intelligent Systems Design and Applications,2,10.1109/ISDA.2009.79,Brazil,Conference Paper,Sao Paulo,0,Conference Proceeding,2-s2.0-77949502181
+Covões T.,,A cluster-based feature selection approach,2009,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),20,10.1007/978-3-642-02319-4_20,Brazil,Conference Paper,Sao Paulo,0,Book Series,2-s2.0-70350675107
+Campello R.,,On comparing two sequences of numbers and its applications to clustering analysis,2009,Information Sciences,29,10.1016/j.ins.2008.11.028,Brazil,Article,Sao Paulo,0,Journal,2-s2.0-59349105139
+Hruschka E.,,Evolving clusters in gene-expression data,2006,Information Sciences,111,10.1016/j.ins.2005.07.015,Brazil,Article,Santos,0,Journal,2-s2.0-33748296225
+Demšar J.,,Statistical comparisons of classifiers over multiple data sets,2006,Journal of Machine Learning Research,6246,,Slovenia,Article,Ljubljana,0,Journal,2-s2.0-29644438050
+Liu H.,,Toward integrating feature selection algorithms for classification and clustering,2005,IEEE Transactions on Knowledge and Data Engineering,1824,10.1109/TKDE.2005.66,United States,Article,Tempe,0,Journal,2-s2.0-17044405923
+Reunanen J.,,Overfitting in making comparisons between variable selection methods,2003,Journal of Machine Learning Research,318,,Finland,Article,Vaasa,0,Journal,2-s2.0-84890445089
+Iguyon I.,,An introduction to variable and feature selection,2003,Journal of Machine Learning Research,9130,,United States,Review,Berkeley,0,Journal,2-s2.0-33745561205
+Yeung K.,,Clustering gene-expression data with repeated measurements.,2003,Genome biology,160,,United States,Article,Seattle,0,Journal,2-s2.0-0037667290
+Mitra P.,,Unsupervised feature selection using feature similarity,2002,IEEE Transactions on Pattern Analysis and Machine Intelligence,989,10.1109/34.990133,India;United States,Article,Kolkata;New York,0,Journal,2-s2.0-0036522403
+Heyer L.,,Exploring expression data identification and analysis of coexpressed genes,1999,Genome Research,765,10.1101/gr.9.11.1106,,Article,,1,Journal,2-s2.0-0032729435
+Zhang T.,,BIRCH: A new data clustering algorithm and its applications,1997,Data Mining and Knowledge Discovery,443,10.1023/A:1009783824328,United States;United States,Article,Madison;San Jose,0,Journal,2-s2.0-21944442892
+Blum A.L.,,Selection of relevant features and examples in machine learning,1997,Artificial Intelligence,1971,10.1016/s0004-3702(97)00063-5,United States,Article,Pittsburgh,1,Journal,2-s2.0-0031334221
+Kohavi R.,,Wrappers for feature subset selection,1997,Artificial Intelligence,5483,10.1016/s0004-3702(97)00043-x,United States,Article,Mountain View,1,Journal,2-s2.0-0031381525
+Goodman L.,,Measures of Association for Cross Classifications*,1954,Journal of the American Statistical Association,1544,10.1080/01621459.1954.10501231,United States,Article,Chicago,0,Journal,2-s2.0-34248978779

@@ -1,0 +1,32 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Chen B.,,Identifying protein complexes in protein-protein interaction networks by using clique seeds and graph entropy,2013,Proteomics,31,10.1002/pmic.201200336,Canada,Article,Saskatoon,0,Journal,2-s2.0-84872678695
+Chen B.,,Not all protein complexes exhibit dense structures in S. cerevisiae PPI network,2012,"Proceedings - 2012 IEEE International Conference on Bioinformatics and Biomedicine, BIBM 2012",7,10.1109/BIBM.2012.6392726,Canada,Conference Paper,Saskatoon,0,Conference Proceeding,2-s2.0-84872531671
+Nesvizhskii A.,,Computational and informatics strategies for identification of specific protein interaction partners in affinity purification mass spectrometry experiments,2012,Proteomics,59,10.1002/pmic.201100537,United States,Review,Ann Arbor,0,Journal,2-s2.0-84862660561
+Nepusz T.,,Detecting overlapping protein complexes in protein-protein interaction networks,2012,Nature Methods,707,10.1038/nmeth.1938,United Kingdom,Article,Egham,0,Journal,2-s2.0-84860361165
+Yu L.,,Identification of core-attachment complexes based on maximal frequent patterns in protein-protein interaction networks,2011,Proteomics,9,10.1002/pmic.201100194,China,Article,Xi'an,0,Journal,2-s2.0-80053019467
+Kenley E.,,Detecting protein complexes and functional modules from protein interaction networks: A graph entropy approach,2011,Proteomics,34,10.1002/pmic.201100193,United States,Article,Waco,0,Journal,2-s2.0-80053007682
+Ruepp A.,,CORUM: The comprehensive resource of mammalian protein complexes-2009,2009,Nucleic Acids Research,478,10.1093/nar/gkp914,Germany,Article,Neuherberg,1,Journal,2-s2.0-75549091794
+Wu M.,,A core-attachment based method to detect protein complexes in PPI networks,2009,BMC Bioinformatics,277,10.1186/1471-2105-10-169,Singapore,Article,Singapore City,1,Journal,2-s2.0-67649518162
+Georgii E.,,Enumeration of condition-dependent dense modules in protein interaction networks,2009,Bioinformatics,66,10.1093/bioinformatics/btp080,Germany;Germany,Article,Tubingen;Tubingen,1,Journal,2-s2.0-63549103226
+Leung H.,,Predicting protein complexes from PPI data: A core-attachment approach,2009,Journal of Computational Biology,169,10.1089/cmb.2008.01TT,Hong Kong,Article,Pokfulam,0,Journal,2-s2.0-59649099220
+Keshava Prasad T.S.,,Human Protein Reference Database - 2009 update,2009,Nucleic Acids Research,2151,10.1093/nar/gkn892,India,Article,Bangalore,1,Journal,2-s2.0-58149193222
+Yang J.,,An integrated database-pipeline system for studying single nucleotide polymorphisms and diseases,2008,BMC Bioinformatics,29,10.1186/1471-2105-9-S12-S19,South Korea,Conference Paper,Yusong,1,Journal,2-s2.0-57649232146
+Van Dongen S.,,Graph clustering via a discrete uncoupling process,2008,SIAM Journal on Matrix Analysis and Applications,275,10.1137/040608635,Netherlands;United Kingdom,Article,Amsterdam;Hinxton,0,Journal,2-s2.0-61849113253
+Pang C.,,"Are protein complexes made of cores, modules and attachments?",2008,Proteomics,28,10.1002/pmic.200700801,Australia,Article,Sydney,0,Journal,2-s2.0-39149104693
+Hong E.,,Gene Ontology annotations at SGD: New data sources and annotation methods,2008,Nucleic Acids Research,186,10.1093/nar/gkm909,United States,Article,Palo Alto,1,Journal,2-s2.0-38549123363
+Ruepp A.,,CORUM: The comprehensive resource of mammalian protein complexes,2008,Nucleic Acids Research,240,10.1093/nar/gkm936,Germany,Article,Neuherberg,1,Journal,2-s2.0-38549163153
+Hart G.,,How complete are current yeast and human protein-interaction networks?,2006,Genome Biology,295,10.1186/gb-2006-7-11-120,United States,Article,Austin,1,Journal,2-s2.0-33847744247
+Gavin A.,,Proteome survey reveals modularity of the yeast cell machinery,2006,Nature,1939,10.1038/nature04532,United Kingdom;Germany,Article,Brentford;Heidelberg,0,Journal,2-s2.0-33644555054
+Krogan N.,,Global landscape of protein complexes in the yeast Saccharomyces cerevisiae,2006,Nature,2047,10.1038/nature04670,United States;Canada,Article,San Francisco;Toronto,0,Journal,2-s2.0-33645453254
+Rual J.F.,,Towards a proteome-scale map of the human protein-protein interaction network,2005,Nature,2019,10.1038/nature04209,United States;United States,Article,Boston;Boston,0,Journal,2-s2.0-27144530248
+Li X.,,Interaction graph mining for protein complexes using local clique merging.,2005,Genome informatics. International Conference on Genome Informatics,110,,Singapore,Article,Singapore City,0,Journal,2-s2.0-33748579201
+King A.,,Protein complex prediction via cost-based clustering,2004,Bioinformatics,513,10.1093/bioinformatics/bth351,Canada,Article,Toronto,1,Journal,2-s2.0-10244264813
+Mewes H.,,MIPS: Analysis and annotation of proteins from whole genomes,2004,Nucleic Acids Research,451,,Germany;Germany,Article,Neuherberg;Munich,0,Journal,2-s2.0-9144242935
+Salwinski L.,,The Database of Interacting Proteins: 2004 update,2004,Nucleic Acids Research,1494,,United States,Article,Los Angeles,0,Journal,2-s2.0-0347755535
+Samanta M.,,Predicting protein functions from redundancies in large-scale protein interaction networks,2003,Proceedings of the National Academy of Sciences of the United States of America,237,10.1073/pnas.2132527100,United States,Article,Moffett Field,1,Journal,2-s2.0-0242268461
+Spirin V.,,Protein complexes and functional modules in molecular networks,2003,Proceedings of the National Academy of Sciences of the United States of America,1067,10.1073/pnas.2032324100,United States,Article,Cambridge,1,Journal,2-s2.0-0142059836
+Bu D.,,Topological structure analysis of the protein-protein interaction network in budding yeast,2003,Nucleic Acids Research,501,10.1093/nar/gkg340,China,Article,Beijing,1,Journal,2-s2.0-0038074373
+Bader G.,,An automated method for finding molecular complexes in large protein interaction networks,2003,BMC Bioinformatics,2446,10.1186/1471-2105-4-2,Canada;Canada;United States,Article,Toronto;Toronto;New York,1,Journal,2-s2.0-2942552459
+Gavin A.C.,,Functional organization of the yeast proteome by systematic analysis of protein complexes,2002,Nature,3691,10.1038/415141a,United Kingdom,Article,Brentford,0,Journal,2-s2.0-0037050026
+Ashburner M.,,Gene ontology: Tool for the unification of biology,2000,Nature Genetics,21184,10.1038/75556,,Review,,0,Journal,2-s2.0-0034069495
+Uetz P.,,A comprehensive analysis of protein-protein interactions in Saccharomyces cerevisiae,2000,Nature,3756,10.1038/35001009,United States,Article,Seattle,0,Journal,2-s2.0-0034628508

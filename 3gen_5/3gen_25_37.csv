@@ -1,0 +1,17 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Kim Y.,,ProbeMatch: Rapid alignment of oligonucleotides to genome allowing both gaps and mismatches,2009,Bioinformatics,12,10.1093/bioinformatics/btp178,United States,Article,Ann Arbor,1,Journal,2-s2.0-65649116903
+Schatz M.,,CloudBurst: Highly sensitive read mapping with MapReduce,2009,Bioinformatics,481,10.1093/bioinformatics/btp236,United States,Article,College Park,1,Journal,2-s2.0-65649120715
+Eaves H.,,MOM: Maximum oligonucleotide mapping,2009,Bioinformatics,29,10.1093/bioinformatics/btp092,United States,Article,Richmond,1,Journal,2-s2.0-63549110603
+Campagna D.,,PASS: A program to align short sequences,2009,Bioinformatics,90,10.1093/bioinformatics/btp087,Italy,Article,Padua,1,Journal,2-s2.0-63549114801
+Langmead B.,,Ultrafast and memory-efficient alignment of short DNA sequences to the human genome,2009,Genome Biology,11983,10.1186/gb-2009-10-3-r25,United States,Article,College Park,1,Journal,2-s2.0-62349130698
+Malhis N.,,Slider - Maximum use of probability information for alignment of short sequence reads and SNP detection,2009,Bioinformatics,38,10.1093/bioinformatics/btn565,Canada,Article,Vancouver,1,Journal,2-s2.0-58049195681
+Lin H.,,ZOOM! Zillions of oligos mapped,2008,Bioinformatics,148,10.1093/bioinformatics/btn416,China,Article,Beijing,1,Journal,2-s2.0-54949110994
+Li H.,,Mapping short DNA sequencing reads and calling variants using mapping quality scores,2008,Genome Research,1880,10.1101/gr.078212.108,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-55549097836
+Jiang H.,,SeqMap: Mapping massive amount of oligonucleotides to the genome,2008,Bioinformatics,287,10.1093/bioinformatics/btn429,United States,Article,Palo Alto,0,Journal,2-s2.0-53749083993
+Lam T.,,Compressed indexing and local alignment of DNA,2008,Bioinformatics,80,10.1093/bioinformatics/btn032,Hong Kong,Article,Pokfulam,1,Journal,2-s2.0-40749108125
+Li R.,,SOAP: Short oligonucleotide alignment program,2008,Bioinformatics,1610,10.1093/bioinformatics/btn025,China;Denmark,Article,Shenzhen;Odense,1,Journal,2-s2.0-40049104732
+Smith A.,,Using quality scores and longer reads improves accuracy of Solexa read mapping,2008,BMC Bioinformatics,230,10.1186/1471-2105-9-128,United States,Article,Cold Spring Harbor,1,Journal,2-s2.0-41249096306
+Hon W.,,A space and time efficient algorithm for constructing compressed suffix arrays,2007,Algorithmica (New York),49,10.1007/s00453-006-1228-8,Hong Kong,Article,Pokfulam,0,Journal,2-s2.0-34547375123
+Lippert R.,,Space-efficient whole genome comparisons with Burrows-Wheeler transforms,2005,Journal of Computational Biology,35,10.1089/cmb.2005.12.407,United States,Review,Cambridge,0,Journal,2-s2.0-18844405663
+Grossi R.,,Compressed suffix arrays and suffix trees with applications to text indexing and string matching (extended abstract),2000,Proceedings of the Annual ACM Symposium on Theory of Computing,202,10.1145/335305.335351,Italy,Conference Paper,Pisa,0,Conference Proceeding,2-s2.0-0033690274
+Ferragina P.,,Opportunistic data structures with applications,2000,Annual Symposium on Foundations of Computer Science - Proceedings,617,,Italy,Conference Paper,Pisa,0,Conference Proceeding,2-s2.0-0034506014

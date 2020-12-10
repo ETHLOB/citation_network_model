@@ -1,0 +1,56 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Miklós D.,,The addition game: an abstraction of a communication problem,1988,Discrete Mathematics,1,10.1016/0012-365X(88)90118-5,Hungary,Article,Budapest,1,Journal,2-s2.0-45549116714
+Richards D.,,Generalizations of broadcasting and gossiping,1988,Networks,41,10.1002/net.3230180205,United States,Article,Charlottesville,0,Journal,2-s2.0-84987012280
+Alon N.,,ON DISSEMINATING INFORMATION RELIABLY WITHOUT BROADCASTING.,1987,Proceedings - International Conference on Distributed Computing Systems,29,,Israel,Conference Paper,Tel Aviv-Yafo,0,Conference Proceeding,2-s2.0-0023565748
+Pittel B.,,ON SPREADING A RUMOR.,Feb,SIAM Journal on Applied Mathematics,240,10.1137/0147013,United States,Article,Columbus,0,Journal,2-s2.0-0023289344
+Seress A.,,Quick gossiping without duplicate transmissions,1986,Graphs and Combinatorics,12,10.1007/BF01788111,United States,Article,Columbus,0,Journal,2-s2.0-33747819262
+Topkis D.,,CONCURRENT BROADCAST FOR INFORMATION DISSEMINATION.,Nov,IEEE Transactions on Software Engineering,20,10.1109/TSE.1985.231858,United States,Article,Murray,0,Journal,2-s2.0-0022147743
+Liestman A.,,Fault‐tolerant broadcast graphs,1985,Networks,36,10.1002/net.3230150203,Canada,Article,Burnaby,0,Journal,2-s2.0-0022076604
+Frieze A.,,The shortest-path problem for graphs with random arc-lengths,1985,Discrete Applied Mathematics,183,10.1016/0166-218X(85)90059-9,United Kingdom,Article,London,1,Journal,2-s2.0-0021825926
+Liestman A.,,Toward optimal gossiping schemes with conference calls,1984,Discrete Applied Mathematics,2,10.1016/0166-218X(84)90065-9,Canada,Article,Burnaby,1,Journal,2-s2.0-0021371065
+Scheuermann P.,,Heuristic Algorithms for Broadcasting in Point-to-Point Computer Networks,1984,IEEE Transactions on Computers,33,10.1109/TC.1984.1676496,United States,Article,Evanston,0,Journal,2-s2.0-0021494627
+Assmann S.,,The number of rounds needed to exchange information within a graph,1983,Discrete Applied Mathematics,3,10.1016/0166-218X(83)90065-3,United States,Article,Cambridge,1,Journal,2-s2.0-0020789603
+Seress A.,,Gossiping old ladies,1983,Discrete Mathematics,4,10.1016/0012-365X(83)90272-8,Hungary,Article,Budapest,1,Journal,2-s2.0-49049128985
+Wall D.,,Construction of centered shortest‐path trees in networks,1983,Networks,6,10.1002/net.3230130206,United States,Article,University Park,0,Journal,2-s2.0-0020765681
+Wald J.,,"Steiner trees, partial 2–trees, and minimum IFI networks",1983,Networks,138,10.1002/net.3230130202,Canada,Article,Saskatoon,0,Journal,2-s2.0-0020767156
+West D.,,"A class of solutions to the gossip problem, part III",1982,Discrete Mathematics,6,10.1016/0012-365X(82)90128-5,United States,Article,Princeton,1,Journal,2-s2.0-0040112008
+West D.,,"A class of solutions to the gossip problem, part I",1982,Discrete Mathematics,17,10.1016/0012-365X(82)90153-4,United States,Article,Princeton,1,Journal,2-s2.0-0039520355
+Farley A.,,Networks immune to isolated line failures,1982,Networks,19,10.1002/net.3230120404,United States,Article,Eugene,0,Journal,2-s2.0-0020252430
+Klarner D.,,Mathematical crystal growth II,1981,Discrete Applied Mathematics,9,10.1016/0166-218X(81)90036-6,Netherlands,Article,Eindhoven,1,Journal,2-s2.0-0019551554
+Klarner D.,,Mathematical crystal growth I,1981,Discrete Applied Mathematics,10,10.1016/0166-218X(81)90027-5,Netherlands,Article,Eindhoven,1,Journal,2-s2.0-0039139883
+Proskurowski A.,,Minimum Broadcast Trees,1981,IEEE Transactions on Computers,31,10.1109/TC.1981.1675796,United States,Article,Eugene,0,Journal,2-s2.0-0019571687
+Farley A.,,Networks immune to isolated failures,1981,Networks,32,10.1002/net.3230110304,United States,Article,Eugene,0,Journal,2-s2.0-0019607147
+Peck G.,,Optimal Spreading in an n Dimensional Rectilinear Grid,1980,Studies in Applied Mathematics,6,10.1002/sapm198062169,United States,Article,Cambridge,0,Journal,2-s2.0-0018984245
+Cederbaum I.,,ON THE SPREAD OF INFORMATION IN COMMUNICATION NETS.,Jun,Matrix and Tensor Quarterly,3,,,Article,,0,Journal,2-s2.0-0019029832
+Kleitman D.,,Further gossip problems,1980,Discrete Mathematics,24,10.1016/0012-365X(80)90116-8,United States,Article,Cambridge,1,Journal,2-s2.0-0007018830
+Farley A.,,Minimum‐time line broadcast networks,1980,Networks,53,10.1002/net.3230100106,United States,Article,Eugene,0,Journal,2-s2.0-0018998813
+Farley A.,,BROADCAST TIME IN COMMUNICATION NETWORKS.,Oct,SIAM Journal on Applied Mathematics,54,10.1137/0139032,,Article,,0,Journal,2-s2.0-0019071448
+Entringer R.C.,,Gossips and telegraphs,1979,Journal of the Franklin Institute,33,10.1016/0016-0032(79)90004-8,United States,Article,Albuquerque,0,Journal,2-s2.0-0011317581
+Farley A.,,Minimal broadcast networks,1979,Networks,75,10.1002/net.3230090404,United States,Article,Eugene,0,Journal,2-s2.0-0018738246
+Farley A.,,Minimum broadcast graphs,1979,Discrete Mathematics,79,10.1016/0012-365X(79)90022-0,United States,Article,Eugene,1,Journal,2-s2.0-0000024018
+Dalal Y.,,Reverse Path Forwarding of Broadcast Packets,1978,Communications of the ACM,260,10.1145/359657.359665,United States,Article,Palo Alto,0,Journal,2-s2.0-0018051340
+Vuillemin J.,,A Data Structure for Manipulating Priority Queues,1978,Communications of the ACM,164,10.1145/359460.359478,France,Article,Gif-sur-Yvette,0,Journal,2-s2.0-0017961374
+Gentleman W.,,Some Complexity Results for Matrix Computations on Parallel Processors,1978,Journal of the ACM (JACM),81,10.1145/322047.322057,Canada,Article,Waterloo,0,Journal,2-s2.0-84976762247
+Schmitt P.,,Spreading information by conferences,1976,Discrete Mathematics,6,10.1016/0012-365X(76)90033-9,Austria,Article,Vienna,1,Journal,2-s2.0-49549128513
+Knödel W.,,New gossips and telephones,1975,Discrete Mathematics,102,10.1016/0012-365X(75)90090-4,Germany,Article,Stuttgart,1,Journal,2-s2.0-49549144327
+Harary F.,,Efficiency of dissemination of information in one‐way and two‐way communication networks,1974,Behavioral Science,7,10.1002/bs.3830190207,United States,Article,Ann Arbor,0,Journal,2-s2.0-84980170561
+Harary F.,,The communication problem on graphs and digraphs,1974,Journal of the Franklin Institute,28,10.1016/0016-0032(74)90126-4,United States,Article,Ann Arbor,0,Journal,2-s2.0-0016073009
+Berman G.,,The gossip problem,1973,Discrete Mathematics,8,10.1016/0012-365X(73)90121-0,Canada,Article,Waterloo,1,Journal,2-s2.0-30244545384
+Baker B.,,Gossips and telephones,1972,Discrete Mathematics,80,10.1016/0012-365X(72)90001-5,United States,Article,Cambridge,1,Journal,2-s2.0-0001569845
+Daley D.,,Concerning the spread of news in a population of individuals who never forget,1967,The Bulletin of Mathematical Biophysics,8,10.1007/BF02476908,United Kingdom,Article,Cambridge,0,Journal,2-s2.0-0014098842
+Goffman W.,,Mathematical approach to the spread of scientific ideas - The history of mast cell research,1966,Nature,81,10.1038/212449a0,United States,Article,Cleveland,0,Journal,2-s2.0-0014031322
+Daley D.,,Stochastic rumours,1965,IMA Journal of Applied Mathematics (Institute of Mathematics and Its Applications),309,10.1093/imamat/1.1.42,United Kingdom,Article,Cambridge,0,Journal,2-s2.0-0008904616
+Goffman W.,,Generalization of epidemic theory: An application to the transmission of ideas,1964,Nature,184,10.1038/204225a0,United States,Article,Cleveland,0,Journal,2-s2.0-0001146495
+Daley D.,,Epidemics and Rumours [49],1964,Nature,312,10.1038/2041118a0,United Kingdom,Letter,Cambridge,0,Journal,2-s2.0-4143136066
+Landau H.,,The distribution of completion times for random communication in a task-oriented group,1954,The Bulletin of Mathematical Biophysics,7,10.1007/BF02478413,United States,Article,Chicago,0,Journal,2-s2.0-51249195301
+Rapoport A.,,Spread of information through a population with socio-structural bias: III. Suggested experimental procedures,1954,The Bulletin of Mathematical Biophysics,20,10.1007/BF02481814,United States,Article,Chicago,0,Journal,2-s2.0-51649219326
+Rapoport A.,,Spread of information through a population with socio-structural bias: II. Various models with partial transitivity,1953,The Bulletin of Mathematical Biophysics,62,10.1007/BF02476441,United States,Article,Chicago,0,Journal,2-s2.0-51649210292
+Rapoport A.,,Spread of information through a population with socio-structural bias: I. Assumption of transitivity,1953,The Bulletin of Mathematical Biophysics,245,10.1007/BF02476440,United States,Article,Chicago,0,Journal,2-s2.0-51649205391
+Landahl H.,,On the spread of information with time and distance,1953,The Bulletin of Mathematical Biophysics,8,10.1007/BF02476410,United States,Article,Chicago,0,Journal,2-s2.0-51249193698
+Landau H.,,Contribution to the mathematical theory of contagion and spread of information: I. Spread through a thoroughly mixed population,1953,The Bulletin of Mathematical Biophysics,16,10.1007/BF02476383,United States,Article,Chicago,0,Journal,2-s2.0-51249195105
+Rapoport A.,,On the mathematical theory of rumor spread,1952,The Bulletin of Mathematical Biophysics,29,10.1007/BF02477853,United States,Article,Chicago,0,Journal,2-s2.0-51249194623
+Solomonoff R.,,An exact method for the computation of the connectivity of random nets,1952,The Bulletin of Mathematical Biophysics,8,10.1007/BF02477714,United States,Article,Chicago,0,Journal,2-s2.0-51249194555
+Shimbel A.,,Applications of matrix algebra to communication nets,1951,The Bulletin of Mathematical Biophysics,8,10.1007/BF02478225,United States,Article,Chicago,0,Journal,2-s2.0-51249194132
+Rapoport A.,,Nets with distance bias,1951,The Bulletin of Mathematical Biophysics,22,10.1007/BF02478355,United States,Article,Chicago,0,Journal,2-s2.0-51249195429
+Solomonoff R.,,Connectivity of random nets,1951,The Bulletin of Mathematical Biophysics,191,10.1007/BF02478357,United States,Article,Chicago,0,Journal,2-s2.0-51649210138
+Bavelas A.,,Communication Patterns in Task-Oriented Groups,1950,Journal of the Acoustical Society of America,846,10.1121/1.1906679,United States,Article,Cambridge,0,Journal,2-s2.0-84926486486

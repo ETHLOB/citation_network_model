@@ -1,0 +1,26 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Hubbard T.J.P.,,Ensembl 2007,2007,Nucleic Acids Research,532,10.1093/nar/gkl996,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-33846039019
+Barrett T.,,NCBI GEO: Mining tens of millions of expression profiles - Database and tools update,2007,Nucleic Acids Research,930,10.1093/nar/gkl887,United States,Article,Bethesda,1,Journal,2-s2.0-33846064113
+Matys V.,,TRANSFAC and its module TRANSCompel: transcriptional gene regulation in eukaryotes.,2006,Nucleic acids research,1503,10.1093/nar/gkj143,Germany,Article,Wolfenbuttel,1,Journal,2-s2.0-33644876958
+Kanehisa M.,,From genomics to chemical genomics: new developments in KEGG.,2006,Nucleic acids research,2079,10.1093/nar/gkj102,Japan,Article,Kyoto,1,Journal,2-s2.0-33644874819
+Khatri P.,,"Ontological analysis of gene expression data: Current tools, limitations, and open problems",2005,Bioinformatics,624,10.1093/bioinformatics/bti565,United States,Review,Detroit,1,Journal,2-s2.0-24644470505
+Al-Shahrour F.,,BABELOMICS: A suite of web tools for functional annotation and analysis of groups of genes in high-throughput experiments,2005,Nucleic Acids Research,197,10.1093/nar/gki456,Spain,Article,Madrid,1,Journal,2-s2.0-21444445084
+Joshi-Tope G.,,Reactome: A knowledgebase of biological pathways,2005,Nucleic Acids Research,860,10.1093/nar/gki072,United States,Article,Cold Spring Harbor,1,Journal,2-s2.0-13444259844
+Beißbarth T.,,GOstat: Find statistically overrepresented Gene Ontologies with a group of genes,2004,Bioinformatics,943,10.1093/bioinformatics/bth088,Australia,Article,Melbourne,1,Journal,2-s2.0-3142665525
+Al-Shahrour F.,,FatiGO: A web tool for finding significant associations of Gene Ontology terms with groups of genes,2004,Bioinformatics,823,10.1093/bioinformatics/btg455,Spain,Article,Madrid,0,Journal,2-s2.0-1542399989
+Lehner B.,,A first-draft human protein-interaction map.,2004,Genome biology,169,,United Kingdom,Article,Hinxton,0,Journal,2-s2.0-14744270216
+Kasprzk A.,,EnsMart: A generic system for fast and flexible access to biological data,2004,Genome Research,321,10.1101/gr.1645104,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-9144269670
+Buck M.J.,,"ChIP-chip: Considerations for the design, analysis, and application of genome-wide chromatin immunoprecipitation experiments",2004,Genomics,403,10.1016/j.ygeno.2003.11.004,United States,Short Survey,Chapel Hill,0,Journal,2-s2.0-1242316281
+Camon E.,,The Gene Ontology Annotation (GOA) Database: Sharing knowledge in Uniprot with Gene Oncology,2004,Nucleic Acids Research,646,,United Kingdom,Article,Cambridge,0,Journal,2-s2.0-9144252016
+Berriz G.F.,,Characterizing gene sets with FuncAssociate,2003,Bioinformatics,346,10.1093/bioinformatics/btg363,United States,Article,Boston,1,Journal,2-s2.0-0347513219
+Draghici S.,,"Onto-Tools, the toolkit of the modern biologist: Onto-Express, Onto-Compare, Onto-Design and Onto-Translate",2003,Nucleic Acids Research,291,10.1093/nar/gkg624,United States,Article,Detroit,1,Journal,2-s2.0-0042121055
+Kel A.,,MATCH™: A tool for searching transcription factor binding sites in DNA sequences,2003,Nucleic Acids Research,822,10.1093/nar/gkg585,Germany;Russian Federation,Article,Wolfenbuttel;Novosibirsk,1,Journal,2-s2.0-0041853625
+Mootha V.K.,,PGC-1α-responsive genes involved in oxidative phosphorylation are coordinately downregulated in human diabetes,2003,Nature Genetics,4392,10.1038/ng1180,United States;United States;United States,Article,Cambridge;Boston;Boston,0,Journal,2-s2.0-0038054341
+Karolchik D.,,The UCSC Genome Browser Database,2003,Nucleic Acids Research,1107,10.1093/nar/gkg129,United States,Review,Santa Cruz,1,Journal,2-s2.0-0037250168
+Dennis G.,,"DAVID: Database for Annotation, Visualization, and Integrated Discovery.",2003,Genome biology,6156,,United States,Article,Frederick,0,Journal,2-s2.0-0038005018
+Ashburner M.,,Creating the Gene Ontology resource: Design and implementation,2001,Genome Research,830,10.1101/gr.180801,,Article,,1,Journal,2-s2.0-0034887203
+Benjamini Y.,,The control of the false discovery rate in multiple testing under dependency,2001,Annals of Statistics,5328,10.1214/aos/1013699998,Israel,Article,Tel Aviv-Yafo,1,Journal,2-s2.0-0035733108
+Ito T.,,A comprehensive two-hybrid analysis to explore the yeast protein interactome,2001,Proceedings of the National Academy of Sciences of the United States of America,2800,10.1073/pnas.061034498,Japan,Article,Kanazawa,1,Journal,2-s2.0-0035836765
+Ashburner M.,,Gene ontology: Tool for the unification of biology,2000,Nature Genetics,21184,10.1038/75556,,Review,,0,Journal,2-s2.0-0034069495
+Eads C.A.,,MethyLight: a high-throughput assay to measure DNA methylation,2000,Nucleic acids research,1097,10.1093/nar/28.8.e32,United States,Article,Los Angeles,0,Journal,2-s2.0-0034654669
+Schena M.,,Quantitative monitoring of gene expression patterns with a complementary DNA microarray,1995,Science,7244,10.1126/science.270.5235.467,United States,Article,Stanford,0,Journal,2-s2.0-0028806048

@@ -1,0 +1,35 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Wang Y.,,Imperfect targeted immunization in scale-free networks,2009,Physica A: Statistical Mechanics and its Applications,31,10.1016/j.physa.2009.02.036,Singapore,Article,Singapore City,0,Journal,2-s2.0-63749119804
+Eames K.,,Epidemic prediction and control in weighted networks,2009,Epidemics,48,10.1016/j.epidem.2008.12.001,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-63349085482
+Wan Y.,,Designing spatially heterogeneous strategies for control of virus spread,2008,IET Systems Biology,81,10.1049/iet-syb:20070040,United States,Article,Pullman,0,Journal,2-s2.0-48949096245
+Chakrabarti D.,,Epidemic thresholds in real networks,2008,ACM Transactions on Information and System Security,410,10.1145/1284680.1284681,United States,Article,Pittsburgh,0,Journal,2-s2.0-39349087037
+Grant M.,,Graph implementations for nonsmooth convex programs,2008,Lecture Notes in Control and Information Sciences,1567,10.1007/978-1-84800-155-8_7,United States,Article,Palo Alto,0,Book Series,2-s2.0-36849072045
+Bai W.,,Immunization of susceptible-infected model on scale-free networks,2007,Physica A: Statistical Mechanics and its Applications,51,10.1016/j.physa.2007.04.107,China,Article,Hefei,0,Journal,2-s2.0-34548040692
+Meyers L.,,Predicting epidemics on directed contact networks,2006,Journal of Theoretical Biology,174,10.1016/j.jtbi.2005.10.004,United States;United States,Article,Santa Fe;Austin,0,Journal,2-s2.0-33646271598
+Boyd S.,,Randomized gossip algorithms,2006,IEEE Transactions on Information Theory,1536,10.1109/TIT.2006.874516,United States,Article,Palo Alto,0,Journal,2-s2.0-33745136409
+Draief M.,,Epidemic processes on complex networks: The effect of topology on the spread of epidemics,2006,Physica A: Statistical Mechanics and its Applications,26,10.1016/j.physa.2006.01.054,United Kingdom,Article,Cambridge,0,Journal,2-s2.0-33645145011
+Boccaletti S.,,Complex networks: Structure and dynamics,2006,Physics Reports,6606,10.1016/j.physrep.2005.10.009,Italy,Review,Sesto Fiorentino,0,Journal,2-s2.0-31344474880
+Burke J.,,"A robust gradient sampling algorithm for nonsmooth, nonconvex optimization",2005,SIAM Journal on Optimization,263,10.1137/030601296,United States,Article,Seattle,0,Journal,2-s2.0-23844446458
+Barthélemy M.,,Dynamical patterns of epidemic outbreaks in complex heterogeneous networks,2005,Journal of Theoretical Biology,301,10.1016/j.jtbi.2005.01.011,France,Article,Bruyeres-les-Chatel,0,Journal,2-s2.0-18044384806
+Yan G.,,Epidemic spread in weighted scale-free networks,2005,Chinese Physics Letters,188,10.1088/0256-307X/22/2/068,China,Article,Hefei,0,Journal,2-s2.0-21144433206
+Holme P.,,Efficient local strategies for vaccination and network attack,2004,Europhysics Letters,101,10.1209/epl/i2004-10286-2,Sweden;United States,Article,Umea;Ann Arbor,0,Journal,2-s2.0-10944269222
+Newman M.E.J.,,Analysis of weighted networks,2004,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",1212,10.1103/PhysRevE.70.056131,United States;United States,Article,Santa Fe;Ann Arbor,0,Journal,2-s2.0-41349096036
+Madar N.,,Immunization and epidemic dynamics in complex networks,2004,European Physical Journal B,198,10.1140/epjb/e2004-00119-8,Israel,Conference Paper,Ramat Gan,0,Journal,2-s2.0-2942672808
+Wang Y.,,Epidemic spreading in real networks: An eigenvalue viewpoint,2003,Proceedings of the IEEE Symposium on Reliable Distributed Systems,504,10.1109/RELDIS.2003.1238052,United States,Conference Paper,Pittsburgh,0,Conference Proceeding,2-s2.0-27644462218
+Liu Z.,,Propagation and immunization of infection on general networks with both homogeneous and heterogeneous components,2003,"Physical Review E - Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics",116,10.1103/PhysRevE.67.031911,United States,Article,Tempe,0,Journal,2-s2.0-85037256323
+Cohen R.,,Efficient immunization strategies for computer networks and populations,2003,Physical Review Letters,694,10.1103/PhysRevLett.91.247901,Israel,Article,Ramat Gan,0,Journal,2-s2.0-0942268259
+Boguñá M.,,Epidemic spreading in correlated complex networks,2002,"Physical Review E - Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics",360,10.1103/PhysRevE.66.047104,Spain,Article,Barcelona,0,Journal,2-s2.0-41349119541
+Zanette D.H.,,Effects of immunization in small-world epidemics,2002,Physica A: Statistical Mechanics and its Applications,68,10.1016/S0378-4371(02)00618-0,Argentina,Article,San Carlos de Bariloche,0,Journal,2-s2.0-0037097390
+Dezso Z.,,Halting viruses in scale-free networks,2002,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",401,10.1103/PhysRevE.65.055103,United States,Article,Notre Dame,0,Journal,2-s2.0-41349118476
+Pastor-Satorras R.,,Immunization of complex networks,2002,"Physical Review E - Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics",799,10.1103/PhysRevE.65.036104,Spain,Article,Barcelona,0,Journal,2-s2.0-41349106738
+Lloyd A.,,How viruses spread among computers and people,2001,Science,473,10.1126/science.1061076,United States,Short Survey,Princeton,0,Journal,2-s2.0-0035907006
+Pastor-Satorras R.,,Epidemic spreading in scale-free networks,2001,Physical Review Letters,3738,10.1103/PhysRevLett.86.3200,Spain,Article,Barcelona,0,Journal,2-s2.0-0035794256
+Pastor-Satorras R.,,Epidemic dynamics and endemic states in complex networks,2001,"Physical Review E - Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics",1153,10.1103/PhysRevE.63.066117,Spain,Article,Barcelona,0,Journal,2-s2.0-0035363452
+Wang C.,,On computer viral infection and the effect of immunization,2000,"Proceedings - Annual Computer Security Applications Conference, ACSAC",87,10.1109/ACSAC.2000.898879,United States,Article,Charlottesville,0,Journal,2-s2.0-84949487368
+Hethcote H.,,Mathematics of infectious diseases,2000,SIAM Review,2759,10.1137/S0036144500371907,United States,Article,Iowa City,0,Journal,2-s2.0-0034486891
+Barabási A.,,Emergence of scaling in random networks,1999,Science,22122,10.1126/science.286.5439.509,United States,Article,Notre Dame,0,Journal,2-s2.0-0038483826
+Mathias R.,,Spectral perturbation bounds for positive definite matrices,1997,SIAM Journal on Matrix Analysis and Applications,19,10.1137/S0895479894271081,United States,Article,Williamsburg,0,Journal,2-s2.0-0031493430
+Rhodes C.J.,,Dynamics in a lattice epidemic model,1996,"Physics Letters, Section A: General, Atomic and Solid State Physics",35,10.1016/S0375-9601(96)80007-7,United Kingdom,Article,Oxford,0,Journal,2-s2.0-0008247185
+Lewis A.,,Eigenvalue optimization,1996,Acta Numerica,165,10.1017/S0962492900002646,Canada,Article,Waterloo,0,Journal,2-s2.0-0042602157
+Vandenberghe L.,,Semidefinite programming,1996,SIAM Review,2687,10.1137/1038003,Belgium,Article,Leuven,0,Journal,2-s2.0-0030106462
+Hethcote H.,,An immunization model for a heterogeneous population,1978,Theoretical Population Biology,138,10.1016/0040-5809(78)90011-4,United States,Article,Iowa City,0,Journal,2-s2.0-0018247773

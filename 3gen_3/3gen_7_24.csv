@@ -1,0 +1,25 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Young H.,,Strategic Learning and its Limits,2011,Strategic Learning and its Limits,245,10.1093/acprof:oso/9780199269181.001.0001,United Kingdom;United States,Book,Oxford;Baltimore,0,Book,2-s2.0-84920627764
+Blum A.,,Routing without regret: On convergence to nash equilibria of regret-minimizing algorithms in routing games,2006,Proceedings of the Annual ACM Symposium on Principles of Distributed Computing,75,,United States,Conference Paper,Pittsburgh,0,Conference Proceeding,2-s2.0-33748692398
+Leslie D.S.,,Generalised weakened fictitious play,2006,Games and Economic Behavior,65,10.1016/j.geb.2005.08.005,United Kingdom,Article,Oxford,0,Journal,2-s2.0-33744514808
+Leslie D.S.,,Individual Q-learning in normal form games,2006,SIAM Journal on Control and Optimization,56,10.1137/S0363012903437976,Australia,Article,Sydney,0,Journal,2-s2.0-33645029191
+Fischer S.,,Fast convergence to wardrop equilibria by adaptive sampling methods,2006,Proceedings of the Annual ACM Symposium on Theory of Computing,55,10.1145/1132516.1132608,Germany,Conference Paper,Aachen,0,Conference Proceeding,2-s2.0-33748096952
+Marden J.,,Joint strategy fictitious play with inertia for potential games,2005,"Proceedings of the 44th IEEE Conference on Decision and Control, and the European Control Conference, CDC-ECC '05",18,10.1109/CDC.2005.1583237,United States,Conference Paper,San Diego,0,Conference Proceeding,2-s2.0-33847208472
+Fischer S.,,Adaptive routing with stale information,2005,Proceedings of the Annual ACM Symposium on Principles of Distributed Computing,32,10.1145/1073814.1073868,Germany,Conference Paper,Aachen,0,Conference Proceeding,2-s2.0-32344441572
+Hart S.,,Adaptive heuristics,2005,Econometrica,134,10.1111/j.1468-0262.2005.00625.x,,Review,,0,Journal,2-s2.0-27744533227
+Lambert T.J.,,A fictitious play approach to large-scale optimization,2005,Operations Research,58,10.1287/opre.1040.0178,United States,Review,Reno,0,Journal,2-s2.0-25144444833
+Shamma J.,,"Dynamic fictitious play, dynamic gradient play, and distributed convergence to nash equilibria",2005,IEEE Transactions on Automatic Control,202,10.1109/TAC.2005.843878,United States,Article,Los Angeles,0,Journal,2-s2.0-16244381482
+Huck S.,,Players with limited memory,2004,Contributions to Theoretical Economics,6,10.2202/1534-5971.1109,United Kingdom,Article,London,0,Journal,2-s2.0-14944370876
+Milchtaich I.,,Social optimality and cooperation in nonatomic congestion games,2004,Journal of Economic Theory,25,10.1016/S0022-0531(03)00106-6,Israel;Israel,Article,Jerusalem;Ramat Gan,0,Journal,2-s2.0-0346401407
+Arslan G.,,Distributed convergence to nash equilibria with local utility measurements,2004,Proceedings of the IEEE Conference on Decision and Control,29,10.1109/cdc.2004.1430262,United States,Conference Paper,Honolulu,0,Conference Proceeding,2-s2.0-14344254789
+Fischer S.,,On the evolution of selfish routing,2004,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),43,10.1007/978-3-540-30140-0_30,Germany,Article,Dortmund,0,Book Series,2-s2.0-35048894334
+Hart S.,,Uncoupled dynamics do not lead to Nash equilibrium,2003,American Economic Review,140,10.1257/000282803322655581,Israel,Article,Jerusalem,0,Journal,2-s2.0-2942744741
+Leslie D.S.,,Convergent multiple-timescales reinforcement learning algorithms in normal form games,2003,Annals of Applied Probability,53,10.1214/aoap/1069786497,United Kingdom,Article,Bristol,1,Journal,2-s2.0-0346913265
+Hart S.,,Regret-based continuous-time dynamics,2003,Games and Economic Behavior,38,10.1016/S0899-8256(03)00178-7,Israel,Article,Jerusalem,0,Journal,2-s2.0-0242570460
+Roughgarden T.,,The price of anarchy is independent of the network topology,2003,Journal of Computer and System Sciences,223,10.1016/S0022-0000(03)00044-8,United States,Article,Ithaca,1,Journal,2-s2.0-0141965143
+Sandholm W.H.,,Evolutionary implementation and congestion pricing,2002,Review of Economic Studies,116,10.1111/1467-937X.t01-1-00026,United States,Article,Wisconsin,0,Journal,2-s2.0-0036655913
+Hart S.,,A simple adaptive procedure leading to correlated equilibrium,2000,Econometrica,570,10.1111/1468-0262.00153,Israel,Article,Jerusalem,0,Journal,2-s2.0-0000908510
+Monderer D.,,Potential games,1996,Games and Economic Behavior,2318,10.1006/game.1996.0044,Israel,Article,Haifa,0,Journal,2-s2.0-0030147102
+Fudenberg D.,,Learning mixed equilibria,1993,Games and Economic Behavior,234,10.1006/game.1993.1021,United States,Article,Cambridge,0,Journal,2-s2.0-0000466473
+Ben-Akiva M.,,Dynamic network models and driver information systems,1991,Transportation Research Part A: General,345,10.1016/0191-2607(91)90142-D,United States,Article,Cambridge,0,Journal,2-s2.0-0000099850
+Rosenthal R.,,A class of games possessing pure-strategy Nash equilibria,1973,International Journal of Game Theory,1147,10.1007/BF01737559,United States,Article,Evanston,0,Journal,2-s2.0-34250442766

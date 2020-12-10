@@ -1,0 +1,19 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Amari S.,,Multichannel blind deconvolution and equalization using the natural gradient,1997,"IEEE Signal Processing Workshop on Signal Processing Advances in Wireless Communications, SPAWC",228,,Japan,Conference Paper,Wako,0,Conference Proceeding,2-s2.0-0031331406
+Cardoso J.,,Equivariant adaptive source separation,1996,IEEE Transactions on Signal Processing,993,10.1109/78.553476,France,Article,Palaiseau,0,Journal,2-s2.0-0030417779
+Douglas S.,,Fast-convergence filtered regressor algorithms for blind equalisation,1996,Electronics Letters,9,10.1049/el:19961414,United States,Article,Salt Lake City,0,Journal,2-s2.0-0030574192
+Van den Broeck C.,,Unsupervised learning by examples: On-line versus off-line,1996,Physical Review Letters,38,10.1103/PhysRevLett.76.2188,Belgium,Article,Diepenbeek,0,Journal,2-s2.0-4243451914
+Opper M.,,On-line versus off-line learning from random examples: General results,1996,Physical Review Letters,46,10.1103/PhysRevLett.77.4671,Germany,Article,Heidelberg,0,Journal,2-s2.0-6244242863
+Barkai N.,,Local and global convergence of on-line learning,1995,Physical Review Letters,21,10.1103/PhysRevLett.75.1415,Israel,Article,Jerusalem,0,Journal,2-s2.0-4244051589
+Saad D.,,On-line learning in soft committee machines,1995,Physical Review E,126,10.1103/PhysRevE.52.4225,United Kingdom;Denmark,Article,Edinburgh;Copenhagen,0,Journal,2-s2.0-4243234689
+Bell A.,,An information-maximization approach to blind separation and blind deconvolution.,1995,Neural computation,6025,10.1162/neco.1995.7.6.1129,United States,Article,Chevy Chase,0,Journal,2-s2.0-0029411030
+Nadal J.P.,,Nonlinear neurons in the low-noise limit: A factorial code maximizes information transfer,1994,Network: Computation in Neural Systems,163,10.1088/0954-898X_5_4_008,France,Article,Paris,0,Journal,2-s2.0-0000772267
+Comon P.,,"Independent component analysis, A new concept?",1994,Signal Processing,5727,10.1016/0165-1684(94)90029-9,France,Article,Valbonne,0,Journal,2-s2.0-0028416938
+Amari S.,,A universal theorem on learning curves,1993,Neural Networks,59,10.1016/0893-6080(93)90013-M,Japan,Article,Tokyo,0,Journal,2-s2.0-0027257001
+Amari S.,,Information Geometry of Boltzmann Machines,1992,IEEE Transactions on Neural Networks,128,10.1109/72.125867,Japan,Article,Tokyo,0,Journal,2-s2.0-0026835133
+Heskes T.,,Learning processes in neural networks,1991,Physical Review A,75,10.1103/PhysRevA.44.2718,Netherlands,Article,Nijmegen,0,Journal,2-s2.0-0000071615
+Jutten C.,,"Blind separation of sources, part I: An adaptive algorithm based on neuromimetic architecture",1991,Signal Processing,1780,10.1016/0165-1684(91)90079-X,France,Article,Grenoble,0,Journal,2-s2.0-0026191274
+Amari S.,,"Differential geometry of a parametric family of invertible linear systems-Riemannian metric, dual affine connections, and divergence",1987,Mathematical Systems Theory,60,10.1007/BF01692059,Japan,Article,Tokyo,0,Journal,2-s2.0-0002975366
+Campbell L.,,The relation between information theory and the differential geometry approach to statistics,1985,Information Sciences,45,10.1016/0020-0255(85)90050-7,Canada,Article,Kingston,0,Journal,2-s2.0-0022082812
+Amari S.,,Neural theory of association and concept-formation,1977,Biological Cybernetics,302,10.1007/BF00365229,Japan;United States,Article,Tokyo;Amherst MA,0,Journal,2-s2.0-0017392285
+Amari S.,,A Theory of Adaptive Pattern Classifiers,1967,IEEE Transactions on Electronic Computers,281,10.1109/PGEC.1967.264666,Japan,Article,Fukuoka,0,Journal,2-s2.0-0000920843

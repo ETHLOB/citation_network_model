@@ -1,0 +1,20 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Wheeler D.L.,,Database resources of the National Center for Biotechnology Information,2007,Nucleic Acids Research,627,10.1093/nar/gkl1031,United States,Article,Bethesda,1,Journal,2-s2.0-33846062023
+DeLuca T.F.,,Roundup: A multi-genome repository of orthologs and evolutionary distances,2006,Bioinformatics,84,10.1093/bioinformatics/btl286,United States,Article,Boston,1,Journal,2-s2.0-33747817416
+Peng Q.,,The fragile breakage versus random breakage models of chromosome evolution,2006,PLoS Computational Biology,66,10.1371/journal.pcbi.0020014,United States,Article,San Diego,1,Journal,2-s2.0-33645766047
+Pan X.,,SynBrowse: A synteny browser for comparative sequence analysis,2005,Bioinformatics,50,10.1093/bioinformatics/bti555,United States,Article,Ames,1,Journal,2-s2.0-24144478551
+Hubbard T.,,Ensembl 2005,2005,Nucleic Acids Research,327,10.1093/nar/gki138,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-13444251422
+Andelfinger G.,,Detailed four-way comparative mapping and gene order analysis of the canine ctvm locus reveals evolutionary chromosome rearrangements,2004,Genomics,19,10.1016/j.ygeno.2003.12.009,United States,Article,Cincinnati,0,Journal,2-s2.0-2642518685
+Bourque G.,,"Reconstructing the genomic architecture of ancestral mammals: Lessons from human, mouse, and rat genomes",2004,Genome Research,190,10.1101/gr.1975204,Canada,Article,Montreal,1,Journal,2-s2.0-1842768393
+Frazer K.A.,,Cross-species sequence comparisons: a review of methods and available resources.,2003,Genome research,175,10.1101/gr.222003,United States,Review,Mountain View,1,Journal,2-s2.0-0037271322
+Clamp M.,,Ensembl 2002: Accommodating comparative genomics,2003,Nucleic Acids Research,188,10.1093/nar/gkg083,United Kingdom,Review,Hinxton,1,Journal,2-s2.0-0037246585
+Pevzner P.,,Genome rearrangements in mammalian evolution: lessons from human and mouse genomes.,2003,Genome research,245,10.1101/gr.757503,United States,Article,San Diego,1,Journal,2-s2.0-0037264074
+Stein L.,,The generic genome browser: A building block for a model organism system database,2002,Genome Research,879,10.1101/gr.403602,United States,Article,Cold Spring Harbor,1,Journal,2-s2.0-18644378331
+Tesler G.,,GRIMM: Genome rearrangements web server,2002,Bioinformatics,218,10.1093/bioinformatics/18.3.492,United States,Article,San Diego,1,Journal,2-s2.0-0036211065
+Bader D.,,A linear-time algorithm for computing inversion distance between signed permutations with an experimental study,2001,Journal of Computational Biology,239,10.1089/106652701753216503,United States,Article,Albuquerque,0,Journal,2-s2.0-0034767147
+Moret B.M.,,A new implementation and detailed study of breakpoint analysis.,2001,Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing,110,,United States,Article,Albuquerque,0,Journal,2-s2.0-0035234694
+Marcotte E.,,Detecting protein function and protein-protein interactions from genome sequences,1999,Science,1282,10.1126/science.285.5428.751,United States,Article,Los Angeles,0,Journal,2-s2.0-0033618555
+Sankoff D.,,Conserved segment identification,1997,Journal of Computational Biology,25,10.1089/cmb.1997.4.559,Canada,Article,Montreal,0,Journal,2-s2.0-0030700469
+Bentley J.,,Fast algorithms for sorting and searching strings,1997,Proceedings of the Annual ACM-SIAM Symposium on Discrete Algorithms,236,,United States,Conference Paper,Murray,0,Conference Proceeding,2-s2.0-0030781644
+Hannenhalli S.,,Transforming men into mice (polynomial algorithm for genomic distance problem),1995,Annual Symposium on Foundations of Computer Science - Proceedings,232,,United States,Conference Paper,University Park,0,Conference Proceeding,2-s2.0-0029493079
+Nadeau J.,,Lengths of chromosomal segments conserved since divergence of man and mouse,1984,Proceedings of the National Academy of Sciences of the United States of America,463,10.1073/pnas.81.3.814,United States,Article,Bar Harbor,1,Journal,2-s2.0-0000791476

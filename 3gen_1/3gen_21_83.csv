@@ -1,0 +1,15 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Nair V.,,Implicit mixtures of Restricted Boltzmann machines,2009,Advances in Neural Information Processing Systems 21 - Proceedings of the 2008 Conference,60,,Canada,Conference Paper,Toronto,0,Conference Proceeding,2-s2.0-84858768016
+Salakhutdinov R.,,On the quantitative analysis of deep belief networks,2008,Proceedings of the 25th International Conference on Machine Learning,261,10.1145/1390156.1390266,Canada,Conference Paper,Toronto,0,Conference Proceeding,2-s2.0-56449102578
+Tieleman T.,,Training restricted boltzmann machines using approximations to the likelihood gradient,2008,Proceedings of the 25th International Conference on Machine Learning,497,10.1145/1390156.1390290,Canada,Conference Paper,Toronto,0,Conference Proceeding,2-s2.0-56449086223
+Hinton G.,,Reducing the dimensionality of data with neural networks,2006,Science,8836,10.1126/science.1127647,Canada,Article,Toronto,0,Journal,2-s2.0-33746600649
+Hinton G.,,A fast learning algorithm for deep belief nets,2006,Neural Computation,8546,10.1162/neco.2006.18.7.1527,Canada,Article,Toronto,0,Journal,2-s2.0-33745805403
+Welling M.,,Exponential family harmoniums with an application to information retrieval,2005,Advances in Neural Information Processing Systems,180,,United States,Conference Paper,Irvine,0,Conference Proceeding,2-s2.0-84899000641
+LeCun Y.,,Learning methods for generic object recognition with invariance to pose and lighting,2004,Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition,687,,United States,Conference Paper,New York,0,Conference Proceeding,2-s2.0-5044231640
+Hinton G.E.,,Training products of experts by minimizing contrastive divergence,2002,Neural Computation,2671,10.1162/089976602760128018,United Kingdom,Article,London,0,Journal,2-s2.0-0013344078
+Welling M.,,A new learning algorithm for Mean Field Boltzmann Machines,2002,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),64,10.1007/3-540-46084-5_57,Canada,Conference Paper,Toronto,0,Book Series,2-s2.0-84862289622
+Decoste D.,,Training invariant support vector machines,2002,Machine Learning,384,10.1023/A:1012454411458,United States;United States,Article,Pasadena;Pasadena,1,Journal,2-s2.0-0036161034
+Neal R.,,Annealed importance sampling,2001,Statistics and Computing,537,10.1023/A:1008923215028,Canada,Article,Toronto,0,Journal,2-s2.0-0000273048
+Neal R.,,Connectionist learning of belief networks,1992,Artificial Intelligence,259,10.1016/0004-3702(92)90065-6,Canada,Article,Toronto,0,Journal,2-s2.0-44049116681
+Younes L.,,Parametric Inference for imperfectly observed Gibbsian fields,1989,Probability Theory and Related Fields,112,10.1007/BF00341287,France,Article,Saint-Aubin,0,Journal,2-s2.0-0000355193
+Hinton G.,,OPTIMAL PERCEPTUAL INFERENCE.,1983,,226,,,Conference Paper,,0,Conference Proceeding,2-s2.0-0020500587

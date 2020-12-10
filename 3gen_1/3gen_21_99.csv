@@ -1,0 +1,16 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Tieleman T.,,Training restricted boltzmann machines using approximations to the likelihood gradient,2008,Proceedings of the 25th International Conference on Machine Learning,497,10.1145/1390156.1390290,Canada,Conference Paper,Toronto,0,Conference Proceeding,2-s2.0-56449086223
+Taylor G.,,Modeling human motion using binary latent variables,2007,Advances in Neural Information Processing Systems,376,,Canada,Conference Paper,Toronto,0,Conference Proceeding,2-s2.0-84864026688
+Ranzato M.,,Efficient learning of sparse representations with an energy-based model,2007,Advances in Neural Information Processing Systems,548,,United States,Conference Paper,New York,0,Conference Proceeding,2-s2.0-84864069017
+Bengio Y.,,Greedy layer-wise training of deep networks,2007,Advances in Neural Information Processing Systems,2736,,Canada,Conference Paper,Montreal,0,Conference Proceeding,2-s2.0-84864073449
+Larochelle H.,,An empirical evaluation of deep architectures on problems with many factors of variation,2007,ACM International Conference Proceeding Series,492,10.1145/1273496.1273556,Canada,Conference Paper,Montreal,0,Conference Proceeding,2-s2.0-34547967782
+Hinton G.,,Reducing the dimensionality of data with neural networks,2006,Science,8836,10.1126/science.1127647,Canada,Article,Toronto,0,Journal,2-s2.0-33746600649
+Hinton G.,,A fast learning algorithm for deep belief nets,2006,Neural Computation,8546,10.1162/neco.2006.18.7.1527,Canada,Article,Toronto,0,Journal,2-s2.0-33745805403
+Carreira-Perpiñán M.,,On contrastive divergence learning,2005,AISTATS 2005 - Proceedings of the 10th International Workshop on Artificial Intelligence and Statistics,384,,Canada;United States,Conference Paper,Toronto;Portland,0,Conference Proceeding,2-s2.0-84862612564
+Yuille A.,,The convergence of contrastive divergences,2005,Advances in Neural Information Processing Systems,31,,United States,Conference Paper,Los Angeles,0,Conference Proceeding,2-s2.0-84899029362
+Welling M.,,Exponential family harmoniums with an application to information retrieval,2005,Advances in Neural Information Processing Systems,180,,United States,Conference Paper,Irvine,0,Conference Proceeding,2-s2.0-84899000641
+Hinton G.E.,,Training products of experts by minimizing contrastive divergence,2002,Neural Computation,2671,10.1162/089976602760128018,United Kingdom,Article,London,0,Journal,2-s2.0-0013344078
+Japkowicz N.,,Nonlinear autoassociation is not equivalent to PCA,2000,Neural Computation,105,10.1162/089976600300015691,Canada,Article,Halifax,0,Journal,2-s2.0-0034153465
+Hinton G.E.,,Products of experts,1999,IEE Conference Publication,161,10.1049/cp:19991075,United Kingdom,Conference Paper,London,0,Conference Proceeding,2-s2.0-0033350721
+Bourlard H.,,Auto-association by multilayer perceptrons and singular value decomposition,1988,Biological Cybernetics,540,10.1007/BF00332918,Netherlands,Article,Eindhoven,0,Journal,2-s2.0-0024220237
+Rumelhart D.,,Learning representations by back-propagating errors,1986,Nature,10220,10.1038/323533a0,United States,Article,San Diego,0,Journal,2-s2.0-0022471098

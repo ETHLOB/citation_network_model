@@ -1,0 +1,52 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Schelldorfer J.,,Estimation for High-Dimensional Linear Mixed-Effects Models Using ℓ<inf>1</inf>-Penalization,2011,Scandinavian Journal of Statistics,77,10.1111/j.1467-9469.2011.00740.x,Switzerland,Article,"Zurich ZH,",0,Journal,2-s2.0-79954986664
+Tibshirani R.J.,,The solution path of the generalized lasso,2011,Annals of Statistics,298,10.1214/11-AOS878,United States,Article,Palo Alto,1,Journal,2-s2.0-79954994522
+Tibshirani R.J.,,Nearly-isotonic regression,2011,Technometrics,45,10.1198/TECH.2010.10111,United States,Article,Palo Alto,0,Journal,2-s2.0-79251592855
+Bondell H.,,Joint Variable Selection for Fixed and Random Effects in Linear Mixed-Effects Models,2010,Biometrics,104,10.1111/j.1541-0420.2010.01391.x,United States,Article,Raleigh,0,Journal,2-s2.0-78650073483
+Meinshausen N.,,Stability selection,2010,Journal of the Royal Statistical Society. Series B: Statistical Methodology,1089,10.1111/j.1467-9868.2010.00740.x,United Kingdom,Article,Oxford,1,Journal,2-s2.0-77958487535
+Mazumder R.,,Spectral regularization algorithms for learning large incomplete matrices,2010,Journal of Machine Learning Research,497,,United States,Article,Palo Alto,0,Journal,2-s2.0-77956944781
+Städler N.,,ℓ <inf>1</inf>-penalization for mixture regression models,2010,Test,143,10.1007/s11749-010-0197-z,Switzerland,Article,"Zurich ZH,",0,Journal,2-s2.0-77955057877
+Allen G.,,Transposable regularized covariance models with an application to missing data imputation,2010,Annals of Applied Statistics,64,10.1214/09-AOAS314,United States,Article,Palo Alto,1,Journal,2-s2.0-79954998593
+Zhang C.H.,,Nearly unbiased variable selection under minimax concave penalty,2010,Annals of Statistics,1312,10.1214/09-AOS729,United States,Article,New Brunswick,1,Journal,2-s2.0-77649284492
+Friedman J.,,Regularization paths for generalized linear models via coordinate descent,2010,Journal of Statistical Software,4993,10.18637/jss.v033.i01,United States,Article,Palo Alto,1,Journal,2-s2.0-77950537175
+Meinshausen N.,,p-Values for high-dimensional regression,2009,Journal of the American Statistical Association,164,10.1198/jasa.2009.tm08647,United Kingdom,Article,Oxford,0,Journal,2-s2.0-74049114503
+Bickel P.J.,,Simultaneous analysis of lasso and dantzig selector,2009,Annals of Statistics,985,10.1214/08-AOS620,United States,Article,Berkeley,1,Journal,2-s2.0-68649086910
+Witten D.,,"A penalized matrix decomposition, with applications to sparse principal components and canonical correlation analysis",2009,Biostatistics,728,10.1093/biostatistics/kxp008,United States,Article,Palo Alto,1,Journal,2-s2.0-70149096300
+Witten D.,,Covariance-regularized regression and classification for high dimensional problems,2009,Journal of the Royal Statistical Society. Series B: Statistical Methodology,116,10.1111/j.1467-9868.2009.00699.x,United States,Article,Palo Alto,0,Journal,2-s2.0-66849143711
+Tseng P.,,A coordinate gradient descent method for nonsmooth separable minimization,2009,Mathematical Programming,407,10.1007/s10107-007-0170-0,United States,Article,Seattle,0,Journal,2-s2.0-46749146509
+Van de Geer S.,,On the conditions used to prove oracle results for the lasso,2009,Electronic Journal of Statistics,277,10.1214/09-EJS506,Switzerland,Article,"Zurich ZH,",1,Journal,2-s2.0-77955054299
+Candès E.,,Enhancing sparsity by reweightedℓ<inf>1</inf> minimization,2008,Journal of Fourier Analysis and Applications,2850,10.1007/s00041-008-9045-x,United States,Article,Pasadena,0,Journal,2-s2.0-57349174008
+Zou H.,,One-step sparse estimates in nonconcave penalized likelihood models,2008,Annals of Statistics,587,10.1214/009053607000000802,United States,Article,Minneapolis,1,Journal,2-s2.0-51049104549
+Park T.,,The Bayesian Lasso,2008,Journal of the American Statistical Association,1233,10.1198/016214508000000337,United States,Article,Gainesville,0,Journal,2-s2.0-49549105778
+Bernardo J.M.,,Bayesian Theory,2008,Bayesian Theory,2888,10.1002/9780470316870,Spain,Book,Valencia,0,Book,2-s2.0-84981748011
+Van De Geer S.A.,,High-dimensional generalized linear models and the Lasso,2008,Annals of Statistics,277,10.1214/009053607000000929,Switzerland,Article,"Zurich ZH,",1,Journal,2-s2.0-51049121146
+Wu T.,,Coordinate descent algorithms for lasso penalized regression,2008,Annals of Applied Statistics,419,10.1214/07-AOAS147,United States;United States,Article,Los Angeles;College Park,1,Journal,2-s2.0-84863879353
+Meier L.,,The group lasso for logistic regression,2008,Journal of the Royal Statistical Society. Series B: Statistical Methodology,778,10.1111/j.1467-9868.2007.00627.x,Switzerland,Article,"Zurich ZH,",0,Journal,2-s2.0-37849035696
+Candes E.,,The Dantzig selector: Statistical estimation when p is much larger than n,2007,Annals of Statistics,1737,10.1214/009053606000001523,United States;United States,Article,Pasadena;Los Angeles,1,Journal,2-s2.0-34548275795
+Meinshausen N.,,Relaxed Lasso,2007,Computational Statistics and Data Analysis,222,10.1016/j.csda.2006.12.019,United States,Article,Berkeley,0,Journal,2-s2.0-34548286564
+Khalili A.,,Variable selection in finite mixture of regression models,2007,Journal of the American Statistical Association,98,10.1198/016214507000000590,United States,Article,Columbus,0,Journal,2-s2.0-35348854001
+Genkin A.,,Large-scale bayesian logistic regression for text categorization,2007,Technometrics,401,10.1198/004017007000000245,United States,Article,Piscataway,0,Journal,2-s2.0-34548105186
+Yuan M.,,Model selection and estimation in the Gaussian graphical model,2007,Biometrika,792,10.1093/biomet/asm018,United States,Article,Atlanta,0,Journal,2-s2.0-33947115409
+Bunea F.,,Sparsity oracle inequalities for the Lasso,2007,Electronic Journal of Statistics,209,10.1214/07-EJS008,United States,Article,Tallahassee,1,Journal,2-s2.0-50849114939
+Zhao P.,,On model selection consistency of Lasso,2006,Journal of Machine Learning Research,1243,,United States,Article,Berkeley,0,Journal,2-s2.0-33845263263
+Candès E.,,Compressive sampling,2006,"International Congress of Mathematicians, ICM 2006",2443,,United States,Conference Paper,Pasadena,0,Conference Proceeding,2-s2.0-84878104490
+Zou H.,,The adaptive lasso and its oracle properties,2006,Journal of the American Statistical Association,3045,10.1198/016214506000000735,United States,Article,Minneapolis,0,Journal,2-s2.0-33846114377
+Meinshausen N.,,High-dimensional graphs and variable selection with the Lasso,2006,Annals of Statistics,1678,10.1214/009053606000000281,Switzerland,Article,"Zurich ZH,",1,Journal,2-s2.0-33747163541
+Yuan M.,,Model selection and estimation in regression with grouped variables,2006,Journal of the Royal Statistical Society. Series B: Statistical Methodology,3564,10.1111/j.1467-9868.2005.00532.x,United States,Article,Atlanta,0,Journal,2-s2.0-33645035051
+Donoho D.L.,,Stable recovery of sparse overcomplete representations in the presence of noise,2006,IEEE Transactions on Information Theory,1510,10.1109/TIT.2005.860430,United States,Article,Palo Alto,0,Journal,2-s2.0-33144483155
+Zou H.,,Regularization and variable selection via the elastic net,2005,Journal of the Royal Statistical Society. Series B: Statistical Methodology,6734,10.1111/j.1467-9868.2005.00503.x,United States,Article,Palo Alto,0,Journal,2-s2.0-16244401458
+Tibshirani R.,,Sparsity and smoothness via the fused lasso,2005,Journal of the Royal Statistical Society. Series B: Statistical Methodology,1269,10.1111/j.1467-9868.2005.00490.x,United States,Article,Palo Alto,0,Journal,2-s2.0-12844266177
+Greenshtein E.,,Persistence in high-dimensional linear predictor selection and the virtue of overparametrization,2004,Bernoulli,175,10.3150/bj/1106314846,Israel,Article,Haifa,1,Journal,2-s2.0-31344454903
+Sardy S.,,On the statistical analysis of smoothing by maximizing dirty markov random field posterior distributions,2004,Journal of the American Statistical Association,19,10.1198/016214504000000188,Switzerland,Article,Lausanne,0,Journal,2-s2.0-2142722218
+Clyde M.,,Model uncertainty,2004,Statistical Science,261,10.1214/088342304000000035,United States,Article,Durham,1,Journal,2-s2.0-4043115647
+Jolliffe I.,,A Modified Principal Component Technique Based on the LASSO,2003,Journal of Computational and Graphical Statistics,405,10.1198/1061860032148,United Kingdom,Article,Aberdeen,0,Journal,2-s2.0-0141941674
+Fan J.,,Variable selection via nonconcave penalized likelihood and its oracle properties,2001,Journal of the American Statistical Association,3876,10.1198/016214501753382273,United States;Hong Kong,Article,Los Angeles;Shatin,0,Journal,2-s2.0-1542784498
+Tseng P.,,Convergence of a block coordinate descent method for nondifferentiable minimization,2001,Journal of Optimization Theory and Applications,1014,10.1023/A:1017501703105,United States,Article,Seattle,0,Journal,2-s2.0-0035533631
+Sardy S.,,Block Coordinate Relaxation Methods for Nonparametric Wavelet Denoising,2000,Journal of Computational and Graphical Statistics,145,10.1080/10618600.2000.10474885,Switzerland,Article,Lausanne,0,Journal,2-s2.0-23044521122
+Osborne M.,,On the LASSO and its Dual,2000,Journal of Computational and Graphical Statistics,390,10.1080/10618600.2000.10474883,Australia,Article,Canberra,0,Journal,2-s2.0-23044520947
+Fu W.,,Penalized regressions: The bridge versus the lasso?,1998,Journal of Computational and Graphical Statistics,579,10.1080/10618600.1998.10474784,United States,Article,East Lansing,0,Journal,2-s2.0-0032361278
+Chen S.,,Atomic decomposition by basis pursuit,1998,SIAM Journal of Scientific Computing,4827,10.1137/S1064827596304010,United States,Article,Yorktown Heights,0,Journal,2-s2.0-0032131292
+Green P.,,Reversible jump Markov chain monte carlo computation and Bayesian model determination,1995,Biometrika,3512,10.1093/biomet/82.4.711,United Kingdom,Article,Bristol,0,Journal,2-s2.0-77956889087
+Donoho D.,,Ideal spatial adaptation by wavelet shrinkage,1994,Biometrika,6238,10.1093/biomet/81.3.425,United States,Article,Palo Alto,0,Journal,2-s2.0-0041958932
+Frank L.,,A statistical view of some chemometrics regression tools,1993,Technometrics,1360,10.1080/00401706.1993.10485033,United States,Article,Stanford,0,Journal,2-s2.0-84952149204
+George E.,,Variable selection via Gibbs sampling,1993,Journal of the American Statistical Association,1338,10.1080/01621459.1993.10476353,United States,Article,Austin,0,Journal,2-s2.0-84893179575

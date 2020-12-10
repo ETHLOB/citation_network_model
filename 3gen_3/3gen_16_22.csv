@@ -1,0 +1,23 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Pons P.,,Computing communities in large networks using random walks,2005,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),712,10.1007/11569596_31,France,Conference Paper,Paris,0,Book Series,2-s2.0-33646530046
+Kim D.H.,,Systematic analysis of group identification in stock markets,2005,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",108,10.1103/PhysRevE.72.046133,South Korea,Article,Yusong,0,Journal,2-s2.0-28844451531
+Palla G.,,Uncovering the overlapping community structure of complex networks in nature and society,2005,Nature,3512,10.1038/nature03607,Hungary;Hungary,Article,Budapest;Budapest,0,Journal,2-s2.0-20444504323
+Bansal N.,,Correlation Clustering,2004,Machine Learning,590,10.1023/B:MACH.0000033116.57574.95,United States,Article,Pittsburgh,1,Journal,2-s2.0-3142665421
+Newman M.E.J.,,Fast algorithm for detecting community structure in networks,2004,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",2954,10.1103/PhysRevE.69.066133,United States,Article,Ann Arbor,0,Journal,2-s2.0-42749100809
+Radicchi F.,,Defining and identifying communities in networks,2004,Proceedings of the National Academy of Sciences of the United States of America,1536,10.1073/pnas.0400054101,Italy,Article,Rome,1,Journal,2-s2.0-1542357701
+Guha R.,,Propagation of trust and distrust,2004,"Thirteenth International World Wide Web Conference Proceedings, WWW2004",966,10.1145/988672.988727,United States,Conference Paper,San Jose,0,Conference Proceeding,2-s2.0-19944395899
+Kamvar S.,,The EigenTrust algorithm for reputation management in P2P networks,2003,"Proceedings of the 12th International Conference on World Wide Web, WWW 2003",2504,10.1145/775152.775242,United States,Conference Paper,Palo Alto,0,Conference Proceeding,2-s2.0-84880467894
+Bansal N.,,Correlation clustering,2002,Annual Symposium on Foundations of Computer Science - Proceedings,156,,United States,Conference Paper,Pittsburgh,0,Conference Proceeding,2-s2.0-0036949730
+Girvan M.,,Community structure in social and biological networks,2002,Proceedings of the National Academy of Sciences of the United States of America,8662,10.1073/pnas.122653799,United States;United States,Article,Santa Fe;Ithaca,1,Journal,2-s2.0-0037062448
+Flake G.W.,,Self-organization and identification of web communities,2002,Computer,734,10.1109/2.989932,United States,Article,Princeton,0,Trade Journal,2-s2.0-0036497195
+Strogatz S.,,Exploring complex networks,2001,Nature,5562,10.1038/35065725,United States,Review,Ithaca,1,Journal,2-s2.0-0035826155
+Shi J.,,Normalized cuts and image segmentation,2000,IEEE Transactions on Pattern Analysis and Machine Intelligence,9931,10.1109/34.868688,United States,Article,Pittsburgh,0,Journal,2-s2.0-0034244751
+Albert R.,,Diameter of the world-wide web,1999,Nature,3115,10.1038/43601,United States,Article,Notre Dame,0,Journal,2-s2.0-0033539175
+Kumar R.,,Trawling the Web for emerging cyber-communities,1999,Computer Networks,416,10.1016/S1389-1286(99)00040-7,United States,Article,San Jose,0,Journal,2-s2.0-0033297068
+Chakrabarti S.,,Focused crawling: A new approach to topic-specific Web resource discovery,1999,Computer Networks,663,10.1016/S1389-1286(99)00052-3,India,Article,Mumbai,0,Journal,2-s2.0-0033294474
+Kleinberg J.M.,,Authoritative sources in a hyperlinked environment,1999,Journal of the ACM,5010,10.1145/324133.324140,United States,Article,Ithaca,0,Journal,2-s2.0-4243148480
+Watts D.J.,,Collective dynamics of 'small-world9 networks,1998,Nature,25779,10.1038/30918,United States,Article,Ithaca,0,Journal,2-s2.0-0032482432
+Doreian P.,,A partitioning approach to structural balance,1996,Social Networks,171,10.1016/0378-8733(95)00259-6,United States,Article,Pittsburgh,0,Journal,2-s2.0-0030121954
+Pirolli P.,,Silk from a sow's ear: extracting usable structures from the web,1996,Conference on Human Factors in Computing Systems - Proceedings,211,,United States,Conference Paper,Palo Alto,0,Conference Proceeding,2-s2.0-0029719632
+Burt R.,,Positions in networks,1976,Social Forces,341,10.1093/sf/55.1.93,United States,Article,Berkeley,0,Journal,2-s2.0-84959779269
+Kernighan B.,,An Efficient Heuristic Procedure for Partitioning Graphs,1970,Bell System Technical Journal,3149,10.1002/j.1538-7305.1970.tb01770.x,,Article,,0,Journal,2-s2.0-84990479742

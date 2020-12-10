@@ -1,0 +1,27 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Kohonen J.,,A naive bayes classifier for protein function prediction,2009,In Silico Biology,7,10.3233/ISB-2009-0382,Finland,Article,Helsinki,0,Journal,2-s2.0-67649653792
+Ni Q.,,Effect of the quality of the interaction data on predicting protein function from protein-protein interactions,2009,Interdisciplinary Sciences: Computational Life Sciences,2,10.1007/s12539-008-0015-4,China,Article,Changsha,0,Journal,2-s2.0-77649178844
+Roth V.,,Improved functional prediction of proteins by learning kernel combinations in multilabel settings,2008,BMC Bioinformatics,19,10.1186/1471-2105-8-S2-S12,Switzerland,Article,Zurich,1,Journal,2-s2.0-45149115870
+Chua H.,,An efficient strategy for extensive integration of diverse biological data for protein function prediction,2007,Bioinformatics,46,10.1093/bioinformatics/btm520,Singapore,Article,Singapore City,1,Journal,2-s2.0-36949038721
+Bebek G.,,PathFinder: Mining signal transduction pathway segments from protein-protein interaction networks,2007,BMC Bioinformatics,89,10.1186/1471-2105-8-335,United States,Article,Cleveland,1,Journal,2-s2.0-36849004088
+Nariai N.,,Probabilistic protein function prediction from heterogeneous genome-wide data,2007,PLoS ONE,72,10.1371/journal.pone.0000337,United States,Article,Boston,1,Journal,2-s2.0-55449131589
+Lee H.,,Diffusion kernel-based logistic regression models for protein function prediction,2006,OMICS A Journal of Integrative Biology,76,10.1089/omi.2006.10.40,United States,Article,Los Angeles,0,Journal,2-s2.0-33645901213
+Hirschman J.E.,,Genome Snapshot: a new resource at the Saccharomyces Genome Database (SGD) presenting an overview of the Saccharomyces cerevisiae genome.,2006,Nucleic acids research,70,10.1093/nar/gkj117,United States,Article,Stanford,1,Journal,2-s2.0-33644877905
+Harris M.A.,,The gene ontology (GO) project in 2006,2006,Nucleic Acids Research,690,10.1093/nar/gkj021,United Kingdom,Article,London,1,Journal,2-s2.0-33644875286
+Jiang T.,,AVID: An integrative framework for discovering functional relationship among proteins,2005,BMC Bioinformatics,29,10.1186/1471-2105-6-136,United States,Article,Cambridge,1,Journal,2-s2.0-25444434087
+Nye T.,,Statistical analysis of domains in interacting protein pairs,2005,Bioinformatics,67,10.1093/bioinformatics/bti086,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-16344381315
+Pagel P.,,The MIPS mammalian protein-protein interaction database,2005,Bioinformatics,377,10.1093/bioinformatics/bti115,Germany,Article,Neuherberg,1,Journal,2-s2.0-20144387067
+Han D.S.,,PreSPI: A domain combination based prediction system for protein-protein interaction,2004,Nucleic Acids Research,69,10.1093/nar/gkh972,South Korea,Article,Yusong,1,Journal,2-s2.0-13444301479
+Deng M.,,An integrated probabilistic model for functional prediction of proteins,2004,Journal of Computational Biology,100,10.1089/1066527041410346,United States,Conference Paper,Los Angeles,0,Journal,2-s2.0-3142622851
+Salwinski L.,,The Database of Interacting Proteins: 2004 update,2004,Nucleic Acids Research,1498,,United States,Article,Los Angeles,0,Journal,2-s2.0-0347755535
+Deng M.,,Prediction of Protein Function Using Protein-Protein Interaction Data,2003,Journal of Computational Biology,214,10.1089/106652703322756168,United States,Article,Los Angeles,0,Journal,2-s2.0-0742304254
+Vazquez A.,,Global protein function prediction from protein-protein interaction networks,2003,Nature Biotechnology,475,10.1038/nbt825,United States;Italy,Article,Notre Dame;Genoa,0,Journal,2-s2.0-0038699587
+Zheng Y.,,Genomic functional annotation using co-evolution profiles of gene clusters.,2002,Genome biology,49,,United States,Article,Boston,0,Journal,2-s2.0-0037057376
+Kim W.,,Large scale statistical prediction of protein-protein interaction by potentially interacting domain (PID) pair.,2002,Genome informatics. International Conference on Genome Informatics,91,,South Korea,Article,Seoul,0,Journal,2-s2.0-0642343787
+Xenarios I.,,DIP: The Databases of Interacting Protein: 2001 update,2001,Nucleic Acids Research,155,,United States,Article,Los Angeles,0,Journal,2-s2.0-0034747028
+Pavlidis P.,,Gene functional classification from heterogeneous data,2001,"Proceedings of the Annual International Conference on Computational Molecular Biology, RECOMB",185,10.1145/369133.369228,United States,Conference Paper,New York,0,Conference Proceeding,2-s2.0-0034818556
+Marcotte E.,,A combined algorithm for genome-wide prediction of protein function,1999,Nature,716,10.1038/47048,United States,Article,Los Angeles,0,Journal,2-s2.0-0033523854
+Enright A.,,Protein interaction maps for complete genomes based on gene fusion events,1999,Nature,833,10.1038/47056,United Kingdom,Article,Cambridge,0,Journal,2-s2.0-0033523989
+Marcotte E.,,Detecting protein function and protein-protein interactions from genome sequences,1999,Science,1282,10.1126/science.285.5428.751,United States,Article,Los Angeles,0,Journal,2-s2.0-0033618555
+Pellegrini M.,,Assigning protein functions by comparative genome analysis: Protein phylogenetic profiles,1999,Proceedings of the National Academy of Sciences of the United States of America,1367,10.1073/pnas.96.8.4285,United States,Article,Los Angeles,1,Journal,2-s2.0-0033551248
+Altschul S.,,Gapped BLAST and PSI-BLAST: A new generation of protein database search programs,1997,Nucleic Acids Research,54867,10.1093/nar/25.17.3389,United States,Review,Bethesda,1,Journal,2-s2.0-0030801002

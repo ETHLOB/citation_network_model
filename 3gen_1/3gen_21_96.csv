@@ -1,0 +1,15 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Osindero S.,,Modeling image patches with a directed hierarchy of Markov random fields,2009,Advances in Neural Information Processing Systems 20 - Proceedings of the 2007 Conference,62,,Canada,Conference Paper,Toronto,0,Conference Proceeding,2-s2.0-84858767506
+Salakhutdinov R.,,On the quantitative analysis of deep belief networks,2008,Proceedings of the 25th International Conference on Machine Learning,261,10.1145/1390156.1390266,Canada,Conference Paper,Toronto,0,Conference Proceeding,2-s2.0-56449102578
+Gogate V.,,Studies in lower bounding probability of evidence using the Markov inequality,2007,"Proceedings of the 23rd Conference on Uncertainty in Artificial Intelligence, UAI 2007",12,,United States,Conference Paper,Irvine,0,Conference Proceeding,2-s2.0-70049107583
+Wallach H.,,Topic modeling: Beyond bag-of-words,2006,ICML 2006 - Proceedings of the 23rd International Conference on Machine Learning,349,,United Kingdom,Conference Paper,Cambridge,0,Conference Proceeding,2-s2.0-33749245495
+Hinton G.,,A fast learning algorithm for deep belief nets,2006,Neural Computation,8546,10.1162/neco.2006.18.7.1527,Canada,Article,Toronto,0,Journal,2-s2.0-33745805403
+Del Moral P.,,Sequential Monte Carlo samplers,2006,Journal of the Royal Statistical Society. Series B: Statistical Methodology,690,10.1111/j.1467-9868.2006.00553.x,France,Article,Nice,0,Journal,2-s2.0-33646684004
+Bartolucci F.,,Efficient Bayes factor estimation from the reversible jump output,2006,Biometrika,29,10.1093/biomet/93.1.41,Italy,Article,Perugia,0,Journal,2-s2.0-33644967739
+Griffiths T.,,Integrating topics and syntax,2005,Advances in Neural Information Processing Systems,228,,United States,Conference Paper,Cambridge,0,Conference Proceeding,2-s2.0-84898936438
+Mira A.,,Bridge estimation of the probability density at a point,2004,Statistica Sinica,18,,Italy,Article,Varese,0,Journal,2-s2.0-3142761519
+Neal R.,,Annealed importance sampling,2001,Statistics and Computing,537,10.1023/A:1008923215028,Canada,Article,Toronto,0,Journal,2-s2.0-0000273048
+Chib S.,,Marginal likelihood from the metropolis–hastings output,2001,Journal of the American Statistical Association,559,10.1198/016214501750332848,United States,Article,St. Louis,0,Journal,2-s2.0-1842715143
+Hyvärinen A.,,Fast and robust fixed-point algorithms for independent component analysis,1999,IEEE Transactions on Neural Networks,4473,10.1109/72.761722,Finland,Article,Espoo,0,Journal,2-s2.0-0032629347
+Chib S.,,Marginal likelihood from the Gibbs output,1995,Journal of the American Statistical Association,990,10.1080/01621459.1995.10476635,United States,Article,St. Louis,0,Journal,2-s2.0-0041974049
+Ritter C.,,Facilitating the Gibbs sampler: The Gibbs stopper and the Griddy–Gibbs sampler,1992,Journal of the American Statistical Association,231,10.1080/01621459.1992.10475289,United States,Article,Madison,0,Journal,2-s2.0-0000940729

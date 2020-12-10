@@ -1,0 +1,25 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Du Z.,,G-SESAME: Web tools for GO-term-based gene similarity analysis and knowledge discovery,2009,Nucleic Acids Research,76,10.1093/nar/gkp463,United States,Article,Clemson,1,Journal,2-s2.0-67849104643
+Pesquita C.,,Semantic similarity in biomedical ontologies,2009,PLoS Computational Biology,496,10.1371/journal.pcbi.1000443,Portugal,Review,Lisbon,1,Journal,2-s2.0-68249087607
+Gennarino V.,,MicroRNA target prediction by expression analysis of host genes,2009,Genome Research,137,10.1101/gr.084129.108,Italy,Article,Naples,1,Journal,2-s2.0-61849143920
+Wang D.,,Cepred: Predicting the co-expression patterns of the human intronic microRNAs with their host genes,2009,PLoS ONE,40,10.1371/journal.pone.0004421,China;China,Article,Beijing;Beijing,1,Journal,2-s2.0-84887212400
+Bartel D.,,MicroRNAs: Target Recognition and Regulatory Functions,2009,Cell,13032,10.1016/j.cell.2009.01.002,United States;United States,Review,Cambridge;Cambridge,1,Journal,2-s2.0-58249088751
+Papadopoulos G.,,The database of experimentally supported targets: A functional update of TarBase,2009,Nucleic Acids Research,311,10.1093/nar/gkn809,Greece,Article,Vari,1,Journal,2-s2.0-58149203235
+Lu M.,,An analysis of human microRNA and disease associations,2008,PLoS ONE,630,10.1371/journal.pone.0003420,China;China,Article,Beijing;Beijing,1,Journal,2-s2.0-54849408182
+Clauset A.,,Hierarchical structure and the prediction of missing links in networks,2008,Nature,1221,10.1038/nature06830,United States;United States,Article,Albuquerque;Santa Fe,0,Journal,2-s2.0-43049151837
+Pesquita C.,,Metrics for GO based protein semantic similarity: A systematic evaluation,2008,BMC Bioinformatics,214,10.1186/1471-2105-9-S5-S4,Portugal,Article,Lisbon,1,Journal,2-s2.0-47149083877
+Latronico M.,,Emerging role of microRNAs in cardiovascular biology,2007,Circulation Research,218,10.1161/CIRCRESAHA.107.163147,Italy,Review,Milan,1,Journal,2-s2.0-37349042225
+Lin J.,,A multidimensional analysis of genes mutated in breast and colorectal cancers,2007,Genome Research,111,10.1101/gr.6431107,United States,Article,Baltimore,1,Journal,2-s2.0-34548388340
+Liang Y.,,Characterization of microRNA expression profiles in normal human tissues,2007,BMC Genomics,778,10.1186/1471-2164-8-166,United States,Article,Foster City,1,Journal,2-s2.0-34347376692
+Goh K.,,The human disease network,2007,Proceedings of the National Academy of Sciences of the United States of America,2104,10.1073/pnas.0701361104,United States;United States;South Korea;United States,Article,Notre Dame;Boston;Seoul;Boston,1,Journal,2-s2.0-34547140875
+Wang J.,,A new method to measure the semantic similarity of GO terms,2007,Bioinformatics,613,10.1093/bioinformatics/btm087,United States,Article,Clemson,0,Journal,2-s2.0-34447294237
+Sharan R.,,Network-based prediction of protein function,2007,Molecular Systems Biology,715,10.1038/msb4100129,Israel,Review,Tel Aviv-Yafo,1,Journal,2-s2.0-33947252154
+Horvath S.,,Analysis of oncogenic signaling networks in glioblastoma identifies ASPM as a molecular target,2006,Proceedings of the National Academy of Sciences of the United States of America,443,10.1073/pnas.0608396103,United States,Article,Los Angeles,1,Journal,2-s2.0-33751208636
+Esquela-Kerscher A.,,Oncomirs - MicroRNAs with a role in cancer,2006,Nature Reviews Cancer,5574,10.1038/nrc1840,United States,Review,New Haven,0,Journal,2-s2.0-33645294070
+Berezikov E.,,Approaches to microrna discovery,2006,Nature Genetics,339,10.1038/ng1794,Netherlands,Article,Utrecht,0,Journal,2-s2.0-33745239258
+Baskerville S.,,Microarray profiling of microRNAs reveals frequent coexpression with neighboring miRNAs and host genes,2005,RNA,1088,10.1261/rna.7240905,United States,Article,Cambridge,1,Journal,2-s2.0-13944260434
+Lewis B.P.,,"Conserved seed pairing, often flanked by adenosines, indicates that thousands of human genes are microRNA targets",2005,Cell,8815,10.1016/j.cell.2004.12.035,United States;United States,Letter,Cambridge;Cambridge,1,Journal,2-s2.0-11844278458
+Lee S.,,A graph-theoretic modeling on GO space for biological interpretation of gene clusters,2004,Bioinformatics,66,10.1093/bioinformatics/btg420,South Korea,Article,Goyang,1,Journal,2-s2.0-1342330530
+Karolchik D.,,The UCSC table browser data retrieval tool,2004,Nucleic Acids Research,1164,,United States,Article,Santa Cruz,0,Journal,2-s2.0-0347755531
+Griffiths-Jones S.,,The microRNA registry,2004,Nucleic Acids Research,1627,,United Kingdom,Article,Hinxton,0,Journal,2-s2.0-0347755643
+Lord P.,,Investigating semantic similarity measures across the gene ontology: The relationship between sequence and annotation,2003,Bioinformatics,599,10.1093/bioinformatics/btg153,United Kingdom,Article,Manchester,1,Journal,2-s2.0-0037480738

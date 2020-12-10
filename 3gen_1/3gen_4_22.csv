@@ -1,0 +1,28 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Sifrim A.,,EXtasy: Variant prioritization by genomic data fusion,2013,Nature Methods,101,10.1038/nmeth.2656,Belgium;Belgium,Article,Leuven;Leuven,0,Journal,2-s2.0-84887041034
+Kumar S.,,Evolutionary diagnosis method for variants in personal exomes,2012,Nature Methods,48,10.1038/nmeth.2147,United States,Letter,Tempe,0,Journal,2-s2.0-84866111524
+Lopes M.C.,,A combined functional annotation score for non-synonymous variants,2012,Human Heredity,72,10.1159/000334984,United Kingdom;United Kingdom,Article,Oxford;London,1,Journal,2-s2.0-84855896680
+Vihinen M.,,How to evaluate performance of prediction methods? Measures and their interpretation in variation effect analysis.,2012,BMC genomics,118,10.1186/1471-2164-13-S4-S2,Finland,Article,Tampere,1,Journal,2-s2.0-84868026028
+Liu X.,,dbNSFP: A lightweight database of human nonsynonymous SNPs and their functional predictions,2011,Human Mutation,409,10.1002/humu.21517,United States,Article,Houston,1,Journal,2-s2.0-79960763462
+Pertea M.,,Detection of lineage-specific evolutionary changes among primate species,2011,BMC Bioinformatics,15,10.1186/1471-2105-12-274,United States,Article,College Park,1,Journal,2-s2.0-79959789752
+Altshuler D.L.,,A map of human genome variation from population-scale sequencing,2010,Nature,5208,10.1038/nature09534,United States;United States;United States,Article,Boston;Boston;Cambridge,1,Journal,2-s2.0-84975742565
+Huang N.,,Characterising and predicting haploinsufficiency in the human genome,2010,PLoS Genetics,366,10.1371/journal.pgen.1001154,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-78449263023
+Lupski J.R.,,Whole-genome sequencing in a patient with Charcot-Marie-Tooth neuropathy,2010,New England Journal of Medicine,566,10.1056/NEJMoa0908094,United States,Article,Houston,0,Journal,2-s2.0-77950475726
+Adzhubei I.,,A method and server for predicting damaging missense mutations,2010,Nature Methods,7375,10.1038/nmeth0410-248,United States,Letter,Boston,0,Journal,2-s2.0-77951640946
+Schwarz J.,,MutationTaster evaluates disease-causing potential of sequence alterations,2010,Nature Methods,1721,10.1038/nmeth0810-575,Germany,Letter,Berlin,0,Journal,2-s2.0-77955151784
+Chun S.,,Identification of deleterious mutations within three human genomes,2009,Genome Research,500,10.1101/gr.092619.109,United States,Article,St. Louis,1,Journal,2-s2.0-69749122314
+Stenson P.,,The human gene mutation database: 2008 update,2009,Genome Medicine,615,10.1186/gm13,United Kingdom,Letter,Cardiff,1,Journal,2-s2.0-77953446523
+Tsenkova R.,,Near infrared spectroscopy using short wavelengths and leave-one-cow-out cross-validation for quantification of somatic cells in milk,2009,Journal of Near Infrared Spectroscopy,23,10.1255/jnirs.868,Japan,Article,Kobe,0,Journal,2-s2.0-77949847323
+König I.,,Practical experiences on the necessity of external validation,2007,Statistics in Medicine,70,10.1002/sim.3069,Germany,Conference Paper,Lübeck,0,Journal,2-s2.0-38049035375
+Davis J.,,The relationship between Precision-Recall and ROC curves,2006,ICML 2006 - Proceedings of the 23rd International Conference on Machine Learning,963,,United States,Conference Paper,Madison,0,Conference Proceeding,2-s2.0-33749249600
+Polikar R.,,Ensemble based systems in decision making,2006,IEEE Circuits and Systems Magazine,1557,10.1109/MCAS.2006.1688199,United States,Review,Glassboro,0,Journal,2-s2.0-33748611921
+Fawcett T.,,An introduction to ROC analysis,2006,Pattern Recognition Letters,9401,10.1016/j.patrec.2005.10.010,United States,Article,Palo Alto,0,Journal,2-s2.0-33646023117
+Aerts S.,,Gene prioritization through genomic data fusion,2006,Nature Biotechnology,655,10.1038/nbt1203,Belgium,Article,3000 Leuven,0,Journal,2-s2.0-33646568805
+Demšar J.,,Statistical comparisons of classifiers over multiple data sets,2006,Journal of Machine Learning Research,6246,,Slovenia,Article,Ljubljana,0,Journal,2-s2.0-29644438050
+Siepel A.,,"Evolutionarily conserved elements in vertebrate, insect, worm, and yeast genomes",2005,Genome Research,2171,10.1101/gr.3715005,United States,Article,Santa Cruz,1,Journal,2-s2.0-23744458086
+Gunther E.C.,,Prediction of clinical drug efficacy by classification of drug-induced genomic expression profiles in vitro,2003,Proceedings of the National Academy of Sciences of the United States of America,157,10.1073/pnas.1632587100,United States,Article,Branford,1,Journal,2-s2.0-0041421151
+Ng P.,,SIFT: Predicting amino acid changes that affect protein function,2003,Nucleic Acids Research,3134,10.1093/nar/gkg509,United States,Article,Seattle,1,Journal,2-s2.0-0043122919
+Breiman L.,,Random forests,2001,Machine Learning,38636,10.1023/A:1010933404324,United States,Article,Berkeley,1,Journal,2-s2.0-0035478854
+Dietterich T.,,Approximate Statistical Tests for Comparing Supervised Classification Learning Algorithms,1998,Neural Computation,1758,10.1162/089976698300017197,United States,Article,Corvallis,0,Journal,2-s2.0-0000259511
+Breiman L.,,Bagging predictors,1996,Machine Learning,13227,10.1023/A:1018054314350,United States,Article,Berkeley,1,Journal,2-s2.0-0030211964
+Shaffer J.,,Multiple hypothesis testing,1995,Annual Review of Psychology,1035,10.1146/annurev.ps.46.020195.003021,United States,Article,Berkeley,0,Book Series,2-s2.0-11944262819

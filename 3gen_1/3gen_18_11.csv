@@ -1,0 +1,37 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Costa I.,,Semi-supervised learning for the identification of syn-expressed genes from fused microarray and in situ image data,2007,BMC Bioinformatics,17,10.1186/1471-2105-8-S10-S3,Germany,Conference Paper,Berlin,1,Journal,2-s2.0-42149156031
+Costa I.,,Gene expression trees in lymphoid development,2007,BMC Immunology,6,10.1186/1471-2172-8-25,Germany,Article,Berlin,1,Journal,2-s2.0-39449112072
+Fraley C.,,Bayesian regularization for normal mixture estimation and model-based clustering,2007,Journal of Classification,203,10.1007/s00357-007-0004-5,United States,Article,Seattle,0,Journal,2-s2.0-36849029089
+Ferrari F.,,Genomic expression during human myelopoiesis,2007,BMC Genomics,28,10.1186/1471-2164-8-264,Italy,Article,Modena,1,Journal,2-s2.0-35649004364
+Anisimov S.,,"""NeuroStem Chip"": A novel highly specialized tool to study neural differentiation pathways in human stem cells",2007,BMC Genomics,17,10.1186/1471-2164-8-46,Sweden,Article,Lund,1,Journal,2-s2.0-33847614795
+Chaudhuri S.,,Estimation of a covariance matrix with zeros,2007,Biometrika,65,10.1093/biomet/asm007,Singapore,Article,Singapore City,0,Journal,2-s2.0-33947153898
+Qiu W.,,Generation of random clusters with specified degree of separation,2006,Journal of Classification,47,10.1007/s00357-006-0018-y,United States,Review,Boston,0,Journal,2-s2.0-33750744475
+Hyatt G.,,Gene expression microarrays: Glimpses of the immunological genome,2006,Nature Immunology,56,10.1038/ni0706-686,United States,Note,Boston,0,Journal,2-s2.0-33745193973
+Yamagata T.,,A shared gene-expression signature in innate-like lymphocytes,2006,Immunological Reviews,48,10.1111/j.0105-2896.2006.00371.x,Japan,Review,Shimotsuga District,0,Journal,2-s2.0-33645297128
+Kanehisa M.,,From genomics to chemical genomics: new developments in KEGG.,2006,Nucleic acids research,2079,10.1093/nar/gkj102,Japan,Article,Kyoto,1,Journal,2-s2.0-33644874819
+Matthias P.,,Transcriptional networks in developing and mature B cells,2005,Nature Reviews Immunology,160,10.1038/nri1633,Switzerland,Review,Basel,0,Journal,2-s2.0-20644461729
+Ernst J.,,Clustering short time series gene expression data,2005,Bioinformatics,286,10.1093/bioinformatics/bti1022,United States,Article,Pittsburgh,1,Journal,2-s2.0-28644452470
+Rothenberg E.,,Molecular genetics of T cell development,2005,Annual Review of Immunology,209,10.1146/annurev.immunol.23.021704.115737,United States,Review,Pasadena,0,Book Series,2-s2.0-17444396980
+Niederberger N.,,"Thymocyte stimulation by anti-TCR-β, but not by anti-TCR-α, leads to induction of developmental transcription program",2005,Journal of Leukocyte Biology,12,10.1189/jlb.1004608,United States,Article,San Diego,0,Journal,2-s2.0-18244365344
+Tze L.E.,,Basal immunoglobulin signaling actively maintains developmental stage in immature B cells,2005,PLoS Biology,106,10.1371/journal.pbio.0030082,Australia;United States,Conference Paper,Canberra;Minneapolis,1,Journal,2-s2.0-20944435721
+Schäfer J.,,A shrinkage approach to large-scale covariance matrix estimation and implications for functional genomics,2005,Statistical Applications in Genetics and Molecular Biology,884,10.2202/1544-6115.1175,Germany,Article,Munich,0,Journal,2-s2.0-27844521293
+Bar-Joseph Z.,,Analyzing time series gene expression data,2004,Bioinformatics,306,10.1093/bioinformatics/bth283,United States,Review,Pittsburgh,1,Journal,2-s2.0-8844277626
+Beißbarth T.,,GOstat: Find statistically overrepresented Gene Ontologies with a group of genes,2004,Bioinformatics,943,10.1093/bioinformatics/bth088,Australia,Article,Melbourne,1,Journal,2-s2.0-3142665525
+Poirot L.,,Natural killer cells distinguish innocuous and destructive forms of pancreatic islet autoimmunity,2004,Proceedings of the National Academy of Sciences of the United States of America,133,10.1073/pnas.0402065101,United States;United States,Article,San Diego;Boston,1,Journal,2-s2.0-2542513931
+Brunet J.,,Metagenes and molecular pattern discovery using matrix factorization,2004,Proceedings of the National Academy of Sciences of the United States of America,993,10.1073/pnas.0308531101,United States,Article,Cambridge,1,Journal,2-s2.0-1642529511
+Friedman N.,,Inferring Cellular Networks Using Probabilistic Graphical Models,2004,Science,829,10.1126/science.1094068,Israel,Review,Jerusalem,0,Journal,2-s2.0-0842288337
+Beerenwinkel N.,,Learning multiple evolutionary pathways from cross-sectional data,2004,"Proceedings of the Annual International Conference on Computational Molecular Biology, RECOMB",11,10.1145/974614.974620,Germany,Conference Paper,Saarbrucken,0,Conference Proceeding,2-s2.0-2442503608
+Akashi K.,,Transcriptional accessibility for genes of multiple tissues and hematopoietic lineages is hierarchically controlled during early hematopoiesis,2003,Blood,313,10.1182/blood-2002-06-1780,,Article,,0,Journal,2-s2.0-0037438387
+Tanay A.,,Discovering statistically significant biclusters in gene expression data,2002,Bioinformatics,613,10.1093/bioinformatics/18.suppl_1.S136,Israel,Conference Paper,Tel Aviv-Yafo,1,Journal,2-s2.0-11244306358
+Huber W.,,Variance stabilization applied to microarray data calibration and to the quantification of differential expression,2002,Bioinformatics,1392,10.1093/bioinformatics/18.suppl_1.S96,Germany,Conference Paper,Heidelberg,1,Journal,2-s2.0-11244346557
+Ng A.Y.,,On spectral clustering: Analysis and an algorithm,2002,Advances in Neural Information Processing Systems,2978,,United States,Conference Paper,Berkeley,0,Conference Proceeding,2-s2.0-84899013108
+Meilǎ M.,,Learning with mixtures of trees,2001,Journal of Machine Learning Research,153,,United States,Article,Seattle,0,Journal,2-s2.0-24044550075
+Benjamini Y.,,The control of the false discovery rate in multiple testing under dependency,2001,Annals of Statistics,5328,10.1214/aos/1013699998,Israel,Article,Tel Aviv-Yafo,1,Journal,2-s2.0-0035733108
+Bar-Joseph Z.,,Fast optimal leaf ordering for hierarchical clustering,2001,Bioinformatics,221,10.1093/bioinformatics/17.suppl_1.S22,United States,Article,Cambridge,1,Journal,2-s2.0-0003126516
+Ashburner M.,,Gene ontology: Tool for the unification of biology,2000,Nature Genetics,21184,10.1038/75556,,Review,,0,Journal,2-s2.0-0034069495
+Eisen M.,,Cluster analysis and display of genome-wide expression patterns,1998,Proceedings of the National Academy of Sciences of the United States of America,12573,10.1073/pnas.95.25.14863,United States,Article,Stanford,0,Journal,2-s2.0-0032441150
+Celeux G.,,Gaussian parsimonious clustering models,1995,Pattern Recognition,442,10.1016/0031-3203(94)00125-6,,Article,,0,Journal,2-s2.0-0029305528
+Steel M.,,Distributions of tree comparison metrics some new results,1993,Systematic Biology,223,10.1093/sysbio/42.2.126,Germany,Article,Bielefeld,0,Journal,2-s2.0-12044252586
+Banfield J.,,Model-based Gaussian and non-Gaussian clustering,1993,Biometrics,1301,10.2307/2532201,United States,Review,Bozeman,0,Journal,2-s2.0-0027453616
+Hubert L.,,Comparing partitions,1985,Journal of Classification,3864,10.1007/BF01908075,United States,Article,Santa Barbara,0,Journal,2-s2.0-0000008146
+Chow C.,,Approximating Discrete Probability Distributions with Dependence Trees,1968,IEEE Transactions on Information Theory,1531,10.1109/TIT.1968.1054142,United States,Article,Yorktown Heights,0,Journal,2-s2.0-84933530882

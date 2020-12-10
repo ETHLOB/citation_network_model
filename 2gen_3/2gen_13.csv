@@ -1,0 +1,38 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Shi G.,,Emergent behaviors over signed random dynamical networks: State-flipping model,2015,IEEE Transactions on Control of Network Systems,19,10.1109/TCNS.2014.2378915,Australia,Article,Canberra,0,Journal,2-s2.0-84933049766
+Matei I.,,Convergence results for the linear consensus problem under markovian random graphs,2013,SIAM Journal on Control and Optimization,56,10.1137/100816870,United States,Article,College Park,0,Journal,2-s2.0-84879659902
+Shi G.,,How agreement and disagreement evolve over random dynamic networks,2013,IEEE Journal on Selected Areas in Communications,33,10.1109/JSAC.2013.130608,Sweden,Article,Stockholm,0,Journal,2-s2.0-84878129504
+Li L.,,"Consensus, polarization and clustering of opinions in social networks",2013,IEEE Journal on Selected Areas in Communications,54,10.1109/JSAC.2013.130609,United States,Article,Davis,0,Journal,2-s2.0-84878118133
+Dandekar P.,,"Biased assimilation, homophily, and the dynamics of polarization",2013,Proceedings of the National Academy of Sciences of the United States of America,127,10.1073/pnas.1217220110,United States,Article,Palo Alto,1,Journal,2-s2.0-84876046902
+Altafini C.,,Consensus problems on networks with antagonistic interactions,2013,IEEE Transactions on Automatic Control,599,10.1109/TAC.2012.2224251,Italy,Article,Trieste,0,Journal,2-s2.0-84875588811
+Acemoǧlu D.,,Opinion fluctuations and disagreement in social networks,2013,Mathematics of Operations Research,201,10.1287/moor.1120.0570,United States,Article,Cambridge,0,Journal,2-s2.0-84875408980
+Yildiz E.,,Binary opinion dynamics with stubborn agents,2013,ACM Transactions on Economics and Computation,138,10.1145/2538508,United States;United States,Article,New York;Mountain View,0,Journal,2-s2.0-85036452155
+Jadbabaie A.,,Non-Bayesian social learning,2012,Games and Economic Behavior,186,10.1016/j.geb.2012.06.001,United States,Article,Philadelphia,0,Journal,2-s2.0-84864323717
+Altafini C.,,Dynamics of opinion forming in structurally balanced social networks,2012,PLoS ONE,118,10.1371/journal.pone.0038135,Italy,Article,Trieste,1,Journal,2-s2.0-84862531737
+Facchetti G.,,Computing global structural balance in large-scale signed social networks,2011,Proceedings of the National Academy of Sciences of the United States of America,174,10.1073/pnas.1109521108,Italy,Article,Trieste,1,Journal,2-s2.0-84855504473
+Acemoglu D.,,Bayesian learning in social networks,2011,Review of Economic Studies,266,10.1093/restud/rdr004,United States,Article,Cambridge,0,Journal,2-s2.0-80052243933
+Touri B.,,"On ergodicity, infinite flow, and consensus in random models",2011,IEEE Transactions on Automatic Control,74,10.1109/TAC.2010.2091174,United States,Article,Urbana,0,Journal,2-s2.0-79960122105
+Marvel S.,,Continuous-time model of structural balance,2011,Proceedings of the National Academy of Sciences of the United States of America,139,10.1073/pnas.1013213108,United States,Article,Ithaca,1,Journal,2-s2.0-79952174808
+Acemoglu D.,,Opinion dynamics and learning in social networks,2011,Dynamic Games and Applications,301,10.1007/s13235-010-0004-1,United States,Article,Cambridge,0,Journal,2-s2.0-80053080717
+Ding X.,,Spectral distributions of adjacency and Laplacian matrices of random graphs,2010,Annals of Applied Probability,46,10.1214/10-AAP677,United States;China,Article,Minneapolis;Changchun,1,Journal,2-s2.0-78650425813
+Blondel V.,,Continuous-time average-preserving opinion dynamics with opinion-dependent communications,2010,SIAM Journal on Control and Optimization,121,10.1137/090766188,United States;Belgium,Article,Cambridge;Louvain-la-Neuve,0,Journal,2-s2.0-79251508650
+Jackson M.O.,,Social and Economic Networks,2010,Social and Economic Networks,360,,,Book,,0,Book,2-s2.0-84923967286
+Golub B.,,Naïve learning in social networks and the wisdom of crowds,2010,American Economic Journal: Microeconomics,447,10.1257/mic.2.1.112,United States,Article,Stanford,0,Journal,2-s2.0-85017138638
+Acemoglu D.,,Spread of (mis)information in social networks,2010,Games and Economic Behavior,183,10.1016/j.geb.2010.01.005,United States,Article,Cambridge,0,Journal,2-s2.0-76149086844
+Blondel V.,,On Krause's multi-agent consensus model with state-dependent connectivity,2009,IEEE Transactions on Automatic Control,268,10.1109/TAC.2009.2031211,Belgium,Article,Louvain-la-Neuve,0,Journal,2-s2.0-78649554917
+Castellano C.,,Statistical physics of social dynamics,2009,Reviews of Modern Physics,2176,10.1103/RevModPhys.81.591,Italy,Article,Rome,0,Journal,2-s2.0-65549108449
+Theodorakopoulos G.,,Game theoretic modeling of malicious users in collaborative networks,2008,IEEE Journal on Selected Areas in Communications,58,10.1109/JSAC.2008.080928,United States;Switzerland;United States,Conference Paper,College Park;Lausanne;New York,0,Journal,2-s2.0-50649125455
+Fagnani F.,,Randomized consensus algorithms over large scale networks,2008,IEEE Journal on Selected Areas in Communications,223,10.1109/JSAC.2008.080506,Italy,Article,Turin,0,Journal,2-s2.0-43349085369
+Tahbaz-Salehi A.,,A necessary and sufficient condition for consensus over random networks,2008,IEEE Transactions on Automatic Control,322,10.1109/TAC.2008.917743,United States,Article,Philadelphia,0,Journal,2-s2.0-42649100996
+Boyd S.,,Randomized gossip algorithms,2006,IEEE Transactions on Information Theory,1536,10.1109/TIT.2006.874516,United States,Article,Palo Alto,0,Journal,2-s2.0-33745136409
+Xiao L.,,Fast linear iterations for distributed averaging,2004,Systems and Control Letters,1641,10.1016/j.sysconle.2004.02.022,United States,Article,Palo Alto,0,Journal,2-s2.0-3142770678
+DeMarzo P.,,"Persuasion bias, social influence, and unidimensional opinions",2003,Quarterly Journal of Economics,380,10.1162/00335530360698469,United States,Review,Stanford,0,Journal,2-s2.0-0042863218
+Galam S.,,Fragmentation versus stability in bimodal coalitions,1996,Physica A: Statistical Mechanics and its Applications,54,10.1016/0378-4371(96)00034-9,France;France,Article,Paris;Paris,0,Journal,2-s2.0-0030216790
+Banerjee A.,,A simple model of heed behavior,1992,Quarterly Journal of Economics,2499,10.2307/2118364,United States,Article,Princeton,0,Journal,2-s2.0-84960565609
+Bikhchandani S.,,"A theory of fads, fashion, custom, and cultural change as informational cascades",1992,Journal of Political Economy,2851,10.1086/261849,United States,Article,Los Angeles,0,Journal,2-s2.0-27744568768
+Clark R.D.,,The effects of majority size on minority influence,1990,European Journal of Social Psychology,23,10.1002/ejsp.2420200203,United States,Article,Denton,0,Journal,2-s2.0-84985854736
+Nemeth C.,,Differential Contributions of Majority and Minority Influence,1986,Psychological Review,784,10.1037/0033-295X.93.1.23,United States,Article,Berkeley,0,Journal,2-s2.0-0002203808
+Degroot M.,,Reaching a consensus,1974,Journal of the American Statistical Association,1641,10.1080/01621459.1974.10480137,United States,Article,Pittsburgh,0,Journal,2-s2.0-84909522870
+Davis J.,,Clustering and Structural Balance in Graphs,1967,Human Relations,357,10.1177/001872676702000206,,Article,,0,Journal,2-s2.0-34247985046
+Cartwright D.,,Structural balance: a generalization of Heider's theory,1956,Psychological Review,1142,10.1037/h0046049,,Article,,0,Journal,2-s2.0-0001245990
+Heider F.,,Attitudes and Cognitive Organization,1946,Journal of Psychology: Interdisciplinary and Applied,1686,10.1080/00223980.1946.9917275,United States,Article,Northampton,0,Journal,2-s2.0-84946651784

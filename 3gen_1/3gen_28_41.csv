@@ -1,0 +1,14 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Åstrand M.,,Contrast normalization of oligonucleotide arrays,2003,Journal of Computational Biology,47,10.1089/106652703763255697,Sweden,Article,Sodertalje,0,Journal,2-s2.0-0037225727
+Bolstad B.,,A comparison of normalization methods for high density oligonucleotide array data based on variance and bias,2003,Bioinformatics,5813,10.1093/bioinformatics/19.2.185,United States,Article,Berkeley,1,Journal,2-s2.0-0037316303
+Zhang J.,,An extensible application for assembling annotation for genomic data,2003,Bioinformatics,38,10.1093/bioinformatics/19.1.155,United States,Article,Boston,1,Journal,2-s2.0-0037248701
+Irizarry R.,,"Exploration, normalization, and summaries of high density oligonucleotide array probe level data.",2003,"Biostatistics (Oxford, England)",7656,10.1093/biostatistics/4.2.249,United States,Article,Baltimore,1,Journal,2-s2.0-0142121516
+Lazaridis E.,,A simple method to improve probe set estimates from oligonucleotide arrays,2002,Mathematical Biosciences,18,10.1016/S0025-5564(01)00100-6,France;United States,Article,Lyon;Tampa,0,Journal,2-s2.0-0036128663
+Workman C.,,A new non-linear normalization method for reducing variability in DNA microarray experiments.,2002,Genome biology,403,,Switzerland,Article,Basel,0,Journal,2-s2.0-0037200201
+Huber W.,,Variance stabilization applied to microarray data calibration and to the quantification of differential expression,2002,Bioinformatics,1392,10.1093/bioinformatics/18.suppl_1.S96,Germany,Conference Paper,Heidelberg,1,Journal,2-s2.0-11244346557
+Singh D.,,Gene expression correlates of clinical prostate cancer behavior,2002,Cancer Cell,1822,10.1016/S1535-6108(02)00030-2,United States;United States,Article,Boston;Boston,1,Journal,2-s2.0-19044391072
+Li C.,,Model-based analysis of oligonucleotide arrays: Expression index computation and outlier detection,2001,Proceedings of the National Academy of Sciences of the United States of America,2639,10.1073/pnas.98.1.31,United States,Article,Los Angeles,1,Journal,2-s2.0-0035793042
+Brazma A.,,Minimum information about a microarray experiment (MIAME) - Toward standards for microarray data,2001,Nature Genetics,3106,10.1038/ng1201-365,United Kingdom,Review,London,0,Journal,2-s2.0-18344396568
+Selinger D.W.,,RNA expression analysis using a 30 base pair resolution Escherichia coli genome array,2000,Nature Biotechnology,292,10.1038/82367,United States,Article,Boston,0,Journal,2-s2.0-0033664358
+Lockhart D.,,Expression monitoring by hybridization to high-density oligonucleotide arrays,1996,Nature Biotechnology,2741,10.1038/nbt1296-1675,United States,Article,Waltham,0,Journal,2-s2.0-10544256600
+Nerson J.,,Applying Object-Oriented Analysis and Design,1992,Communications of the ACM,28,10.1145/130994.130997,France,Article,Paris,0,Journal,2-s2.0-0026923825

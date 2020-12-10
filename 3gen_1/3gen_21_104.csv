@@ -1,0 +1,12 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Raphan M.,,Learning to be Bayesian without supervision,2007,Advances in Neural Information Processing Systems,35,,United States,Conference Paper,New York,0,Conference Proceeding,2-s2.0-57349139183
+Johnstone I.M.,,Empirical bayes selection of wavelet thresholds,2005,Annals of Statistics,198,10.1214/009053605000000345,United States,Article,Palo Alto,1,Journal,2-s2.0-18444410406
+Hyvärinen A.,,Estimation of non-normalized statistical models by score matching,2005,Journal of Machine Learning Research,197,,Finland,Article,Helsinki,0,Journal,2-s2.0-22044434800
+Cover T.M.,,Elements of Information Theory,2005,Elements of Information Theory,27546,10.1002/047174882X,,Book,,0,Book,2-s2.0-84889281816
+Taleb A.,,Source separation in post-nonlinear mixtures,1999,IEEE Transactions on Signal Processing,293,10.1109/78.790661,France,Article,Grenoble,0,Journal,2-s2.0-0033341734
+Hyvärinen A.,,Sparse Code Shrinkage: Denoising of Nongaussian Data by Maximum Likelihood Estimation,1999,Neural Computation,295,10.1162/089976699300016214,Finland,Article,Espoo,0,Journal,2-s2.0-0348223982
+Pham D.,,Blind separation of mixture of independent sources through a quasi-maximum likelihood approach,1997,IEEE Transactions on Signal Processing,280,10.1109/78.599941,France,Article,Saint Martin d'Heres,0,Journal,2-s2.0-0031191456
+Chipman H.A.,,Adaptive bayesian wavelet shrinkage,1997,Journal of the American Statistical Association,387,10.1080/01621459.1997.10473662,United States;Canada,Article,Chicago;Waterloo,0,Journal,2-s2.0-0031315608
+Simoncelli E.,,Noise removal via Bayesian wavelet coring,1996,IEEE International Conference on Image Processing,458,,United States,Conference Paper,Philadelphia,0,Conference Proceeding,2-s2.0-0030402111
+Godsill S.,,A Bayesian Approach to the Restoration of Degraded Audio Signals,1995,IEEE Transactions on Speech and Audio Processing,52,10.1109/89.397091,United Kingdom,Article,Cambridge,0,Journal,2-s2.0-0029344205
+Donoho D.L.,,Adapting to unknown smoothness via wavelet shrinkage,1995,Journal of the American Statistical Association,3180,10.1080/01621459.1995.10476626,United States,Article,Palo Alto,0,Journal,2-s2.0-84950459514

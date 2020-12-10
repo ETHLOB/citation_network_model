@@ -1,0 +1,32 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Sasidharan Nair P.,,VariBench: A Benchmark Database for Variations,2013,Human Mutation,61,10.1002/humu.22204,Finland,Article,Tampere,0,Journal,2-s2.0-84871614593
+Shihab H.,,"Predicting the Functional, Molecular, and Phenotypic Consequences of Amino Acid Substitutions using Hidden Markov Models",2013,Human Mutation,487,10.1002/humu.22225,United Kingdom,Article,Bristol,1,Journal,2-s2.0-84871578629
+Gonzalez-Perez A.,,Improving the prediction of the functional impact of cancer mutations by baseline tolerance transformation,2012,Genome Medicine,55,10.1186/gm390,Spain,Article,Barcelona,1,Journal,2-s2.0-84869873569
+Iengar P.,,"An analysis of substitution, deletion and insertion mutations in cancer genes",2012,Nucleic Acids Research,21,10.1093/nar/gks290,India,Article,Bengaluru,1,Journal,2-s2.0-84864957276
+Vihinen M.,,How to evaluate performance of prediction methods? Measures and their interpretation in variation effect analysis.,2012,BMC genomics,118,10.1186/1471-2164-13-S4-S2,Finland,Article,Tampere,1,Journal,2-s2.0-84868026028
+Capriotti E.,,A new disease-specific machine learning approach for the prediction of cancer-causing missense variants,2011,Genomics,42,10.1016/j.ygeno.2011.06.010,United States;Spain,Article,Palo Alto;Palma,1,Journal,2-s2.0-80053297561
+Reva B.,,Predicting the functional impact of protein mutations: Application to cancer genomics,2011,Nucleic Acids Research,942,10.1093/nar/gkr407,United States,Article,New York,1,Journal,2-s2.0-80053189298
+Thusberg J.,,Performance of mutation pathogenicity prediction methods on missense variants,2011,Human Mutation,335,10.1002/humu.21445,United States;Finland,Article,Novato;Tampere,0,Journal,2-s2.0-79952764520
+Hanahan D.,,Hallmarks of cancer: The next generation,2011,Cell,30122,10.1016/j.cell.2011.02.013,United States;Switzerland,Review,San Francisco;Epalinges,1,Journal,2-s2.0-79952284127
+Adzhubei I.,,A method and server for predicting damaging missense mutations,2010,Nature Methods,7393,10.1038/nmeth0410-248,United States,Letter,Boston,0,Journal,2-s2.0-77951640946
+Mort M.,,In silico functional profiling of human disease-associated and polymorphic amino acid substitutions,2010,Human Mutation,47,10.1002/humu.21192,United Kingdom;United States,Article,Cardiff;Indianapolis,0,Journal,2-s2.0-77149174136
+Li J.,,CanProVar: A human cancer proteome variation database,2010,Human Mutation,47,10.1002/humu.21176,United States,Article,Nashville,0,Journal,2-s2.0-77149126695
+Li B.,,Automated inference of molecular mechanisms of disease from amino acid substitutions,2009,Bioinformatics,490,10.1093/bioinformatics/btp528,United States,Article,Bloomington,1,Journal,2-s2.0-70350671733
+Carter H.,,Cancer-specific high-throughput annotation of somatic mutations: Computational prediction of driver missense mutations,2009,Cancer Research,283,10.1158/0008-5472.CAN-09-1133,United States,Article,Baltimore,1,Journal,2-s2.0-69249115697
+Calabrese R.,,Functional annotations improve the predictive score of human disease-related mutations in proteins,2009,Human Mutation,346,10.1002/humu.21047,Italy,Article,Bologna,0,Journal,2-s2.0-67749137351
+Eddy S.R.,,A new generation of homology search tools based on probabilistic inference.,2009,Genome informatics. International Conference on Genome Informatics,644,10.1142/9781848165632_0019,United States,Article,Ashburn,0,Journal,2-s2.0-77952988108
+Kaminker J.,,CanPredict: A computational tool for predicting cancer-associated missense mutations,2007,Nucleic Acids Research,110,10.1093/nar/gkm405,United States,Article,San Francisco,1,Journal,2-s2.0-34547566118
+Bromberg Y.,,SNAP: Predict effect of non-synonymous polymorphisms on function,2007,Nucleic Acids Research,490,10.1093/nar/gkm238,United States,Article,New York,1,Journal,2-s2.0-34547100092
+Greenman C.,,Patterns of somatic mutation in human cancer genomes,2007,Nature,2108,10.1038/nature05610,United Kingdom,Article,Hinxton,0,Journal,2-s2.0-33947101019
+Kaminker J.,,Distinguishing cancer-associated missense mutations from common polymorphisms,2007,Cancer Research,95,10.1158/0008-5472.CAN-06-1736,,Article,,1,Journal,2-s2.0-33846650692
+Capriotti E.,,Predicting the insurgence of human genetic diseases associated to single point protein mutations with support vector machines and evolutionary information,2006,Bioinformatics,436,10.1093/bioinformatics/btl423,Italy,Article,Bologna,1,Journal,2-s2.0-33751013750
+Furney S.,,Structural and functional properties of genes involved in human cancer,2006,BMC Genomics,60,10.1186/1471-2164-7-3,United Kingdom;Ireland,Article,Cambridge;Dublin,1,Journal,2-s2.0-33144462258
+Bao L.,,nsSNPAnalyzer: Identifying disease-associated nonsynonymous single nucleotide polymorphisms,2005,Nucleic Acids Research,138,10.1093/nar/gki372,United States,Article,Memphis,1,Journal,2-s2.0-23144437332
+Bamford S.,,The COSMIC (Catalogue of Somatic Mutations in Cancer) database and website,2004,British Journal of Cancer,742,10.1038/sj.bjc.6601894,United Kingdom,Article,London,1,Journal,2-s2.0-3843084078
+Apweiler R.,,UniProt: The universal protein knowledgebase,2004,Nucleic Acids Research,1879,,United Kingdom,Article,Cambridge,0,Journal,2-s2.0-9144232912
+Futreal P.,,A census of human cancer genes,2004,Nature Reviews Cancer,2180,10.1038/nrc1299,United Kingdom,Review,London,0,Journal,2-s2.0-1542515338
+Thomas P.,,PANTHER: A library of protein families and subfamilies indexed by function,2003,Genome Research,1686,10.1101/gr.772403,United States,Article,Foster City,1,Journal,2-s2.0-0141742293
+Ramensky V.,,Human non-synonymous SNPs: Server and survey,2002,Nucleic Acids Research,1786,10.1093/nar/gkf493,Russian Federation;Germany;Germany,Article,Moscow;Berlin;Heidelberg,1,Journal,2-s2.0-0036713510
+Gough J.,,Assignment of homology to genome sequences using a library of hidden Markov models that represent all proteins of known structure,2001,Journal of Molecular Biology,865,10.1006/jmbi.2001.5080,United Kingdom,Article,London,0,Journal,2-s2.0-0035798406
+Ng P.,,Predicting deleterious amino acid substitutions,2001,Genome Research,1656,10.1101/gr.176601,United States;United States,Article,Seattle;Seattle,1,Journal,2-s2.0-0035026704
+Sonnhammer E.,,Pfam: A comprehensive database of protein domain families based on seed alignments,1997,"Proteins: Structure, Function and Genetics",842,10.1002/(SICI)1097-0134(199707)28:3<405::AID-PROT10>3.0.CO;2-L,United Kingdom,Article,Hinxton,0,Journal,2-s2.0-0030925920

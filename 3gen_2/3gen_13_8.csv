@@ -1,0 +1,14 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Moore D.,,Code-Red: A case study on the spread and victims of an Internet worm,2002,Proceedings of the 2nd Internet Measurement Workshop (IMW 2002),516,,United States,Conference Paper,San Diego,0,Conference Proceeding,2-s2.0-0141762461
+Staniford S.,,How to 0wn the internet in your spare time,2002,Proceedings of the 11th USENIX Security Symposium,763,,United States,Conference Paper,Davis,0,Conference Proceeding,2-s2.0-85084162258
+Moore D.,,Inferring internet denial-of-service activity,2001,Proceedings of the 10th USENIX Security Symposium,544,,United States,Conference Paper,San Diego,0,Conference Proceeding,2-s2.0-85084161486
+Wang C.,,On computer viral infection and the effect of immunization,2000,"Proceedings - Annual Computer Security Applications Conference, ACSAC",87,10.1109/ACSAC.2000.898879,United States,Article,Charlottesville,0,Journal,2-s2.0-84949487368
+Hethcote H.,,Mathematics of infectious diseases,2000,SIAM Review,2759,10.1137/S0036144500371907,United States,Article,Iowa City,0,Journal,2-s2.0-0034486891
+Somayaji A.,,Principles of a computer immune system,1998,Proceedings New Security Paradigms Workshop,148,10.1145/283699.283742,United States,Conference Paper,Albuquerque,0,Conference Proceeding,2-s2.0-84957039800
+Cowan C.,,StackGuard: Automatic adaptive detection and prevention of buffer-overflow attacks,1998,Proceedings of the 7th USENIX Security Symposium,853,,United States,Conference Paper,Portland,0,Conference Proceeding,2-s2.0-85084160243
+Necula G.C.,,Proof-carrying code,1997,Conference Record of the Annual ACM Symposium on Principles of Programming Languages,1028,10.1145/263699.263712,United States,Conference Paper,Pittsburgh,0,Conference Proceeding,2-s2.0-0030685617
+Kephart J.,,Directed-graph epidemiological models of computer viruses,1991,Proceedings of the Symposium on Security and Privacy,519,,United States,Conference Paper,Yorktown Heights,0,Conference Proceeding,2-s2.0-0026156688
+Rochlis J.,,With Microscope and Tweezers: The Worm from MIT's Perspective,1989,Communications of the ACM,45,10.1145/63526.63528,United States,Article,Cambridge,0,Journal,2-s2.0-0024684041
+Spafford E.,,Crisis and Aftermath,1989,Communications of the ACM,94,10.1145/63526.63527,United States,Article,West Lafayette,0,Journal,2-s2.0-0024681099
+Cohen F.,,Computer viruses. Theory and experiments,1987,Computers and Security,419,10.1016/0167-4048(87)90122-2,United States;United States,Article,Bethlehem;Pittsburgh,0,Journal,2-s2.0-0023294949
+Shoch J.,,The “Worm” Programs—Early Experience with a Distributed Computation,1982,Communications of the ACM,135,10.1145/358453.358455,United States,Article,Palo Alto,0,Journal,2-s2.0-84976720856

@@ -1,0 +1,27 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Romualdi C.,,MIDAW: A web tool for statistical analysis of microarray data,2005,Nucleic Acids Research,41,10.1093/nar/gki497,Italy,Article,Padua,1,Journal,2-s2.0-23144442350
+Psarros M.,,RACE: Remote Analysis Computation for gene Expression data,2005,Nucleic Acids Research,45,10.1093/nar/gki490,Switzerland,Article,Lausanne,1,Journal,2-s2.0-23144446164
+Benson D.,,GenBank,2005,Nucleic Acids Research,859,10.1093/nar/gki063,United States,Article,Bethesda,1,Journal,2-s2.0-13444304389
+Hokamp K.,,ArrayPipe: A flexible processing pipeline for microarray data,2004,Nucleic Acids Research,61,10.1093/nar/gkh446,Canada,Article,Burnaby,1,Journal,2-s2.0-3242890299
+Kapushesky M.,,Expression profiler: Next generation - An online platform for analysis of microarray data,2004,Nucleic Acids Research,96,10.1093/nar/gkh470,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-3242885824
+Gentleman R.,,Bioconductor: open software development for computational biology and bioinformatics.,2004,Genome biology,8443,,United States,Article,Boston,0,Journal,2-s2.0-28744458859
+Herrero J.,,GEPAS: A web-based resource for microarray gene expression data analysis,2003,Nucleic Acids Research,158,10.1093/nar/gkg591,Spain,Article,Madrid,1,Journal,2-s2.0-0042121252
+Edwards D.,,Non-linear normalization and background correction in one-channel cDNA microarray studies,2003,Bioinformatics,111,10.1093/bioinformatics/btg083,Denmark,Article,Bagsvard,1,Journal,2-s2.0-0037620675
+Sturn A.,,Client-server environment for high-performance gene expression data analysis,2003,Bioinformatics,17,10.1093/bioinformatics/btg074,Austria,Article,Graz,1,Journal,2-s2.0-0037433720
+Irizarry R.,,Summaries of Affymetrix GeneChip probe level data,2003,Nucleic acids research,3774,10.1093/nar/gng015,United States,Article,Baltimore,0,Journal,2-s2.0-12344280017
+Dudoit S.,,Multiple hypothesis testing in microarray experiments,2003,Statistical Science,664,10.1214/ss/1056397487,United States,Review,Berkeley,1,Journal,2-s2.0-0043203327
+Bolstad B.,,A comparison of normalization methods for high density oligonucleotide array data based on variance and bias,2003,Bioinformatics,5829,10.1093/bioinformatics/19.2.185,United States,Article,Berkeley,1,Journal,2-s2.0-0037316303
+Brazma A.,,ArrayExpress - A public repository for microarray gene expression data at the EBI,2003,Nucleic Acids Research,648,10.1093/nar/gkg091,United Kingdom,Review,Cambridge,1,Journal,2-s2.0-0037246058
+Smyth G.,,Normalization of cDNA microarray data,2003,Methods,1396,10.1016/S1046-2023(03)00155-5,Australia,Article,Melbourne,0,Journal,2-s2.0-0242333835
+Irizarry R.,,"Exploration, normalization, and summaries of high density oligonucleotide array probe level data.",2003,"Biostatistics (Oxford, England)",7668,10.1093/biostatistics/4.2.249,United States,Article,Baltimore,1,Journal,2-s2.0-0142121516
+Huber W.,,Variance stabilization applied to microarray data calibration and to the quantification of differential expression,2002,Bioinformatics,1397,10.1093/bioinformatics/18.suppl_1.S96,Germany,Conference Paper,Heidelberg,1,Journal,2-s2.0-11244346557
+Sturn A.,,Genesis: Cluster analysis of microarray data,2002,Bioinformatics,1321,10.1093/bioinformatics/18.1.207,Austria;United States,Article,Graz;Rockville,1,Journal,2-s2.0-0036169031
+Fellenberg K.,,Correspondence analysis applied to microarray data,2001,Proceedings of the National Academy of Sciences of the United States of America,251,10.1073/pnas.181597298,Germany,Article,Heidelberg,1,Journal,2-s2.0-0035845501
+Ashburner M.,,Creating the Gene Ontology resource: Design and implementation,2001,Genome Research,830,10.1101/gr.180801,,Article,,1,Journal,2-s2.0-0034887203
+Tusher V.G.,,Significance analysis of microarrays applied to the ionizing radiation response,2001,Proceedings of the National Academy of Sciences of the United States of America,9216,10.1073/pnas.091062498,United States,Article,Palo Alto,1,Journal,2-s2.0-0035942271
+Yeung K.,,Principal component analysis for clustering gene expression data,2001,Bioinformatics,733,10.1093/bioinformatics/17.9.763,United States,Article,Seattle,1,Journal,2-s2.0-0034800371
+Brown M.,,Knowledge-based analysis of microarray gene expression data by using support vector machines,2000,Proceedings of the National Academy of Sciences of the United States of America,1724,10.1073/pnas.97.1.262,United States,Article,Santa Cruz,1,Journal,2-s2.0-0034602774
+Tavazoie S.,,Systematic determination of genetic network architecture,1999,Nature Genetics,1871,10.1038/10343,United States,Article,Boston,0,Journal,2-s2.0-0033028596
+Tamayo P.,,Interpreting patterns of gene expression with self-organizing maps: Methods and application to hematopoietic differentiation,1999,Proceedings of the National Academy of Sciences of the United States of America,2308,10.1073/pnas.96.6.2907,United States,Conference Paper,Cambridge,1,Journal,2-s2.0-0033027794
+Eisen M.,,Cluster analysis and display of genome-wide expression patterns,1998,Proceedings of the National Academy of Sciences of the United States of America,12582,10.1073/pnas.95.25.14863,United States,Article,Stanford,0,Journal,2-s2.0-0032441150
+Schena M.,,Quantitative monitoring of gene expression patterns with a complementary DNA microarray,1995,Science,7244,10.1126/science.270.5235.467,United States,Article,Stanford,0,Journal,2-s2.0-0028806048

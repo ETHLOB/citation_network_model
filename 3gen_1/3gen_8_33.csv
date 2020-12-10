@@ -1,0 +1,6 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Vaidya P.,,An algorithm for linear programming which requires O(((m+n)n<sup>2</sup>+(m+n)<sup>1.5</sup>n)L) arithmetic operations,1990,"Mathematical Programming, Series A",27,,United States,Article,Murray,0,Journal,2-s2.0-0025446911
+Vaidya P.M.,,Speeding-up linear programming using fast matrix multiplication,Nov,Annual Symposium on Foundations of Computer Science (Proceedings),105,10.1109/sfcs.1989.63499,United States,Conference Paper,Murray,0,Conference Proceeding,2-s2.0-0024772320
+Renegar J.,,"A polynomial-time algorithm, based on Newton's method, for linear programming",1988,Mathematical Programming,275,10.1007/BF01580724,United States,Article,Ithaca,0,Journal,2-s2.0-0023862337
+Vaidya P.,,ALGORITHM FOR LINEAR PROGRAMMING WHICH REQUIRES O(((m plus n)n**2 plus (m plus n)**1**. **5n)L) ARITHMETIC OPERATIONS.,1987,Conference Proceedings of the Annual ACM Symposium on Theory of Computing,39,,United States,Conference Paper,Murray,0,Conference Proceeding,2-s2.0-0023604331
+Coppersmith D.,,MATRIX MULTIPLICATION VIA ARITHMETIC PROGRESSIONS.,1987,Conference Proceedings of the Annual ACM Symposium on Theory of Computing,389,10.1145/28395.28396,United States,Conference Paper,Armonk,0,Conference Proceeding,2-s2.0-0023599876

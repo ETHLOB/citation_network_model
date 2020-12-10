@@ -1,0 +1,21 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Sonnhammer E.,,Big data and other challenges in the quest for orthologs,2014,Bioinformatics,64,10.1093/bioinformatics/btu492,Sweden;Sweden;Sweden,Review,Stockholm;Stockholm;Stockholm,1,Journal,2-s2.0-84907692157
+Schmitt T.,,FunCoup 3.0: Database of genome-wide functional coupling networks,2014,Nucleic Acids Research,81,10.1093/nar/gkt984,Sweden;Sweden,Article,Stockholm;Solna,1,Journal,2-s2.0-84891781481
+Finn R.D.,,Pfam: The protein families database,2014,Nucleic Acids Research,3115,10.1093/nar/gkt1223,United States,Review,Ashburn,1,Journal,2-s2.0-84891782659
+Karányi Z.,,FSRD: Fungal stress response database,2013,Database,20,10.1093/database/bat037,Hungary,Article,Debrecen,1,Journal,2-s2.0-84892715868
+Woods J.,,"Prediction of gene-phenotype associations in humans, mice, and plants using phenologs",2013,BMC Bioinformatics,25,10.1186/1471-2105-14-203,United States,Article,Austin,1,Journal,2-s2.0-84879089047
+Schreiber F.,,Hieranoid: Hierarchical orthology inference,2013,Journal of Molecular Biology,22,10.1016/j.jmb.2013.02.018,Sweden;Sweden,Article,Stockholm;Solna,0,Journal,2-s2.0-84877694192
+Ciomborowska J.,,"""Orphan"" retrogenes in the human genome",2013,Molecular Biology and Evolution,26,10.1093/molbev/mss235,Poland,Article,Poznan,1,Journal,2-s2.0-84878511648
+Apweiler R.,,Update on activities at the Universal Protein Resource (UniProt) in 2013,2013,Nucleic Acids Research,559,10.1093/nar/gks1068,United Kingdom;United States,Article,Cambridge;Newark,1,Journal,2-s2.0-84874724662
+Hoeppner M.,,Comparative genomics of eukaryotic small nucleolar RNAs reveals deep evolutionary ancestry amidst ongoing intragenomic mobility,2012,BMC Evolutionary Biology,19,10.1186/1471-2148-12-183,Sweden,Article,Uppsala,1,Journal,2-s2.0-84866153293
+Schmitt T.,,Letter to the Editor: SeqXML and orthoXML: Standards for sequence and orthology information,2011,Briefings in Bioinformatics,33,10.1093/bib/bbr025,Sweden,Letter,Stockholm,0,Journal,2-s2.0-80053215605
+Östlund G.,,Inparanoid 7: New algorithms and tools for eukaryotic orthology analysis,2009,Nucleic Acids Research,453,10.1093/nar/gkp931,Sweden,Article,Stockholm,1,Journal,2-s2.0-75549086594
+Altenhoff A.,,Phylogenetic and functional assessment of orthologs inference projects and methods,2009,PLoS Computational Biology,262,10.1371/journal.pcbi.1000262,Switzerland,Article,"Zurich ZH,",1,Journal,2-s2.0-59149102602
+Berglund A.,,InParanoid 6: Eukaryotic ortholog clusters with inparalogs,2008,Nucleic Acids Research,173,10.1093/nar/gkm1020,Sweden,Article,Uppsala,1,Journal,2-s2.0-38549122308
+Chen F.,,Assessing performance of orthology detection strategies applied to eukaryotic genomes,2007,PLoS ONE,275,10.1371/journal.pone.0000383,United States,Article,Philadelphia,1,Journal,2-s2.0-37849023306
+Hulsen T.,,Benchmarking ortholog identification methods using functional genomics data,2006,Genome Biology,113,10.1186/gb-2006-7-4-r31,Netherlands,Article,Nijmegen,1,Journal,2-s2.0-33745022802
+Yu Y.,,The construction of amino acid substitution matrices for the comparison of proteins with non-standard compositions,2005,Bioinformatics,69,10.1093/bioinformatics/bti070,United States,Article,Bethesda,1,Journal,2-s2.0-16344388556
+Sonnhammer E.,,"Orthology, paralogy and proposed classification for paralog subtypes",2002,Trends in Genetics,248,10.1016/S0168-9525(02)02793-2,Sweden,Letter,Stockholm,0,Journal,2-s2.0-0036889686
+Remm M.,,Automatic clustering of orthologs and in-paralogs from pairwise species comparisons,2001,Journal of Molecular Biology,882,10.1006/jmbi.2000.5197,Estonia;Sweden,Article,Tartu;Stockholm,0,Journal,2-s2.0-0035861990
+Altschul S.,,Basic local alignment search tool,1990,Journal of Molecular Biology,60311,10.1016/S0022-2836(05)80360-2,United States,Article,Bethesda,0,Journal,2-s2.0-0025183708
+Fitch W.,,Distinguishing homologous from analogous proteins,1970,Systematic Zoology,926,10.2307/2412448,United States,Article,Madison,0,Journal,2-s2.0-0014800108

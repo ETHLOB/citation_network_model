@@ -1,0 +1,19 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Larochelle H.,,The neural autoregressive distribution estimator,2011,Journal of Machine Learning Research,123,,Canada,Conference Paper,Toronto,0,Journal,2-s2.0-84861999538
+Kemp C.,,The discovery of structural form,2008,Proceedings of the National Academy of Sciences of the United States of America,255,10.1073/pnas.0802631105,United States,Article,Pittsburgh,1,Journal,2-s2.0-49449116296
+Friedman J.,,Sparse inverse covariance estimation with the graphical lasso,2008,Biostatistics,2242,10.1093/biostatistics/kxm045,United States,Article,Palo Alto,1,Journal,2-s2.0-45849134070
+Ferris B.,,WiFi-SLAM using Gaussian process latent variable models,2007,IJCAI International Joint Conference on Artificial Intelligence,379,,United States,Conference Paper,Seattle,0,Conference Proceeding,2-s2.0-84880865323
+Lawrence N.,,Probabilistic non-linear principal component analysis with Gaussian process latent variable models,2005,Journal of Machine Learning Research,563,,United Kingdom,Article,Sheffield,0,Journal,2-s2.0-27844605876
+Ham J.,,A kernel view of the dimensionality reduction of manifolds,2004,"Proceedings, Twenty-First International Conference on Machine Learning, ICML 2004",247,,United States,Conference Paper,Philadelphia,0,Conference Proceeding,2-s2.0-11144299132
+Weinberger K.,,Learning a kernel matrix for nonlinear dimensionality reduction,2004,"Proceedings, Twenty-First International Conference on Machine Learning, ICML 2004",262,,United States,Conference Paper,Philadelphia,0,Conference Proceeding,2-s2.0-14344251006
+Bengio Y.,,Learning eigenfunctions links spectral embedding and kernel PCA,2004,Neural Computation,166,10.1162/0899766041732396,Canada,Article,Montreal,0,Journal,2-s2.0-4344599431
+Lawrence N.,,Gaussian process latent variable models for visualisation of high dimensional data,2004,Advances in Neural Information Processing Systems,377,,United Kingdom,Conference Paper,Sheffield,0,Conference Proceeding,2-s2.0-84898980901
+Bengio Y.,,"Out-of-sample extensions for LLE, Isomap, MDS, Eigenmaps, and spectral clustering",2004,Advances in Neural Information Processing Systems,454,,Canada,Conference Paper,Montreal,0,Conference Proceeding,2-s2.0-33947233031
+Li N.,,Modeling Linkage Disequilibrium and Identifying Recombination Hotspots Using Single-Nucleotide Polymorphism Data,2003,Genetics,557,,United States,Article,Seattle,0,Journal,2-s2.0-0347361674
+Belkin M.,,Laplacian eigenmaps for dimensionality reduction and data representation,2003,Neural Computation,4785,10.1162/089976603321780317,United States,Article,Chicago,0,Journal,2-s2.0-0042378381
+Williams C.,,On a connection between kernel PCA and metric multidimensional scaling,2001,Advances in Neural Information Processing Systems,39,,United Kingdom,Conference Paper,Edinburgh,0,Conference Proceeding,2-s2.0-84898939890
+Tenenbaum J.,,A global geometric framework for nonlinear dimensionality reduction,2000,Science,8825,10.1126/science.290.5500.2319,United States,Article,Palo Alto,0,Journal,2-s2.0-0034704229
+Roweis S.T.,,Nonlinear dimensionality reduction by locally linear embedding,2000,Science,10112,10.1126/science.290.5500.2323,United Kingdom,Article,London,0,Journal,2-s2.0-0034704222
+Tipping M.,,Probabilistic principal component analysis,1999,Journal of the Royal Statistical Society. Series B: Statistical Methodology,1848,10.1111/1467-9868.00196,United Kingdom,Article,Cambridge,0,Journal,2-s2.0-0038959172
+Schölkopf B.,,Nonlinear Component Analysis as a Kernel Eigenvalue Problem,1998,Neural Computation,5460,10.1162/089976698300017467,Germany,Article,Tubingen,0,Journal,2-s2.0-0347243182
+Neal R.,,Connectionist learning of belief networks,1992,Artificial Intelligence,260,10.1016/0004-3702(92)90065-6,Canada,Article,Toronto,0,Journal,2-s2.0-44049116681

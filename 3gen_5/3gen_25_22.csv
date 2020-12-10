@@ -1,0 +1,47 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Hon G.,,Discovery and annotation of functional chromatin signatures in the human genome,2009,PLoS Computational Biology,127,10.1371/journal.pcbi.1000566,United States,Article,San Diego,1,Journal,2-s2.0-73449092184
+Andersson R.,,Nucleosomes are well positioned in exons and carry characteristic histone modifications,2009,Genome Research,222,10.1101/gr.092353.109,Sweden,Article,Uppsala,1,Journal,2-s2.0-70349333201
+Wang Z.,,Genome-wide Mapping of HATs and HDACs Reveals Distinct Functions in Active and Inactive Genes,2009,Cell,843,10.1016/j.cell.2009.06.049,United States,Article,Bethesda,1,Journal,2-s2.0-69449102464
+Schwartz S.,,Chromatin organization marks exon-intron structure,2009,Nature Structural and Molecular Biology,403,10.1038/nsmb.1659,Israel,Article,Ramal Aviv,0,Journal,2-s2.0-69949132191
+Jia L.,,Functional enhancers at the gene-poor 8q24 cancer-linked locus,2009,PLoS Genetics,174,10.1371/journal.pgen.1000597,United States;United States,Article,Los Angeles;Los Angeles,1,Journal,2-s2.0-70249128376
+Zang C.,,A clustering approach for identification of enriched domains from histone modification ChIP-Seq data,2009,Bioinformatics,602,10.1093/bioinformatics/btp340,United States,Article,"Washington, D.C.",0,Journal,2-s2.0-67650711619
+Jaschek R.,,Spatial clustering of multivariate genomic and epigenomic information,2009,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),24,10.1007/978-3-642-02008-7_12,Israel,Conference Paper,Rehovot,0,Book Series,2-s2.0-67650330565
+Celniker S.E.,,Unlocking the secrets of the genome,2009,Nature,534,10.1038/459927a,United States,Review,Berkeley,1,Journal,2-s2.0-67649292737
+Heintzman N.D.,,Histone modifications at human enhancers reflect global cell-type-specific gene expression,2009,Nature,1539,10.1038/nature07829,United States,Article,San Diego,0,Journal,2-s2.0-65549104157
+Guttman M.,,Chromatin signature reveals over a thousand highly conserved large non-coding RNAs in mammals,2009,Nature,2697,10.1038/nature07672,United States;United States,Article,Cambridge;Cambridge,0,Journal,2-s2.0-62249133709
+Kolasinska-Zwierz P.,,Differential chromatin marking of introns and expressed exons by H3K36me3,2009,Nature Genetics,436,10.1038/ng.322,United Kingdom,Article,Cambridge,0,Journal,2-s2.0-61349098460
+Gudbjartsson D.F.,,Sequence variants affecting eosinophil numbers associate with asthma and myocardial infarction,2009,Nature Genetics,552,10.1038/ng.323,Iceland,Article,Reykjavik,0,Journal,2-s2.0-61349089164
+Wang X.,,High-resolution human core-promoter prediction with CoreBoost-HM,2009,Genome Research,84,10.1101/gr.081638.108,United States;China,Article,Cold Spring Harbor;Beijing,1,Journal,2-s2.0-59949103192
+Cui K.,,Chromatin Signatures in Multipotent Human Hematopoietic Stem Cells Indicate the Fate of Bivalent Genes during Differentiation,2009,Cell Stem Cell,445,10.1016/j.stem.2008.11.011,United States,Article,Bethesda,1,Journal,2-s2.0-58049191558
+Schuettengruber B.,,Functional anatomy of polycomb and trithorax chromatin landscapes in Drosophila embryos,2009,PLoS Biology,232,10.1371/journal.pbio.1000013,France,Article,Montpellier,1,Journal,2-s2.0-58849088872
+Won K.J.,,Prediction of regulatory elements in mammalian genomes using chromatin signatures,2008,BMC Bioinformatics,67,10.1186/1471-2105-9-547,United States,Article,San Diego,1,Journal,2-s2.0-62849085018
+Zhang Y.,,Identifying positioned nucleosomes with epigenetic marks in human from ChIP-Seq,2008,BMC Genomics,103,10.1186/1471-2164-9-537,United States,Article,Boston,1,Journal,2-s2.0-57449095143
+Hon G.,,ChromaSig: A probabilistic approach to finding common chromatin signatures in the human genome,2008,PLoS Computational Biology,108,10.1371/journal.pcbi.1000201,United States,Article,San Diego,1,Journal,2-s2.0-55549118625
+Wang Z.,,Combinatorial patterns of histone acetylations and methylations in the human genome,2008,Nature Genetics,1491,10.1038/ng.154,United States,Article,Bethesda,0,Journal,2-s2.0-46249112085
+Guelen L.,,Domain organization of human chromosomes revealed by mapping of nuclear lamina interactions,2008,Nature,1088,10.1038/nature06947,Netherlands,Article,Amsterdam,0,Journal,2-s2.0-45149084413
+Schones D.,,Dynamic Regulation of Nucleosome Positioning in the Human Genome,2008,Cell,910,10.1016/j.cell.2008.02.022,United States,Article,Bethesda,1,Journal,2-s2.0-39749145198
+Johnson D.S.,,Systematic evaluation of variability in ChIP-chip experiments using predefined DNA targets,2008,Genome Research,108,10.1101/gr.7080508,United States,Article,Stanford,1,Journal,2-s2.0-40449126726
+Boyle A.,,High-Resolution Mapping and Characterization of Open Chromatin across the Genome,2008,Cell,765,10.1016/j.cell.2007.12.014,United States,Article,Durham,1,Journal,2-s2.0-38649099445
+Karolchik D.,,The UCSC genome browser database: 2008 update,2008,Nucleic Acids Research,407,10.1093/nar/gkm966,United States,Article,Santa Cruz,1,Journal,2-s2.0-38549131376
+Kheradpour P.,,Reliable prediction of regulator targets using 12 Drosophila genomes,2007,Genome Research,123,10.1101/gr.7090407,United States,Article,Cambridge,1,Journal,2-s2.0-38849171836
+Frazer K.A.,,A second generation human haplotype map of over 3.1 million SNPs,2007,Nature,3273,10.1038/nature06258,United States,Article,San Diego,0,Journal,2-s2.0-35348983887
+Birney E.,,Identification and analysis of functional elements in 1% of the human genome by the ENCODE pilot project,2007,Nature,3658,10.1038/nature05874,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-34250305146
+Day N.,,Unsupervised segmentation of continuous genomic data,2007,Bioinformatics,60,10.1093/bioinformatics/btm096,United States,Article,Seattle,1,Journal,2-s2.0-34447333117
+Thurman R.,,Identification of higher-order functional domains in the human ENCODE regions,2007,Genome Research,86,10.1101/gr.6081407,United States,Article,Seattle,1,Journal,2-s2.0-34250376064
+O'Geen H.,,Genome-wide analysis of KAP1 binding suggests autoregulation of KRAB-ZNFs,2007,PLoS Genetics,141,10.1371/journal.pgen.0030089,United States,Article,Davis,1,Journal,2-s2.0-34347353316
+Barski A.,,High-Resolution Profiling of Histone Methylations in the Human Genome,2007,Cell,4418,10.1016/j.cell.2007.05.009,United States,Article,Bethesda,1,Journal,2-s2.0-34249026300
+Heintzman N.D.,,Distinct and predictive chromatin signatures of transcriptional promoters and enhancers in the human genome,2007,Nature Genetics,2044,10.1038/ng1966,United States,Article,San Diego,0,Journal,2-s2.0-33847334699
+Bernstein B.,,The Mammalian Epigenome,2007,Cell,1493,10.1016/j.cell.2007.01.033,United States;United States;United States,Review,Boston;Cambridge;Boston,1,Journal,2-s2.0-33847032960
+Kouzarides T.,,Chromatin Modifications and Their Function,2007,Cell,6896,10.1016/j.cell.2007.02.005,United Kingdom,Review,Cambridge,1,Journal,2-s2.0-33847076849
+Miller W.,,28-Way vertebrate alignment and conservation track in the UCSC Genome Browser,2007,Genome Research,189,10.1101/gr.6761107,United States,Article,University Park,1,Journal,2-s2.0-38849149795
+Pruitt K.D.,,"NCBI reference sequences (RefSeq): A curated non-redundant sequence database of genomes, transcripts and proteins",2007,Nucleic Acids Research,1747,10.1093/nar/gkl842,United States,Article,Bethesda,1,Journal,2-s2.0-33846057724
+Sripathy S.,,The KAP1 corepressor functions to coordinate the assembly of de novo HP1-demarcated microenvironments of heterochromatin required for KRAB zinc finger protein-mediated transcriptional repression,2006,Molecular and Cellular Biology,190,10.1128/MCB.00487-06,United States,Article,Cleveland,1,Journal,2-s2.0-33751007001
+Carninci P.,,Genome-wide analysis of mammalian promoter architecture and evolution,2006,Nature Genetics,875,10.1038/ng1789,Japan;Japan,Article,Yokohama;Wako,0,Journal,2-s2.0-33744805985
+Ernst J.,,STEM: A tool for the analysis of short time series gene expression data,2006,BMC Bioinformatics,609,10.1186/1471-2105-7-191,United States,Article,Pittsburgh,1,Journal,2-s2.0-33646344978
+Siepel A.,,"Evolutionarily conserved elements in vertebrate, insect, worm, and yeast genomes",2005,Genome Research,2173,10.1101/gr.3715005,United States,Article,Santa Cruz,1,Journal,2-s2.0-23744458086
+Su A.I.,,A gene atlas of the mouse and human protein-encoding transcriptomes,2004,Proceedings of the National Academy of Sciences of the United States of America,2671,10.1073/pnas.0400782101,United States,Article,San Diego,1,Journal,2-s2.0-11144358198
+Benson D.,,GenBank: Update,2004,Nucleic Acids Research,491,,United States,Article,Bethesda,0,Journal,2-s2.0-0345865009
+Furey T.,,Integration of the cytogenetic map with the draft human genome sequence,2003,Human Molecular Genetics,67,10.1093/hmg/ddg113,United States,Review,Santa Cruz,1,Journal,2-s2.0-0038364021
+Schreiber S.,,Signaling network model of chromatin,2002,Cell,306,10.1016/S0092-8674(02)01196-0,United States,Review,Cambridge,1,Journal,2-s2.0-0037074010
+James Kent W.,,The human genome browser at UCSC,2002,Genome Research,5354,10.1101/gr.229102. Article published online before print in May 2002,United States,Article,Santa Cruz,0,Journal,2-s2.0-0036079158
+Strahl B.,,The language of covalent histone modifications,2000,Nature,5916,10.1038/47412,United States,Review,Charlottesville,0,Journal,2-s2.0-0034610814

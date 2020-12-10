@@ -1,0 +1,41 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Roberts A.,,Identification of novel transcripts in annotated genomes using RNA-seq,2011,Bioinformatics,612,10.1093/bioinformatics/btr355,United States,Article,Berkeley,1,Journal,2-s2.0-80051941094
+Grabherr M.G.,,Full-length transcriptome assembly from RNA-Seq data without a reference genome,2011,Nature Biotechnology,8571,10.1038/nbt.1883,United States,Article,Cambridge,0,Journal,2-s2.0-79960264362
+Roberts A.,,Improving RNA-Seq expression estimates by correcting for fragment bias,2011,Genome Biology,590,10.1186/gb-2011-12-3-r22,United States,Article,Berkeley,1,Journal,2-s2.0-79952709611
+Paşaniuc B.,,Accurate estimation of expression levels of homologous genes in RNA-seq experiments,2011,Journal of Computational Biology,24,10.1089/cmb.2010.0259,United States,Conference Paper,Boston,0,Journal,2-s2.0-79952424462
+Feng J.,,Inference of isoforms from short sequence reads,2011,Journal of Computational Biology,38,10.1089/cmb.2010.0243,China,Conference Paper,Shanghai,0,Journal,2-s2.0-79952389472
+Wu Z.,,Using non-uniform read distribution models to improve isoform expression inference in RNA-Seq,2011,Bioinformatics,69,10.1093/bioinformatics/btq696,China,Article,Beijing,1,Journal,2-s2.0-79951522882
+Flicek P.,,Ensembl 2011,2011,Nucleic Acids Research,574,10.1093/nar/gkq1064,United Kingdom;United Kingdom,Article,Cambridge;Hinxton,1,Journal,2-s2.0-78651289449
+Fujita P.,,The UCSC genome browser database: Update 2011,2011,Nucleic Acids Research,799,10.1093/nar/gkq963,United States,Article,Santa Cruz,1,Journal,2-s2.0-78651320424
+Wang X.,,Isoform abundance inference provides a more accurate estimation of gene expression levels in RNA-seq,2010,Journal of Bioinformatics and Computational Biology,27,10.1142/S0219720010005178,China,Article,Beijing,0,Journal,2-s2.0-78650004236
+Katz Y.,,Analysis and design of RNA sequencing experiments for identifying isoform regulation,2010,Nature Methods,721,10.1038/nmeth.1528,United States,Article,Cambridge,0,Journal,2-s2.0-78649714014
+Nicolae M.,,Estimation of alternative splicing isoform frequencies from RNA-seq data,2010,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),20,10.1007/978-3-642-15294-8_17,United States,Conference Paper,Storrs,0,Book Series,2-s2.0-78049485688
+Robertson G.,,De novo assembly and analysis of RNA-seq data,2010,Nature Methods,560,10.1038/nmeth.1517,Canada,Article,Vancouver,0,Journal,2-s2.0-78049346632
+Anders S.,,Differential expression analysis for sequence count data,2010,Genome Biology,7693,10.1186/gb-2010-11-10-r106,Germany,Article,Heidelberg,1,Journal,2-s2.0-77958471357
+Bohnert R.,,rQuant.web: A tool for RNA-Seq-based transcript quantitation,2010,Nucleic Acids Research,46,10.1093/nar/gkq448,Germany,Article,Tubingen,1,Journal,2-s2.0-77954302477
+Li J.,,Modeling non-uniformity in short-read rates in RNA-Seq data,2010,Genome Biology,142,10.1186/gb-2010-11-5-r50,United States,Article,Palo Alto,1,Journal,2-s2.0-77951940273
+Guttman M.,,Ab initio reconstruction of cell type-specific transcriptomes in mouse reveals the conserved multi-exonic structure of lincRNAs,2010,Nature Biotechnology,884,10.1038/nbt.1633,United States;United States,Article,Cambridge;Cambridge,0,Journal,2-s2.0-77952148742
+Trapnell C.,,Transcript assembly and quantification by RNA-Seq reveals unannotated transcripts and isoform switching during cell differentiation,2010,Nature Biotechnology,7900,10.1038/nbt.1621,United States;United States,Article,Berkeley;College Park,0,Journal,2-s2.0-77952123055
+Hansen K.,,Biases in Illumina transcriptome sequencing caused by random hexamer priming,2010,Nucleic Acids Research,391,10.1093/nar/gkq224,United States,Article,Berkeley,1,Journal,2-s2.0-77955883388
+Au K.F.,,Detection of splice junctions from paired-end RNA-seq data by SpliceMap,2010,Nucleic Acids Research,224,10.1093/nar/gkq211,United States,Article,Palo Alto,1,Journal,2-s2.0-77955443472
+Bustin S.,,Why the need for qPCR publication guidelines?-The case for MIQE,2010,Methods,241,10.1016/j.ymeth.2009.12.006,United Kingdom,Article,London,0,Journal,2-s2.0-77649233414
+Bullard J.,,Evaluation of statistical methods for normalization and differential expression in mRNA-Seq experiments,2010,BMC Bioinformatics,919,10.1186/1471-2105-11-94,United States,Article,Berkeley,1,Journal,2-s2.0-77949481052
+Richard H.,,Prediction of alternative isoforms from exon expression levels in RNA-Seq experiments,2010,Nucleic Acids Research,113,10.1093/nar/gkq041,Germany,Article,Berlin,1,Journal,2-s2.0-77954127002
+Li B.,,RNA-Seq gene expression estimation with read mapping uncertainty,2009,Bioinformatics,534,10.1093/bioinformatics/btp692,United States,Article,Madison,1,Journal,2-s2.0-77949507153
+Robinson M.,,edgeR: A Bioconductor package for differential expression analysis of digital gene expression data,2009,Bioinformatics,11916,10.1093/bioinformatics/btp616,Australia;Australia,Article,Melbourne;Sydney,1,Journal,2-s2.0-75249087100
+Li H.,,The Sequence Alignment/Map format and SAMtools,2009,Bioinformatics,19680,10.1093/bioinformatics/btp352,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-68549104404
+Trapnell C.,,TopHat: Discovering splice junctions with RNA-Seq,2009,Bioinformatics,7547,10.1093/bioinformatics/btp120,United States,Article,College Park,1,Journal,2-s2.0-65449136284
+Jiang H.,,Statistical inferences for isoform expression in RNA-Seq,2009,Bioinformatics,323,10.1093/bioinformatics/btp113,United States,Article,Palo Alto,1,Journal,2-s2.0-64549119707
+Langmead B.,,Ultrafast and memory-efficient alignment of short DNA sequences to the human genome,2009,Genome Biology,11983,10.1186/gb-2009-10-3-r25,United States,Article,College Park,1,Journal,2-s2.0-62349130698
+Pruitt K.D.,,"NCBI reference sequences: Current status, policy and new initiatives",2009,Nucleic Acids Research,577,10.1093/nar/gkn721,United States,Article,Bethesda,1,Journal,2-s2.0-58149178579
+Wang Z.,,RNA-Seq: A revolutionary tool for transcriptomics,2009,Nature Reviews Genetics,6719,10.1038/nrg2484,United States,Review,New Haven,0,Journal,2-s2.0-57749195712
+Wang E.T.,,Alternative isoform regulation in human tissue transcriptomes,2008,Nature,2953,10.1038/nature07509,United States;United States,Article,Cambridge;Cambridge,0,Journal,2-s2.0-56549101959
+Marioni J.,,RNA-seq: An assessment of technical reproducibility and comparison with gene expression arrays,2008,Genome Research,1877,10.1101/gr.079558.108,United States,Article,Chicago,1,Journal,2-s2.0-50649089207
+De Bona F.,,Optimal spliced alignments of short sequence reads,2008,Bioinformatics,78,10.1093/bioinformatics/btn300,Germany,Conference Paper,Tubingen,1,Journal,2-s2.0-49549102475
+Morin R.,,Profiling the HeLa S3 transcriptome using randomly primed cDNA and massively parallel short-read sequencing,2008,BioTechniques,276,10.2144/000112900,Canada,Article,Vancouver,1,Journal,2-s2.0-47949084846
+Mortazavi A.,,Mapping and quantifying mammalian transcriptomes by RNA-Seq,2008,Nature Methods,8299,10.1038/nmeth.1226,United States,Article,Pasadena,0,Journal,2-s2.0-46249106990
+Nagalakshmi U.,,The transcriptional landscape of the yeast genome defined by RNA sequencing,2008,Science,1602,10.1126/science.1158441,United States,Article,New Haven,0,Journal,2-s2.0-45549088326
+Faulkner G.J.,,A rescue strategy for multimapping short sequence tags refines surveys of transcriptional activity by CAGE,2008,Genomics,74,10.1016/j.ygeno.2007.11.003,Australia,Article,Brisbane,1,Journal,2-s2.0-39149083734
+Shi L.,,The MicroArray Quality Control (MAQC) project shows inter- and intraplatform reproducibility of gene expression measurements,2006,Nature Biotechnology,1571,10.1038/nbt1239,United States,Article,Jeffersonville,0,Journal,2-s2.0-33748491517
+James Kent W.,,The human genome browser at UCSC,2002,Genome Research,5354,10.1101/gr.229102. Article published online before print in May 2002,United States,Article,Santa Cruz,0,Journal,2-s2.0-0036079158
+Liu J.,,The collapsed gibbs sampler in Bayesian computations with applications to a gene regulation problem,1994,Journal of the American Statistical Association,372,10.1080/01621459.1994.10476829,United States,Article,Cambridge,0,Journal,2-s2.0-79951870792

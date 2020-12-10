@@ -1,0 +1,11 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Cordeiro De Amorim R.,,"Minkowski metric, feature weighting and anomalous cluster initializing in K-Means clustering",2012,Pattern Recognition,172,10.1016/j.patcog.2011.08.012,United Kingdom,Article,London,0,Journal,2-s2.0-80055024879
+Chiang M.,,Intelligent choice of the number of clusters in k-means clustering: An experimental study with different cluster spreads,2010,Journal of Classification,169,10.1007/s00357-010-9049-5,United Kingdom,Article,London,0,Journal,2-s2.0-77953022339
+De Amorim R.C.,,Constrained intelligent K-means: Improving results with limited previous knowledge,2008,"Proceedings - The 2nd International Conference on Advanced Engineering Computing and Applications in Sciences, ADVCOMP 2008",13,10.1109/ADVCOMP.2008.30,United Kingdom,Conference Paper,London,0,Conference Proceeding,2-s2.0-67650104347
+Steinley D.,,Initializing K-means batch clustering: A critical evaluation of several techniques,2007,Journal of Classification,155,10.1007/s00357-007-0003-0,United States,Article,Columbia,0,Journal,2-s2.0-34250871625
+Huang J.Z.,,Automated variable weighting in k-means type clustering,2005,IEEE Transactions on Pattern Analysis and Machine Intelligence,492,10.1109/TPAMI.2005.95,Hong Kong,Article,Pokfulam,0,Journal,2-s2.0-18144419389
+Chan E.,,An optimization algorithm for clustering using weighted dissimilarity measures,2004,Pattern Recognition,182,10.1016/j.patcog.2003.11.003,Hong Kong,Article,Pokfulam,0,Journal,2-s2.0-1842762839
+Peña J.M.,,An empirical comparison of four initialization methods for the K-Means algorithm,1999,Pattern Recognition Letters,488,10.1016/S0167-8655(99)00069-0,Spain,Article,Donostia-San Sebastian,0,Journal,2-s2.0-0033204902
+Milligan G.,,A study of standardization of variables in cluster analysis,1988,Journal of Classification,414,10.1007/BF01897163,United States,Article,Columbus,0,Journal,2-s2.0-0000235019
+Ball G.,,A clustering technique for summarizing multivariate data.,1967,Behavioral science,603,10.1002/bs.3830120210,,Article,,0,Journal,2-s2.0-0014060964
+Ward J.,,Hierarchical Grouping to Optimize an Objective Function,1963,Journal of the American Statistical Association,10600,10.1080/01621459.1963.10500845,United States,Article,San Antonio,0,Journal,2-s2.0-84944178665

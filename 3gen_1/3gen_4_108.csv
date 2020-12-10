@@ -1,0 +1,26 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Eriksson L.,,Separating Y-predictive and Y-orthogonal variation in multi-block spectral data,2006,Journal of Chemometrics,12,10.1002/cem.1007,Sweden,Article,Umea,0,Journal,2-s2.0-34249324050
+Bylesjö M.,,OPLS discriminant analysis: Combining the strengths of PLS-DA and SIMCA classification,2006,Journal of Chemometrics,815,10.1002/cem.1006,Sweden,Article,Umea,0,Journal,2-s2.0-34249335649
+Kim K.,,A novel multivariate regression approach based on kernel partial least squares with orthogonal signal correction,2005,Chemometrics and Intelligent Laboratory Systems,171,10.1016/j.chemolab.2005.03.003,South Korea,Article,Pohang,0,Journal,2-s2.0-24044461725
+Czekaj T.,,About kernel latent variable approaches and SVM,2005,Journal of Chemometrics,46,10.1002/cem.937,Poland,Article,Katowice,0,Journal,2-s2.0-32444444605
+Zomer S.,,Toxicological classification of urine samples using pattern recognition techniques and capillary electrophoresis,2004,Analytical and Bioanalytical Chemistry,23,10.1007/s00216-004-2518-0,United Kingdom,Article,Bristol,0,Journal,2-s2.0-2442569953
+Zomer S.,,Support vector machines for the discrimination of analytical chemical data: Application to the determination of tablet production by pyrolysis-gas chromatography-mass spectrometry,2004,Analyst,42,10.1039/b312982a,United Kingdom,Article,Bristol,0,Journal,2-s2.0-1342343985
+Iguyon I.,,An introduction to variable and feature selection,2003,Journal of Machine Learning Research,9130,,United States,Review,Berkeley,0,Journal,2-s2.0-33745561205
+Trygg J.,,"O2-PLS, a two-block (X-Y) latent variable regression (LVR) method with an integral OSC filter",2003,Journal of Chemometrics,248,10.1002/cem.775,Australia,Conference Paper,Brisbane,0,Journal,2-s2.0-0037282744
+Belousov A.I.,,A flexible classification approach with optimal generalisation performance: Support vector machines,2002,Chemometrics and Intelligent Laboratory Systems,209,10.1016/S0169-7439(02)00046-1,Germany,Article,Munster,0,Journal,2-s2.0-0037191113
+Trygg J.,,O2-PLS for qualitative and quantitative analysis in multivariate calibration,2002,Journal of Chemometrics,190,10.1002/cem.724,Sweden,Article,Umea,0,Journal,2-s2.0-0036085968
+Trygg J.,,Orthogonal projections to latent structures (O-PLS),2002,Journal of Chemometrics,1532,10.1002/cem.695,Sweden,Article,Umea,0,Journal,2-s2.0-0036083139
+Berntsson O.,,Quantitative in-line monitoring of powder blending by near infrared reflection spectroscopy,2002,Powder Technology,131,10.1016/S0032-5910(01)00456-9,Sweden,Article,Stockholm,0,Journal,2-s2.0-0037061158
+Wajima T.,,Prediction of human clearance from animal data and molecular structural parameters using multivariate regression analysis,2002,Journal of Pharmaceutical Sciences,56,10.1002/jps.10242,Japan,Conference Paper,Osaka,0,Journal,2-s2.0-0036892637
+Guyon I.,,Gene selection for cancer classification using support vector machines,2002,Machine Learning,5269,10.1023/A:1012487302797,,Article,,1,Journal,2-s2.0-0036161259
+Wold S.,,PLS-regression: A basic tool of chemometrics,2001,Chemometrics and Intelligent Laboratory Systems,5344,10.1016/S0169-7439(01)00155-1,Sweden,Conference Paper,Umea,0,Journal,2-s2.0-0035965476
+Müller K.R.,,An introduction to kernel-based learning algorithms,2001,IEEE Transactions on Neural Networks,2695,10.1109/72.914517,Germany;Germany,Review,Berlin;Potsdam,0,Journal,2-s2.0-0035272287
+Knorr E.,,Distance-based outliers: Algorithms and applications,2000,VLDB Journal,771,10.1007/s007780050006,Canada,Article,Vancouver,0,Journal,2-s2.0-0034133513
+Wold S.,,Orthogonal signal correction of near-infrared spectra,1998,Chemometrics and Intelligent Laboratory Systems,889,10.1016/S0169-7439(98)00109-9,Sweden,Conference Paper,Umea,0,Journal,2-s2.0-0032517819
+Burges C.,,A tutorial on support vector machines for pattern recognition,1998,Data Mining and Knowledge Discovery,11883,10.1023/A:1009715923555,United States,Article,Murray,0,Journal,2-s2.0-27144489164
+Østby L.,,Mutagenicity testing of organic extracts of diesel exhaust particles after fractionation and recombination,1997,Archives of Toxicology,24,10.1007/s002040050392,Norway;Norway,Article,Trondheim;Steinkjer,0,Journal,2-s2.0-0030905036
+Jiang J.,,Neural network learning to non-linear principal component analysis,1996,Analytica Chimica Acta,14,10.1016/S0003-2670(96)00359-5,China,Article,Changsha,0,Journal,2-s2.0-0030607717
+Walczak B.,,The Radial Basis Functions - Partial Least Squares approach as a flexible non-linear regression technique,1996,Analytica Chimica Acta,185,10.1016/0003-2670(96)00202-4,Poland,Article,Katowice,0,Journal,2-s2.0-0030607269
+Rännar S.,,A PLS kernel algorithm for data sets with many variables and fewer objects. Part 1: Theory and algorithm,1994,Journal of Chemometrics,227,10.1002/cem.1180080204,Sweden,Article,Umea,0,Journal,2-s2.0-84984286248
+Kvalheim O.,,The latent variable,1992,Chemometrics and Intelligent Laboratory Systems,19,10.1016/0169-7439(92)80088-L,,Editorial,,0,Journal,2-s2.0-0002759651
+Barnes R.,,Standard normal variate transformation and de-trending of near-infrared diffuse reflectance spectra,Jul,Applied Spectroscopy,2232,10.1366/0003702894202201,United Kingdom,Article,Aberystwyth,0,Journal,2-s2.0-0024701578

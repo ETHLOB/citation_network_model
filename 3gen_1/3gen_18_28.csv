@@ -1,0 +1,10 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Handl J.,,Computational cluster validation in post-genomic data analysis,2005,Bioinformatics,555,10.1093/bioinformatics/bti517,United Kingdom,Review,Manchester,1,Journal,2-s2.0-25144456056
+Jiang D.,,Cluster analysis for gene expression data: A survey,2004,IEEE Transactions on Knowledge and Data Engineering,815,10.1109/TKDE.2004.68,United States,Review,Buffalo,0,Journal,2-s2.0-13844276694
+Costa I.,,Comparative analysis of clustering methods for gene expression time course data,2004,Genetics and Molecular Biology,43,10.1590/S1415-47572004000400025,Brazil,Article,Recife,1,Journal,2-s2.0-11344295027
+Gat-Viks I.,,Scoring clustering solutions by their biological relevance,2003,Bioinformatics,54,10.1093/bioinformatics/btg330,Israel,Article,Tel Aviv-Yafo,1,Journal,2-s2.0-0348143190
+Datta S.,,Comparisons and validation of statistical clustering techniques for microarray gene expression data,2003,Bioinformatics,249,10.1093/bioinformatics/btg025,United States,Article,Atlanta,1,Journal,2-s2.0-0037342510
+Gibbons F.,,Judging the quality of gene expression-based clustering methods using gene annotation,2002,Genome Research,237,10.1101/gr.397002,United States,Article,Boston,1,Journal,2-s2.0-0036798238
+Tavazoie S.,,Systematic determination of genetic network architecture,1999,Nature Genetics,1870,10.1038/10343,United States,Article,Boston,0,Journal,2-s2.0-0033028596
+Tamayo P.,,Interpreting patterns of gene expression with self-organizing maps: Methods and application to hematopoietic differentiation,1999,Proceedings of the National Academy of Sciences of the United States of America,2309,10.1073/pnas.96.6.2907,United States,Conference Paper,Cambridge,1,Journal,2-s2.0-0033027794
+Eisen M.,,Cluster analysis and display of genome-wide expression patterns,1998,Proceedings of the National Academy of Sciences of the United States of America,12573,10.1073/pnas.95.25.14863,United States,Article,Stanford,0,Journal,2-s2.0-0032441150

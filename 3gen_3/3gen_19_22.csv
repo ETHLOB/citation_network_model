@@ -1,0 +1,16 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Archer B.,,System islanding considerations for improving power system restoration at Manitoba Hydro,2002,Canadian Conference on Electrical and Computer Engineering,36,,Canada,Conference Paper,Winnipeg,0,Conference Proceeding,2-s2.0-0036068696
+Sutanto D.,,Power system emergency control against voltage collapse,2000,"2000 IEEE Power Engineering Society, Conference Proceedings",4,10.1109/PESW.2000.850201,Hong Kong,Conference Paper,Kowloon,0,Conference Proceeding,2-s2.0-0344006142
+Biere A.,,Symbolic model checking using SAT procedures instead of BDDs,1999,Proceedings - Design Automation Conference,469,10.1145/309847.309942,United States,Article,Pittsburgh,0,Conference Proceeding,2-s2.0-0032630134
+Lachs W.,,Exploring power system emergency control,1998,"Proceedings of the International Conference on Energy Management and Power Delivery, EMPD",1,,Australia,Article,Sydney,0,Conference Proceeding,2-s2.0-0032231522
+Overbye T.,,Determination of emergency power system voltage control actions,1998,IEEE Transactions on Power Systems,15,10.1109/59.651637,United States,Article,Urbana,0,Journal,2-s2.0-0032002203
+Vittal V.,,Determination of generator groupings for an islanding scheme in the manitoba hydro system using the method of normal forms,1998,IEEE Transactions on Power Systems,50,10.1109/59.736275,Hong Kong;United States,Article,Pokfulam;Ames,0,Journal,2-s2.0-0032205955
+Sancha J.,,Application of long-term simulation programs for analysis of system islanding,1997,IEEE Transactions on Power Systems,13,10.1109/59.574939,,Article,,0,Journal,2-s2.0-0031077882
+Thapar J.,,Application of the normal form of vector fields to predict interarea separation in power systems,1997,IEEE Transactions on Power Systems,123,10.1109/59.589716,United States,Article,Ames,0,Journal,2-s2.0-0031143249
+Wolpert D.H.,,No free lunch theorems for optimization,1997,IEEE Transactions on Evolutionary Computation,5249,10.1109/4235.585893,United States,Article,San Jose,0,Journal,2-s2.0-0031118203
+Taylor C.,,Recording and analyzing the July 2 cascading outage,1997,IEEE Computer Applications in Power,116,10.1109/67.560830,United States,Article,Portland,0,Journal,2-s2.0-0030836215
+Ross H.,,An AGC Implementation for System 1 Slanding and Restoration Conditions,1994,IEEE Transactions on Power Systems,23,10.1109/59.336124,United States,Article,,0,Journal,2-s2.0-0028482061
+Marconato R.,,Emergency automatic control of critical sections in the ENEL power system,1991,Melecon,1,,Italy,Conference Paper,Rome,0,Conference Proceeding,2-s2.0-0026373977
+Burch J.,,Symbolic model checking: 10<sup>20</sup> states and beyond,1990,Proceedings - Symposium on Logic in Computer Science,538,,,Conference Paper,,0,Conference Proceeding,2-s2.0-0025595038
+Bryant R.,,Graph-Based Algorithms for Boolean Function Manipulation,1986,IEEE Transactions on Computers,5208,10.1109/TC.1986.1676819,United States,Article,Pittsburgh,0,Journal,2-s2.0-0022769976
+Alsac O.,,OPTIMAL LOAD FLOW WITH STEADY-STATE SECURITY.,May-Jun,IEEE Trans Power Appar Syst PAS-93,590,10.1109/TPAS.1974.293972,,Article,,0,Journal,2-s2.0-0016061310

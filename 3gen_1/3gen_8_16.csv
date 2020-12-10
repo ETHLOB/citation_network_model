@@ -1,0 +1,16 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Freund Y.,,Learning the structure of manifolds using random projections,2009,Advances in Neural Information Processing Systems 20 - Proceedings of the 2007 Conference,62,,United States,Conference Paper,San Diego,0,Conference Proceeding,2-s2.0-84858768958
+Indyk P.,,Nearest-neighbor-preserving embeddings,2007,ACM Transactions on Algorithms,70,10.1145/1273340.1273347,United States;,Article,Cambridge;,0,Journal,2-s2.0-34548291868
+Beygelzimer A.,,Cover trees for nearest neighbor,2006,ACM International Conference Proceeding Series,195,10.1145/1143844.1143857,United States,Conference Paper,Yorktown Heights,0,Conference Proceeding,2-s2.0-34250785135
+Candes E.,,Near-optimal signal recovery from random projections: Universal encoding strategies?,2006,IEEE Transactions on Information Theory,4751,10.1109/TIT.2006.885507,United States,Article,Pasadena,0,Journal,2-s2.0-33947416035
+Donoho D.,,Compressed sensing,2006,IEEE Transactions on Information Theory,18803,10.1109/TIT.2006.871582,United States,Article,Palo Alto,0,Journal,2-s2.0-33645712892
+Krauthgamer R.,,Navigating nets: Simple algorithms for proximity search,2004,Proceedings of the Annual ACM-SIAM Symposium on Discrete Algorithms,220,,United States,Conference Paper,San Jose,0,Conference Proceeding,2-s2.0-1842434970
+Gupta A.,,"Bounded geometries, fractals, and low-distortion embeddings",2003,Annual Symposium on Foundations of Computer Science - Proceedings,212,,United States,Conference Paper,Pittsburgh,0,Conference Proceeding,2-s2.0-0344550482
+Belkin M.,,Laplacian eigenmaps for dimensionality reduction and data representation,2003,Neural Computation,4760,10.1162/089976603321780317,United States,Article,Chicago,0,Journal,2-s2.0-0042378381
+Tenenbaum J.,,A global geometric framework for nonlinear dimensionality reduction,2000,Science,8778,10.1126/science.290.5500.2319,United States,Article,Palo Alto,0,Journal,2-s2.0-0034704229
+Roweis S.T.,,Nonlinear dimensionality reduction by locally linear embedding,2000,Science,10053,10.1126/science.290.5500.2323,United Kingdom,Article,London,0,Journal,2-s2.0-0034704222
+Gray R.,,Quantization,1998,IEEE Transactions on Information Theory,1178,10.1109/18.720541,United States;United States,Article,Palo Alto;New York,0,Journal,2-s2.0-0032184399
+Arya S.,,An optimal algorithm for approximate nearest neighbor searching in fixed dimensions,1998,Journal of the ACM,1556,10.1145/293347.293348,Hong Kong,Article,Hong Kong,0,Journal,2-s2.0-0032201716
+Chou P.,,Optimal Pruning with Applications to Tree-Structured Source Coding and Modeling,1989,IEEE Transactions on Information Theory,263,10.1109/18.32124,United States,Article,Murray,0,Journal,2-s2.0-0024626309
+Fuchs H.,,VISIBLE SURFACE GENERATION BY A PRIORI TREE STRUCTURES.,Jul,Comput Graphics (ACM),410,10.1145/965105.807481,,Conference Paper,,0,Trade Journal,2-s2.0-0019033556
+Bentley J.,,Multidimensional Binary Search Trees Used for Associative Searching,1975,Communications of the ACM,3759,10.1145/361002.361007,United States,Article,Palo Alto,0,Journal,2-s2.0-0016557674

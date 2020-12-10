@@ -1,0 +1,16 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Fan J.,,Statistical challenges with high dimensionality: Feature selection in knowledge discovery,2006,"International Congress of Mathematicians, ICM 2006",166,,United States,Conference Paper,Princeton,0,Conference Proceeding,2-s2.0-84878031768
+Hunter D.R.,,Variable selection using MM algorithms,2005,Annals of Statistics,282,10.1214/009053605000000200,United States,Article,University Park,1,Journal,2-s2.0-26444617168
+Efron B.,,Least angle regression,2004,Annals of Statistics,5214,10.1214/009053604000000067,United States,Article,Palo Alto,1,Journal,2-s2.0-3242708140
+Fan J.,,Nonconcave penalized likelihood with a diverging number of parameters,2004,Annals of Statistics,498,10.1214/009053604000000256,United States,Article,Princeton,1,Journal,2-s2.0-24344502730
+Donoho D.,,Optimally sparse representation in general (nonorthogonal) dictionaries via ℓ<sup>1</sup> minimization,2003,Proceedings of the National Academy of Sciences of the United States of America,1903,10.1073/pnas.0437847100,United States,Article,Palo Alto,1,Journal,2-s2.0-0037418225
+Shen X.,,Adaptive model selection,2002,Journal of the American Statistical Association,113,10.1198/016214502753479356,United States,Article,Columbus,0,Journal,2-s2.0-0036489055
+Fan J.,,Variable selection via nonconcave penalized likelihood and its oracle properties,2001,Journal of the American Statistical Association,3858,10.1198/016214501753382273,United States;Hong Kong,Article,Los Angeles;Shatin,0,Journal,2-s2.0-1542784498
+Donoho D.,,Uncertainty principles and ideal atomic decomposition,2001,IEEE Transactions on Information Theory,1267,10.1109/18.959265,United States;United States,Article,Palo Alto;New York,0,Journal,2-s2.0-0035504028
+Antoniadis A.,,Regularization of wavelet approximations,2001,Journal of the American Statistical Association,338,10.1198/016214501753208942,France,Article,Saint Martin d'Heres,0,Journal,2-s2.0-0442312210
+Chen S.,,Atomic decomposition by basis pursuit,2001,SIAM Review,2944,10.1137/S003614450037906X,United States,Article,Setauket,0,Journal,2-s2.0-0035273106
+Knight K.,,Asymptotics for Lasso-type estimators,2000,Annals of Statistics,689,10.1214/aos/1015957397,Canada,Article,Toronto,1,Journal,2-s2.0-0034287156
+Breiman L.,,Heuristics of instability and stabilization in model selection,1996,Annals of Statistics,649,10.1214/aos/1032181158,United States,Article,Berkeley,1,Journal,2-s2.0-0030344230
+Breiman L.,,Better subset regression using the nonnegative garrote,1995,Technometrics,589,10.1080/00401706.1995.10484371,United States,Article,Berkeley,0,Journal,2-s2.0-84874257732
+Donoho D.,,Ideal spatial adaptation by wavelet shrinkage,1994,Biometrika,6235,10.1093/biomet/81.3.425,United States,Article,Palo Alto,0,Journal,2-s2.0-0041958932
+Frank L.,,A statistical view of some chemometrics regression tools,1993,Technometrics,1360,10.1080/00401706.1993.10485033,United States,Article,Stanford,0,Journal,2-s2.0-84952149204

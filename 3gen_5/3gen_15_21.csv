@@ -1,0 +1,38 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Schirle N.,,Structural basis for microRNA targeting,2014,Science,250,10.1126/science.1258040,United States,Article,San Diego,0,Journal,2-s2.0-84908572838
+Zhou P.,,Large-Scale Screens of miRNA-mRNA Interactions Unveiled That the 3′UTR of a Gene Is Targeted by Multiple miRNAs,2013,PLoS ONE,39,10.1371/journal.pone.0068204,China,Article,Guangzhou,1,Journal,2-s2.0-84879930668
+Helwak A.,,Mapping the human miRNA interactome by CLASH reveals frequent noncanonical binding,2013,Cell,674,10.1016/j.cell.2013.03.043,United Kingdom,Article,Edinburgh,1,Journal,2-s2.0-84876935138
+Kojima S.,,Tumour suppressors miR-1 and miR-133a target the oncogenic function of purine nucleoside phosphorylase (PNP) in prostate cancer,2012,British Journal of Cancer,162,10.1038/bjc.2011.462,Japan,Article,Ichihara,1,Journal,2-s2.0-84856454111
+Lu Y.,,A Lasso regression model for the construction of microRNA-target regulatory networks,2011,Bioinformatics,77,10.1093/bioinformatics/btr410,China,Article,Beijing,1,Journal,2-s2.0-80051931399
+Mukherji S.,,MicroRNAs can generate thresholds in target gene expression,2011,Nature Genetics,426,10.1038/ng.905,United States,Article,Cambridge,0,Journal,2-s2.0-80052266532
+Salmena L.,,A ceRNA hypothesis: The rosetta stone of a hidden RNA language?,2011,Cell,2732,10.1016/j.cell.2011.07.014,United States,Short Survey,Boston,1,Journal,2-s2.0-79961170994
+Gennarino V.,,HOCTAR database: A unique resource for microRNA target prediction,2011,Gene,35,10.1016/j.gene.2011.03.005,Italy,Article,Naples,1,Journal,2-s2.0-79955890715
+Fang Z.,,The impact of miRNA target sites in coding sequences and in 3′UTRs,2011,PLoS ONE,177,10.1371/journal.pone.0018067,Germany,Article,Berlin,1,Journal,2-s2.0-79952907985
+Barrett T.,,NCBI GEO: Archive for functional genomics data sets-10 years on,2011,Nucleic Acids Research,764,10.1093/nar/gkq1184,United States,Article,Bethesda,1,Journal,2-s2.0-78651339534
+Kozomara A.,,MiRBase: Integrating microRNA annotation and deep-sequencing data,2011,Nucleic Acids Research,2620,10.1093/nar/gkq1027,United Kingdom,Article,Manchester,1,Journal,2-s2.0-78651293534
+Guo H.,,Mammalian microRNAs predominantly act to decrease target mRNA levels,2010,Nature,2680,10.1038/nature09267,United States;United States,Article,Cambridge;Cambridge,0,Journal,2-s2.0-77955644289
+Arvey A.,,Target mRNA abundance dilutes microRNA and siRNA activity,2010,Molecular Systems Biology,226,10.1038/msb.2010.24,United States,Article,New York,1,Journal,2-s2.0-77951474125
+Wu S.,,Multiple microRNAs modulate p21Cip1/Waf1 expression by directly targeting its 3′ untranslated region,2010,Oncogene,269,10.1038/onc.2010.34,China;China,Article,Shanghai;Fuzhou,1,Journal,2-s2.0-77951092028
+Hafner M.,,Transcriptome-wide Identification of RNA-Binding Protein and MicroRNA Target Sites by PAR-CLIP,2010,Cell,1756,10.1016/j.cell.2010.03.009,United States,Article,New York,1,Journal,2-s2.0-77950920903
+Shin C.,,Expanding the microRNA targeting code: functional sites with centered pairing.,2010,Molecular cell,417,10.1016/j.molcel.2010.06.005,United States,Article,Cambridge,1,Journal,2-s2.0-77955475953
+Bissels U.,,Absolute quantification of microRNAs by using a universal reference,2009,RNA,118,10.1261/rna.1754109,Germany,Article,Bergisch Gladbach,1,Journal,2-s2.0-73249118950
+Wang Y.,,"Nucleation, propagation and cleavage of target RNAs in Ago silencing complexes",2009,Nature,339,10.1038/nature08434,United States,Article,New York,0,Journal,2-s2.0-70349961432
+Alexiou P.,,Lost in translation: An assessment and perspective for computational microrna target identification,2009,Bioinformatics,241,10.1093/bioinformatics/btp565,Greece,Review,Vari,1,Journal,2-s2.0-74049088856
+Huang D.W.,,Extracting biological meaning from large gene lists with DAVID,2009,Current Protocols in Bioinformatics,238,10.1002/0471250953.bi1311s27,United States,Review,Frederick,0,Journal,2-s2.0-70149085189
+Chi S.,,Argonaute HITS-CLIP decodes microRNA-mRNA interaction maps,2009,Nature,1247,10.1038/nature08170,United States,Article,New York,0,Journal,2-s2.0-67749132423
+Bartel D.,,MicroRNAs: Target Recognition and Regulatory Functions,2009,Cell,13032,10.1016/j.cell.2009.01.002,United States;United States,Review,Cambridge;Cambridge,1,Journal,2-s2.0-58249088751
+Pruitt K.D.,,"NCBI reference sequences: Current status, policy and new initiatives",2009,Nucleic Acids Research,577,10.1093/nar/gkn721,United States,Article,Bethesda,1,Journal,2-s2.0-58149178579
+Wang Z.,,RNA-Seq: A revolutionary tool for transcriptomics,2009,Nature Reviews Genetics,6719,10.1038/nrg2484,United States,Review,New Haven,0,Journal,2-s2.0-57749195712
+Selbach M.,,Widespread changes in protein synthesis induced by microRNAs,2008,Nature,2487,10.1038/nature07228,Germany,Article,Berlin,0,Journal,2-s2.0-49949117302
+Baek D.,,The impact of microRNAs on protein output,2008,Nature,2648,10.1038/nature07242,United States;United States,Article,Cambridge;Cambridge,0,Journal,2-s2.0-49949116902
+Parisien M.,,The MC-Fold and MC-Sym pipeline infers RNA structure from sequence data,2008,Nature,502,10.1038/nature06684,Canada,Article,Montreal,0,Journal,2-s2.0-40449139010
+Kertesz M.,,The role of site accessibility in microRNA target recognition,2007,Nature Genetics,1631,10.1038/ng2135,Israel,Article,Rehovot,0,Journal,2-s2.0-34748821761
+Ebert M.,,MicroRNA sponges: Competitive inhibitors of small RNAs in mammalian cells,2007,Nature Methods,1434,10.1038/nmeth1079,United States,Article,Cambridge,0,Journal,2-s2.0-34548316982
+Grimson A.,,MicroRNA Targeting Specificity in Mammals: Determinants beyond Seed Pairing,2007,Molecular Cell,2720,10.1016/j.molcel.2007.06.017,United States;United States,Article,Cambridge;Cambridge,1,Journal,2-s2.0-34250805982
+Yun J.,,Genomic DNA functions as a universal external standard in quantitative real-time PCR,2006,Nucleic Acids Research,116,10.1093/nar/gkl400,Canada,Article,Toronto,1,Journal,2-s2.0-33746199793
+Sood P.,,Cell-type-specific signatures of microRNAs on target mRNA expression,2006,Proceedings of the National Academy of Sciences of the United States of America,468,10.1073/pnas.0511045103,United States,Article,New York,1,Journal,2-s2.0-33644499134
+Lim L.,,Microarray analysis shows that some microRNAs downregulate large numbers of-target mRNAs,2005,Nature,3652,10.1038/nature03315,United States,Article,Seattle,0,Journal,2-s2.0-13944282215
+Cai X.,,"Human microRNAs are processed from capped, polyadenylated transcripts that can also function as mRNAs",2004,RNA,1242,10.1261/rna.7135204,United States,Article,Durham,1,Journal,2-s2.0-9344235449
+Rehmsmeier M.,,Fast and effective prediction of microRNA/target duplexes,2004,RNA,1509,10.1261/rna.5248604,Germany,Article,Bielefeld,1,Journal,2-s2.0-4644237189
+Eeckhout J.,,On the uniqueness of stable marriage matchings,2000,Economics Letters,46,10.1016/s0165-1765(00)00263-9,United States,Article,Philadelphia,0,Journal,2-s2.0-0034417340
+DeRisi J.,,Exploring the metabolic and genetic control of gene expression on a genomic scale,1997,Science,3571,10.1126/science.278.5338.680,United States,Article,Stanford,0,Journal,2-s2.0-0030669030

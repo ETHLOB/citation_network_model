@@ -1,0 +1,46 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Wu X.,,Online feature selection with streaming features,2013,IEEE Transactions on Pattern Analysis and Machine Intelligence,131,10.1109/TPAMI.2012.197,United States;China,Article,Burlington;Hefei,0,Journal,2-s2.0-84875452657
+Ye M.,,Anonymizing classification data using rough set theory,2013,Knowledge-Based Systems,26,10.1016/j.knosys.2013.01.007,China;China,Article,Wuhu;Hefei,0,Journal,2-s2.0-84875248895
+Wang C.,,Privacy-preserving public auditing for secure cloud storage,2013,IEEE Transactions on Computers,777,10.1109/TC.2011.245,Hong Kong,Article,Kowloon,0,Journal,2-s2.0-84861959172
+Luo D.,,Parallelization with multiplicative algorithms for big data mining,2012,"Proceedings - IEEE International Conference on Data Mining, ICDM",20,10.1109/ICDM.2012.155,United States,Conference Paper,Arlington,0,Conference Proceeding,2-s2.0-84874086853
+Chen Y.,,Efficient algorithms for influence maximization in social networks,2012,Knowledge and Information Systems,43,10.1007/s10115-012-0540-7,Taiwan,Article,Hsinchu,0,Journal,2-s2.0-84869012652
+Schadt E.E.,,The changing privacy landscape in the era of big data,2012,Molecular Systems Biology,80,10.1038/msb.2012.47,United States,Editorial,New York,1,Journal,2-s2.0-84868101099
+Liu W.,,Online active multi-field learning for efficient email spam filtering,2012,Knowledge and Information Systems,24,10.1007/s10115-011-0461-x,China;China,Article,Changsha;,0,Journal,2-s2.0-84867097517
+Alam M.,,Novel approaches to crawling important pages early,2012,Knowledge and Information Systems,14,10.1007/s10115-012-0535-4,South Korea,Article,Seoul,0,Journal,2-s2.0-84869092092
+Ahmed R.,,Algorithms for mining the evolution of conserved relational states in dynamic networks,2012,Knowledge and Information Systems,27,10.1007/s10115-012-0537-2,United States,Article,Minneapolis,0,Journal,2-s2.0-84869094022
+Birney E.,,The making of ENCODE: Lessons for big-data projects,2012,Nature,74,10.1038/489049a,United Kingdom,Note,Cambridge,0,Journal,2-s2.0-84865745578
+Zhao J.,,Information propagation in online social networks: A tie-strength perspective,2012,Knowledge and Information Systems,49,10.1007/s10115-011-0445-x,China,Article,Beijing,0,Journal,2-s2.0-84865404069
+Aral S.,,Identifying influential and susceptible members of social networks,2012,Science,611,10.1126/science.1215842,United States,Article,New York,0,Journal,2-s2.0-84863993298
+da Silva A.,,A clustering approach for sampling data streams in sensor networks,2012,Knowledge and Information Systems,9,10.1007/s10115-011-0448-7,France,Article,Palaiseau,0,Journal,2-s2.0-84862701443
+Banerjee S.,,Analyzing collective behavior from blogs using swarm intelligence,2012,Knowledge and Information Systems,27,10.1007/s10115-012-0512-y,India,Article,Ranchi,0,Journal,2-s2.0-84869079464
+Mervis J.,,U.S. science policy: Agencies rally to tackle big data,2012,Science,61,10.1126/science.336.6077.22,,Short Survey,,0,Journal,2-s2.0-84859487243
+Huberman B.,,Sociology of science: Big data deserve a bigger audience,2012,Nature,43,10.1038/482308d,United States,Letter,Palo Alto,1,Journal,2-s2.0-84857097124
+Labrinidis A.,,Challenges and opportunities with big data,2012,Proceedings of the VLDB Endowment,417,10.14778/2367502.2367572,United States,Article,Pittsburgh,0,Conference Proceeding,2-s2.0-84873131659
+Bollen J.,,Twitter mood predicts the stock market,2011,Journal of Computational Science,2176,10.1016/j.jocs.2010.12.007,United States,Article,Bloomington,0,Journal,2-s2.0-79953102821
+Rajaraman A.,,Mining of massive datasets,2011,Mining of Massive Datasets,802,10.1017/CBO9781139058452,United States,Book,Sunnyvale,0,Book,2-s2.0-84924183918
+Zhu X.,,Active learning from stream data using optimal weight classifier ensemble,2010,"IEEE Transactions on Systems, Man, and Cybernetics, Part B: Cybernetics",93,10.1109/TSMCB.2010.2042445,Australia;United States,Article,Sydney;Boca Raton,0,Journal,2-s2.0-78649975675
+Centola D.,,The spread of behavior in an online social network experiment,2010,Science,1288,10.1126/science.1185231,United States,Article,Cambridge,0,Journal,2-s2.0-77956296152
+Das S.,,Ricardo: Integrating R and Hadoop,2010,Proceedings of the ACM SIGMOD International Conference on Management of Data,130,10.1145/1807167.1807275,United States,Conference Paper,Santa Barbara,0,Conference Proceeding,2-s2.0-77954751910
+Chang E.Y.,,Parallel algorithms for mining large-scale rich-media data,2009,"MM'09 - Proceedings of the 2009 ACM Multimedia Conference, with Co-located Workshops and Symposiums",23,10.1145/1631272.1631451,Singapore,Conference Paper,Singapore City,0,Conference Proceeding,2-s2.0-72449156052
+Mitchell T.,,Mining our reality,2009,Science,54,10.1126/science.1174459,United States,Short Survey,Pittsburgh,0,Journal,2-s2.0-72949108701
+Cormode G.,,"Anonymized data: Generation, models, usage",2009,SIGMOD-PODS'09 - Proceedings of the International Conference on Management of Data and 28th Symposium on Principles of Database Systems,31,10.1145/1559845.1559968,United States,Conference Paper,San Antonio,0,Conference Proceeding,2-s2.0-70849095741
+Wegener D.,,Toolkit-based high-performance data mining of large data on MapReduce clusters,2009,ICDM Workshops 2009 - IEEE International Conference on Data Mining,42,10.1109/ICDMW.2009.34,Germany,Conference Paper,Sankt Augustin,0,Conference Proceeding,2-s2.0-77951181190
+Jacobs A.,,The pathologies of big data,2009,Communications of the ACM,362,10.1145/1536616.1536632,,Article,,1,Journal,2-s2.0-69149090568
+Borgatti S.,,Network analysis in the social sciences,2009,Science,1735,10.1126/science.1165821,United States,Review,Lexington,0,Journal,2-s2.0-60149086627
+Dewdney P.E.,,The square kilometre array,2009,Proceedings of the IEEE,518,10.1109/JPROC.2009.2021005,United Kingdom,Article,Manchester,0,Journal,2-s2.0-67651100821
+Papadimitriou S.,,DisCo: Distributed Co-clustering with Map-Reduce: A case study towards petabyte-scale end-to-end mining,2008,"Proceedings - IEEE International Conference on Data Mining, ICDM",146,10.1109/ICDM.2008.142,United States,Conference Paper,Yorktown Heights,0,Conference Proceeding,2-s2.0-67149126890
+,,Community cleverness required,2008,Nature,83,10.1038/455001a,,Editorial,,1,Journal,2-s2.0-84945510035
+Howe D.,,Big data: The future of biocuration,2008,Nature,554,10.1038/455047a,United States,Short Survey,Eugene,0,Journal,2-s2.0-51349115095
+Wu X.,,Mining with noise knowledge: Error-aware data mining,2008,"IEEE Transactions on Systems, Man, and Cybernetics Part A:Systems and Humans",66,10.1109/TSMCA.2008.923034,United States;China,Article,Burlington;Hefei,0,Journal,2-s2.0-46649091716
+Chu C.T.,,Map-reduce for machine learning on multicore,2007,Advances in Neural Information Processing Systems,781,,United States,Conference Paper,Palo Alto,0,Conference Proceeding,2-s2.0-56049109090
+Duncan G.,,Engineering: Privacy by design,2007,Science,8,10.1126/science.1143464,United States,Short Survey,Pittsburgh,0,Journal,2-s2.0-63049102323
+Ranger C.,,Evaluating MapReduce for multi-core and multiprocessor systems,2007,Proceedings - International Symposium on High-Performance Computer Architecture,689,10.1109/HPCA.2007.346181,United States,Conference Paper,Palo Alto,0,Conference Proceeding,2-s2.0-34547679939
+Su K.,,A logical framework for identifying quality knowledge from different data sources,2006,Decision Support Systems,26,10.1016/j.dss.2006.02.012,China,Article,Guangzhou,0,Journal,2-s2.0-33750493303
+Wu X.,,Database classification for multi-database mining,2005,Information Systems,105,10.1016/j.is.2003.10.001,United States,Article,Burlington,0,Journal,2-s2.0-4644356822
+Lindell Y.,,Privacy preserving data mining,2003,Journal of Cryptology,410,10.1007/s00145-001-0019-2,Israel,Article,Rehovot,0,Journal,2-s2.0-33746437508
+Wu X.,,Synthesizing high-frequency rules from different data sources,2003,IEEE Transactions on Knowledge and Data Engineering,135,10.1109/TKDE.2003.1185839,United States,Article,Burlington,0,Journal,2-s2.0-0037339975
+Kopanas I.,,The role of domain knowledge in a large scale data mining project,2002,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),43,10.1007/3-540-46014-4_26,Greece,Conference Paper,Patra,0,Book Series,2-s2.0-84943162558
+Wu X.,,Building intelligent learning database systems,2000,AI Magazine,3,,,Article,,0,Journal,2-s2.0-0034269816
+Domingos P.,,Mining high-speed data streams,2000,Proceeding of the Sixth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,1239,10.1145/347090.347107,United States,Conference Paper,Seattle,0,Conference Proceeding,2-s2.0-0034592938
+Efron B.,,"Missing data, imputation, and the bootstrap",1994,Journal of the American Statistical Association,242,10.1080/01621459.1994.10476768,United States,Article,Palo Alto,0,Journal,2-s2.0-21344497888
+Yao A.C.C.,,HOW TO GENERATE AND EXCHANGE SECRETS.,1986,Annual Symposium on Foundations of Computer Science (Proceedings),1892,10.1109/sfcs.1986.25,United States,Conference Paper,Princeton,0,Conference Proceeding,2-s2.0-0022882770

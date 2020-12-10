@@ -1,0 +1,27 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Yang C.,,Selections of data preprocessing methods and similarity metrics for gene cluster analysis,2006,Progress in Natural Science: Materials International,8,10.1080/10020070612330042,China,Article,Tianjin,0,Journal,2-s2.0-84899771875
+Handl J.,,Computational cluster validation in post-genomic data analysis,2005,Bioinformatics,555,10.1093/bioinformatics/bti517,United Kingdom,Review,Manchester,1,Journal,2-s2.0-25144456056
+Jiang D.,,Cluster analysis for gene expression data: A survey,2004,IEEE Transactions on Knowledge and Data Engineering,815,10.1109/TKDE.2004.68,United States,Review,Buffalo,0,Journal,2-s2.0-13844276694
+Ji X.,,Mining gene expression data using a novel approach based on hidden Markov models,2003,FEBS Letters,44,10.1016/S0014-5793(03)00363-6,China,Article,Beijing,1,Journal,2-s2.0-0038066608
+Yang C.,,Data preprocessing in cluster analysis of gene expression,2003,Chinese Physics Letters,4,10.1088/0256-307X/20/5/352,China,Article,Tianjin,0,Journal,2-s2.0-0037911249
+Bolshakova N.,,Cluster validation techniques for genome expression data,2003,Signal Processing,197,10.1016/S0165-1684(02)00475-9,Ireland,Article,Dublin,0,Journal,2-s2.0-0037399775
+Datta S.,,Comparisons and validation of statistical clustering techniques for microarray gene expression data,2003,Bioinformatics,249,10.1093/bioinformatics/btg025,United States,Article,Atlanta,1,Journal,2-s2.0-0037342510
+Bolshakova N.,,Improving expression data mining through cluster validation,2003,"Proceedings of the IEEE/EMBS Region 8 International Conference on Information Technology Applications in Biomedicine, ITAB",24,10.1109/ITAB.2003.1222407,Ireland,Conference Paper,Dublin,0,Conference Proceeding,2-s2.0-35548969722
+Yeung K.,,Clustering gene-expression data with repeated measurements.,2003,Genome biology,160,,United States,Article,Seattle,0,Journal,2-s2.0-0037667290
+Azuaje F.,,A cluster validity framework for genome expression data,2002,Bioinformatics,71,10.1093/bioinformatics/18.2.319,Ireland,Article,Dublin,1,Journal,2-s2.0-0036191191
+Xu Y.,,Clustering gene expression data using a graph-theoretic approach: An application of minimum spanning trees,2002,Bioinformatics,187,10.1093/bioinformatics/18.4.536,United States,Article,Oak Ridge,1,Journal,2-s2.0-0035999974
+Slonim D.,,From patterns to pathways: Gene expression data analysis comes of age,2002,Nature Genetics,434,10.1038/ng1033,United States,Review,New York,0,Journal,2-s2.0-0036899286
+Quackenbush J.,,Computational analysis of microarray data,2001,Nature Reviews Genetics,1119,10.1038/35076576,United States,Review,Rockville,0,Journal,2-s2.0-0035375137
+Halkidi M.,,On clustering validation techniques,2001,Journal of Intelligent Information Systems,1611,10.1023/A:1012801612483,Greece,Article,Athens,0,Journal,2-s2.0-0035676057
+Ideker T.,,Integrated genomic and proteomic analyses of a systematically perturbed metabolic network,2001,Science,1595,10.1126/science.292.5518.929,United States,Article,Seattle,0,Journal,2-s2.0-0035805255
+Ben-Dor A.,,Class discovery in gene expression data,2001,"Proceedings of the Annual International Conference on Computational Molecular Biology, RECOMB",75,10.1145/369133.369167,Israel,Conference Paper,Jerusalem,0,Conference Proceeding,2-s2.0-0034833408
+Yeung K.,,Validating clustering for gene expression data,2001,Bioinformatics,494,10.1093/bioinformatics/17.4.309,United States,Article,Seattle,1,Journal,2-s2.0-0035024021
+Sherlock G.,,Analysis of large-scale gene expression data,2000,Current Opinion in Immunology,310,10.1016/S0952-7915(99)00074-6,United States,Review,Stanford,0,Journal,2-s2.0-0034062083
+Tavazoie S.,,Systematic determination of genetic network architecture,1999,Nature Genetics,1870,10.1038/10343,United States,Article,Boston,0,Journal,2-s2.0-0033028596
+Iyer V.,,The transcriptional program in the response of human fibroblasts to serum,1999,Science,1661,10.1126/science.283.5398.83,United States,Article,Stanford,0,Journal,2-s2.0-0032903908
+Eisen M.,,Cluster analysis and display of genome-wide expression patterns,1998,Proceedings of the National Academy of Sciences of the United States of America,12573,10.1073/pnas.95.25.14863,United States,Article,Stanford,0,Journal,2-s2.0-0032441150
+Bezdek J.,,Some new indexes of cluster validity,1998,"IEEE Transactions on Systems, Man, and Cybernetics, Part B: Cybernetics",811,10.1109/3477.678624,United States;United States,Article,Pensacola;New York,0,Journal,2-s2.0-0032098774
+Chu S.,,The transcriptional program of sporulation in budding yeast,1998,Science,1448,10.1126/science.282.5389.699,United States,Article,San Francisco,0,Journal,2-s2.0-0032561246
+Wen X.,,Large-scale temporal gene expression mapping of central nervous system development,1998,Proceedings of the National Academy of Sciences of the United States of America,508,10.1073/pnas.95.1.334,United States,Article,Bethesda,1,Journal,2-s2.0-0031915896
+Cho R.,,A genome-wide transcriptional analysis of the mitotic cell cycle,1998,Molecular Cell,1661,10.1016/S1097-2765(00)80114-8,United States,Article,Stanford,1,Journal,2-s2.0-0032112293
+Rousseeuw P.,,Silhouettes: A graphical aid to the interpretation and validation of cluster analysis,1987,Journal of Computational and Applied Mathematics,5983,10.1016/0377-0427(87)90125-7,Switzerland,Article,Fribourg,1,Journal,2-s2.0-0023453329

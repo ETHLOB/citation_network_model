@@ -1,0 +1,32 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Campello R.,,On comparing two sequences of numbers and its applications to clustering analysis,2009,Information Sciences,29,10.1016/j.ins.2008.11.028,Brazil,Article,Sao Paulo,0,Journal,2-s2.0-59349105139
+Hruschka E.R.,,A survey of evolutionary algorithms for clustering,2009,"IEEE Transactions on Systems, Man and Cybernetics Part C: Applications and Reviews",482,10.1109/TSMCC.2008.2007252,Brazil,Article,Sao Paulo,0,Journal,2-s2.0-63049111403
+Wu X.,,Top 10 algorithms in data mining,2008,Knowledge and Information Systems,2745,10.1007/s10115-007-0114-2,United States,Article,Burlington,0,Journal,2-s2.0-37549018049
+Hruschka E.,,Evolving clusters in gene-expression data,2006,Information Sciences,111,10.1016/j.ins.2005.07.015,Brazil,Article,Santos,0,Journal,2-s2.0-33748296225
+Xu R.,,Survey of clustering algorithms,2005,IEEE Transactions on Neural Networks,3530,10.1109/TNN.2005.845141,United States,Review,Rolla,0,Journal,2-s2.0-16444383160
+Jiang D.,,Cluster analysis for gene expression data: A survey,2004,IEEE Transactions on Knowledge and Data Engineering,815,10.1109/TKDE.2004.68,United States,Review,Buffalo,0,Journal,2-s2.0-13844276694
+Pakhira M.,,Validity index for crisp and fuzzy clusters,2004,Pattern Recognition,490,10.1016/j.patcog.2003.06.005,India,Article,Nadia,0,Journal,2-s2.0-0348108148
+Maulik U.,,Performance evaluation of some clustering algorithms and validity indices,2002,IEEE Transactions on Pattern Analysis and Machine Intelligence,831,10.1109/TPAMI.2002.1114856,United States,Article,Arlington,0,Journal,2-s2.0-0036937614
+Halkidi M.,,Clustering validity checking methods: Part II,2002,SIGMOD Record,288,10.1145/601858.601862,Greece,Review,Athens,0,Journal,2-s2.0-0348096294
+Halkidi M.,,On clustering validation techniques,2001,Journal of Intelligent Information Systems,1611,10.1023/A:1012801612483,Greece,Article,Athens,0,Journal,2-s2.0-0035676057
+Sharan R.,,CLICK: a clustering algorithm with applications to gene expression analysis.,2000,Proceedings / ... International Conference on Intelligent Systems for Molecular Biology ; ISMB. International Conference on Intelligent Systems for Molecular Biology,291,,Israel,Article,Tel Aviv-Yafo,0,Journal,2-s2.0-0034565041
+Jain A.,,Data clustering: A review,1999,ACM Computing Surveys,8744,10.1145/331499.331504,United States,Conference Paper,East Lansing,0,Journal,2-s2.0-84893405732
+Bezdek J.,,Some new indexes of cluster validity,1998,"IEEE Transactions on Systems, Man, and Cybernetics, Part B: Cybernetics",811,10.1109/3477.678624,United States;United States,Article,Pensacola;New York,0,Journal,2-s2.0-0032098774
+Dubes R.,,How many clusters are best? - An experiment,1987,Pattern Recognition,143,10.1016/0031-3203(87)90034-3,United States,Article,East Lansing,0,Journal,2-s2.0-0023523514
+Rousseeuw P.,,Silhouettes: A graphical aid to the interpretation and validation of cluster analysis,1987,Journal of Computational and Applied Mathematics,5983,10.1016/0377-0427(87)90125-7,Switzerland,Article,Fribourg,1,Journal,2-s2.0-0023453329
+Milligan G.,,A Study of the Comparability of External Criteria for Hierarchical Cluster Analysis,1986,Multivariate Behavioral Research,305,10.1207/s15327906mbr2104_5,United States,Article,Columbus,0,Journal,2-s2.0-84948872101
+Hubert L.,,Comparing partitions,1985,Journal of Classification,3864,10.1007/BF01908075,United States,Article,Santa Barbara,0,Journal,2-s2.0-0000008146
+Milligan G.,,An examination of procedures for determining the number of clusters in a data set,1985,Psychometrika,2254,10.1007/BF02294245,United States,Article,Columbus,0,Journal,2-s2.0-34250115918
+Wallace D.,,Comment,1983,Journal of the American Statistical Association,119,10.1080/01621459.1983.10478009,United States,Note,Chicago,0,Journal,2-s2.0-1842641692
+Fowlkes E.,,A method for comparing two hierarchical clusterings,1983,Journal of the American Statistical Association,678,10.1080/01621459.1983.10478008,United States,Article,Murray,0,Journal,2-s2.0-84945923591
+Milligan G.,,A monte carlo study of thirty internal criterion measures for cluster analysis,1981,Psychometrika,226,10.1007/BF02293899,United States,Article,Columbus,0,Journal,2-s2.0-0000228352
+Davies D.,,A Cluster Separation Measure,1979,IEEE Transactions on Pattern Analysis and Machine Intelligence,3791,10.1109/TPAMI.1979.4766909,United States,Article,Leuven,0,Journal,2-s2.0-0017953820
+Hubert L.,,A general statistical framework for assessing categorical clustering in free recall,1976,Psychological Bulletin,189,10.1037/0033-2909.83.6.1072,United States,Article,Madison,0,Journal,2-s2.0-0001518855
+Baker F.,,Measuring the power of hierarchical cluster analysis,1975,Journal of the American Statistical Association,115,10.1080/01621459.1975.10480256,United States,Article,Madison,0,Journal,2-s2.0-84879597103
+Dunn J.,,Well-separated clusters and optimal fuzzy partitions,1974,Journal of Cybernetics,1297,10.1080/01969727408546059,United States,Article,Ithaca,0,Journal,2-s2.0-84941155240
+Caliñski T.,,A Dendrite Method Foe Cluster Analysis,1974,Communications in Statistics,2941,10.1080/03610927408827101,Poland,Article,Poznan,0,Journal,2-s2.0-84972893020
+Marriott F.,,Practical problems in a method of cluster analysis.,1971,Biometrics,128,10.2307/2528592,,Article,,0,Journal,2-s2.0-0015113659
+Rand W.,,Objective criteria for the evaluation of clustering methods,1971,Journal of the American Statistical Association,3257,10.1080/01621459.1971.10482356,United States,Article,Cambridge,0,Journal,2-s2.0-84950632109
+Ruspini E.,,Numerical methods for fuzzy clustering,1970,Information Sciences,364,10.1016/S0020-0255(70)80056-1,United States,Article,Los Angeles,0,Journal,2-s2.0-0014810305
+Friedman H.,,On Some Invariant Criteria for Grouping Data,1967,Journal of the American Statistical Association,324,10.1080/01621459.1967.10500923,United States,Article,Armonk,0,Journal,2-s2.0-34247969087
+Goodman L.,,Measures of Association for Cross Classifications*,1954,Journal of the American Statistical Association,1544,10.1080/01621459.1954.10501231,United States,Article,Chicago,0,Journal,2-s2.0-34248978779

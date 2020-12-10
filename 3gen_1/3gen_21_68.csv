@@ -1,0 +1,13 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Desjardins G.,,Parallel tempering for training of restricted Boltzmann Machines,2010,Journal of Machine Learning Research,95,,Canada,Conference Paper,Montreal,0,Journal,2-s2.0-84862293204
+Tieleman T.,,Using fast weights to improve persistent contrastive divergence,2009,"Proceedings of the 26th International Conference On Machine Learning, ICML 2009",162,,Canada,Conference Paper,Toronto,0,Conference Proceeding,2-s2.0-71149084943
+Nair V.,,Implicit mixtures of Restricted Boltzmann machines,2009,Advances in Neural Information Processing Systems 21 - Proceedings of the 2008 Conference,60,,Canada,Conference Paper,Toronto,0,Conference Proceeding,2-s2.0-84858768016
+Salakhutdinov R.,,Learning in Markov random fields using tempered transitions,2009,Advances in Neural Information Processing Systems 22 - Proceedings of the 2009 Conference,60,,United States,Conference Paper,Cambridge,0,Conference Proceeding,2-s2.0-84858735575
+Salakhutdinov R.,,Deep Boltzmann machines,2009,Journal of Machine Learning Research,894,,Canada,Conference Paper,Toronto,0,Journal,2-s2.0-84862286946
+Tieleman T.,,Training restricted boltzmann machines using approximations to the likelihood gradient,2008,Proceedings of the 25th International Conference on Machine Learning,497,10.1145/1390156.1390290,Canada,Conference Paper,Toronto,0,Conference Proceeding,2-s2.0-56449086223
+Liang F.,,Determination of normalizing constants for simulated tempering,2005,Physica A: Statistical Mechanics and its Applications,2,10.1016/j.physa.2005.04.007,United States,Article,College Station,0,Journal,2-s2.0-31644434122
+LeCun Y.,,Learning methods for generic object recognition with invariance to pose and lighting,2004,Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition,687,,United States,Conference Paper,New York,0,Conference Proceeding,2-s2.0-5044231640
+Neal R.,,Annealed importance sampling,2001,Statistics and Computing,537,10.1023/A:1008923215028,Canada,Article,Toronto,0,Journal,2-s2.0-0000273048
+Wang F.,,"Efficient, multiple-range random walk algorithm to calculate the density of states",2001,Physical Review Letters,2054,10.1103/PhysRevLett.86.2050,United States,Article,Athens,0,Journal,2-s2.0-6644221271
+Neal R.,,Sampling from multimodal distributions using tempered transitions,1996,Statistics and Computing,164,10.1007/BF00143556,Canada,Article,Toronto,0,Journal,2-s2.0-21444452127
+Marinari E.,,Simulated tempering: A New Monte Carlo Scheme,1992,EPL,1184,10.1209/0295-5075/19/6/002,United States;Italy;Italy,Letter,Syracuse;Rome;Rome,0,Journal,2-s2.0-33644899039

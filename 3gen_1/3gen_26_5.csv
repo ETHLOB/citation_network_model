@@ -1,0 +1,16 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+De Vito E.,,Learning from examples as an inverse problem,2005,Journal of Machine Learning Research,96,,Italy;Italy,Article,Genoa;Modena,0,Journal,2-s2.0-21844447610
+Evgeniou T.,,Learning multiple tasks with kernel methods,2005,Journal of Machine Learning Research,546,,France,Article,Fontainebleau,0,Journal,2-s2.0-21844456299
+De Vito E.,,Model selection for regularized least-squares algorithm in learning theory,2005,Foundations of Computational Mathematics,109,10.1007/s10208-004-0134-1,Italy;Italy,Article,Genoa;Modena,0,Journal,2-s2.0-24944432318
+Micchelli C.,,On learning vector-valued functions,2005,Neural Computation,265,10.1162/0899766052530802,United States,Article,Albany,0,Journal,2-s2.0-14544299611
+Mendelson S.,,On the performance of kernel classes,2004,Journal of Machine Learning Research,37,10.1162/1532443041424337,Australia,Conference Paper,Canberra,0,Journal,2-s2.0-3142722249
+Temlyakov V.N.,,Nonlinear methods of approximation,2003,Foundations of Computational Mathematics,159,10.1007/s102080010029,United States,Article,Columbia,0,Journal,2-s2.0-21144435474
+Altun Y.,,Hidden Markov Support Vector Machines,2003,"Proceedings, Twentieth International Conference on Machine Learning",320,,United States,Conference Paper,Providence,0,Conference Proceeding,2-s2.0-1942421209
+Zhang T.,,Leave-one-out bounds for kernel methods,2003,Neural Computation,71,10.1162/089976603321780326,United States,Article,Yorktown Heights,0,Journal,2-s2.0-0042879446
+Weston J.,,Kernel dependency estimation,2003,Advances in Neural Information Processing Systems,47,,Germany,Conference Paper,Tubingen,0,Conference Proceeding,2-s2.0-84898971943
+Cucker F.,,Best Choices for Regularization Parameters in Learning Theory: On the Bias-Variance Problem,2002,Foundations of Computational Mathematics,173,10.1007/s102080010030,Hong Kong,Article,Kowloon,0,Journal,2-s2.0-0036436325
+Cucker F.,,On the mathematical foundations of learning,2002,Bulletin of the American Mathematical Society,817,10.1090/S0273-0979-01-00923-5,Hong Kong,Article,Kowloon,1,Journal,2-s2.0-0036071370
+Kohler M.,,Nonparametric regression estimation using penalized least squares,2001,IEEE Transactions on Information Theory,43,10.1109/18.998089,Germany,Article,Stuttgart,0,Journal,2-s2.0-0035504044
+Evgeniou T.,,Regularization Networks and Support Vector Machines,2000,Advances in Computational Mathematics,822,10.1023/A:1018946025316,United States,Article,Cambridge,0,Journal,2-s2.0-0034419669
+Schwartz L.,,Sous-espaces hilbertiens d'espaces vectoriels topologiques et noyaux associés (Noyaux reproduisants),1964,Journal d'Analyse Mathématique,185,10.1007/BF02786620,France,Article,Paris,0,Journal,2-s2.0-51649141644
+Aronszajn N.,,Theory of reproducing kernels,1950,Transactions of the American Mathematical Society,3032,10.1090/s0002-9947-1950-0051437-7,United States,Article,Stillwater,1,Journal,2-s2.0-5844297152

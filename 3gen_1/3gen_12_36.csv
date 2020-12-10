@@ -1,0 +1,23 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Djebali S.,,Landscape of transcription in human cells,2012,Nature,2697,10.1038/nature11233,Spain,Article,Barcelona,1,Journal,2-s2.0-84865757142
+Landt S.,,ChIP-seq guidelines and practices of the ENCODE and modENCODE consortia,2012,Genome Research,838,10.1101/gr.136184.111,United States,Review,Palo Alto,1,Journal,2-s2.0-84865777819
+Harrow J.,,GENCODE: The reference human genome annotation for the ENCODE project,2012,Genome Research,2292,10.1101/gr.135350.111,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-84865760395
+Zhang Y.,,PASSion: A pattern growth algorithm-based pipeline for splice junction detection in paired-end RNA-seq data,2012,Bioinformatics,17,10.1093/bioinformatics/btr712,Netherlands,Article,Leiden,1,Journal,2-s2.0-84857178074
+Grant G.,,Comparative analysis of RNA-Seq alignment algorithms and the RNA-Seq unified mapper (RUM),2011,Bioinformatics,210,10.1093/bioinformatics/btr427,United States,Article,Philadelphia,0,Journal,2-s2.0-80052745094
+Rothberg J.M.,,An integrated semiconductor device enabling non-optical genome sequencing,2011,Nature,1302,10.1038/nature10242,United States,Article,Guilford,1,Journal,2-s2.0-79960597679
+Han J.,,Pre-mRNA splicing: Where and when in the nucleus,2011,Trends in Cell Biology,84,10.1016/j.tcb.2011.03.003,United States,Review,San Diego,0,Journal,2-s2.0-79957865299
+Wang K.,,MapSplice: Accurate mapping of RNA-seq reads for splice junction discovery,2010,Nucleic Acids Research,610,10.1093/nar/gkq622,United States,Article,Lexington,1,Journal,2-s2.0-78649345104
+Darling A.,,"Progressivemauve: Multiple genome alignment with gene gain, loss and rearrangement",2010,PLoS ONE,2004,10.1371/journal.pone.0011147,United States;United States,Article,Madison;Davis,1,Journal,2-s2.0-77956193448
+Flusberg B.A.,,"Direct detection of DNA methylation during single-molecule, real-time sequencing",2010,Nature Methods,744,10.1038/nmeth.1459,United States,Article,Menlo Park,0,Journal,2-s2.0-77952967431
+Au K.F.,,Detection of splice junctions from paired-end RNA-seq data by SpliceMap,2010,Nucleic Acids Research,224,10.1093/nar/gkq211,United States,Article,Palo Alto,1,Journal,2-s2.0-77955443472
+Wu T.,,Fast and SNP-tolerant detection of complex variants and splicing in short reads,2010,Bioinformatics,1159,10.1093/bioinformatics/btq057,United States,Article,San Francisco,1,Journal,2-s2.0-77951820899
+Parkhomchuk D.,,Transcriptome analysis by strand-specific sequencing of complementary DNA,2009,Nucleic Acids Research,446,10.1093/nar/gkp596,Germany,Article,Berlin,1,Journal,2-s2.0-70350653808
+Trapnell C.,,TopHat: Discovering splice junctions with RNA-Seq,2009,Bioinformatics,7532,10.1093/bioinformatics/btp120,United States,Article,College Park,1,Journal,2-s2.0-65449136284
+De Bona F.,,Optimal spliced alignments of short sequence reads,2008,Bioinformatics,78,10.1093/bioinformatics/btn300,Germany,Conference Paper,Tubingen,1,Journal,2-s2.0-49549102475
+Darling A.,,Mauve: Multiple alignment of conserved genomic sequence with rearrangements,2004,Genome Research,2125,10.1101/gr.2289704,United States,Article,Madison,1,Journal,2-s2.0-3543051830
+Kurtz S.,,Versatile and open software for comparing large genomes.,2004,Genome biology,2627,,Germany,Article,Hamburg,0,Journal,2-s2.0-2942538300
+Delcher A.L.,,Fast algorithms for large-scale genome alignment and comparison,2002,Nucleic Acids Research,600,10.1093/nar/30.11.2478,United States;United States,Article,Baltimore;Rockville,1,Journal,2-s2.0-0036606576
+Kent W.,,BLAT - The BLAST-like alignment tool,2002,Genome Research,5206,10.1101/gr.229202. Article published online before March 2002,United States,Article,Santa Cruz,0,Journal,2-s2.0-0036226603
+Hastings M.,,Pre-mRNA splicing in the new millennium,2001,Current Opinion in Cell Biology,375,10.1016/S0955-0674(00)00212-X,United States,Review,Cold Spring Harbor,0,Journal,2-s2.0-0035370845
+Delcher A.,,Alignment of whole genomes,1999,Nucleic Acids Research,547,10.1093/nar/27.11.2369,United States;United States,Article,Baltimore;Rockville,1,Journal,2-s2.0-0033153375
+Manber U.,,Suffix arrays: A new method for on-line string searches,Oct,SIAM Journal on Computing,1102,10.1137/0222058,United States,Article,Tucson,0,Journal,2-s2.0-0027681165

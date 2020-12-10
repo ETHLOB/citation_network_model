@@ -1,0 +1,11 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Barabási A.,,Emergence of scaling in random networks,1999,Science,22122,10.1126/science.286.5439.509,United States,Article,Notre Dame,0,Journal,2-s2.0-0038483826
+Huberman B.,,Growth dynamics of the world-wide web,1999,Nature,605,10.1038/43604,United States,Article,Palo Alto,0,Journal,2-s2.0-0344631083
+Albert R.,,Diameter of the world-wide web,1999,Nature,3115,10.1038/43601,United States,Article,Notre Dame,0,Journal,2-s2.0-0033539175
+Watts D.J.,,Collective dynamics of 'small-world9 networks,1998,Nature,25779,10.1038/30918,United States,Article,Ithaca,0,Journal,2-s2.0-0032482432
+Paxson V.,,Why we don't know how to simulate the Internet,1997,Winter Simulation Conference Proceedings,151,,United States,Conference Paper,Berkeley,0,Conference Proceeding,2-s2.0-0031371577
+Zegura E.,,A quantitative comparison of graph-based models for internet topology,1997,IEEE/ACM Transactions on Networking,354,10.1109/90.650138,United States;United States,Review,Atlanta;New York,0,Journal,2-s2.0-0031334402
+Paxson V.,,End-to-end routing behavior in the internet,1997,IEEE/ACM Transactions on Networking,394,10.1109/90.649563,United States,Article,Berkeley,0,Journal,2-s2.0-0031247411
+Crovella M.,,Self-similarity in world wide web traffic: Evidence and possible causes,1997,IEEE/ACM Transactions on Networking,1832,10.1109/90.650143,United States;United States,Article,Boston;New York,0,Journal,2-s2.0-0031383380
+Calvert K.,,Modeling internet topology,1997,IEEE Communications Magazine,645,10.1109/35.587723,United States;United States;United States;United States;United States,Article,Cambridge;Murray;Atlanta;Austin;Palo Alto,0,Journal,2-s2.0-0000178416
+Waxman B.,,Routing of Multipoint Connections,1988,IEEE Journal on Selected Areas in Communications,2091,10.1109/49.12889,United States,Article,St. Louis,0,Journal,2-s2.0-0024123493

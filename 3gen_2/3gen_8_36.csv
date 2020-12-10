@@ -1,0 +1,36 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Han J.,,Effect of sampling on topology predictions of protein-protein interaction networks,2005,Nature Biotechnology,246,10.1038/nbt1116,United States;China;United States,Review,Boston;Beijing;Boston,0,Journal,2-s2.0-24944442468
+Newman M.,,Threshold effects for two pathogens spreading on a network,2005,Physical Review Letters,158,10.1103/PhysRevLett.95.108701,United States;United States,Article,Santa Fe;Ann Arbor,0,Journal,2-s2.0-27144516752
+Stumpf M.P.H.,,Sampling properties of random graphs: The degree distribution,2005,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",67,10.1103/PhysRevE.72.036118,United Kingdom,Article,London,0,Journal,2-s2.0-28844465436
+Newman M.,,"Power laws, Pareto distributions and Zipf's law",2005,Contemporary Physics,2915,10.1080/00107510500052444,United States,Article,Ann Arbor,0,Journal,2-s2.0-24744469980
+Scholz J.,,Noisy scale-free networks,2005,Physica A: Statistical Mechanics and its Applications,11,10.1016/j.physa.2004.11.012,Germany;Germany,Article,Munich;Giessen,0,Journal,2-s2.0-14844289550
+Gallos L.,,Stability and topology of scale-free networks under attack and defense strategies,2005,Physical Review Letters,212,10.1103/PhysRevLett.94.188701,Greece,Article,Thessaloniki,0,Journal,2-s2.0-27144491076
+Stumpf M.,,Subnets of scale-free networks are not scale-free: Sampling properties of networks,2005,Proceedings of the National Academy of Sciences of the United States of America,336,10.1073/pnas.0501179102,United Kingdom,Article,London,1,Journal,2-s2.0-15444372528
+Dall'Asta L.,,Statistical theory of Internet exploration,2005,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",27,10.1103/PhysRevE.71.036135,France,Article,Saint-Aubin,0,Journal,2-s2.0-37649029714
+Goh K.,,Evolution of the protein interaction network of budding yeast: Role of the protein family compatibility constraint,2005,Journal of the Korean Physical Society,18,,South Korea,Article,Seoul,0,Journal,2-s2.0-14744280586
+Song C.,,Self-similarity of complex networks,2005,Nature,866,10.1038/nature03248,United States,Article,New York,0,Journal,2-s2.0-13444263410
+Clauset A.,,Accuracy and scaling phenomena in Internet mapping,2005,Physical Review Letters,77,10.1103/PhysRevLett.94.018701,United States,Article,Albuquerque,0,Journal,2-s2.0-18144398615
+Robins G.,,Missing data in networks: Exponential random graph (p*) models for networks with non-respondents,2004,Social Networks,90,10.1016/j.socnet.2004.05.001,Australia,Article,Parkville,0,Journal,2-s2.0-4344674323
+Petermann T.,,Exploration of scale-free networks: Do we measure the real exponents?,2004,European Physical Journal B,42,10.1140/epjb/e2004-00021-5,Switzerland,Conference Paper,Lausanne,0,Journal,2-s2.0-2942628018
+Barthélemy M.,,Betweenness centrality in large complex networks,2004,European Physical Journal B,409,10.1140/epjb/e2004-00111-4,France,Conference Paper,Bruyeres-les-Chatel,0,Journal,2-s2.0-2942566632
+Costenbader E.,,The stability of centrality measures when networks are sampled,2003,Social Networks,399,10.1016/S0378-8733(03)00012-1,United States,Article,Baltimore,0,Journal,2-s2.0-0242551065
+Newman M.,,Ego-centered networks and the ripple effect,2003,Social Networks,161,10.1016/S0378-8733(02)00039-4,United States,Article,Santa Fe,0,Journal,2-s2.0-0037210183
+Goh K.I.,,Betweenness centrality correlation in social networks,2003,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",224,,South Korea,Article,Seoul,0,Journal,2-s2.0-0038055908
+Newman M.,,The structure and function of complex networks,2003,SIAM Review,11537,10.1137/S003614450342480,United States,Review,Ann Arbor,0,Journal,2-s2.0-0038718854
+Goh K.,,Classification of scale-free networks,2002,Proceedings of the National Academy of Sciences of the United States of America,264,10.1073/pnas.202301299,South Korea,Article,Seoul,1,Journal,2-s2.0-0036792011
+Albert R.,,Statistical mechanics of complex networks,2002,Reviews of Modern Physics,13645,10.1103/RevModPhys.74.47,United States;United States,Article,Minneapolis;Notre Dame,0,Journal,2-s2.0-0036013593
+Girvan M.,,Community structure in social and biological networks,2002,Proceedings of the National Academy of Sciences of the United States of America,8662,10.1073/pnas.122653799,United States;United States,Article,Santa Fe;Ithaca,1,Journal,2-s2.0-0037062448
+Dorogovtsev S.,,Evolution of networks,2002,Advances in Physics,2215,10.1080/00018730110112519,Portugal,Article,Porto,0,Journal,2-s2.0-0036610173
+Newman M.,,Assortative Mixing in Networks,2002,Physical Review Letters,3012,10.1103/PhysRevLett.89.208701,United States,Article,Ann Arbor,0,Journal,2-s2.0-18744389789
+Goh K.I.,,Universal behavior of load distribution in scale-free networks,2001,Physical Review Letters,825,,South Korea,Article,Seoul,0,Journal,2-s2.0-0035981014
+Pastor-Satorras R.,,Dynamical and correlation properties of the internet,2001,Physical Review Letters,892,,Italy;Spain,Article,Trieste;Barcelona,0,Journal,2-s2.0-25944437904
+Newman M.E.J.,,Scientific collaboration networks. I. Network construction and fundamental results,2001,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",1361,,United States,Article,Santa Fe,0,Journal,2-s2.0-0035395881
+Newman M.E.J.,,"Scientific collaboration networks. II. Shortest paths, weighted networks, and centrality",2001,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",1499,,United States,Article,Santa Fe,0,Journal,2-s2.0-0042635247
+Jeong H.,,Lethality and centrality in protein networks,2001,Nature,3479,10.1038/35075138,United States,Article,Notre Dame,0,Journal,2-s2.0-0035799707
+Cohen R.,,Breakdown of the internet under intentional attack,2001,Physical Review Letters,1004,10.1103/PhysRevLett.86.3682,Israel,Article,Ramat Gan,0,Journal,2-s2.0-0035896667
+Krapivsky P.L.,,Organization of growing random networks,2001,"Physical Review E - Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics",598,10.1103/PhysRevE.63.066123,United States,Article,Boston,0,Journal,2-s2.0-0035363060
+Cohen R.,,Resilience of the Internet to random breakdowns,2000,Physical Review Letters,1644,10.1103/PhysRevLett.85.4626,Israel,Article,Ramat Gan,0,Journal,2-s2.0-0034323311
+Albert R.,,Error and attack tolerance of complex networks,2000,Nature,5597,10.1038/35019019,United States,Article,Notre Dame,0,Journal,2-s2.0-0034721164
+Barabási A.,,Emergence of scaling in random networks,1999,Science,22122,10.1126/science.286.5439.509,United States,Article,Notre Dame,0,Journal,2-s2.0-0038483826
+Faloutsos M.,,On power-law relationships of the internet topology,1999,Computer Communication Review,3084,10.1145/316194.316229,United States;United States;Canada,Article,Riverside;Pittsburgh;Toronto,0,Journal,2-s2.0-0033204106
+Watts D.J.,,Collective dynamics of 'small-world9 networks,1998,Nature,25779,10.1038/30918,United States,Article,Ithaca,0,Journal,2-s2.0-0032482432

@@ -1,0 +1,17 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Donoho D.,,Orthonormal ridgelets and linear singularities,2000,SIAM Journal on Mathematical Analysis,142,10.1137/S0036141098344403,United States,Article,Palo Alto,0,Journal,2-s2.0-0034345309
+Berg A.,,Survey of mixed transform techniques for speech and image coding,1999,Proceedings - IEEE International Symposium on Circuits and Systems,18,,United States,Article,Orlando,0,Conference Proceeding,2-s2.0-0032625444
+Przebinda T.,,Using a new uncertainty measure to determine optimal bases for signal representations,1999,"ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings",21,10.1109/icassp.1999.756234,United States,Article,Norman,0,Conference Proceeding,2-s2.0-0032627106
+Chen S.,,Atomic decomposition by basis pursuit,1998,SIAM Journal of Scientific Computing,4822,10.1137/S1064827596304010,United States,Article,Yorktown Heights,0,Journal,2-s2.0-0032131292
+Debrunner V.,,Multiple transform algorithms for time-varying signal representation,1997,IEEE Transactions on Circuits and Systems II: Analog and Digital Signal Processing,6,10.1109/82.618041,United States,Article,Norman,0,Journal,2-s2.0-0031207568
+DeBrunner V.,,Lapped multiple bases algorithms for still image compression without blocking effect,1997,IEEE Transactions on Image Processing,8,10.1109/83.623194,United States,Article,Norman,0,Journal,2-s2.0-0031237802
+Folland G.B.,,The Uncertainty Principle: A Mathematical Survey,1997,Journal of Fourier Analysis and Applications,451,10.1007/bf02649110,United States,Article,Seattle,0,Journal,2-s2.0-0039768601
+DeVore R.A.,,Some remarks on greedy algorithms,1996,Advances in Computational Mathematics,294,10.1007/bf02124742,United States,Article,Columbia,0,Journal,2-s2.0-0039439070
+Mallat S.,,Matching Pursuits With Time-Frequency Dictionaries,1993,IEEE Transactions on Signal Processing,6934,10.1109/78.258082,United States,Article,New York,0,Journal,2-s2.0-0027842081
+Donoho D.,,Signal recovery and the large sieve,Apr,SIAM Journal on Applied Mathematics,103,10.1137/0152031,United States,Article,Berkeley,0,Journal,2-s2.0-0026845575
+Beex A.,,"Multiple bases signal representation, coding, and reconstruction",1990,,3,,United States,Conference Paper,Blacksburg,0,Conference Proceeding,2-s2.0-0025660082
+Mikhael W.,,Accurate Representation of Time-Varying Signals Using Mixed Transforms with Applications to Speech,1989,IEEE Transactions on Circuits and Systems,18,10.1109/31.20219,United States,Article,Morgantown,0,Journal,2-s2.0-0024610847
+Sloane N.,,Encrypting by random rotations,1983,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),29,10.1007/3-540-39466-4_6,United States,Conference Paper,Murray,1,Book Series,2-s2.0-0020921380
+Williams D.,,New Mathematical Proof of the Uncertainty Relation,1979,American Journal of Physics,5,10.1119/1.11763,United States,Article,Ann Arbor,0,Journal,2-s2.0-0006564073
+Wyner A.,,"An Analog Scrambling Scheme which Does Not Expand Bandwidth, Part II: Continuous Time",1979,IEEE Transactions on Information Theory,20,10.1109/TIT.1979.1056071,United States,Article,Murray,0,Journal,2-s2.0-0018491931
+Wyner A.,,"An Analog Scrambling Scheme which Does Not Expand Bandwidth, Part I: Discrete Time",1979,IEEE Transactions on Information Theory,49,10.1109/TIT.1979.1056050,United States,Article,Murray,0,Journal,2-s2.0-0018467416

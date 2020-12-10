@@ -1,0 +1,15 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Cappelletti J.,,Three-dimensional boundary following,1989,"Computer Vision, Graphics and Image Processing",13,10.1016/0734-189X(89)90105-9,United States,Article,Bethesda,0,Journal,2-s2.0-0024856993
+Schmitt M.,,Some examples of algorithms analysis in computational geometry by means of mathematical morphological techniques,1989,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),26,10.1007/3-540-51683-2_33,France,Conference Paper,Sophia Antipolis,0,Book Series,2-s2.0-85034823714
+Meshkat S.,,VORONOI DIAGRAM FOR MULTIPLY-CONNECTED POLYGONAL DOMAINS. II: IMPLEMENTATION AND APPLICATION.,May,IBM Journal of Research and Development,28,10.1147/rd.313.0373,,Article,,0,Journal,2-s2.0-0023346064
+Pilar Martinez-Perez M.,,A thinning algorithm based on contours.,1987,"Computer Vision, Graphics, &amp; Image Processing",50,,Spain,Article,Madrid,0,Journal,2-s2.0-0023511101
+Srinivasan V.,,VORONOI DIAGRAM FOR MULTIPLY-CONNECTED POLYGONAL DOMAINS. I: ALGORITHM.,May,IBM Journal of Research and Development,80,10.1147/rd.313.0361,,Article,,0,Journal,2-s2.0-0023349608
+Smith R.,,Computer processing of line images: A survey,1987,Pattern Recognition,114,10.1016/0031-3203(87)90013-6,United Kingdom,Article,Bristol,0,Journal,2-s2.0-0023207940
+Boissonnat J.D.,,USE OF THE DELAUNAY TRIANGULATION FOR THE IDENTIFICATION AND THE LOCALIZATION OF OBJECTS.,1985,,7,,France,Conference Paper,Le Chesnay,0,Conference Proceeding,2-s2.0-0022223219
+Ohya T.,,A fast Voronoi-diagram algorithm with quaternary tree bucketing,1984,Information Processing Letters,43,10.1016/0020-0190(84)90116-9,Japan,Article,Tokyo,0,Journal,2-s2.0-0001690751
+Lee D.,,Medial Axis Transformation of a Planar Shape,1982,IEEE Transactions on Pattern Analysis and Machine Intelligence,349,10.1109/TPAMI.1982.4767267,United States,Article,Evanston,0,Journal,2-s2.0-0020152763
+Shapiro B.,,"Skeleton generation fromx, y boundary sequences",1981,Computer Graphics and Image Processing,34,10.1016/0146-664X(81)90075-7,United States,Article,Bethesda,0,Journal,2-s2.0-0019392758
+Arcelli C.,,Pattern thinning by contour tracing,1981,Computer Graphics and Image Processing,73,10.1016/0146-664X(81)90021-6,Italy,Article,Pozzuoli,0,Journal,2-s2.0-0019728263
+Bookstein F.,,The line-skeleton,1979,Computer Graphics and Image Processing,89,10.1016/0146-664X(79)90062-5,United States,Article,Ann Arbor,0,Journal,2-s2.0-0018530543
+Kirkpatrick D.,,EFFICIENT COMPUTATION OF CONTINUOUS SKELETONS.,1979,Annual Symposium on Foundations of Computer Science - Proceedings,151,,,Conference Paper,,0,Conference Proceeding,2-s2.0-0018683594
+Blum H.,,Biological shape and visual science (part I),1973,Journal of Theoretical Biology,840,10.1016/0022-5193(73)90175-6,United States,Article,Bethesda,0,Journal,2-s2.0-0015581337

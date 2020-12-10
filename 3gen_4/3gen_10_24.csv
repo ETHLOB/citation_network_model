@@ -1,0 +1,22 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Peng S.,,Smartphone malware and its propagation modeling: A survey,2014,IEEE Communications Surveys and Tutorials,95,10.1109/SURV.2013.070813.00214,China,Review,Zhaoqing,0,Journal,2-s2.0-84901190797
+Gao C.,,Modeling and restraining mobile virus propagation,2013,IEEE Transactions on Mobile Computing,65,10.1109/TMC.2012.29,China;Hong Kong,Article,Chongqing;,0,Journal,2-s2.0-84872795827
+Shin S.,,A large-scale empirical study of conficker,2012,IEEE Transactions on Information Forensics and Security,38,10.1109/TIFS.2011.2173486,United States,Conference Paper,College Station,0,Journal,2-s2.0-84863368947
+Zhou Y.,,Dissecting Android malware: Characterization and evolution,2012,Proceedings - IEEE Symposium on Security and Privacy,1290,10.1109/SP.2012.16,United States,Conference Paper,Raleigh,0,Conference Proceeding,2-s2.0-84878368035
+Newman M.,,Networks: An Introduction,2010,Networks: An Introduction,6216,10.1093/acprof:oso/9780199206650.001.0001,United States,Book,Ann Arbor,0,Book,2-s2.0-77954826067
+Stone-Gross B.,,Your botnet is my botnet: Analysis of a botnet takeover,2009,Proceedings of the ACM Conference on Computer and Communications Security,352,10.1145/1653662.1653738,United States,Conference Paper,Santa Barbara,0,Conference Proceeding,2-s2.0-74049154670
+Omic J.,,Protecting against network infections: A game theoretic perspective,2009,Proceedings - IEEE INFOCOM,69,10.1109/INFCOM.2009.5062065,Netherlands,Conference Paper,Delft,0,Conference Proceeding,2-s2.0-67650416963
+Chen Z.,,An information-theoretic view of network-aware malware attacks,2009,IEEE Transactions on Information Forensics and Security,26,10.1109/TIFS.2009.2025847,United States,Article,Miami,0,Journal,2-s2.0-69749100394
+Willinger W.,,Mathematics and the internet: A source of enormous confusion and great potential,2009,Notices of the American Mathematical Society,115,,United States,Article,,0,Journal,2-s2.0-65249096074
+Yan G.,,Modeling propagation dynamics of bluetooth worms (Extended version),2009,IEEE Transactions on Mobile Computing,57,10.1109/TMC.2008.129,United States,Article,Los Alamos,0,Journal,2-s2.0-58849141571
+De P.,,An epidemic theoretic framework for vulnerability analysis of broadcast protocols in wireless sensor networks,2009,IEEE Transactions on Mobile Computing,69,10.1109/TMC.2008.115,United States,Article,Redwood City,0,Journal,2-s2.0-58849089560
+Van Mieghem P.,,Virus spread in networks,2009,IEEE/ACM Transactions on Networking,524,10.1109/TNET.2008.925623,Netherlands,Article,Delft,0,Journal,2-s2.0-61449222889
+Sellke S.H.,,Modeling and automated containment of worms,2008,IEEE Transactions on Dependable and Secure Computing,56,10.1109/TDSC.2007.70230,United States;United States,Article,West Lafayette;New York,0,Journal,2-s2.0-43649100273
+Dantu R.,,Fast worm containment using feedback control,2007,IEEE Transactions on Dependable and Secure Computing,29,10.1109/TDSC.2007.1002,United States,Article,Denton,0,Journal,2-s2.0-34249008462
+Abu Rajab M.,,A multifaceted approach to understanding the botnet phenomenon,2006,"Proceedings of the ACM SIGCOMM Internet Measurement Conference, IMC",383,10.1145/1177080.1177086,United States,Conference Paper,Baltimore,0,Conference Proceeding,2-s2.0-34547399387
+Ganesh A.,,The effect of network topology on the spread of epidemics,2005,Proceedings - IEEE INFOCOM,478,10.1109/INFCOM.2005.1498374,United Kingdom,Conference Paper,Cambridge,0,Conference Proceeding,2-s2.0-25844439630
+Zou C.C.,,The monitoring and early detection of internet worms,2005,IEEE/ACM Transactions on Networking,180,10.1109/TNET.2005.857113,United States,Article,Orlando,0,Journal,2-s2.0-28044469549
+Newman M.,,"Power laws, Pareto distributions and Zipf's law",2005,Contemporary Physics,2917,10.1080/00107510500052444,United States,Article,Ann Arbor,0,Journal,2-s2.0-24744469980
+Mitzenmacher M.,,A brief history of generative models for power law and lognormal distributions,2004,Internet Mathematics,950,10.1080/15427951.2004.10129088,United States,Article,Cambridge,1,Journal,2-s2.0-79960601554
+Jeffrey A.,,When to Initiate HIV Therapy: A Control Theoretic Approach,2003,IEEE Transactions on Biomedical Engineering,67,10.1109/TBME.2003.818465,South Africa,Article,Pretoria,0,Journal,2-s2.0-0242363807
+Axtell R.,,Zipf distribution of U.S. firm sizes,2001,Science,869,10.1126/science.1062081,United States,Article,"Washington, D.C.",0,Journal,2-s2.0-0035823152

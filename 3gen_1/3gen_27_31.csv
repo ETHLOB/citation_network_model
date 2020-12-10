@@ -1,0 +1,27 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Jones P.,,PRIDE: New developments and new datasets,2008,Nucleic Acids Research,114,10.1093/nar/gkm1021,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-38549117407
+Gallardo K.,,A combined proteome and ranscriptome analysis of developing Medicago truncatula seeds: Evidence for metabolic specialization of maternal and filial tissues,2007,Molecular and Cellular Proteomics,183,10.1074/mcp.M700171-MCP200,France,Article,Dijon,1,Journal,2-s2.0-38349082659
+Roos F.,,PepSplice: Cache-efficient search algorithms for comprehensive identification of tandem mass spectra,2007,Bioinformatics,29,10.1093/bioinformatics/btm417,Switzerland,Article,"Zurich ZH,",1,Journal,2-s2.0-36448936713
+Cox J.,,Is Proteomics the New Genomics?,2007,Cell,302,10.1016/j.cell.2007.07.032,Germany,Short Survey,Planegg,1,Journal,2-s2.0-34547572949
+Taylor C.F.,,The minimum information about a proteomics experiment (MIAPE),2007,Nature Biotechnology,509,10.1038/nbt1329,United Kingdom;United Kingdom,Article,Cambridge;,1,Journal,2-s2.0-34249062964
+Eriksson J.,,Improving the success rate of proteome analysis by modeling protein-abundance distributions and experimental designs,2007,Nature Biotechnology,55,10.1038/nbt1315,Sweden,Article,Uppsala,0,Journal,2-s2.0-34250216392
+Brunner E.,,A high-quality catalog of the Drosophila melanogaster proteome,2007,Nature Biotechnology,226,10.1038/nbt1300,Switzerland,Article,Zurich,0,Journal,2-s2.0-34249717879
+Tanner S.,,Improving gene annotation using peptide mass spectrometry,2007,Genome Research,144,10.1101/gr.5646507,United States,Article,San Diego,1,Journal,2-s2.0-33846884410
+Mallick P.,,Computational prediction of proteotypic peptides for quantitative proteomics,2007,Nature Biotechnology,534,10.1038/nbt1275,United States;United States;United States,Article,Los Angeles;Los Angeles;Seattle,0,Journal,2-s2.0-33846133955
+Lu P.,,Absolute protein expression profiling estimates the relative contributions of transcriptional and translational regulation,2007,Nature Biotechnology,850,10.1038/nbt1270,United States,Article,Austin,0,Journal,2-s2.0-33846165487
+Nesvizhskii A.,,Protein identification by tandem mass spectrometry and sequence database searching.,2007,"Methods in molecular biology (Clifton, N.J.)",149,,United States,Review,Ann Arbor,0,Journal,2-s2.0-39049175370
+Stadtman E.,,Protein oxidation and aging,2006,Free Radical Research,593,10.1080/10715760600918142,United States,Article,Bethesda,0,Journal,2-s2.0-33750710080
+King N.L.,,Analysis of the Saccharomyces cerevisiae proteome with PeptideAtlas,2006,Genome Biology,47,10.1186/gb-2006-7-11-r106,United States,Article,Seattle,1,Journal,2-s2.0-33847699732
+Alexa A.,,Improved scoring of functional groups from gene expression data by decorrelating GO graph structure,2006,Bioinformatics,947,10.1093/bioinformatics/btl140,Germany,Article,Saarbrucken,1,Journal,2-s2.0-33745626459
+Jones P.,,PRIDE: a public repository of protein and peptide identifications for the proteomics community.,2006,Nucleic acids research,222,10.1093/nar/gkj138,United Kingdom,Article,London,1,Journal,2-s2.0-33644875983
+Desiere F.,,The PeptideAtlas project.,2006,Nucleic acids research,498,10.1093/nar/gkj040,United States,Article,Seattle,1,Journal,2-s2.0-33644876912
+Kuster B.,,Scoring proteomes with proteotypic peptide probes,2005,Nature Reviews Molecular Cell Biology,291,10.1038/nrm1683,United Kingdom,Review,Brentford,0,Journal,2-s2.0-21744435622
+Baginsky S.,,Analysis of shotgun proteomics and RNA profiling data from Arabidopsis thaliana chloroplasts,2005,Journal of Proteome Research,36,10.1021/pr049764u,Switzerland,Article,"Zurich ZH,",0,Journal,2-s2.0-17444429670
+Foissac S.,,Integrating alternative splicing detection into gene prediction,2005,BMC Bioinformatics,31,10.1186/1471-2105-6-25,France,Article,Castanet-Tolosan,1,Journal,2-s2.0-25444512373
+Zimmermann P.,,GENEVESTIGATOR. Arabidopsis microarray database and analysis toolbox,2004,Plant Physiology,1946,10.1104/pp.104.046367,Switzerland,Article,"Zurich ZH,",1,Journal,2-s2.0-13444264729
+Berardini T.,,Functional annotation of the Arabidopsis genome using controlled vocabularies,2004,Plant Physiology,332,10.1104/pp.104.040071,United States,Article,"Washington, D.C.",1,Journal,2-s2.0-3042672020
+Kleffmann T.,,The Arabidopsis thaliana chloroplast proteome reveals pathway abundance and novel protein functions,2004,Current Biology,435,10.1016/j.cub.2004.02.039,Switzerland,Article,"Zurich ZH,",1,Journal,2-s2.0-1842432608
+Yamada K.,,Empirical Analysis of Transcriptional Activity in the Arabidopsis Genome,2003,Science,705,10.1126/science.1088305,United States,Article,Albany,0,Journal,2-s2.0-0242300620
+Annesley T.M.,,Ion suppression in mass spectrometry,2003,Clinical Chemistry,1094,10.1373/49.7.1041,United States;United States,Short Survey,Ann Arbor;Ann Arbor,1,Journal,2-s2.0-0038574979
+Korf I.,,Integrating genomic homology into gene structure prediction,2001,Bioinformatics,328,10.1093/bioinformatics/17.suppl_1.S140,United States,Article,St. Louis,1,Journal,2-s2.0-17444437765
+Burge C.,,Finding the genes in genomic DNA,1998,Current Opinion in Structural Biology,415,10.1016/S0959-440X(98)80069-9,United States,Article,Cambridge,0,Journal,2-s2.0-0032104509

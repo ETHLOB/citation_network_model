@@ -1,0 +1,25 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Kooperberg C.,,Significance testing for small microarray experiments,2005,Statistics in Medicine,46,10.1002/sim.2109,United States,Article,Seattle,0,Journal,2-s2.0-23244447197
+Dumur C.I.,,Evaluation of quality-control criteria for microarray gene expression analysis,2004,Clinical Chemistry,87,10.1373/clinchem.2004.033225,United States,Article,Richmond,1,Journal,2-s2.0-7044286287
+Chen D.,,A graphical approach for quality control of oligonucleotide array data,2004,Journal of Biopharmaceutical Statistics,12,10.1081/BIP-200025651,United States;United States,Article,Birmingham;Birmingham,0,Journal,2-s2.0-4644281352
+Petri A.,,Array-A-Lizer: A serial DNA microarray quality analyzer,2004,BMC Bioinformatics,11,10.1186/1471-2105-5-12,Denmark,Article,Bagsvard,1,Journal,2-s2.0-2942601237
+Fan J.,,Normalization and analysis of cDNA microarrays using within-array replications applied to neuroblastoma cell response to a cytokine,2004,Proceedings of the National Academy of Sciences of the United States of America,71,10.1073/pnas.0307557100,United States,Article,Princeton,1,Journal,2-s2.0-0842321044
+Smyth G.K.,,Linear models and empirical bayes methods for assessing differential expression in microarray experiments,2004,Statistical Applications in Genetics and Molecular Biology,7988,10.2202/1544-6115.1027,Australia,Article,Melbourne,0,Journal,2-s2.0-4544341015
+Kerr M.,,Linear Models for Microarray Data Analysis: Hidden Similarities and Differences,2003,Journal of Computational Biology,56,10.1089/106652703322756131,United States,Article,Seattle,0,Journal,2-s2.0-0346021343
+Gollub J.,,The Stanford Microarray Database: Data access and quality assessment tools,2003,Nucleic Acids Research,273,10.1093/nar/gkg078,United States,Review,Palo Alto,1,Journal,2-s2.0-0037249405
+Smyth G.,,Normalization of cDNA microarray data,2003,Methods,1396,10.1016/S1046-2023(03)00155-5,Australia,Article,Melbourne,0,Journal,2-s2.0-0242333835
+Spruill S.E.,,Assessing sources of variability in microarray gene expression data,2002,BioTechniques,41,10.2144/02334mt05,United States,Article,Chapel Hill,1,Journal,2-s2.0-0036793353
+Jenssen T.K.,,Analysis of repeatability in spotted cDNA microarrays,2002,Nucleic Acids Research,43,10.1093/nar/gkf441,Norway;Norway,Article,Oslo;Trondheim,1,Journal,2-s2.0-0037100632
+Raffelsberger W.,,Quality indicators increase the reliability of microarray data,2002,Genomics,19,10.1006/geno.2002.6848,France,Article,Paris,0,Journal,2-s2.0-0036421465
+Smyth G.,,An efficient algorithm for reml in heteroscedastic regression,2002,Journal of Computational and Graphical Statistics,35,10.1198/106186002871,Australia,Article,Melbourne,0,Journal,2-s2.0-0036921818
+Model F.,,Statistical process control for large scale microarray experiments,2002,Bioinformatics,48,10.1093/bioinformatics/18.suppl_1.S155,Germany,Article,Berlin,1,Journal,2-s2.0-11244333072
+Tran P.H.,,Microarray optimizations: increasing spot accuracy and automated identification of true microarray signals.,2002,Nucleic acids research,98,10.1093/nar/gnf053,United States,Article,Irvine,1,Journal,2-s2.0-18744422885
+Novak J.P.,,Characterization of variability in large-scale gene expression data: Implications for study design,2002,Genomics,163,10.1006/geno.2001.6675,United States;Canada,Article,Cambridge;Montreal,0,Journal,2-s2.0-0035699287
+Yang I.,,Within the fold: assessing differential expression measures and reproducibility in microarray assays.,2002,Genome biology,252,,United States,Article,Rockville,0,Journal,2-s2.0-0037167899
+Yang Y.,,Comparison of methods for image analysis on cDNA microarray data,2002,Journal of Computational and Graphical Statistics,275,10.1198/106186002317375640,,Article,,0,Journal,2-s2.0-0036004157
+Smyth G.,,Exact and approximate REML for heteroscedastic regression,2001,Statistical Modeling,26,10.1177/1471082X0100100301,Australia,Article,Brisbane,0,Journal,2-s2.0-84993699116
+Wildsmith S.E.,,Maximization of signal derived from cDNA microarrays.,2001,BioTechniques,45,10.2144/01301dd04,United Kingdom,Article,Brentford,1,Journal,2-s2.0-0035229170
+Steinfath M.,,Automated image analysis for array hybridization experiments,2001,Bioinformatics,83,10.1093/bioinformatics/17.7.634,Germany,Article,Berlin,1,Journal,2-s2.0-0034894449
+Wang X.,,Quantitative quality control in microarray image processing and data acquisition.,2001,Nucleic acids research,183,10.1093/nar/29.15.e75,United States,Article,Wauwatosa,1,Journal,2-s2.0-0035433128
+Schuchhardt J.,,Normalization strategies for cDNA microarrays,2000,Nucleic acids research,254,10.1093/nar/28.10.e47,Germany,Article,Berlin,1,Journal,2-s2.0-0034656561
+Smyth G.,,Partitioned algorithms for maximum likelihood and other non-linear estimation,1996,Statistics and Computing,31,10.1007/BF00140865,Australia,Article,Brisbane,0,Journal,2-s2.0-21444444852

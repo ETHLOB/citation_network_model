@@ -1,0 +1,10 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Aronesty E.,,Comparison of sequencing utility programs,2013,Open Bioinformatics Journal,513,10.2174/1875036201307010001,United States,Article,Durham,1,Journal,2-s2.0-84875098273
+Li J.,,The NGS wikibook: A dynamic collaborative online training effort with long-termsustainability,2013,Briefings in Bioinformatics,5,10.1093/bib/bbt045,Hong Kong,Article,Shatin,1,Journal,2-s2.0-84896904129
+Lindgreen S.,,AdapterRemoval: Easy cleaning of next-generation sequencing reads,2012,BMC Research Notes,284,10.1186/1756-0500-5-337,Denmark;New Zealand,Article,Copenhagen;Christchurch,1,Journal,2-s2.0-84863101693
+Langmead B.,,Fast gapped-read alignment with Bowtie 2,2012,Nature Methods,14993,10.1038/nmeth.1923,United States;United States,Article,College Park;Baltimore,0,Journal,2-s2.0-84859210032
+Junier T.,,The Newick utilities: high-throughput phylogenetic tree processing in the UNIX shell,2010,Bioinformatics,161,10.1093/bioinformatics/btq243,Switzerland;Switzerland,Article,Geneva;Geneva,1,Journal,2-s2.0-77954209892
+Li H.,,A survey of sequence alignment algorithms for next-generation sequencing,2010,Briefings in Bioinformatics,560,10.1093/bib/bbq015,United States,Review,Cambridge,1,Journal,2-s2.0-77957272611
+Li H.,,Fast and accurate short read alignment with Burrows-Wheeler transform,2009,Bioinformatics,17610,10.1093/bioinformatics/btp324,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-67649884743
+Mardis E.,,Next-generation DNA sequencing methods,2008,Annual Review of Genomics and Human Genetics,1362,10.1146/annurev.genom.9.081307.164359,United States,Review,St. Louis,0,Book Series,2-s2.0-52949096084
+Zerbino D.,,Velvet: Algorithms for de novo short read assembly using de Bruijn graphs,2008,Genome Research,6464,10.1101/gr.074492.107,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-43149115851

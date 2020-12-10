@@ -1,0 +1,22 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Almuallim H.,,Learning Boolean concepts in the presence of many irrelevant features,1994,Artificial Intelligence,279,10.1016/0004-3702(94)90084-1,Saudi Arabia,Article,Dhahran,0,Journal,2-s2.0-0028496468
+Kononenko I.,,Estimating attributes: Analysis and extensions of RELIEF,1994,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),1623,10.1007/3-540-57868-4_57,Slovenia,Conference Paper,Ljubljana,1,Book Series,2-s2.0-84992726552
+Modrzejewski M.,,Feature selection using rough sets theory,1993,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),126,10.1007/3-540-56602-3_138,Poland,Conference Paper,Warsaw,1,Book Series,2-s2.0-85028883788
+Schaffer C.,,Overfitting Avoidance as Bias,1993,Machine Learning,137,10.1023/A:1022653209073,United States,Article,New York,1,Journal,2-s2.0-0001259758
+Holte R.,,Very Simple Classification Rules Perform Well on Most Commonly Used Datasets,1993,Machine Learning,1164,10.1023/A:1022631118932,Canada,Article,Ottawa,1,Journal,2-s2.0-0027580356
+Kira K.,,Feature selection problem: traditional methods and a new algorithm,1992,Proceedings Tenth National Conference on Artificial Intelligence,1137,,Japan,Conference Paper,Tokyo,0,Conference Proceeding,2-s2.0-0027002164
+Aha D.,,Instance-Based Learning Algorithms,1991,Machine Learning,3265,10.1023/A:1022689900470,United States,Article,Irvine,1,Journal,2-s2.0-0025725905
+Sheinvald J.,,A modeling approach to feature selection,1990,Proceedings - International Conference on Pattern Recognition,29,,United States,Conference Paper,Armonk,0,Conference Proceeding,2-s2.0-0025565091
+Clark P.,,The CN2 Induction Algorithm,1989,Machine Learning,1453,10.1023/A:1022641700528,,Article,,1,Journal,2-s2.0-34249966007
+Bobrowski L.,,Feature selection based on some homogeneity coefficient,1988,Proceedings - International Conference on Pattern Recognition,7,,Poland,Conference Paper,Warsaw,0,Conference Proceeding,2-s2.0-0024171119
+Xu L.,,Best first strategy for feature selection,1988,Proceedings - International Conference on Pattern Recognition,60,,China,Conference Paper,Beijing,0,Conference Proceeding,2-s2.0-0024175265
+Foroutan I.,,Feature Selection for Automatic Classification of nonGaussian Data,1987,"IEEE Transactions on Systems, Man and Cybernetics",61,10.1109/TSMC.1987.4309029,United States,Article,Irvine,0,Journal,2-s2.0-0022030443
+Quinlan J.,,Induction of Decision Trees,1986,Machine Learning,10316,10.1023/A:1022643204877,,Article,,1,Journal,2-s2.0-33744584654
+Queiros C.,,ON FEATURE SELECTION.,1984,Proceedings - International Conference on Pattern Recognition,5,,Netherlands,Conference Paper,Amsterdam,0,Conference Proceeding,2-s2.0-0021615889
+Segen J.,,FEATURE SELECTION AND CONSTRUCTIVE INFERENCE.,1984,Proceedings - International Conference on Pattern Recognition,7,,United States,Conference Paper,Murray,0,Conference Proceeding,2-s2.0-0021601826
+Ichino M.,,FEATURE SELECTION FOR LINEAR CLASSIFIERS.,1984,Proceedings - International Conference on Pattern Recognition,9,,Japan,Conference Paper,Tokyo,0,Conference Proceeding,2-s2.0-0021582525
+Ichino M.,,Optimum Feature Selection by Zero-One Integer Programming,1984,"IEEE Transactions on Systems, Man and Cybernetics",29,10.1109/TSMC.1984.6313294,Japan,Article,Tokyo,0,Journal,2-s2.0-0021487289
+Devijver P.,,Pattern recognition: a statistical approach.,1982,Pattern recognition: a statistical approach.,2216,,Netherlands,Article,Eindhoven,0,Book,2-s2.0-84928746885
+Rissanen J.,,Modeling by shortest data description,1978,Automatica,3682,10.1016/0005-1098(78)90005-5,United States,Article,San Jose,0,Journal,2-s2.0-0018015137
+Narendra P.,,A Branch and Bound Algorithm for Feature Subset Selection,1977,IEEE Transactions on Computers,797,10.1109/TC.1977.1674939,United States,Article,Minneapolis,0,Journal,2-s2.0-0017535866
+Mucciardi A.,,A Comparison of Seven Techniques for Choosing Subsets of Pattern Recognition Properties,1971,IEEE Transactions on Computers,149,10.1109/T-C.1971.223398,United States,Article,"McLean/Washington, D.C.",0,Journal,2-s2.0-84948597805

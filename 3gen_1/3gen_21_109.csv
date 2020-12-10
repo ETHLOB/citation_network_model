@@ -1,0 +1,14 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Lee H.,,Efficient sparse coding algorithms,2007,Advances in Neural Information Processing Systems,1839,,United States,Conference Paper,Palo Alto,0,Conference Proceeding,2-s2.0-84864036295
+Raina R.,,Self-taught learning: Transfer learning from unlabeled data,2007,ACM International Conference Proceeding Series,780,10.1145/1273496.1273592,United States,Conference Paper,Palo Alto,0,Conference Proceeding,2-s2.0-34547971961
+Krsmanovic F.,,Have we met? MDP based speaker ID for robot dialogue,2006,"Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH",8,,United States,Conference Paper,Palo Alto,0,Conference Proceeding,2-s2.0-44949213206
+Blumensath T.,,Sparse and shift-invariant representations of music,2006,"IEEE Transactions on Audio, Speech and Language Processing",84,10.1109/TSA.2005.860346,United Kingdom;United States,Conference Paper,London;New York,0,Journal,2-s2.0-33744987389
+Ando R.,,A framework for learning predictive structures from multiple tasks and unlabeled data,2005,Journal of Machine Learning Research,799,,United States,Article,Yorktown Heights,0,Journal,2-s2.0-27844439373
+Smith E.,,Efficient coding of time-relative structure using spikes,2005,Neural Computation,81,10.1162/0899766052530839,United States,Article,Pittsburgh,0,Journal,2-s2.0-14544277086
+Raina R.,,Classification with hybrid generative/discriminative models,2004,Advances in Neural Information Processing Systems,75,,United States,Conference Paper,Palo Alto,0,Conference Proceeding,2-s2.0-84898946653
+Tzanetakis G.,,Musical genre classification of audio signals,2002,IEEE Transactions on Speech and Audio Processing,1601,10.1109/TSA.2002.800560,United States;United States,Article,Princeton;New York,0,Journal,2-s2.0-0036648502
+Nigam K.,,Text classification from labeled and unlabeled documents using EM,2000,Machine Learning,1883,10.1023/a:1007692713085,United States,Article,Pittsburgh,1,Journal,2-s2.0-0033886806
+Lewicki M.,,"Coding time-varying signals using sparse, shift-invariant representations",1999,Advances in Neural Information Processing Systems,58,,United States,Conference Paper,Chevy Chase,0,Conference Proceeding,2-s2.0-79955408165
+Caruana R.,,Multitask Learning,1997,Machine Learning,2308,10.1023/A:1007379606734,United States,Article,Pittsburgh,1,Journal,2-s2.0-0031189914
+Olshausen B.,,Emergence of simple-cell receptive field properties by learning a sparse code for natural images,1996,Nature,3545,10.1038/381607a0,United States;United States,Article,Davis;Ithaca,0,Journal,2-s2.0-0029938380
+Atick J.,,Could information theory provide an ecological theory of sensory processing?,1992,Network: Computation in Neural Systems,509,10.1088/0954-898X_3_2_009,United States,Review,Princeton,0,Journal,2-s2.0-34548281969

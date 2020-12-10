@@ -1,0 +1,39 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Van Mieghem P.,,Non-Markovian infection spread dramatically alters the susceptible- infected-susceptible epidemic threshold in networks,2013,Physical Review Letters,86,10.1103/PhysRevLett.110.108701,Netherlands,Article,Delft,0,Journal,2-s2.0-84874582002
+Li C.,,Bounds for the spectral radius of a graph when nodes are removed,2012,Linear Algebra and Its Applications,16,10.1016/j.laa.2012.02.023,Netherlands,Article,Delft,1,Journal,2-s2.0-84862784715
+Li C.,,Degree and principal eigenvectors in complex networks,2012,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),11,10.1007/978-3-642-30045-5_12,Netherlands,Conference Paper,Delft,1,Book Series,2-s2.0-84861665556
+Van Mieghem P.,,Epidemic phase transition of the SIS type in networks,2012,EPL,64,10.1209/0295-5075/97/48004,Netherlands;Netherlands,Article,Delft;Delft,0,Journal,2-s2.0-84857623735
+Van Mieghem P.,,Decreasing the spectral radius of a graph by link removals,2011,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",81,10.1103/PhysRevE.84.016101,Netherlands;Netherlands,Article,Delft;Delft,0,Journal,2-s2.0-79961107212
+Castellano C.,,Thresholds for epidemic spreading in networks,2010,Physical Review Letters,370,10.1103/PhysRevLett.105.218701,Italy,Article,Rome,0,Journal,2-s2.0-78349292558
+Newman M.,,Networks: An Introduction,2010,Networks: An Introduction,6212,10.1093/acprof:oso/9780199206650.001.0001,United States,Book,Ann Arbor,0,Book,2-s2.0-77954826067
+Van Mieghem P.,,Influence of assortativity and degree-preserving rewiring on the spectra of networks,2010,European Physical Journal B,78,10.1140/epjb/e2010-00219-x,Netherlands,Article,Delft,0,Journal,2-s2.0-77956737842
+Kim Y.,,Finding communities in directed networks,2010,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",98,10.1103/PhysRevE.81.016103,South Korea,Article,Yusong,0,Journal,2-s2.0-75349093229
+Mieghem P.,,Graph spectra for complex networks,2010,Graph Spectra for Complex Networks,355,10.1017/CBO9780511921681,Netherlands,Book,Delft,0,Book,2-s2.0-84925118135
+Robins G.,,"Closure, connectivity and degree distributions: Exponential random graph (p*) models for directed social networks",2009,Social Networks,153,10.1016/j.socnet.2008.10.006,Australia,Article,Parkville,0,Journal,2-s2.0-62549109510
+Van Mieghem P.,,Virus spread in networks,2009,IEEE/ACM Transactions on Networking,524,10.1109/TNET.2008.925623,Netherlands,Article,Delft,0,Journal,2-s2.0-61449222889
+Bianconi G.,,Local structure of directed networks,2008,Physical Review Letters,50,10.1103/PhysRevLett.100.118701,Italy,Article,Trieste,0,Journal,2-s2.0-41449083908
+Barrat A.,,Dynamical processes on complex networks,2008,Dynamical Processes on Complex Networks,1582,10.1017/CBO9780511791383,France;France;Italy,Book,Saint-Aubin;Paris;,0,Book,2-s2.0-84924517160
+Park S.M.,,Dynamic behaviors in directed networks,2006,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",32,10.1103/PhysRevE.74.026114,South Korea,Article,Suwon,0,Journal,2-s2.0-33747700358
+Meyers L.,,Predicting epidemics on directed contact networks,2006,Journal of Theoretical Biology,174,10.1016/j.jtbi.2005.10.004,United States;United States,Article,Santa Fe;Austin,0,Journal,2-s2.0-33646271598
+Boguñá M.,,Generalized percolation in random directed networks,2005,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",81,10.1103/PhysRevE.72.016106,Spain,Article,Barcelona,0,Journal,2-s2.0-27244434945
+Garlaschelli D.,,Patterns of link reciprocity in directed networks,2004,Physical Review Letters,212,10.1103/PhysRevLett.93.268701,Italy;Italy,Article,Genoa;Siena,0,Journal,2-s2.0-42749107315
+Boldi P.,,The WebGraph framework I: Compression techniques,2004,"Thirteenth International World Wide Web Conference Proceedings, WWW2004",652,,Italy,Conference Paper,Milan,0,Conference Proceeding,2-s2.0-19944376183
+Wang Y.,,Epidemic spreading in real networks: An eigenvalue viewpoint,2003,Proceedings of the IEEE Symposium on Reliable Distributed Systems,504,10.1109/RELDIS.2003.1238052,United States,Conference Paper,Pittsburgh,0,Conference Proceeding,2-s2.0-27644462218
+Newman M.,,The structure and function of complex networks,2003,SIAM Review,11537,10.1137/S003614450342480,United States,Review,Ann Arbor,0,Journal,2-s2.0-0038718854
+Newman M.E.J.,,Email networks and the spread of computer viruses,2002,"Physical Review E - Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics",558,10.1103/PhysRevE.66.035101,United States,Article,Santa Fe,0,Journal,2-s2.0-37649029105
+Albert R.,,Statistical mechanics of complex networks,2002,Reviews of Modern Physics,13645,10.1103/RevModPhys.74.47,United States;United States,Article,Minneapolis;Notre Dame,0,Journal,2-s2.0-0036013593
+Schwartz N.,,Percolation in directed scale-free networks,2002,"Physical Review E - Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics",144,10.1103/PhysRevE.66.015104,Israel,Article,Ramat Gan,0,Journal,2-s2.0-41349101495
+Dorogovtsev S.,,Evolution of networks,2002,Advances in Physics,2215,10.1080/00018730110112519,Portugal,Article,Porto,0,Journal,2-s2.0-0036610173
+Maslov S.,,Specificity and stability in topology of protein networks,2002,Science,1958,10.1126/science.1065103,United States,Article,Upton,0,Journal,2-s2.0-0037012880
+Newman M.,,Assortative Mixing in Networks,2002,Physical Review Letters,3012,10.1103/PhysRevLett.89.208701,United States,Article,Ann Arbor,0,Journal,2-s2.0-18744389789
+Newman M.E.J.,,Random graphs with arbitrary degree distributions and their applications,2001,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",2213,,United States;United States,Article,Santa Fe;Ithaca,0,Journal,2-s2.0-0035420732
+Pastor-Satorras R.,,Epidemic dynamics and endemic states in complex networks,2001,"Physical Review E - Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics",1153,10.1103/PhysRevE.63.066117,Spain,Article,Barcelona,0,Journal,2-s2.0-0035363452
+Callaway D.,,Network robustness and fragility: percolation on random graphs,2000,Physical Review Letters,1632,10.1103/PhysRevLett.85.5468,United States,Article,Ithaca,0,Journal,2-s2.0-4243939794
+Van Den Brink R.,,Measuring domination in directed networks,2000,Social Networks,68,10.1016/S0378-8733(00)00019-8,Netherlands,Article,Tilburg,0,Journal,2-s2.0-0013036819
+Barabási A.,,Emergence of scaling in random networks,1999,Science,22122,10.1126/science.286.5439.509,United States,Article,Notre Dame,0,Journal,2-s2.0-0038483826
+Bapat R.,,Generalized matrix tree theorem for mixed graphs,1999,Linear and Multilinear Algebra,45,10.1080/03081089908818623,India,Article,New Delhi,0,Journal,2-s2.0-0141636394
+Watts D.J.,,Collective dynamics of 'small-world9 networks,1998,Nature,25779,10.1038/30918,United States,Article,Ithaca,0,Journal,2-s2.0-0032482432
+Molloy M.,,A critical point for random graphs with a given degree sequence,1995,Random Structures &amp; Algorithms,1427,10.1002/rsa.3240060204,United States,Article,Pittsburgh,0,Journal,2-s2.0-84990671447
+Kephart J.,,Directed-graph epidemiological models of computer viruses,1991,Proceedings of the Symposium on Security and Privacy,519,,United States,Conference Paper,Yorktown Heights,0,Conference Proceeding,2-s2.0-0026156688
+Juhász F.,,On the characteristic values of non-symmetric block random matrices,1990,Journal of Theoretical Probability,11,10.1007/BF01045158,Hungary,Article,Budapest,0,Journal,2-s2.0-30244499611
+Bollobás B.,,A Probabilistic Proof of an Asymptotic Formula for the Number of Labelled Regular Graphs,1980,European Journal of Combinatorics,539,10.1016/S0195-6698(80)80030-8,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-85012603843

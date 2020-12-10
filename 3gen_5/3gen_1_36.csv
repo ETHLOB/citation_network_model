@@ -1,0 +1,43 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Liu K.,,Linc2GO: A human LincRNA function annotation resource based on ceRNA hypothesis,2013,Bioinformatics,70,10.1093/bioinformatics/btt361,China,Article,Beijing,0,Journal,2-s2.0-84882643385
+Yates L.,,The long and short of microRNA,2013,Cell,499,10.1016/j.cell.2013.04.003,United Kingdom,Review,Oxford,1,Journal,2-s2.0-84876939170
+Hansen T.,,Natural RNA circles function as efficient microRNA sponges,2013,Nature,2863,10.1038/nature11993,Denmark,Article,Aarhus,0,Journal,2-s2.0-84875372911
+Memczak S.,,Circular RNAs are a large class of animal RNAs with regulatory potency,2013,Nature,2918,10.1038/nature11928,Germany,Article,Berlin,0,Journal,2-s2.0-84875369248
+Batista P.,,Long noncoding RNAs: Cellular address codes in development and disease,2013,Cell,1413,10.1016/j.cell.2013.02.012,United States,Review,Stanford,1,Journal,2-s2.0-84875200257
+Jalali S.,,Systematic Transcriptome Wide Analysis of lncRNA-miRNA Interactions,2013,PLoS ONE,271,10.1371/journal.pone.0053823,India,Article,New Delhi,1,Journal,2-s2.0-84873550059
+Paraskevopoulou M.,,DIANA-LncBase: Experimentally verified and computationally predicted microRNA targets on long non-coding RNAs,2013,Nucleic Acids Research,228,10.1093/nar/gks1246,Greece;Greece,Article,Vari;Athens,1,Journal,2-s2.0-84876523096
+Meyer L.,,The UCSC Genome Browser database: Extensions and updates 2013,2013,Nucleic Acids Research,559,10.1093/nar/gks1048,United States,Article,Santa Cruz,1,Journal,2-s2.0-84875404794
+Barrett T.,,NCBI GEO: Archive for functional genomics data sets - Update,2013,Nucleic Acids Research,2789,10.1093/nar/gks1193,United States,Article,Bethesda,1,Journal,2-s2.0-84874271270
+Harrow J.,,GENCODE: The reference human genome annotation for the ENCODE project,2012,Genome Research,2297,10.1101/gr.135350.111,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-84865760395
+Ascano M.,,Identification of RNA-protein interaction networks using PAR-CLIP,2012,Wiley Interdisciplinary Reviews: RNA,135,10.1002/wrna.1103,United States,Review,New York,0,Journal,2-s2.0-84862494264
+König J.,,Protein-RNA interactions: New genomic technologies and perspectives,2012,Nature Reviews Genetics,271,10.1038/nrg3141,United Kingdom,Article,Cambridge,0,Journal,2-s2.0-84855916545
+Anders G.,,doRiNA: A database of RNA interactions in post-transcriptional regulation,2012,Nucleic Acids Research,129,10.1093/nar/gkr1007,Germany,Article,Berlin,1,Journal,2-s2.0-84861963461
+Kanehisa M.,,KEGG for integration and interpretation of large-scale molecular data sets,2012,Nucleic Acids Research,2764,10.1093/nar/gkr988,Japan;Japan,Article,Tokyo;Kyoto,1,Journal,2-s2.0-84858983547
+Karreth F.,,In vivo identification of tumor- suppressive PTEN ceRNAs in an oncogenic BRAF-induced mouse model of melanoma,2011,Cell,463,10.1016/j.cell.2011.09.032,United States,Article,Boston,1,Journal,2-s2.0-80054681545
+Sumazin P.,,An extensive MicroRNA-mediated network of RNA-RNA interactions regulates established oncogenic pathways in glioblastoma,2011,Cell,497,10.1016/j.cell.2011.09.041,United States,Article,New York,1,Journal,2-s2.0-80054689794
+Tay Y.,,Coding-independent regulation of the tumor suppressor PTEN by competing endogenous mRNAs,2011,Cell,704,10.1016/j.cell.2011.09.029,United States,Article,Boston,1,Journal,2-s2.0-80054700538
+Cesana M.,,A long noncoding RNA controls muscle differentiation by functioning as a competing endogenous RNA,2011,Cell,1606,10.1016/j.cell.2011.09.028,Italy,Article,Rome,1,Journal,2-s2.0-80054715378
+Corcoran D.,,PARalyzer: Definition of RNA binding sites from PAR-CLIP short-read sequence data,2011,Genome Biology,219,10.1186/gb-2011-12-8-r79,United States,Article,Durham,1,Journal,2-s2.0-80051786284
+Salmena L.,,A ceRNA hypothesis: The rosetta stone of a hidden RNA language?,2011,Cell,2732,10.1016/j.cell.2011.07.014,United States,Short Survey,Boston,1,Journal,2-s2.0-79961170994
+Dooley A.,,Nuclear factor I/B is an oncogene in small cell lung cancer,2011,Genes and Development,102,10.1101/gad.2046711,United States,Article,Cambridge,1,Journal,2-s2.0-79960463418
+Liberzon A.,,Molecular signatures database (MSigDB) 3.0,2011,Bioinformatics,1251,10.1093/bioinformatics/btr260,United States,Article,Cambridge,1,Journal,2-s2.0-79958135926
+Moon H.G.,,NFIB is a potential target for estrogen receptor-negative breast cancers,2011,Molecular Oncology,30,10.1016/j.molonc.2011.08.002,South Korea,Article,Seoul,0,Journal,2-s2.0-81855166112
+Khorshid M.,,CLIPZ: A database and analysis environment for experimentally determined binding sites of RNA-binding proteins,2011,Nucleic Acids Research,100,10.1093/nar/gkq940,Switzerland,Article,Basel,1,Journal,2-s2.0-78651271270
+Yang J.,,StarBase: A database for exploring microRNA-mRNA interaction maps from Argonaute CLIP-Seq and Degradome-Seq data,2011,Nucleic Acids Research,493,10.1093/nar/gkq1056,China,Article,Guangzhou,1,Journal,2-s2.0-78651307694
+Hsu S.,,MiRTarBase: A database curates experimentally validated microRNA-target interactions,2011,Nucleic Acids Research,722,10.1093/nar/gkq1107,Taiwan,Article,Hsinchu,1,Journal,2-s2.0-78651266827
+Kozomara A.,,MiRBase: Integrating microRNA annotation and deep-sequencing data,2011,Nucleic Acids Research,2620,10.1093/nar/gkq1027,United Kingdom,Article,Manchester,1,Journal,2-s2.0-78651293534
+Darnell R.,,HITS-CLIP: Panoramic views of protein-RNA regulation in living cells,2010,Wiley Interdisciplinary Reviews: RNA,244,10.1002/wrna.31,United States,Article,New York,0,Journal,2-s2.0-77953928753
+Betel D.,,Comprehensive modeling of microRNA targets predicts functional non-conserved and non-canonical sites,2010,Genome Biology,973,10.1186/gb-2010-11-8-r90,United States,Article,New York,1,Journal,2-s2.0-77955963884
+Poliseno L.,,A coding-independent function of gene and pseudogene mRNAs regulates tumour biology,2010,Nature,1537,10.1038/nature09144,United States;United States,Article,New York;Boston,0,Journal,2-s2.0-77953957633
+Gupta R.A.,,Long non-coding RNA HOTAIR reprograms chromatin state to promote cancer metastasis,2010,Nature,3412,10.1038/nature08975,United States,Article,Chevy Chase,0,Journal,2-s2.0-77951118936
+Quinlan A.R.,,BEDTools: A flexible suite of utilities for comparing genomic features,2010,Bioinformatics,7003,10.1093/bioinformatics/btq033,United States,Article,Charlottesville,1,Journal,2-s2.0-77951770756
+Khalil A.,,Many human large intergenic noncoding RNAs associate with chromatin-modifying complexes and affect gene expression,2009,Proceedings of the National Academy of Sciences of the United States of America,2024,10.1073/pnas.0904715106,United States;United States,Article,Cambridge;Boston,1,Journal,2-s2.0-67650921949
+Kuhn R.,,The UCSC Genome Browser Database: Update 2009,2009,Nucleic Acids Research,287,10.1093/nar/gkn875,United States,Article,Santa Cruz,1,Journal,2-s2.0-58149178565
+Hubbard T.J.P.,,Ensembl 2009,2009,Nucleic Acids Research,647,10.1093/nar/gkn828,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-58149185123
+Matthews L.,,Reactome knowledgebase of human biological pathways and processes,2009,Nucleic Acids Research,633,10.1093/nar/gkn863,United States,Article,Cold Spring Harbor,1,Journal,2-s2.0-58149177166
+Kertesz M.,,The role of site accessibility in microRNA target recognition,2007,Nature Genetics,1631,10.1038/ng2135,Israel,Article,Rehovot,0,Journal,2-s2.0-34748821761
+Franco-Zorrilla J.,,Target mimicry provides a new mechanism for regulation of microRNA activity,2007,Nature Genetics,1124,10.1038/ng2079,Spain,Article,Madrid,0,Journal,2-s2.0-34547497309
+Grimson A.,,MicroRNA Targeting Specificity in Mammals: Determinants beyond Seed Pairing,2007,Molecular Cell,2720,10.1016/j.molcel.2007.06.017,United States;United States,Article,Cambridge;Cambridge,1,Journal,2-s2.0-34250805982
+Miranda K.C.,,A Pattern-Based Method for the Identification of MicroRNA Binding Sites and Their Corresponding Heteroduplexes,2006,Cell,1312,10.1016/j.cell.2006.07.031,United States,Article,Yorktown Heights,1,Journal,2-s2.0-33748587841
+Mi H.,,"The PANTHER database of protein families, subfamilies, functions and pathways",2005,Nucleic Acids Research,568,10.1093/nar/gki078,United States,Article,Foster City,1,Journal,2-s2.0-13444312083
+Ashburner M.,,Gene ontology: Tool for the unification of biology,2000,Nature Genetics,21253,10.1038/75556,,Review,,0,Journal,2-s2.0-0034069495

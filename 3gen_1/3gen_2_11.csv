@@ -1,0 +1,13 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Faisal F.,,Global network alignment in the context of aging,2015,IEEE/ACM Transactions on Computational Biology and Bioinformatics,24,10.1109/TCBB.2014.2326862,United States,Article,Notre Dame,0,Journal,2-s2.0-84923171632
+Saraph V.,,MAGNA: Maximizing Accuracy in Global Network Alignment,2014,"Bioinformatics (Oxford, England)",93,10.1093/bioinformatics/btu409,United States,Article,Notre Dame,1,Journal,2-s2.0-84921734389
+Clark C.,,A comparison of algorithms for the pairwise alignment of biological networks,2014,Bioinformatics,73,10.1093/bioinformatics/btu307,United States,Article,Colorado Springs,1,Journal,2-s2.0-84906243482
+Neyshabur B.,,NETAL: A new graph-based method for global alignment of protein-protein interaction networks,2013,Bioinformatics,105,10.1093/bioinformatics/btt202,Iran,Conference Paper,Tehran,1,Journal,2-s2.0-84879967643
+Patro R.,,Global network alignment using multiscale spectral signatures,2012,Bioinformatics,112,10.1093/bioinformatics/bts592,United States,Article,College Park,1,Journal,2-s2.0-84870396392
+Kuchaiev O.,,Integrative network alignment reveals large regions of global network similarity in yeast and human,2011,Bioinformatics,162,10.1093/bioinformatics/btr127,United States,Article,Irvine,0,Journal,2-s2.0-79955751671
+Kuchaiev O.,,Topological network alignment uncovers biological function and phylogeny,2010,Journal of the Royal Society Interface,203,10.1098/rsif.2010.0063,United States,Article,Irvine,1,Journal,2-s2.0-77956576710
+Milenković T.,,Optimal network alignment with graphlet degree vectors,2010,Cancer Informatics,116,10.4137/cin.s4744,United Kingdom,Article,London,1,Journal,2-s2.0-77955499935
+Liao C.,,IsoRankN: Spectral methods for global alignment of multiple protein networks,2009,Bioinformatics,238,10.1093/bioinformatics/btp203,Taiwan;United States;Taiwan,Conference Paper,Taipei;Cambridge;Taipei,1,Journal,2-s2.0-66349108229
+Milenković T.,,Uncovering biological network function via graphlet degree signatures,2008,Cancer Informatics,200,10.4137/cin.s680,United States,Article,Irvine,1,Journal,2-s2.0-49649109285
+Singh R.,,Pairwise global alignment of protein interaction networks by matching neighborhood topology,2007,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),180,10.1007/978-3-540-71681-5_2,United States,Conference Paper,Cambridge,0,Book Series,2-s2.0-34547416529
+Sharan R.,,Modeling cellular machinery through biological network comparison,2006,Nature Biotechnology,399,10.1038/nbt1196,Israel,Review,Tel Aviv-Yafo,0,Journal,2-s2.0-33645732240

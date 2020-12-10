@@ -1,0 +1,35 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Bergmann S.,,Similarities and differences in genome-wide expression data of six organisms,2004,PLoS Biology,269,10.1371/journal.pbio.0020009,Israel,Article,Rehovot,1,Journal,2-s2.0-19344374050
+Yu H.,,Annotation transfer between genomes: Protein-protein interrologs and protein-DNA regulogs,2004,Genome Research,385,10.1101/gr.1774904,United States,Article,New Haven,1,Journal,2-s2.0-3042569597
+Li S.,,A Map of the Interactome Network of the Metazoan C. elegans,2004,Science,1334,10.1126/science.1091403,United States,Article,Boston,0,Journal,2-s2.0-9144264169
+Sharan R.,,Identification of protein complexes by comparative analysis of yeast and bacterial protein interaction data,2004,"Proceedings of the Annual International Conference on Computational Molecular Biology, RECOMB",38,10.1145/974614.974652,United States,Conference Paper,Berkeley,0,Conference Proceeding,2-s2.0-2442534964
+Harris T.W.,,WormBase: A multi-species resource for nematode biology and genomics,2004,Nucleic Acids Research,135,,United States,Article,Cold Spring Harbor,0,Journal,2-s2.0-0346494826
+Christie K.,,Saccharomyces Genome Database (SGD) provides tools to identify and analyze sequences from Saccharomyces cerevisiae and related sequences from other organisms,2004,Nucleic Acids Research,205,,United States,Article,Stanford,0,Journal,2-s2.0-9144256665
+Bader J.,,Gaining confidence in high-throughput protein interaction networks,2004,Nature Biotechnology,368,10.1038/nbt924,United States,Article,Baltimore,0,Journal,2-s2.0-0347473809
+Mewes H.,,MIPS: Analysis and annotation of proteins from whole genomes,2004,Nucleic Acids Research,451,,Germany;Germany,Article,Neuherberg;Munich,0,Journal,2-s2.0-9144242935
+Giot L.,,A Protein Interaction Map of Drosophila melanogaster,2003,Science,1781,10.1126/science.1090289,United States,Article,Branford,0,Journal,2-s2.0-0345600247
+Shannon P.,,Cytoscape: A software Environment for integrated models of biomolecular interaction networks,2003,Genome Research,14368,10.1101/gr.1239303,United States,Article,Seattle,1,Journal,2-s2.0-0242490780
+Samanta M.,,Predicting protein functions from redundancies in large-scale protein interaction networks,2003,Proceedings of the National Academy of Sciences of the United States of America,237,10.1073/pnas.2132527100,United States,Article,Moffett Field,1,Journal,2-s2.0-0242268461
+Stuart J.,,A gene-coexpression network for global discovery of conserved genetic modules,2003,Science,1415,10.1126/science.1087447,United States;United States,Article,Stanford;Santa Cruz,0,Journal,2-s2.0-0141993704
+Kelley B.,,Conserved pathways within bacteria and yeast as revealed by global protein network alignment,2003,Proceedings of the National Academy of Sciences of the United States of America,401,10.1073/pnas.1534710100,United States,Article,Cambridge,1,Journal,2-s2.0-0141593601
+Aebersold R.,,Mass spectrometry-based proteomics,2003,Nature,5068,10.1038/nature01511,United States,Review,Seattle,0,Journal,2-s2.0-0037435030
+Gautier-Bert K.,,Substrate affinity and substrate specificity of proteasomes with RNase activity,2003,Molecular Biology Reports,24,10.1023/A:1022261925117,France,Article,Clermont-Ferrand,0,Journal,2-s2.0-0037338066
+Gelbart W.M.,,The FlyBase database of the Drosophila genome projects and community literature,2003,Nucleic Acids Research,361,10.1093/nar/gkg094,United States,Review,Cambridge,1,Journal,2-s2.0-0037249406
+Xie H.,,Large-scale protein annotation through gene ontology,2002,Genome Research,101,10.1101/gr.86902,Israel,Article,Tel Aviv-Yafo,1,Journal,2-s2.0-0036100170
+von Mering C.,,Comparative assessment of large-scale data sets of protein-protein interactions,2002,Nature,1785,10.1038/nature750,Germany,Article,Heidelberg,0,Journal,2-s2.0-0037161731
+Enard W.,,Intra- and interspecific variation in primate gene expression patterns,2002,Science,645,10.1126/science.1068996,Germany,Article,Leipzig,0,Journal,2-s2.0-0037066542
+Xenarios I.,,"DIP, the Database of Interacting Proteins: A research tool for studying cellular networks of protein interactions",2002,Nucleic Acids Research,1270,10.1093/nar/30.1.303,United States,Article,Los Angeles,1,Journal,2-s2.0-0036088133
+Ho Y.,,Systematic identification of protein complexes in Saccharomyces cerevisiae by mass spectrometry,2002,Nature,2837,10.1038/415180a,Canada,Letter,Toronto,0,Journal,2-s2.0-0037050004
+Gavin A.C.,,Functional organization of the yeast proteome by systematic analysis of protein complexes,2002,Nature,3691,10.1038/415141a,United Kingdom,Article,Brentford,0,Journal,2-s2.0-0037050026
+Matthews L.R.,,"Identification of potential interaction networks using sequence-based searches for conserved protein-protein interactions or ""interologs""",2001,Genome Research,340,10.1101/gr.205301,United States;United States,Article,Beverly;Boston,1,Journal,2-s2.0-0035211290
+Spira M.,,"Calcium, protease activation, and cytoskeleton remodeling underlie growth cone formation and neuronal regeneration",2001,Cellular and Molecular Neurobiology,67,10.1023/A:1015135617557,Israel,Review,Jerusalem,0,Journal,2-s2.0-0035568345
+Ito T.,,A comprehensive two-hybrid analysis to explore the yeast protein interactome,2001,Proceedings of the National Academy of Sciences of the United States of America,2800,10.1073/pnas.061034498,Japan,Article,Kanazawa,1,Journal,2-s2.0-0035836765
+Rain J.,,The protein-protein interaction map of Helicobacter pylori,2001,Nature,859,10.1038/35051615,France,Article,Paris,0,Journal,2-s2.0-0035843145
+Forst C.,,Phylogenetic analysis of metabolic pathways,2001,Journal of Molecular Evolution,75,10.1007/s002390010178,United States,Article,Urbana,0,Journal,2-s2.0-0034991456
+Yu T.,,Dynamic regulation of axon guidance,2001,Nature Neuroscience,279,10.1038/nn748,United States,Article,San Francisco,0,Journal,2-s2.0-0035514195
+Ogata H.,,A heuristic graph comparison algorithm and its application to detect functionally related enzyme clusters,2000,Nucleic Acids Research,156,10.1093/nar/28.20.4021,Japan;France,Article,Kyoto;Marseille,0,Journal,2-s2.0-0034667776
+Uetz P.,,A comprehensive analysis of protein-protein interactions in Saccharomyces cerevisiae,2000,Nature,3756,10.1038/35001009,United States,Article,Seattle,0,Journal,2-s2.0-0034628508
+Dandekar T.,,Pathway alignment: Application to the comparative analysis of glycolytic enzymes,1999,Biochemical Journal,201,10.1042/0264-6021:3430115,Germany;Germany,Article,Berlin;Heidelberg,0,Journal,2-s2.0-0033215210
+Altschul S.,,Gapped BLAST and PSI-BLAST: A new generation of protein database search programs,1997,Nucleic Acids Research,54811,10.1093/nar/25.17.3389,United States,Review,Bethesda,1,Journal,2-s2.0-0030801002
+Schmid H.P.,,Relationships between proteasomes and RNA,1995,Molecular Biology Reports,16,10.1007/BF00990969,France,Article,Clermont-Ferrand,0,Journal,2-s2.0-0029199168
+Fields S.,,A novel genetic system to detect protein-protein interactions,1989,Nature,4607,10.1038/340245a0,United States,Article,Stony Brook,0,Journal,2-s2.0-0024406857

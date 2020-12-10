@@ -1,0 +1,43 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Peng B.,,An Iterative Coordinate Descent Algorithm for High-Dimensional Nonconvex Penalized Quantile Regression,2015,Journal of Computational and Graphical Statistics,23,10.1080/10618600.2014.913516,United States,Article,Minneapolis,0,Journal,2-s2.0-84941776513
+Shi X.,,A penalized robust method for identifying gene-environment interactions,2014,Genetic Epidemiology,13,10.1002/gepi.21795,China;United States,Article,Shanghai;New Haven,0,Journal,2-s2.0-84895920054
+Jiang L.,,Interquantile shrinkage and variable selection in quantile regression,2014,Computational Statistics and Data Analysis,18,10.1016/j.csda.2013.08.006,United States,Article,Raleigh,0,Journal,2-s2.0-84883715312
+Fan J.,,Adaptive robust variable selection,2014,Annals of Statistics,69,10.1214/13-AOS1191,United States,Article,Princeton,1,Journal,2-s2.0-84987950402
+Wang X.,,Robust variable selection with exponential squared loss,2013,Journal of the American Statistical Association,62,10.1080/01621459.2013.766613,China;China,Article,Guangzhou;Guangzhou,0,Journal,2-s2.0-84883313972
+Chung M.,,A tutorial on rank-based coefficient estimation for censored data in small- and large-scale problems,2013,Statistics and Computing,13,10.1007/s11222-012-9333-9,United States,Article,Blacksburg,0,Journal,2-s2.0-84881235959
+Wang L.,,The <inf>L1</inf> penalized LAD estimator for high dimensional linear regression,2013,Journal of Multivariate Analysis,59,10.1016/j.jmva.2013.04.001,United States,Article,Cambridge,1,Journal,2-s2.0-84879165356
+Yao W.,,Robust variable selection through MAVE,2013,Computational Statistics and Data Analysis,15,10.1016/j.csda.2013.01.021,United States,Article,Manhattan,0,Journal,2-s2.0-84876013845
+Wang H.J.,,Variable selection for censored quantile regresion,2013,Statistica Sinica,29,10.5705/ss.2011.100,United States,Article,Raleigh,1,Journal,2-s2.0-84883721624
+Lu W.,,On the robustness of the adaptive lasso to model misspecification,2012,Biometrika,11,10.1093/biomet/ass027,United States,Article,Raleigh,0,Journal,2-s2.0-84865455033
+Wang L.,,Quantile regression for analyzing heterogeneity in ultra-high dimension,2012,Journal of the American Statistical Association,98,10.1080/01621459.2012.656014,United States,Article,Minneapolis,0,Journal,2-s2.0-84862902634
+Lambert-Lacroix S.,,Robust regression through the Huber's criterion and adaptive lasso penalty,2011,Electronic Journal of Statistics,58,10.1214/11-EJS635,France,Article,Saint Martin d'Heres,1,Journal,2-s2.0-84859863552
+Bradic J.,,Penalized composite quasi-likelihood for ultrahigh dimensional variable selection,2011,Journal of the Royal Statistical Society. Series B: Statistical Methodology,87,10.1111/j.1467-9868.2010.00764.x,United States,Article,Princeton,0,Journal,2-s2.0-79955022769
+Belloni A.,,Ell;<inf>1</inf>-penalized ruantile regression in high-himensional sparse models,2011,Annals of Statistics,184,10.1214/10-AOS827,United States,Article,Durham,1,Journal,2-s2.0-79551613968
+Gao X.,,Asymptotic analysis of high-dimensional lad regression with lasso,2010,Statistica Sinica,22,,United States,Article,Rochester,0,Journal,2-s2.0-78349267906
+Gao X.,,A robust penalized method for the analysis of noisy DNA copy number data,2010,BMC Genomics,7,10.1186/1471-2164-11-517,United States,Article,Rochester,1,Journal,2-s2.0-77956929713
+Meinshausen N.,,Stability selection,2010,Journal of the Royal Statistical Society. Series B: Statistical Methodology,1084,10.1111/j.1467-9868.2010.00740.x,United Kingdom,Article,Oxford,1,Journal,2-s2.0-77958487535
+Städler N.,,ℓ <inf>1</inf>-penalization for mixture regression models,2010,Test,142,10.1007/s11749-010-0197-z,Switzerland,Article,"Zurich ZH,",0,Journal,2-s2.0-77955057877
+Xu J.,,Rank-based variable selection with censored data,2010,Statistics and Computing,17,10.1007/s11222-009-9126-y,Singapore,Article,Singapore City,0,Journal,2-s2.0-77953326454
+Zhang C.H.,,Nearly unbiased variable selection under minimax concave penalty,2010,Annals of Statistics,1304,10.1214/09-AOS729,United States,Article,New Brunswick,1,Journal,2-s2.0-77649284492
+Fan J.,,A selective overview of variable selection in high dimensional feature space,2010,Statistica Sinica,440,,United States,Review,Princeton,0,Journal,2-s2.0-77949352853
+O'Hara R.,,"A review of bayesian variable selection methods: What, how and which",2009,Bayesian Analysis,371,10.1214/09-BA403,Finland,Review,Helsinki,1,Journal,2-s2.0-69249230467
+Johnson B.,,Rank-based estimation in the ℓ1-regularized partly linear model for censored outcomes with application to integrated analyses of clinical predictors and gene expression data,2009,Biostatistics,14,10.1093/biostatistics/kxp020,United States,Article,Atlanta,1,Journal,2-s2.0-74349131495
+Wang L.,,Weighted wilcoxon-type smoothly clipped absolute deviation method,2009,Biometrics,41,10.1111/j.1541-0420.2008.01099.x,United States,Article,Minneapolis,0,Journal,2-s2.0-66949149744
+Cai T.,,Regularized estimation for the accelerated failure time model,2009,Biometrics,50,10.1111/j.1541-0420.2008.01074.x,United States,Article,Cambridge,0,Journal,2-s2.0-66949149020
+Wu Y.,,Variable selection in quantile regression,2009,Statistica Sinica,207,,United States,Article,Raleigh,0,Journal,2-s2.0-68149091660
+Fan J.,,HIGH-Dimensional classification using features annealed independence rules,2008,Annals of Statistics,267,10.1214/07-AOS504,United States,Article,Princeton,1,Journal,2-s2.0-53849089038
+Zou H.,,Regularized simultaneous model selection in multiple quantiles regression,2008,Computational Statistics and Data Analysis,42,10.1016/j.csda.2008.05.013,United States,Article,Minneapolis,0,Journal,2-s2.0-47749088574
+Zou H.,,Composite quantile regression and the oracle model selection theory,2008,Annals of Statistics,276,10.1214/07-AOS507,United States,Article,Minneapolis,1,Journal,2-s2.0-51049119407
+Johnson B.,,Rank-based variable selection,2008,Journal of Nonparametric Statistics,24,10.1080/10485250801998950,United States,Article,Atlanta,0,Journal,2-s2.0-45849125768
+Li Y.,,L<inf>1</inf>-norm quantile regression,2008,Journal of Computational and Graphical Statistics,139,10.1198/106186008X289155,United States,Article,Ann Arbor,0,Journal,2-s2.0-41949088050
+Tibshirani R.,,Spatial smoothing and hot spot detection for CGH data using the fused lasso,2008,Biostatistics,205,10.1093/biostatistics/kxm013,United States,Article,Palo Alto,1,Journal,2-s2.0-37249032736
+Khalili A.,,Variable selection in finite mixture of regression models,2007,Journal of the American Statistical Association,97,10.1198/016214507000000590,United States,Article,Columbus,0,Journal,2-s2.0-35348854001
+Wang H.,,Robust regression shrinkage and consistent variable selection through the LAD-lasso,2007,Journal of Business and Economic Statistics,224,10.1198/073500106000000251,China,Article,Beijing,0,Journal,2-s2.0-34547164089
+Zou H.,,The adaptive lasso and its oracle properties,2006,Journal of the American Statistical Association,3032,10.1198/016214506000000735,United States,Article,Minneapolis,0,Journal,2-s2.0-33846114377
+Scheetz T.E.,,Regulation of gene expression in the mammalian eye and its relevance to eye disease,2006,Proceedings of the National Academy of Sciences of the United States of America,125,10.1073/pnas.0602562103,United States,Article,Iowa City,1,Journal,2-s2.0-33749241695
+Belmont J.W.,,A haplotype map of the human genome,2005,Nature,4404,10.1038/nature04226,United States,Article,Houston,1,Journal,2-s2.0-79959524146
+Tibshirani R.,,Sparsity and smoothness via the fused lasso,2005,Journal of the Royal Statistical Society. Series B: Statistical Methodology,1263,10.1111/j.1467-9868.2005.00490.x,United States,Article,Palo Alto,0,Journal,2-s2.0-12844266177
+Koenker R.,,Quantile regression,2005,Quantile Regression,2977,10.1017/CBO9780511754098,United States,Book,Urbana,0,Book,2-s2.0-84925105967
+Segal M.,,Regression Approaches for Microarray Data Analysis,2003,Journal of Computational Biology,118,10.1089/106652703322756177,United States,Article,San Francisco,0,Journal,2-s2.0-0742321914
+Fan J.,,Variable selection via nonconcave penalized likelihood and its oracle properties,2001,Journal of the American Statistical Association,3858,10.1198/016214501753382273,United States;Hong Kong,Article,Los Angeles;Shatin,0,Journal,2-s2.0-1542784498
+Redfern C.H.,,Conditional expression of a G<inf>i</inf>-coupled receptor causes ventricular conduction delay and a lethal cardiomyopathy,2000,Proceedings of the National Academy of Sciences of the United States of America,132,10.1073/pnas.97.9.4826,United States,Article,San Francisco,1,Journal,2-s2.0-0034712586

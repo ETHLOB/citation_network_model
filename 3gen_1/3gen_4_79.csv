@@ -1,0 +1,21 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Chun H.,,Sparse partial least squares regression for simultaneous dimension reduction and variable selection,2010,Journal of the Royal Statistical Society. Series B: Statistical Methodology,421,10.1111/j.1467-9868.2009.00723.x,United States,Article,Madison,1,Journal,2-s2.0-74049093630
+Friedman J.,,Regularization paths for generalized linear models via coordinate descent,2010,Journal of Statistical Software,4969,10.18637/jss.v033.i01,United States,Article,Palo Alto,1,Journal,2-s2.0-77950537175
+Boulesteix A.L.,,Evaluating microarray-based classifiers: An overview,2008,Cancer Informatics,76,10.4137/cin.s408,Germany,Review,Munich,1,Journal,2-s2.0-48249114165
+Waaijenborg S.,,Quantifying the association between gene expressions and DNA-markers by penalized canonical correlation analysis,2008,Statistical Applications in Genetics and Molecular Biology,115,10.2202/1544-6115.1329,Netherlands,Article,Amsterdam,0,Journal,2-s2.0-38849098283
+Lê Cao K.A.,,A sparse PLS for variable selection when integrating omics data,2008,Statistical Applications in Genetics and Molecular Biology,251,10.2202/1544-6115.1390,France,Article,Toulouse,0,Journal,2-s2.0-57349164450
+Ding B.,,Classification using generalized partial least squares,2005,Journal of Computational and Graphical Statistics,51,10.1198/106186005X47697,United States,Article,Thousand Oaks,0,Journal,2-s2.0-20744452472
+Fort G.,,Classification using partial least squares with penalized logistic regression,2005,Bioinformatics,124,10.1093/bioinformatics/bti114,France,Article,Grenoble,1,Journal,2-s2.0-16344365619
+Dettling M.,,BagBoosting for tumor classification with gene expression data,2004,Bioinformatics,204,10.1093/bioinformatics/bth447,Switzerland,Article,"Zurich ZH,",1,Journal,2-s2.0-12344294601
+Barker M.,,Partial least squares for discrimination,2003,Journal of Chemometrics,1615,10.1002/cem.785,United States,Article,Cincinnati,0,Journal,2-s2.0-0037350844
+Heinze G.,,A solution to the problem of separation in logistic regression,2002,Statistics in Medicine,884,10.1002/sim.1047,Austria,Article,Vienna,0,Journal,2-s2.0-0037199788
+Tibshirani R.,,Diagnosis of multiple cancer types by shrunken centroids of gene expression,2002,Proceedings of the National Academy of Sciences of the United States of America,1974,10.1073/pnas.082099299,United States,Article,Palo Alto,1,Journal,2-s2.0-0037076272
+Bull S.B.,,A modified score function estimator for multinomial logistic regression in small samples,2002,Computational Statistics and Data Analysis,51,10.1016/s0167-9473(01)00048-2,Canada,Article,Toronto,0,Journal,2-s2.0-0037187858
+Dettling M.,,Supervised clustering of genes.,2002,Genome biology,87,,Switzerland,Article,"Zurich ZH,",0,Journal,2-s2.0-0037709918
+Nguyen D.,,Tumor classification by partial least squares using microarray gene expression data,2002,Bioinformatics,615,10.1093/bioinformatics/18.1.39,United States,Article,,1,Journal,2-s2.0-0036166439
+Singh D.,,Gene expression correlates of clinical prostate cancer behavior,2002,Cancer Cell,1822,10.1016/S1535-6108(02)00030-2,United States;United States,Article,Boston;Boston,1,Journal,2-s2.0-19044391072
+Alizadeh A.A.,,Distinct types of diffuse large B-cell lymphoma identified by gene expression profiling,2000,Nature,7183,10.1038/35000501,United States,Article,Stanford,0,Journal,2-s2.0-0034598746
+Marx B.,,Iteratively reweighted partial least squares estimation for generalized linear regression,1996,Technometrics,60,10.1080/00401706.1996.10484549,United States,Article,Baton Rouge,0,Journal,2-s2.0-0242718698
+Firth D.,,Bias reduction of maximum likelihood estimates,1993,Biometrika,1775,10.1093/biomet/80.1.27,United Kingdom,Article,Southampton,0,Journal,2-s2.0-0002178053
+Frank L.,,A statistical view of some chemometrics regression tools,1993,Technometrics,1360,10.1080/00401706.1993.10485033,United States,Article,Stanford,0,Journal,2-s2.0-84952149204
+Albert A.,,On the existence of maximum likelihood estimates in logistic regression models,1984,Biometrika,501,10.1093/biomet/71.1.1,Belgium,Article,Liege,0,Journal,2-s2.0-0002662712

@@ -1,0 +1,11 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Mukherjee I.,,A theory of multiclass boosting,2010,"Advances in Neural Information Processing Systems 23: 24th Annual Conference on Neural Information Processing Systems 2010, NIPS 2010",22,,United States,Conference Paper,Princeton,0,Conference Proceeding,2-s2.0-84860629961
+Masnadi-Shirazi H.,,On the design of robust classifiers for computer vision,2010,Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition,45,10.1109/CVPR.2010.5540136,United States,Conference Paper,San Diego,0,Conference Proceeding,2-s2.0-77955989058
+Mease D.,,Evidence contrary to the statistical view of boosting,2008,Journal of Machine Learning Research,91,,United States,Article,San Jose,0,Journal,2-s2.0-41549131613
+Guermeur Y.,,VC theory of large margin multi-category classifiers,2007,Journal of Machine Learning Research,39,,France,Article,Vandoeouvre-les-Nancy,0,Journal,2-s2.0-36949010307
+Eibl G.,,Multiclass boosting for weak classifiers,2005,Journal of Machine Learning Research,51,,Austria,Article,Innsbruck,0,Journal,2-s2.0-21844475408
+Allwein E.,,Reducing multiclass to binary: A unifying approach for margin classifiers,2001,Journal of Machine Learning Research,1163,,United States,Article,San Antonio,0,Journal,2-s2.0-24044435942
+Mason L.,,Boosting algorithms as gradient descent,2000,Advances in Neural Information Processing Systems,376,,Australia,Conference Paper,Canberra,0,Conference Proceeding,2-s2.0-84898978212
+Friedman J.,,Additive logistic regression: A statistical view of boosting,2000,Annals of Statistics,3790,10.1214/aos/1016218223,United States;United States,Review,Menlo Park;Palo Alto,1,Journal,2-s2.0-0034164230
+Schapire R.E.,,Improved boosting algorithms using confidence-rated predictions,1999,Machine Learning,2107,10.1023/A:1007614523901,United States,Article,Florham Park,1,Journal,2-s2.0-0033281701
+Freund Y.,,A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting,1997,Journal of Computer and System Sciences,7899,10.1006/jcss.1997.1504,United States,Article,Florham Park,1,Journal,2-s2.0-0031211090

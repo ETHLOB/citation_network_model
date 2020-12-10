@@ -1,0 +1,15 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Boyle E.,,GO::TermFinder - Open source software for accessing Gene Ontology information and finding significantly enriched Gene Ontology terms associated with a list of genes,2004,Bioinformatics,1176,10.1093/bioinformatics/bth456,United States,Article,Stanford,1,Journal,2-s2.0-12344269924
+Ruepp A.,,"The FunCat, a functional annotation scheme for systematic classification of proteins from whole genomes",2004,Nucleic Acids Research,867,10.1093/nar/gkh894,Germany,Article,Neuherberg,1,Journal,2-s2.0-9144257282
+Masseroli M.,,"GFINDer: Genome Function INtegrated Discoverer through dynamic annotation, statistical analysis, and mining",2004,Nucleic Acids Research,58,10.1093/nar/gkh432,Italy,Article,Milan,0,Journal,2-s2.0-3242880832
+Beißbarth T.,,GOstat: Find statistically overrepresented Gene Ontologies with a group of genes,2004,Bioinformatics,943,10.1093/bioinformatics/bth088,Australia,Article,Melbourne,1,Journal,2-s2.0-3142665525
+Al-Shahrour F.,,FatiGO: A web tool for finding significant associations of Gene Ontology terms with groups of genes,2004,Bioinformatics,825,10.1093/bioinformatics/btg455,Spain,Article,Madrid,1,Journal,2-s2.0-1542399989
+Zhang B.,,GOTree Machine (GOTM): A web-based platform for interpreting sets of interesting genes using Gene Ontology hierarchies,2004,BMC Bioinformatics,354,10.1186/1471-2105-5-16,United States,Article,Oak Ridge,1,Journal,2-s2.0-2942550697
+Berriz G.F.,,Characterizing gene sets with FuncAssociate,2003,Bioinformatics,346,10.1093/bioinformatics/btg363,United States,Article,Boston,1,Journal,2-s2.0-0347513219
+Shannon P.,,Cytoscape: A software Environment for integrated models of biomolecular interaction networks,2003,Genome Research,14465,10.1101/gr.1239303,United States,Article,Seattle,1,Journal,2-s2.0-0242490780
+Bader G.,,An automated method for finding molecular complexes in large protein interaction networks,2003,BMC Bioinformatics,2457,10.1186/1471-2105-4-2,Canada;Canada;United States,Article,Toronto;Toronto;New York,1,Journal,2-s2.0-2942552459
+Ge Y.,,Resampling-based multiple testing for microarray data analysis,2003,Test,342,10.1007/BF02595811,United States,Review,Berkeley,0,Journal,2-s2.0-0041530047
+Zeeberg B.,,GoMiner: a resource for biological interpretation of genomic and proteomic data.,2003,Genome biology,961,,United States,Article,Bethesda,0,Journal,2-s2.0-0038175144
+Hosack D.,,Identifying biological themes within lists of genes with EASE.,2003,Genome biology,1553,,United States,Article,Frederick,0,Journal,2-s2.0-0344319833
+Benjamini Y.,,The control of the false discovery rate in multiple testing under dependency,2001,Annals of Statistics,5341,10.1214/aos/1013699998,Israel,Article,Tel Aviv-Yafo,1,Journal,2-s2.0-0035733108
+Ashburner M.,,Gene ontology: Tool for the unification of biology,2000,Nature Genetics,21253,10.1038/75556,,Review,,0,Journal,2-s2.0-0034069495

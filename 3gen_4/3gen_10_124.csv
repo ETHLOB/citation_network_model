@@ -1,0 +1,14 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Vasilescu M.,,TensorTextures,2003,"ACM SIGGRAPH 2003 Sketches and Applications, SIGGRAPH 2003",3,10.1145/965400.965508,United States;Canada,Conference Paper,New York;Toronto,0,Conference Proceeding,2-s2.0-77954012877
+Vasilescu M.,,"Human motion signatures: Analysis, synthesis, recognition",2002,Proceedings - International Conference on Pattern Recognition,92,,Canada,Conference Paper,Toronto,0,Conference Proceeding,2-s2.0-33646058213
+Vasilescu M.,,Multilinear image analysis for facial recognition,2002,Proceedings - International Conference on Pattern Recognition,200,,Canada,Conference Paper,Toronto,0,Conference Proceeding,2-s2.0-33751582540
+Vasilescu M.A.O.,,Multilinear analysis of image ensembles: Tensorfaces,2002,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),500,10.1007/3-540-47969-4_30,Canada;United States,Conference Paper,Toronto;New York,0,Book Series,2-s2.0-84944415516
+Tenenbaum J.,,Separating style and content with bilinear models,2000,Neural Computation,519,10.1162/089976600300015349,United States;United States,Article,Cambridge;Palo Alto,0,Journal,2-s2.0-0034202338
+De Lathauwer L.,,"On the best rank-1 and rank-(R<inf>1</inf>, R<inf>2</inf>, . . . , R<inf>N</inf>) approximation of higher-order tensors",2000,SIAM Journal on Matrix Analysis and Applications,1003,10.1137/S0895479898346995,Belgium,Article,3000 Leuven,0,Journal,2-s2.0-0034144761
+Murase H.,,Visual learning and recognition of 3-d objects from appearance,1995,International Journal of Computer Vision,1359,10.1007/BF01421486,Japan,Article,Tokyo,0,Journal,2-s2.0-0029220876
+Chellappa R.,,Human and Machine Recognition of Faces: A Survey,1995,Proceedings of the IEEE,1845,10.1109/5.381842,United States,Article,College Park,0,Journal,2-s2.0-0029304865
+Teo P.,,Perceptual image distortion,1994,"Proceedings - International Conference on Image Processing, ICIP",220,10.1109/ICIP.1994.413502,United States,Conference Paper,Palo Alto,0,Conference Proceeding,2-s2.0-84997611075
+Turk M.,,Eigenfaces for recognition,1991,Journal of Cognitive Neuroscience,10223,10.1162/jocn.1991.3.1.71,United States,Article,Cambridge,0,Journal,2-s2.0-0026065565
+Kroonenberg P.,,Principal component analysis of three-mode data by means of alternating least squares algorithms,1980,Psychometrika,466,10.1007/BF02293599,Netherlands,Article,Leiden,0,Journal,2-s2.0-0002332422
+Sirovich L.,,Low-dimensional procedure for the characterization of human faces,1979,"Journal of the Optical Society of America A: Optics and Image Science, and Vision",1347,10.1364/JOSAA.4.000519,United States,Article,Providence,0,Journal,2-s2.0-84975551912
+Tucker L.R.,,Some mathematical notes on three-mode factor analysis,1966,Psychometrika,1920,10.1007/BF02289464,United States,Article,Urbana,0,Journal,2-s2.0-0013953617

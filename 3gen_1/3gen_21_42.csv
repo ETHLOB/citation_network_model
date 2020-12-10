@@ -1,0 +1,11 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Baraniuk R.G.,,Low-dimensional models for dimensionality reduction and signal recovery: A geometric perspective,2010,Proceedings of the IEEE,106,10.1109/JPROC.2009.2038076,United States,Review,Houston,0,Journal,2-s2.0-77952743002
+Zayyani H.,,Bayesian pursuit algorithm for sparse representation,2009,"ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings",35,10.1109/ICASSP.2009.4959892,Iran,Conference Paper,Tehran,0,Conference Proceeding,2-s2.0-70349203839
+Raphan M.,,Learning to be Bayesian without supervision,2007,Advances in Neural Information Processing Systems,35,,United States,Conference Paper,New York,0,Conference Proceeding,2-s2.0-57349139183
+Combettes P.,,Proximal thresholding algorithm for minimization over orthonormal bases,2007,SIAM Journal on Optimization,114,10.1137/060669498,France,Article,Paris,0,Journal,2-s2.0-34548677063
+Blu T.,,The SURE-LET approach to image denoising,2007,IEEE Transactions on Image Processing,257,10.1109/TIP.2007.906002,Switzerland,Article,Lausanne,0,Journal,2-s2.0-36348943666
+Nikolova M.,,Model distortions in bayesian map reconstruction,2007,Inverse Problems and Imaging,32,10.3934/ipi.2007.1.399,France,Article,Cachan,1,Journal,2-s2.0-37249040173
+Donoho D.,,Compressed sensing,2006,IEEE Transactions on Information Theory,18803,10.1109/TIT.2006.871582,United States,Article,Palo Alto,0,Journal,2-s2.0-33645712892
+Benazza-Benyahia A.,,Building robust wavelet estimators for multicomponent images using Stein's principle,2005,IEEE Transactions on Image Processing,76,10.1109/TIP.2005.857247,Tunisia,Article,Ariana,0,Journal,2-s2.0-27844477304
+Moulin P.,,Analysis of multiresolution image denoising schemes using generalized Gaussian and complexity priors,1999,IEEE Transactions on Information Theory,384,10.1109/18.761332,United States,Article,Urbana,0,Journal,2-s2.0-0032662774
+Donoho D.L.,,De-Noising by Soft-Thresholding,1995,IEEE Transactions on Information Theory,7325,10.1109/18.382009,United States;United States,Article,Berkeley;Palo Alto,0,Journal,2-s2.0-0029307534

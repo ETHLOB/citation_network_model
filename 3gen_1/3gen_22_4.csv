@@ -1,0 +1,26 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Giesen J.,,The scale axis transform,2009,Proceedings of the Annual Symposium on Computational Geometry,72,10.1145/1542362.1542388,Germany,Conference Paper,Jena,0,Conference Proceeding,2-s2.0-70849105935
+Stolpner S.,,Medial axis approximation with bounded error,2009,"6th International Symposium on Voronoi Diagrams in Science and Engineering, ISVD 2009",11,10.1109/ISVD.2009.24,Canada,Conference Paper,Montreal,0,Conference Proceeding,2-s2.0-77951475345
+Chaussard J.,,A discrete λ-medial axis,2009,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),20,10.1007/978-3-642-04397-0_36,France,Conference Paper,Marne-la-Vallee,1,Book Series,2-s2.0-77952595129
+Chen X.,,A benchmark for 3D mesh segmentation,2009,ACM Transactions on Graphics,479,10.1145/1531326.1531379,United States,Conference Paper,Princeton,0,Journal,2-s2.0-70349845698
+Attali D.,,Stability and computation of medial axes: A state-of-the-art report,2009,Mathematics and Visualization,87,10.1007/b106657_6,France,Conference Paper,Saint Martin d'Heres,0,Book Series,2-s2.0-84960357568
+Cornea N.,,"Curve-skeleton properties, applications, and algorithms",2007,IEEE Transactions on Visualization and Computer Graphics,365,10.1109/TVCG.2007.1002,United States,Conference Paper,New Brunswick,0,Journal,2-s2.0-33947592024
+Yoshizawa S.,,Skeleton-based variational mesh deformations,2007,Computer Graphics Forum,44,10.1111/j.1467-8659.2007.01047.x,Japan,Article,Wako,0,Journal,2-s2.0-35349011141
+Podolak J.,,A planar-reflective symmetry transform for 3D shapes,2006,"ACM SIGGRAPH 2006 Papers, SIGGRAPH '06",157,10.1145/1179352.1141923,United States,Conference Paper,Princeton,0,Conference Proceeding,2-s2.0-77954023268
+Sud A.,,Homotopy-preserving medial axis simplification,2005,"ACM Symposium on Solid Modeling and Applications, SM",41,10.1145/1060244.1060250,United States,Conference Paper,Chapel Hill,0,Conference Proceeding,2-s2.0-30944449055
+Boissonnat J.D.,,Provably good sampling and meshing of surfaces,2005,Graphical Models,219,10.1016/j.gmod.2005.01.004,France,Conference Paper,Sophia Antipolis,0,Journal,2-s2.0-24944582018
+Chazal F.,,"The ""λ-medial axis""",2005,Graphical Models,124,10.1016/j.gmod.2005.01.002,France,Article,Dijon,0,Journal,2-s2.0-18844412375
+Alliez P.,,Variational tetrahedral meshing,2005,ACM Transactions on Graphics,250,10.1145/1073204.1073238,France,Conference Paper,Le Chesnay,0,Conference Proceeding,2-s2.0-33646046216
+Dey T.,,Approximate medial axis as a Voronoi subcomplex,2004,CAD Computer Aided Design,79,10.1016/S0010-4485(03)00061-7,United States,Conference Paper,Columbus,0,Journal,2-s2.0-0242573449
+Culver T.,,Exact computation of the medial axis of a polyhedron,2004,Computer Aided Geometric Design,72,10.1016/j.cagd.2003.07.008,United States,Article,Sudbury,0,Journal,2-s2.0-0346896680
+Tam R.,,Shape Simplification Based on the Medial Axis Transform,2003,Proceedings of the IEEE Visualization Conference,42,10.1109/VISUAL.2003.1250410,Canada,Conference Paper,Vancouver,0,Conference Proceeding,2-s2.0-0242580881
+Styner M.,,Automatic and robust computation of 3D medial models incorporating object variability,2003,International Journal of Computer Vision,62,10.1023/A:1026378916288,United States,Article,Durham,0,Journal,2-s2.0-0242401911
+Pizer S.,,Multiscale medial loci and their properties,2003,International Journal of Computer Vision,98,10.1023/A:1026135101267,United States,Article,Chapel Hill,0,Journal,2-s2.0-0242569245
+Siddiqi K.,,Hamilton-Jacobi skeletons,2002,International Journal of Computer Vision,218,10.1023/A:1016376116653,Canada,Article,Montreal,0,Journal,2-s2.0-0036648615
+Amenta N.,,The medial axis of a union of balls,2001,Computational Geometry: Theory and Applications,41,10.1016/S0925-7721(01)00033-5,United States,Article,Austin,1,Journal,2-s2.0-0035479465
+Amenta N.,,"The power crust, unions of balls, and the medial axis transform",2001,Computational Geometry: Theory and Applications,363,10.1016/S0925-7721(01)00017-7,United States,Article,Austin,1,Journal,2-s2.0-0035391053
+Amenta N.,,Accurate and efficient unions of balls,2000,Proceedings of the Annual Symposium on Computational Geometry,25,10.1145/336154.336193,United States,Conference Paper,Austin,0,Conference Proceeding,2-s2.0-0033718217
+Amenta N.,,Surface reconstruction by Voronoi filtering,1998,Proceedings of the Annual Symposium on Computational Geometry,134,10.1145/276884.276889,United States,Conference Paper,Austin,0,Conference Proceeding,2-s2.0-0031632743
+Choi H.,,Mathematical theory of medial axis transform,1997,Pacific Journal of Mathematics,233,10.2140/pjm.1997.181.57,South Korea,Article,Seoul,1,Journal,2-s2.0-0002754556
+Attali D.,,Modeling noise for a better simplification of skeletons,1996,IEEE International Conference on Image Processing,46,,France,Conference Paper,La Tronche,0,Conference Proceeding,2-s2.0-0030398417
+Bruce J.,,Symmetry sets,1985,Proceedings of the Royal Society of Edinburgh: Section A Mathematics,79,10.1017/S0308210500026263,United Kingdom;United Kingdom,Article,Liverpool;Newcastle,0,Journal,2-s2.0-84974151651

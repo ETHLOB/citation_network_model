@@ -1,0 +1,15 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Delalleau O.,,Efficient non-parametric function induction in semi-supervised learning,2005,AISTATS 2005 - Proceedings of the 10th International Workshop on Artificial Intelligence and Statistics,131,,Canada,Conference Paper,Montreal,0,Conference Proceeding,2-s2.0-84862619225
+Bengio Y.,,Learning eigenfunctions links spectral embedding and kernel PCA,2004,Neural Computation,165,10.1162/0899766041732396,Canada,Article,Montreal,0,Journal,2-s2.0-4344599431
+Zhou D.,,Learning with local and global consistency,2004,Advances in Neural Information Processing Systems,1972,,Germany,Conference Paper,Tubingen,0,Conference Proceeding,2-s2.0-84899006908
+Zhu X.,,Semi-Supervised Learning Using Gaussian Fields and Harmonic Functions,2003,"Proceedings, Twentieth International Conference on Machine Learning",2480,,United States,Conference Paper,Pittsburgh,0,Conference Proceeding,2-s2.0-1942484430
+Belkin M.,,Using manifold structure for partially labelled classification,2003,Advances in Neural Information Processing Systems,106,,United States,Conference Paper,Chicago,0,Conference Proceeding,2-s2.0-84898946656
+Brand M.,,Charting a manifold,2003,Advances in Neural Information Processing Systems,198,,United States,Conference Paper,Cambridge,0,Conference Proceeding,2-s2.0-84898990205
+Schmitt M.,,Descartes' rule of signs for radial basis function neural networks,2002,Neural Computation,8,10.1162/089976602760805386,Germany,Article,Bochum,0,Journal,2-s2.0-0040081674
+Tenenbaum J.,,A global geometric framework for nonlinear dimensionality reduction,2000,Science,8778,10.1126/science.290.5500.2319,United States,Article,Palo Alto,0,Journal,2-s2.0-0034704229
+Roweis S.T.,,Nonlinear dimensionality reduction by locally linear embedding,2000,Science,10053,10.1126/science.290.5500.2323,United Kingdom,Article,London,0,Journal,2-s2.0-0034704222
+Weiss Y.,,Segmentation using eigenvectors: A unifying view,1999,Proceedings of the IEEE International Conference on Computer Vision,497,10.1109/iccv.1999.790354,United States,Conference Paper,Berkeley,0,Conference Proceeding,2-s2.0-0033285447
+Schölkopf B.,,Nonlinear Component Analysis as a Kernel Eigenvalue Problem,1998,Neural Computation,5439,10.1162/089976698300017467,Germany,Article,Tubingen,0,Journal,2-s2.0-0347243182
+Cortes C.,,Support-Vector Networks,1995,Machine Learning,25951,10.1023/A:1022627411411,United States,Article,Murray,1,Journal,2-s2.0-34249753618
+Boser B.,,Training algorithm for optimal margin classifiers,1992,Proceedings of the Fifth Annual ACM Workshop on Computational Learning Theory,6217,,United States,Conference Paper,Berkeley,0,Conference Proceeding,2-s2.0-0026966646
+Micchelli C.,,Interpolation of scattered data: Distance matrices and conditionally positive definite functions,1986,Constructive Approximation,991,10.1007/BF01893414,United States,Article,Yorktown Heights,0,Journal,2-s2.0-34250122797

@@ -1,0 +1,17 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Vannelli A.,,A Gomory-Hu Cut Tree Representation of a Netlist Partitioning Problem,1990,IEEE Transactions on Circuits and Systems,13,10.1109/31.57601,Canada,Article,Waterloo,0,Journal,2-s2.0-0025484904
+Adler I.,,An implementation of Karmarkar's algorithm for linear programming,1989,Mathematical Programming,203,10.1007/BF01587095,United States,Article,Berkeley,0,Journal,2-s2.0-0000110392
+Sanchis L.,,Multiple-Way Network Partitioning,1989,IEEE Transactions on Computers,194,10.1109/12.8730,United States,Article,Rochester,0,Journal,2-s2.0-0024481167
+Gilbert J.,,A parallel graph partitioning algorithm for a message-passing multiprocessor,1987,International Journal of Parallel Programming,44,10.1007/BF01388998,United States,Article,Ithaca,0,Journal,2-s2.0-0023458194
+Vakharia A.,,Methods of cell formation in group technology: A framework for evaluation,1986,Journal of Operations Management,50,10.1016/0272-6963(86)90002-1,United States,Article,Tucson,0,Journal,2-s2.0-0009353453
+V Annelli A.,,A method for finding minimal bottle neck cells for groupingpart machine families,1986,International Journal of Production Research,151,10.1080/00207548608919736,Canada,Article,Toronto,0,Journal,2-s2.0-0022680797
+Blanks J.P.,,NEAR-OPTIMAL PLACEMENT USING A QUADRATIC OBJECTIVE FUNCTION.,1985,Proceedings - Design Automation Conference,32,10.1109/dac.1985.1586006,United States,Conference Paper,Austin,0,Conference Proceeding,2-s2.0-0022246531
+Karmarkar N.,,A new polynomial-time algorithm for linear programming,1984,Combinatorica,2397,10.1007/BF02579150,United States,Article,Murray,0,Journal,2-s2.0-51249181779
+Fiduccia C.,,A linear-time heuristic for improving network partitions,1982,Proceedings - Design Automation Conference,1322,10.1109/DAC.1982.1585498,United States,Conference Paper,Niskayuna,0,Conference Proceeding,2-s2.0-85046457769
+Cullum J.,,MINIMIZATION OF CERTAIN NONDIFFERENTIABLE SUMS OF EIGENVALUES OF SYMMETRIC MATRICES.,Dec,Math Program Study,71,10.1007/bfb0120698,,Article,,0,Journal,2-s2.0-0016624432
+Donath W.,,LOWER BOUNDS FOR THE PARTITIONING OF GRAPHS.,Sep,IBM Journal of Research and Development,382,10.1147/rd.175.0420,,Article,,0,Journal,2-s2.0-0015661138
+Russo R.,,A Heuristic Procedure For the Partitioning and Mapping of Computer Logic Graphs,1971,IEEE Transactions on Computers,27,10.1109/T-C.1971.223157,United States,Article,Yorktown Heights,0,Journal,2-s2.0-0015206259
+Denning P.,,Virtual Memory,1970,ACM Computing Surveys (CSUR),342,10.1145/356571.356573,United States,Article,Princeton,0,Journal,2-s2.0-84976746765
+HALL KM ,,AN R-DIMENSIONAL QUADRATIC PLACEMENT ALGORITHM,Nov,Management Science,302,10.1287/mnsc.17.3.219,,Article,,0,Journal,2-s2.0-0014869120
+Kernighan B.,,An Efficient Heuristic Procedure for Partitioning Graphs,1970,Bell System Technical Journal,3148,10.1002/j.1538-7305.1970.tb01770.x,,Article,,0,Journal,2-s2.0-84990479742
+Comeau L.,,A study of the effect of user program optimization in a paging system,1967,"Proceedings of the 1st ACM Symposium on Operating Systems Principles, SOSP 1967",15,10.1145/800001.811667,United States,Conference Paper,Armonk,0,Conference Proceeding,2-s2.0-84882435017

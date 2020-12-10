@@ -1,0 +1,9 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Bengio Y.,,"Out-of-sample extensions for LLE, Isomap, MDS, Eigenmaps, and spectral clustering",2004,Advances in Neural Information Processing Systems,454,,Canada,Conference Paper,Montreal,0,Conference Proceeding,2-s2.0-33947233031
+Belkin M.,,Laplacian eigenmaps for dimensionality reduction and data representation,2003,Neural Computation,4760,10.1162/089976603321780317,United States,Article,Chicago,0,Journal,2-s2.0-0042378381
+Williams C.,,On a connection between kernel PCA and metric multidimensional scaling,2001,Advances in Neural Information Processing Systems,39,,United Kingdom,Conference Paper,Edinburgh,0,Conference Proceeding,2-s2.0-84898939890
+Tenenbaum J.,,A global geometric framework for nonlinear dimensionality reduction,2000,Science,8778,10.1126/science.290.5500.2319,United States,Article,Palo Alto,0,Journal,2-s2.0-0034704229
+Roweis S.T.,,Nonlinear dimensionality reduction by locally linear embedding,2000,Science,10053,10.1126/science.290.5500.2323,United Kingdom,Article,London,0,Journal,2-s2.0-0034704222
+Chung F.,,Discrete Green's functions,2000,Journal of Combinatorial Theory. Series A,131,10.1006/jcta.2000.3094,United States,Article,San Diego,1,Journal,2-s2.0-0034215984
+Weiss Y.,,Segmentation using eigenvectors: A unifying view,1999,Proceedings of the IEEE International Conference on Computer Vision,497,10.1109/iccv.1999.790354,United States,Conference Paper,Berkeley,0,Conference Proceeding,2-s2.0-0033285447
+Schölkopf B.,,Nonlinear Component Analysis as a Kernel Eigenvalue Problem,1998,Neural Computation,5439,10.1162/089976698300017467,Germany,Article,Tubingen,0,Journal,2-s2.0-0347243182

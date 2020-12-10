@@ -1,0 +1,5 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Amenta N.,,Accurate and efficient unions of balls,2000,Proceedings of the Annual Symposium on Computational Geometry,25,10.1145/336154.336193,United States,Conference Paper,Austin,0,Conference Proceeding,2-s2.0-0033718217
+Bronnimann H.,,Interval arithmetic yields efficient dynamic filters for computational geometry,1998,Proceedings of the Annual Symposium on Computational Geometry,24,10.1145/276884.276903,France,Conference Paper,Sophia Antipolis,0,Conference Proceeding,2-s2.0-0031638224
+Attali D.,,Computing and Simplifying 2D and 3D Continuous Skeletons,1997,Computer Vision and Image Understanding,166,10.1006/cviu.1997.0536,France,Article,La Tronche,0,Journal,2-s2.0-0031233471
+Edelsbrunner H.,,The union of balls and its dual shape,1995,Discrete &amp; Computational Geometry,206,10.1007/BF02574053,United States,Article,Urbana,1,Journal,2-s2.0-51249162203

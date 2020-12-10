@@ -1,0 +1,6 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Kitagawa G.,,An algorithm for solving the matrix equation x = fxf<sup>t</sup> + s,1977,International Journal of Control,37,10.1080/00207177708922266,Japan,Article,Tokyo,0,Journal,2-s2.0-0017494885
+Bélanger P.,,Computational Experience with the Solution of the Matrix Lyapunov Equation,1976,IEEE Transactions on Automatic Control,16,10.1109/TAC.1976.1101319,Canada,Letter,Montreal,0,Journal,2-s2.0-84939018829
+Bartels R.,,Solution of the Matrix Equation AX + XB = C [F4],1972,Communications of the ACM,1145,10.1145/361573.361582,United States,Article,Austin,0,Journal,2-s2.0-84976855597
+Hagander P.,,Numerical solution of A<sup>T</sup>S + SA + Q = 0,1972,Information Sciences,13,10.1016/0020-0255(72)90003-5,Sweden,Article,Lund,0,Journal,2-s2.0-30244432351
+Rothschild U.,,Comparison of four numerical algorithms for solving the liapunov matrix equation,1970,International Journal of Control,31,10.1080/00207177008905898,United States,Article,Los Angeles,0,Journal,2-s2.0-0014742510

@@ -1,0 +1,27 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Schneider C.,,Mitigation of malicious attacks on networks,2011,Proceedings of the National Academy of Sciences of the United States of America,454,10.1073/pnas.1009440108,Switzerland,Article,"Zurich ZH,",1,Journal,2-s2.0-79952751568
+Buldyrev S.V.,,Interdependent networks with identical degrees of mutually dependent nodes,2011,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",181,10.1103/PhysRevE.83.016112,United States,Article,New York,0,Journal,2-s2.0-79951699459
+Parshani R.,,Critical effect of dependency groups on the function of networks,2011,Proceedings of the National Academy of Sciences of the United States of America,205,10.1073/pnas.1008404108,Israel,Article,Ramat Gan,1,Journal,2-s2.0-79551638843
+Herrmann H.,,Onion-like network topology enhances robustness against malicious attacks,2011,Journal of Statistical Mechanics: Theory and Experiment,102,10.1088/1742-5468/2011/01/P01027,Switzerland;Brazil,Article,"Zurich ZH,;Fortaleza",0,Journal,2-s2.0-79751470668
+Newman M.,,Networks: An Introduction,2010,Networks: An Introduction,6212,10.1093/acprof:oso/9780199206650.001.0001,United States,Book,Ann Arbor,0,Book,2-s2.0-77954826067
+Parshani R.,,Interdependent networks: Reducing the coupling strength leads to a change from a first to second order percolation transition,2010,Physical Review Letters,506,10.1103/PhysRevLett.105.048701,Israel,Article,Ramat Gan,0,Journal,2-s2.0-77954948123
+Vespignani A.,,Complex networks: The fragility of interdependency,2010,Nature,346,10.1038/464984a,United States,Short Survey,Bloomington,0,Journal,2-s2.0-77951142879
+Buldyrev S.,,Catastrophic cascade of failures in interdependent networks,2010,Nature,2341,10.1038/nature08932,United States;United States,Article,New York;Boston,0,Journal,2-s2.0-77951126500
+Castellano C.,,Statistical physics of social dynamics,2009,Reviews of Modern Physics,2176,10.1103/RevModPhys.81.591,Italy,Article,Rome,0,Journal,2-s2.0-65549108449
+Dorogovtsev S.,,Critical phenomena in complex networks,2008,Reviews of Modern Physics,1308,10.1103/RevModPhys.80.1275,Portugal;Russian Federation,Article,Aveiro;Saint Petersburg (ex Leningrad),0,Journal,2-s2.0-56549085272
+Barrat A.,,Dynamical processes on complex networks,2008,Dynamical Processes on Complex Networks,1582,10.1017/CBO9780511791383,France;France;Italy,Book,Saint-Aubin;Paris;,0,Book,2-s2.0-84924517160
+Holme P.,,Scale-free networks with a large- to hypersmall-world transition,2007,Physica A: Statistical Mechanics and its Applications,5,10.1016/j.physa.2006.11.024,United States,Article,Albuquerque,0,Journal,2-s2.0-33846214806
+Hoory S.,,Expander graphs and their applications,2006,Bulletin of the American Mathematical Society,794,10.1090/S0273-0979-06-01126-8,Israel,Article,Haifa,1,Journal,2-s2.0-33749002225
+Boccaletti S.,,Complex networks: Structure and dynamics,2006,Physics Reports,6606,10.1016/j.physrep.2005.10.009,Italy,Review,Sesto Fiorentino,0,Journal,2-s2.0-31344474880
+Holme P.,,Efficient local strategies for vaccination and network attack,2004,Europhysics Letters,101,10.1209/epl/i2004-10286-2,Sweden;United States,Article,Umea;Ann Arbor,0,Journal,2-s2.0-10944269222
+Newman M.E.J.,,Mixing patterns in networks,2003,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",1528,,United States;United States,Article,Santa Fe;Ann Arbor,0,Journal,2-s2.0-0038752085
+Fabrikant A.,,Heuristically optimized trade-offs: A new paradigm for power laws in the Internet,2002,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),164,,United States,Conference Paper,Berkeley,0,Book Series,2-s2.0-84869169288
+Holme P.,,Attack vulnerability of complex networks,2002,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",1090,10.1103/PhysRevE.65.056109,Sweden,Article,Umea,0,Journal,2-s2.0-41349120887
+Newman M.,,Assortative Mixing in Networks,2002,Physical Review Letters,3012,10.1103/PhysRevLett.89.208701,United States,Article,Ann Arbor,0,Journal,2-s2.0-18744389789
+Newman M.E.J.,,Random graphs with arbitrary degree distributions and their applications,2001,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",2213,,United States;United States,Article,Santa Fe;Ithaca,0,Journal,2-s2.0-0035420732
+Cohen R.,,Breakdown of the internet under intentional attack,2001,Physical Review Letters,1004,10.1103/PhysRevLett.86.3682,Israel,Article,Ramat Gan,0,Journal,2-s2.0-0035896667
+Callaway D.,,Network robustness and fragility: percolation on random graphs,2000,Physical Review Letters,1632,10.1103/PhysRevLett.85.5468,United States,Article,Ithaca,0,Journal,2-s2.0-4243939794
+Cohen R.,,Resilience of the Internet to random breakdowns,2000,Physical Review Letters,1644,10.1103/PhysRevLett.85.4626,Israel,Article,Ramat Gan,0,Journal,2-s2.0-0034323311
+Albert R.,,Error and attack tolerance of complex networks,2000,Nature,5597,10.1038/35019019,United States,Article,Notre Dame,0,Journal,2-s2.0-0034721164
+Broder A.,,Graph structure in the Web,2000,Computer Networks,1699,10.1016/S1389-1286(00)00083-9,United States,Article,San Mateo,0,Journal,2-s2.0-0033721503
+Molloy M.,,A critical point for random graphs with a given degree sequence,1995,Random Structures &amp; Algorithms,1427,10.1002/rsa.3240060204,United States,Article,Pittsburgh,0,Journal,2-s2.0-84990671447

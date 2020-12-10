@@ -1,0 +1,15 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Kukich K.,,Techniques for Automatically Correcting Words in Text,1992,ACM Computing Surveys (CSUR),682,10.1145/146370.146380,United States,Article,Piscataway,0,Journal,2-s2.0-0026979939
+Aurenhammer F.,,Voronoi diagrams—a survey of a fundamental geometric data structure,1991,ACM Computing Surveys (CSUR),2701,10.1145/116873.116880,Austria,Article,Graz,0,Journal,2-s2.0-84976826673
+Wallace G.,,The JPEG Still Picture Compression Standard,1991,Communications of the ACM,2093,10.1145/103085.103089,United States,Article,Palo Alto,0,Journal,2-s2.0-0026142897
+Samet H.,,The design and analysis of spatial data structures,1990,The design and analysis of spatial data structures,1612,,,Article,,0,Book,2-s2.0-85040889046
+Altschul S.,,Basic local alignment search tool,1990,Journal of Molecular Biology,60311,10.1016/S0022-2836(05)80360-2,United States,Article,Bethesda,0,Journal,2-s2.0-0025183708
+Orenstein J.,,PROBE Spatial Data Modeling and Query Processing in an Image Database Application,1988,IEEE Transactions on Software Engineering,148,10.1109/32.6139,United States,Article,Cambridge,0,Journal,2-s2.0-0000910882
+Nievergelt J.,,"The Grid File: An Adaptable, Symmetric Multikey File Structure",1984,ACM Transactions on Database Systems (TODS),659,10.1145/348.318586,Switzerland;Canada,Article,;Toronto,0,Journal,2-s2.0-0021392590
+Murtagh F.,,A survey of recent advances in hierarchical clustering algorithms,1983,Computer Journal,545,10.1093/comjnl/26.4.354,Ireland,Article,Dublin,1,Journal,2-s2.0-0020848951
+Angell R.,,Automatic spelling correction using a trigram similarity measure,1983,Information Processing and Management,115,10.1016/0306-4573(83)90022-5,United Kingdom,Article,Sheffield,0,Journal,2-s2.0-0020685593
+Bentley J.,,Optimal Expected-Time Algorithms for Closest Point Problems,1980,ACM Transactions on Mathematical Software (TOMS),203,10.1145/355921.355927,United States,Article,Pittsburgh,0,Journal,2-s2.0-84976672179
+Hunter G.,,Operations on Images Using Quad Trees,1979,IEEE Transactions on Pattern Analysis and Machine Intelligence,266,10.1109/TPAMI.1979.4766900,United States;United States,Article,"Princeton;McLean/Washington, D.C.",0,Journal,2-s2.0-0017953284
+Salton G.,,Generation and search of clustered files,1978,ACM Transactions on Database Systems (TODS),80,10.1145/320289.320291,United States,Article,Ithaca,0,Journal,2-s2.0-0018057808
+Friedman J.,,An Algorithm for Finding Nearest Neighbors,1975,IEEE Transactions on Computers,253,10.1109/T-C.1975.224110,United States;United States,Article,Menlo Park;Palo Alto,0,Journal,2-s2.0-0016567534
+Fukunaga K.,,A Branch and Bound Algorithm for Computing k-Nearest Neighbors,1975,IEEE Transactions on Computers,428,10.1109/T-C.1975.224297,United States,Article,West Lafayette,0,Journal,2-s2.0-0016533974

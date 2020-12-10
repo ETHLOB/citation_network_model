@@ -1,0 +1,143 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Ripley B.,,Pattern recognition and neural networks,2014,Pattern Recognition and Neural Networks,3779,10.1017/CBO9780511812651,United Kingdom,Book,Oxford,0,Book,2-s2.0-84953405534
+Bartlett P.,,Local rademacher complexities,2005,Annals of Statistics,297,10.1214/009053605000000282,United States,Article,Berkeley,1,Journal,2-s2.0-26444592981
+Tsybakov A.B.,,Square root penalty: Adaptation to the margin in classification and in edge estimation,2005,Annals of Statistics,31,10.1214/009053604000001066,France,Article,Paris,1,Journal,2-s2.0-23744505130
+Boucheron S.,,Moment inequalities for functions of independent random variables,2005,Annals of Probability,64,10.1214/009117904000000856,France;France,Article,Gif-sur-Yvette;Saint-Aubin,1,Journal,2-s2.0-17044422233
+Steinwart I.,,Consistency of support vector machines and other regularized kernel classifiers,2005,IEEE Transactions on Information Theory,129,10.1109/TIT.2004.839514,United States,Article,Los Alamos,0,Journal,2-s2.0-12444265838
+Steinwart I.,,Sparseness of support vector machines,2004,Journal of Machine Learning Research,164,10.1162/1532443041827925,United States,Article,Los Alamos,0,Journal,2-s2.0-4644354708
+Lugosi G.,,Complexity regularization via localized random penalties,2004,Annals of Statistics,30,10.1214/009053604000000463,Spain,Article,Barcelona,1,Journal,2-s2.0-23744490659
+Freund Y.,,Generalization bounds for averaged classifiers,2004,Annals of Statistics,45,10.1214/009053604000000058,United States,Article,New York,1,Journal,2-s2.0-24344500472
+Blanchard G.,,On the rate of convergence of regularized boosting classifiers,2004,Journal of Machine Learning Research,69,10.1162/1532443041424319,France,Conference Paper,Orsay,0,Journal,2-s2.0-3042675892
+Poggio T.,,General conditions for predictivity in learning theory,2004,Nature,183,10.1038/nature02341,United States,Article,Cambridge,0,Journal,2-s2.0-1842420581
+Mendelson S.,,On the importance of small coordinate projections,2004,Journal of Machine Learning Research,3,,Australia,Article,Canberra,0,Journal,2-s2.0-84897541071
+Breiman L.,,The 2002 wald memorial lectures population theory for boosting ensembles,2004,Annals of Statistics,45,10.1214/aos/1079120126,United States,Article,Berkeley,1,Journal,2-s2.0-14644395930
+Jiang W.,,Process consistency for AdaBoost,2004,Annals of Statistics,63,10.1214/aos/1079120128,United States,Article,Evanston,1,Journal,2-s2.0-26444545593
+Lugosi G.,,On the Bayes-risk consistency of regularized boosting methods,2004,Annals of Statistics,123,10.1214/aos/1079120129,Spain,Article,Barcelona,1,Journal,2-s2.0-9444269961
+Tsybakov A.B.,,Optimal aggregation of classifiers in statistical learning,2004,Annals of Statistics,316,10.1214/aos/1079120131,France,Article,Paris,1,Journal,2-s2.0-3142725508
+Zhang T.,,Statistical behavior and consistency of classification methods based on convex risk minimization,2004,Annals of Statistics,436,10.1214/aos/1079120130,United States,Article,Yorktown Heights,1,Journal,2-s2.0-4644257995
+Audibert J.Y.,,PAC-bayesian generic chaining,2004,Advances in Neural Information Processing Systems,3,,France,Conference Paper,Paris,0,Conference Proceeding,2-s2.0-84898977749
+Panchenko D.,,Symmetrization approach to concentration inequalities for empirical processes,2003,Annals of Probability,16,10.1214/aop/1068646378,United States,Article,Cambridge,1,Journal,2-s2.0-0347593390
+Steinwart I.,,On the optimal parameter choice for v-support vector machines,2003,IEEE Transactions on Pattern Analysis and Machine Intelligence,37,10.1109/TPAMI.2003.1233901,United States,Article,Los Alamos,0,Journal,2-s2.0-0142039767
+Castellan G.,,Density estimation via exponential model selection,2003,IEEE Transactions on Information Theory,12,10.1109/TIT.2003.814485,France,Letter,Lille,0,Journal,2-s2.0-0042265613
+Mendelson S.,,Entropy and the combinatorial dimension,2003,Inventiones Mathematicae,43,10.1007/s00222-002-0266-3,Australia,Article,Canberra,0,Journal,2-s2.0-0037596458
+Talagrand M.,,Vapnik-Chervonenkis type conditions and uniform donsker classes of functions,2003,Annals of Probability,7,10.1214/aop/1055425790,France;United States;France,Article,Paris;Columbus;Paris,1,Journal,2-s2.0-0037696883
+Zhou D.,,Capacity of reproducing kernel spaces in learning theory,2003,IEEE Transactions on Information Theory,170,10.1109/TIT.2003.813564,Hong Kong,Article,Kowloon,0,Journal,2-s2.0-0038105204
+Bühlmann P.,,Boosting with the L<inf>2</inf> loss: Regression and classification,2003,Journal of the American Statistical Association,443,10.1198/016214503000125,Switzerland,Article,"Zurich ZH,",0,Journal,2-s2.0-0043245810
+Luczak M.,,Concentration for locally acting permutations,2003,Discrete Mathematics,8,10.1016/S0012-365X(02)00628-3,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-84867925611
+Ben-David S.,,Limitations of learning via embeddings in Euclidean half spaces,2003,Journal of Machine Learning Research,58,10.1162/153244303321897681,Israel,Conference Paper,Haifa,0,Journal,2-s2.0-0042967747
+McAllester D.,,PAC-Bayesian stochastic model selection,2003,Machine Learning,95,10.1023/A:1021840411064,United States,Article,Florham Park,1,Journal,2-s2.0-0037399538
+Bartlett P.,,Rademacher and Gaussian complexities: Risk bounds and structural results,2003,Journal of Machine Learning Research,839,10.1162/153244303321897690,Australia,Conference Paper,Canberra,0,Journal,2-s2.0-0038453192
+Herbrich R.,,Algorithmic luckiness,2003,Journal of Machine Learning Research,29,10.1162/153244303765208368,United Kingdom,Article,Cambridge,0,Journal,2-s2.0-0041965981
+Seeger M.,,PAC-Bayesian generalisation error bounds for Gaussian process classification,2003,Journal of Machine Learning Research,112,10.1162/153244303765208386,United Kingdom,Article,Edinburgh,0,Journal,2-s2.0-0041464774
+Wegkamp M.,,Model selection in nonparametric regression,2003,Annals of Statistics,41,10.1214/aos/1046294464,United States,Article,New Haven,1,Journal,2-s2.0-21144432799
+Antos A.,,Data-dependent margin-based generalization bounds for classification,2003,Journal of Machine Learning Research,22,10.1162/153244303768966111,Canada,Article,Kingston,0,Journal,2-s2.0-0042967689
+Mendelson S.,,A few notes on statistical learning theory,2003,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),86,10.1007/3-540-36434-x_1,Australia,Article,Canberra,0,Book Series,2-s2.0-35248851077
+Boucheron S.,,Concentration inequalities using the entropy method,2003,Annals of Probability,107,10.1214/aop/1055425791,France,Article,Gif-sur-Yvette,1,Journal,2-s2.0-0038373013
+Cannon A.,,Machine Learning with Data Dependent Hypothesis Classes,2002,Journal of Machine Learning Research,27,10.1162/153244302760200650,United States,Article,New York,0,Journal,2-s2.0-0001161118
+Lin Y.,,Support vector machines and the Bayes rule in classification,2002,Data Mining and Knowledge Discovery,160,10.1023/A:1015469627679,United States,Article,Madison,0,Journal,2-s2.0-0036258405
+Bousquet O.,,Stability and Generalization,2002,Journal of Machine Learning Research,636,10.1162/153244302760200704,France,Article,Palaiseau,0,Journal,2-s2.0-0038368335
+Bartlett P.,,Hardness results for neural network approximation problems,2002,Theoretical Computer Science,13,10.1016/S0304-3975(01)00057-3,Australia,Conference Paper,Canberra,1,Journal,2-s2.0-0037031025
+Mendelson S.,,Improving the sample complexity using global data,2002,IEEE Transactions on Information Theory,48,10.1109/TIT.2002.1013137,Australia,Article,Canberra,0,Journal,2-s2.0-0036648803
+Collins M.,,"Logistic regression, AdaBoost and Bregman distances",2002,Machine Learning,337,10.1023/A:1013912006537,United States,Article,Florham Park,1,Journal,2-s2.0-0036643072
+Csiszár I.,,Large-scale typicality of Markov sample paths and consistency of MDL order estimators,2002,IEEE Transactions on Information Theory,49,10.1109/TIT.2002.1003842,Hungary;United States,Article,Budapest;New York,0,Journal,2-s2.0-0036611605
+Bousquet O.,,A Bennett concentration inequality and its application to suprema of empirical processes,2002,Comptes Rendus Mathematique,121,10.1016/S1631-073X(02)02292-6,France,Article,Palaiseau,0,Journal,2-s2.0-0037561860
+McDiarmid C.,,Concentration for independent permutations,2002,Combinatorics Probability and Computing,34,10.1017/S0963548301005089,United Kingdom,Article,Oxford,0,Journal,2-s2.0-0036004171
+Koltchinskii V.,,Empirical margin distributions and bounding the generalization error of combined classifiers,2002,Annals of Statistics,236,,United States,Article,Albuquerque,0,Journal,2-s2.0-0036104545
+Bousquet O.,,Some local measures of complexity of convex hulls and generalization bounds,2002,Lecture Notes in Artificial Intelligence (Subseries of Lecture Notes in Computer Science),15,10.1007/3-540-45435-7_5,France,Conference Paper,Palaiseau,0,Conference Proceeding,2-s2.0-26444452739
+Panchenko D.,,Some extensions of an inequality of vapnik and chervonenkis,2002,Electronic Communications in Probability,16,10.1214/ECP.v7-1047,United States,Article,Albuquerque,1,Journal,2-s2.0-0347349284
+Steinwart I.,,Support vector machines are universally consistent,2002,Journal of Complexity,103,10.1006/jcom.2002.0642,Germany,Article,Jena,1,Journal,2-s2.0-0036749277
+Bartlett P.L.,,Model selection and error estimation,2002,Machine Learning,207,10.1023/A:1013999503812,United States,Article,Berkeley,1,Journal,2-s2.0-0036643049
+Cucker F.,,On the mathematical foundations of learning,2002,Bulletin of the American Mathematical Society,817,10.1090/S0273-0979-01-00923-5,Hong Kong,Article,Kowloon,1,Journal,2-s2.0-0036071370
+Koltchinskii V.,,Rademacher penalties and structural risk minimization,2001,IEEE Transactions on Information Theory,188,10.1109/18.930926,United States,Article,Albuquerque,0,Journal,2-s2.0-0035397715
+Panchenko D.,,A note on talagrand’s concentration inequality,2001,Electronic Communications in Probability,9,10.1214/ECP.v6-1034,United States,Article,Albuquerque,1,Journal,2-s2.0-0347979483
+Mannor S.,,Weak learners and improved rates of convergence in Boosting,2001,Advances in Neural Information Processing Systems,10,,Israel,Conference Paper,Haifa,0,Conference Proceeding,2-s2.0-84898962905
+Rio E.,,Concentration inequalities for set-indexed empirical processes,2001,Probability Theory and Related Fields,30,10.1007/pl00008756,France,Article,Versailles,0,Journal,2-s2.0-0040437027
+Li Y.,,Improved bounds on the sample complexity of learning,2001,Journal of Computer and System Sciences,86,10.1006/jcss.2000.1741,Singapore,Article,Singapore City,1,Journal,2-s2.0-0035340553
+Yang Y.,,Adaptive estimation in pattern recognition by combining different procedures,2000,Statistica Sinica,12,,United States,Article,Ames,0,Journal,2-s2.0-0347607206
+Baraud Y.,,Model selection for regression on a fixed design,2000,Probability Theory and Related Fields,58,10.1007/PL00008731,France,Article,Paris,0,Journal,2-s2.0-0034398141
+Boucheron S.,,A sharp concentration inequality with applications,2000,Random Structures and Algorithms,110,10.1002/(SICI)1098-2418(200005)16:3<277::AID-RSA4>3.0.CO;2-1,France,Article,Gif-sur-Yvette,0,Journal,2-s2.0-0034344120
+Csisczár I.,,The consistency of the BIC Markov order estimator,2000,Annals of Statistics,112,10.1214/aos/1015957472,Hungary,Article,Budapest,1,Journal,2-s2.0-0034343421
+Massart P.,,About the constants in talagrand's concentration inequalities for empirical processes,2000,Annals of Probability,124,10.1214/aop/1019160263,France,Article,Paris,1,Journal,2-s2.0-0034345597
+Friedman J.,,Additive logistic regression: A statistical view of boosting,2000,Annals of Statistics,3790,10.1214/aos/1016218223,United States;United States,Review,Menlo Park;Palo Alto,1,Journal,2-s2.0-0034164230
+Yang Y.,,Minimax nonparametric classification - Part II: Model selection for adaptation,1999,IEEE Transactions on Information Theory,12,10.1109/18.796369,United States,Article,Ames,0,Journal,2-s2.0-0033356514
+Yang Y.,,Minimax nonparametric classification - Part I: Rates of convergence,1999,IEEE Transactions on Information Theory,59,10.1109/18.796368,United States,Article,Ames,0,Journal,2-s2.0-0033321586
+Kearns M.,,Algorithmic stability and sanity-check bounds for leave-one-out cross-validation,1999,Neural Computation,228,10.1162/089976699300016304,United States,Article,Florham Park,0,Journal,2-s2.0-0033566418
+Lugosi G.,,Adaptive model selection using empirical complexities,1999,Annals of Statistics,34,10.1214/aos/1017939241,Spain,Article,Barcelona,1,Journal,2-s2.0-0033234644
+Antos A.,,Lower bounds for Bayes error estimation,1999,IEEE Transactions on Pattern Analysis and Machine Intelligence,36,10.1109/34.777375,Hungary,Article,Budapest,0,Journal,2-s2.0-0032663729
+McAllester D.A.,,PAC-Bayesian model averaging,1999,Proceedings of the Annual ACM Conference on Computational Learning Theory,113,10.1145/307400.307435,United States,Conference Paper,Florham Park,0,Conference Proceeding,2-s2.0-0033280443
+Mammen E.,,Smooth discrimination analysis,1999,Annals of Statistics,173,10.1214/aos/1017939240,Germany,Article,Heidelberg,1,Journal,2-s2.0-0033234630
+Barron A.,,Risk bounds for model selection via penalization,1999,Probability Theory and Related Fields,356,10.1007/s004400050210,United States,Article,New Haven,0,Journal,2-s2.0-0033459856
+Van Vu H.,,On the infeasibility of training neural networkswith small mean-squared error,1998,IEEE Transactions on Information Theory,8,10.1109/18.737520,United States;United States,Article,Princeton;New Haven,0,Journal,2-s2.0-0032202061
+Lee W.,,The importance of convexity in learning with squared loss,1998,IEEE Transactions on Information Theory,64,10.1109/18.705577,Australia;Australia,Article,Canberra;Canberra,0,Journal,2-s2.0-0032166052
+Kulkarni S.,,Learning pattern classification-A survey,1998,IEEE Transactions on Information Theory,104,10.1109/18.720536,United States;United States,Article,Princeton;New York,0,Journal,2-s2.0-0032182920
+Shawe-Taylor J.,,Structural risk minimization over data-dependent hierarchies,1998,IEEE Transactions on Information Theory,299,10.1109/18.705570,United Kingdom;Australia,Article,Egham;Canberra,0,Journal,2-s2.0-0032166068
+Cesa-Bianchi N.,,A graph-theoretic generalization of the Sauer-Shelah lemma,1998,Discrete Applied Mathematics,6,10.1016/S0166-218X(98)00012-2,Italy,Article,Milan,1,Journal,2-s2.0-0345767185
+Smola A.,,The connection between regularization operators and support vector kernels,1998,Neural Networks,463,10.1016/S0893-6080(98)00032-X,Germany,Article,Berlin,0,Journal,2-s2.0-0032098361
+Breiman L.,,Arcing classifiers,1998,Annals of Statistics,880,,United States,Article,Berkeley,0,Journal,2-s2.0-0346786584
+Antos A.,,Strong minimax lower bounds for learning,1998,Machine Learning,14,10.1023/A:1007454427662,Hungary,Article,Budapest,1,Journal,2-s2.0-0031698444
+McAllester D.A.,,Some PAC-Bayesian theorems,1998,Proceedings of the Annual ACM Conference on Computational Learning Theory,82,10.1145/279943.279989,United States,Conference Paper,Florham Park,0,Conference Proceeding,2-s2.0-0031637037
+Birgé L.,,Minimum contrast estimators on sieves: Exponential bounds and rates of convergence,1998,Bernoulli,158,10.2307/3318720,France,Article,Paris,0,Journal,2-s2.0-0000492892
+Schapire R.,,Boosting the margin: A new explanation for the effectiveness of voting methods,1998,Annals of Statistics,1388,10.1214/aos/1024691352,United States,Article,Florham Park,1,Journal,2-s2.0-0032280519
+Szarek S.,,On the Convexified Sauer-Shelah Theorem,1997,Journal of Combinatorial Theory. Series B,4,10.1006/jctb.1996.1736,United States,Article,Cleveland,1,Journal,2-s2.0-0040655284
+Alesker S.,,A Remark on the Szarek-Talagrand Theorem,1997,Combinatorics Probability and Computing,5,10.1017/S0963548396002866,Israel,Article,Tel Aviv-Yafo,0,Journal,2-s2.0-0031519029
+Koiran P.,,Neural Networks with Quadratic VC Dimension,1997,Journal of Computer and System Sciences,33,10.1006/jcss.1997.1479,France,Article,Lyon,1,Journal,2-s2.0-0031077291
+Dembo A.,,Information inequalities and concentration of measure,1997,Annals of Probability,40,10.1214/aop/1024404424,United States,Article,Palo Alto,1,Journal,2-s2.0-0031514634
+Bobkov S.,,Poincaré's inequalities and Talagrand's concentration phenomenon for the exponential distribution,1997,Probability Theory and Related Fields,77,10.1007/s004400050090,Russian Federation,Article,Syktyvkar,0,Journal,2-s2.0-0031484536
+Karpinski M.,,Polynomial Bounds for VC Dimension of Sigmoidal and General Pfaffian Neural Networks,1997,Journal of Computer and System Sciences,78,10.1006/jcss.1997.1477,Germany,Article,Bonn,1,Journal,2-s2.0-0031077292
+Tsybakov A.,,On nonparametric estimation of density level sets,1997,Annals of Statistics,123,10.1214/aos/1069362732,France,Article,Paris,1,Journal,2-s2.0-0031478562
+Ledoux M.,,On talagrand’s deviation inequalities for product measures,1997,ESAIM - Probability and Statistics,137,10.1051/ps:1997103,France,Article,Toulouse,1,Journal,2-s2.0-84996133877
+Lepski O.V.,,Optimal spatial adaptation to inhomogeneous smoothness: An approach based on kernel estimates with variable bandwidth selectors,1997,Annals of Statistics,164,10.1214/aos/1069362731,Russian Federation;Germany,Article,Moscow;Berlin,1,Journal,2-s2.0-0031504935
+Alon N.,,"Scale-sensitive dimensions, uniform convergence, and learnability",1997,Journal of the ACM,185,10.1145/263867.263927,Israel,Article,Tel Aviv-Yafo,0,Journal,2-s2.0-0031176507
+Freund Y.,,A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting,1997,Journal of Computer and System Sciences,7899,10.1006/jcss.1997.1504,United States,Article,Florham Park,1,Journal,2-s2.0-0031211090
+Lugosi G.,,Concept learning using complexity regularization,1996,IEEE Transactions on Information Theory,40,10.1109/18.481777,Hungary,Article,Budapest,0,Journal,2-s2.0-0029754587
+Talagrand M.,,Majorizing measures: The generic chaining,1996,Annals of Probability,85,10.1214/aop/1065725175,France,Article,Paris,1,Journal,2-s2.0-0030369277
+Giné E.,,Empirical processes and applications: An overview,1996,Bernoulli,11,10.3150/bj/1193758786,United States,Article,Storrs,0,Journal,2-s2.0-0002957273
+Talagrand M.,,"The Glivenko-Cantelli problem, ten years later",1996,Journal of Theoretical Probability,20,10.1007/BF02214655,France,Article,Paris,0,Journal,2-s2.0-21344444087
+Marton K.,,A measure concentration inequality for contracting Markov chains,1996,Geometric and Functional Analysis,95,10.1007/BF02249263,Hungary,Article,Budapest,0,Journal,2-s2.0-0030557447
+Marton K.,,Bounding d̄-distance by informational divergence: A method to prove measure concentration,1996,Annals of Probability,120,10.1214/aop/1039639365,Hungary,Article,Budapest,1,Journal,2-s2.0-0030514042
+Talagrand M.,,A new look at independence,1996,Annals of Probability,170,10.1214/aop/1042644705,France;United States,Article,Paris;Columbus,1,Journal,2-s2.0-0030522124
+Talagrand M.,,New concentration inequalities in product spaces,1996,Inventiones Mathematicae,251,10.1007/s002220050108,France;United States,Article,Paris;Columbus,0,Journal,2-s2.0-0030489977
+Talagrand M.,,Concentration of measure and isoperimetric inequalities in product spaces,1995,Publications Mathématiques de l'Institut des Hautes Scientifiques,442,10.1007/BF02699376,France,Article,Paris,0,Journal,2-s2.0-51249165477
+Kearns M.,,An experimental and theoretical comparison of model selection methods,1995,"Proceedings of the 8th Annual Conference on Computational Learning Theory, COLT 1995",25,10.1145/225298.225301,United States,Conference Paper,Murray,0,Conference Proceeding,2-s2.0-85030049525
+Schuurmans D.,,Characterizing rational versus exponential learning curves,1995,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),3,10.1007/3-540-59119-2_184,Canada,Conference Paper,Toronto,0,Book Series,2-s2.0-84955593644
+Devroye L.,,Lower bounds in pattern recognition and learning,1995,Pattern Recognition,26,10.1016/0031-3203(94)00141-8,Hungary;Canada,Article,Budapest;Montreal,0,Journal,2-s2.0-0029342607
+Goldberg P.,,Bounding the Vapnik-Chervonenkis Dimension of Concept Classes Parameterized by Real Numbers,1995,Machine Learning,73,10.1023/A:1022847329178,,Article,,1,Journal,2-s2.0-0029256399
+Haussler D.,,Sphere packing numbers for subsets of the Boolean n-cube with bounded Vapnik-Chervonenkis dimension,1995,"Journal of Combinatorial Theory, Series A",152,10.1016/0097-3165(95)90052-7,United States;United States,Article,Santa Cruz;Berkeley,1,Journal,2-s2.0-0000996139
+Freund Y.,,Boosting a weak learning algorithm by majority,1995,Information and Computation,934,10.1006/inco.1995.1136,United States,Article,Murray,1,Journal,2-s2.0-58149321460
+Cortes C.,,Support-Vector Networks,1995,Machine Learning,25951,10.1023/A:1022627411411,United States,Article,Murray,1,Journal,2-s2.0-34249753618
+Donoho D.,,Ideal spatial adaptation by wavelet shrinkage,1994,Biometrika,6235,10.1093/biomet/81.3.425,United States,Article,Palo Alto,0,Journal,2-s2.0-0041958932
+Anthony M.,,A result of Vapnik with applications,1993,Discrete Applied Mathematics,41,10.1016/0166-218X(93)90126-9,United Kingdom,Article,London,1,Journal,2-s2.0-0041805140
+Macintyre A.,,"Finiteness results for sigmoidal ""neural"" networks",1993,Proceedings of the Annual ACM Symposium on Theory of Computing,42,10.1145/167088.167192,United Kingdom,Conference Paper,Oxford,0,Conference Proceeding,2-s2.0-0027205881
+Kieffer J.,,Strongly consistent code-based identification and order estimation for constrained finite-state model classes,1993,IEEE Transactions on Information Theory,27,10.1109/18.256497,United States,Article,Minneapolis,0,Journal,2-s2.0-0027601935
+Birgé L.,,Rates of convergence for minimum contrast estimators,1993,Probability Theory and Related Fields,119,10.1007/BF01199316,France,Article,Paris,0,Journal,2-s2.0-21344492381
+Simon H.U.,,General bounds on the number of examples needed for learning probabilistic concepts,1993,,12,10.1145/168304.168385,Germany,Conference Paper,Dortmund,0,Conference Proceeding,2-s2.0-0027808303
+Boser B.,,Training algorithm for optimal margin classifiers,1992,Proceedings of the Fifth Annual ACM Workshop on Computational Learning Theory,6217,,United States,Conference Paper,Berkeley,0,Conference Proceeding,2-s2.0-0026966646
+Haussler D.,,Decision theoretic generalizations of the PAC model for neural net and other learning applications,1992,Information and Computation,452,10.1016/0890-5401(92)90010-D,United States,Article,Santa Cruz,1,Journal,2-s2.0-0002192516
+Dudley R.,,Uniform and universal Glivenko-Cantelli classes,1991,Journal of Theoretical Probability,49,10.1007/BF01210321,United States,Article,Cambridge,0,Journal,2-s2.0-0000050198
+Barron A.,,Minimum Complexity Density Estimation,1991,IEEE Transactions on Information Theory,290,10.1109/18.86996,United States,Article,Urbana,0,Journal,2-s2.0-0026190366
+Specht D.,,Probabilistic Neural Networks and the Polynomial Adaline as Complementary Techniques for Classification,1990,IEEE Transactions on Neural Networks,364,10.1109/72.80210,United States,Article,Boulevard,0,Journal,2-s2.0-0025399335
+Schapire R.,,The Strength of Weak Learnability,1990,Machine Learning,2547,10.1023/A:1022648800760,United States,Article,Cambridge,1,Journal,2-s2.0-0025448521
+Blumer A.,,Learnability and the Vapnik-Chervonenkis Dimension,1989,Journal of the ACM (JACM),946,10.1145/76359.76371,United States,Article,Medford,0,Journal,2-s2.0-0024750852
+Ehrenfeucht A.,,A general lower bound on the number of examples needed for learning,1989,Information and Computation,207,10.1016/0890-5401(89)90002-3,United States,Article,Boulder,1,Journal,2-s2.0-0024739191
+Haussler D.,,"Predicting {0,1}-functions on randomly drawn points",1988,Annual Symposium on Foundations of Computer Science (Proceedings),31,10.1109/sfcs.1988.21928,United States,Conference Paper,Santa Cruz,0,Conference Proceeding,2-s2.0-0024137232
+Devroye L.,,Automatic Pattern Recognition: A Study of the Probability of Error,1988,IEEE Transactions on Pattern Analysis and Machine Intelligence,79,10.1109/34.3915,Canada,Article,Montreal,0,Journal,2-s2.0-0024053797
+Marton K.,,A Simple Proof of the Blowing-Up Lemma,1986,IEEE Transactions on Information Theory,94,10.1109/TIT.1986.1057176,Hungary,Article,Budapest,0,Journal,2-s2.0-0022720166
+Frankl P.,,On the trace of finite sets,1983,"Journal of Combinatorial Theory, Series A",60,10.1016/0097-3165(83)90038-9,India,Article,Mumbai,1,Journal,2-s2.0-0037600798
+Devijver P.,,Pattern recognition: a statistical approach.,1982,Pattern recognition: a statistical approach.,2216,,Netherlands,Article,Eindhoven,0,Book,2-s2.0-84928746885
+Wenocur R.,,Some special vapnik-chervonenkis classes,1981,Discrete Mathematics,85,10.1016/0012-365X(81)90274-0,United States,Article,Philadelphia,1,Journal,2-s2.0-0000392470
+Dudley R.,,Balls in R<sup>k</sup> do not cut all subsets of k + 2 points,1979,Advances in Mathematics,26,10.1016/0001-8708(79)90047-1,United States,Article,Cambridge,1,Journal,2-s2.0-0011275803
+Devroye L.,,Distribution-Free Inequalities for the Deleted and Holdout Error Estimates,1979,IEEE Transactions on Information Theory,45,10.1109/TIT.1979.1056032,United States;Canada,Article,Austin;Montreal,0,Journal,2-s2.0-0018444763
+Devroye L.,,Distribution-Free Performance Bounds for Potential Function Rules,1979,IEEE Transactions on Information Theory,90,10.1109/TIT.1979.1056087,Canada,Article,Montreal,0,Journal,2-s2.0-0018520640
+Craven P.,,Smoothing noisy data with spline functions - Estimating the correct degree of smoothing by the method of generalized cross-validation,1978,Numerische Mathematik,2107,10.1007/BF01404567,United Kingdom,Article,Liverpool,0,Journal,2-s2.0-34250263445
+Steele J.M.,,Existence of submatrices with all possible columns,1978,"Journal of Combinatorial Theory, Series A",18,10.1016/0097-3165(78)90046-8,Canada,Article,Vancouver,1,Journal,2-s2.0-0041525684
+Johnson D.,,The densest hemisphere problem,1978,Theoretical Computer Science,87,10.1016/0304-3975(78)90006-3,United States,Article,Murray,1,Journal,2-s2.0-0000765820
+Ahlswede R.,,Bounds on conditional probabilities with applications in multi-user communication,1976,Zeitschrift für Wahrscheinlichkeitstheorie und Verwandte Gebiete,96,10.1007/BF00535682,United States,Article,Columbus,0,Journal,2-s2.0-0000911221
+Yurinskiǐ V.,,Exponential inequalities for sums of random vectors,1976,Journal of Multivariate Analysis,94,10.1016/0047-259X(76)90001-4,Russian Federation,Article,Moscow,1,Journal,2-s2.0-0000836223
+Akaike H.,,A New Look at the Statistical Model Identification,1974,IEEE Transactions on Automatic Control,29455,10.1109/TAC.1974.1100705,Japan,Article,Tokyo,0,Journal,2-s2.0-0016355478
+Mallows C.,,Some comments on C<inf>p</inf>,1973,Technometrics,2158,10.1080/00401706.1973.10489103,United States,Article,Murray,0,Journal,2-s2.0-84915425007
+Shelah S.,,A combinatorial problem; Stability and order for models and theories in infinitary languages,1972,Pacific Journal of Mathematics,270,10.2140/pjm.1972.41.247,United States;Israel,Article,Los Angeles;Jerusalem,1,Journal,2-s2.0-84972576948
+Sauer N.,,On the density of families of sets,1972,"Journal of Combinatorial Theory, Series A",477,10.1016/0097-3165(72)90019-2,Canada,Article,Calgary,1,Journal,2-s2.0-0001703864
+Azuma K.,,Weighted sums of certain dependent random variables,1967,Tohoku Mathematical Journal,553,10.2748/tmj/1178243286,Japan,Article,Sendai,1,Journal,2-s2.0-84972574511
+Cover T.,,Geometrical and Statistical Properties of Systems of Linear Inequalities with Applications in Pattern Recognition,1965,IEEE Transactions on Electronic Computers,1126,10.1109/PGEC.1965.264137,United States,Letter,Palo Alto,0,Journal,2-s2.0-84918441630
+Hoeffding W.,,Probability Inequalities for Sums of Bounded Random Variables,1963,Journal of the American Statistical Association,4180,10.1080/01621459.1963.10500830,United States,Article,Chapel Hill,0,Journal,2-s2.0-84947403595
+Bennett G.,,Probability Inequalities for the Sum of Independent Random Variables,1962,Journal of the American Statistical Association,401,10.1080/01621459.1962.10482149,Australia,Article,Sydney,0,Journal,2-s2.0-0001917727

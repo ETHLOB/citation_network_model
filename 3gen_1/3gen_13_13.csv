@@ -1,0 +1,17 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Modha D.,,Feature weighting on k-means clustering,2003,Machine Learning,259,10.1023/A:1024016609528,United States,Article,San Jose,1,Journal,2-s2.0-0042312608
+Makarenkov V.,,Optimal variable weighting for ultrametric and additive trees and K-means partitioning: Methods and software,2001,Journal of Classification,82,10.1007/s00357-001-0018-x,Canada;Russian Federation,Article,Montreal;Moscow,0,Journal,2-s2.0-0035619721
+Huang Z.,,A fuzzy k-modes algorithm for clustering categorical data,1999,IEEE Transactions on Fuzzy Systems,339,10.1109/91.784206,Australia,Article,Melbourne,0,Journal,2-s2.0-0032595161
+Makarenkov V.,,An algorithm for the fitting of a tree metric according to a weighted least-squares criterion,1999,Journal of Classification,32,10.1007/s003579900040,Canada;Russian Federation,Article,Montreal;Moscow,0,Journal,2-s2.0-0033243629
+Huang Z.,,Extensions to the k-means algorithm for clustering large data sets with categorical values,1998,Data Mining and Knowledge Discovery,1345,10.1023/A:1009769707641,Australia;Australia,Article,North Ryde;Melbourne,0,Journal,2-s2.0-27144536001
+Agrawal R.,,Automatic subspace clustering of high dimensional data for data mining applications,1998,SIGMOD Record,1669,10.1145/276305.276314,United States,Article,San Jose,0,Journal,2-s2.0-0032090765
+Gnanadesikan R.,,Weighting and selection of variables for cluster analysis,1995,Journal of Classification,95,10.1007/BF01202271,United States;United States,Article,New Brunswick;Piscataway,0,Journal,2-s2.0-21844501258
+Green P.,,A preliminary study of optimal variable weighting in k-means clustering,1990,Journal of Classification,43,10.1007/BF01908720,United States,Article,Philadelphia,0,Journal,2-s2.0-0000710590
+Milligan G.,,A validation study of a variable weighting algorithm for cluster analysis,1989,Journal of Classification,47,10.1007/BF01908588,United States,Article,Columbus,0,Journal,2-s2.0-0002048998
+Fowlkes E.,,Variable selection in clustering,1988,Journal of Classification,75,10.1007/BF01897164,United States,Article,Piscataway,0,Journal,2-s2.0-0001739908
+De Soete G.,,OVWTRE: A program for optimal variable weighting for ultrametric and additive tree fitting,1988,Journal of Classification,43,10.1007/BF01901677,Belgium,Article,Ghent,0,Journal,2-s2.0-0000962917
+De Soete G.,,Optimal variable weighting for ultrametric and additive tree clustering,1986,Quality and Quantity,59,10.1007/BF00227423,Belgium,Article,Ghent,0,Journal,2-s2.0-33947177850
+DeSarbo W.,,Synthesized clustering: A method for amalgamating alternative clustering bases with differential weighting of variables,1984,Psychometrika,98,10.1007/BF02294206,United States,Article,Murray,0,Journal,2-s2.0-0002414638
+Selim S.,,K-Means-Type Algorithms: A Generalized Convergence Theorem and Characterization of Local Optimality,1984,IEEE Transactions on Pattern Analysis and Machine Intelligence,759,10.1109/TPAMI.1984.4767478,Saudi Arabia,Article,Dhahran,0,Journal,2-s2.0-0021202650
+Milligan G.,,The validation of four ultrametric clustering algorithms,1980,Pattern Recognition,65,10.1016/0031-3203(80)90001-1,United States,Article,Columbus,0,Journal,2-s2.0-0018910525
+Bezdek J.,,A Convergence Theorem for the Fuzzy ISODATA Clustering Algorithms,1980,IEEE Transactions on Pattern Analysis and Machine Intelligence,725,10.1109/TPAMI.1980.4766964,United States,Article,Logan,0,Journal,2-s2.0-0018918224

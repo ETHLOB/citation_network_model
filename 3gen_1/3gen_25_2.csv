@@ -1,0 +1,11 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Sontag D.,,New outer bounds on the marginal polytope,2009,Advances in Neural Information Processing Systems 20 - Proceedings of the 2007 Conference,70,,United States,Conference Paper,Cambridge,0,Conference Proceeding,2-s2.0-84858773904
+Finley T.,,Training structural SVMs when exact inference is intractable,2008,Proceedings of the 25th International Conference on Machine Learning,190,10.1145/1390156.1390195,United States,Conference Paper,Ithaca,0,Conference Proceeding,2-s2.0-56449113929
+Shaw B.,,Minimum volume embedding,2007,Journal of Machine Learning Research,22,,United States,Conference Paper,New York,0,Journal,2-s2.0-80053140950
+Weinberger K.,,Nonlinear dimensionality reduction by semidefinite programming and kernel matrix factorization,2005,AISTATS 2005 - Proceedings of the 10th International Workshop on Artificial Intelligence and Statistics,115,,United States,Conference Paper,Philadelphia,0,Conference Proceeding,2-s2.0-83855163194
+Arora S.,,"Expander flows, geometric embeddings and graph partitioning",2004,Conference Proceedings of the Annual ACM Symposium on Theory of Computing,227,10.1145/1007352.1007355,United States,Conference Paper,Princeton,0,Conference Proceeding,2-s2.0-4544250512
+Belkin M.,,Laplacian eigenmaps for dimensionality reduction and data representation,2003,Neural Computation,4760,10.1162/089976603321780317,United States,Article,Chicago,0,Journal,2-s2.0-0042378381
+Tenenbaum J.,,A global geometric framework for nonlinear dimensionality reduction,2000,Science,8778,10.1126/science.290.5500.2319,United States,Article,Palo Alto,0,Journal,2-s2.0-0034704229
+Roweis S.T.,,Nonlinear dimensionality reduction by locally linear embedding,2000,Science,10053,10.1126/science.290.5500.2323,United Kingdom,Article,London,0,Journal,2-s2.0-0034704222
+Fremuth-Paeger C.,,Balanced network flows. I. A unifying framework for design and analysis of matching algorithms,1999,Networks,16,10.1002/(SICI)1097-0037(199901)33:1<1::AID-NET1>3.0.CO;2-M,Germany,Article,Augsburg,0,Journal,2-s2.0-0032608479
+Snapp R.,,Asymptotic expansions of the k nearest neighbor risk,1998,Annals of Statistics,22,10.1214/aos/1024691080,United States,Article,Burlington,1,Journal,2-s2.0-0032350923

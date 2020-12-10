@@ -1,0 +1,44 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Li H.,,Mapping short DNA sequencing reads and calling variants using mapping quality scores,2008,Genome Research,1880,10.1101/gr.078212.108,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-55549097836
+Marioni J.,,RNA-seq: An assessment of technical reproducibility and comparison with gene expression arrays,2008,Genome Research,1877,10.1101/gr.079558.108,United States,Article,Chicago,1,Journal,2-s2.0-50649089207
+Sultan M.,,A global view of gene activity and alternative splicing by deep sequencing of the human transcriptome,2008,Science,914,10.1126/science.1160342,Germany,Article,Berlin,0,Journal,2-s2.0-47649124124
+Dutrow N.,,Dynamic transcriptome of Schizosaccharomyces pombe shown by RNA-DNA hybrid mapping,2008,Nature Genetics,75,10.1038/ng.196,United States;United States,Article,Salt Lake City;Salt Lake City,0,Journal,2-s2.0-48249146397
+Morin R.,,Profiling the HeLa S3 transcriptome using randomly primed cDNA and massively parallel short-read sequencing,2008,BioTechniques,276,10.2144/000112900,Canada,Article,Vancouver,1,Journal,2-s2.0-47949084846
+Cloonan N.,,Stem cell transcriptome profiling via massive-scale mRNA sequencing,2008,Nature Methods,743,10.1038/nmeth.1223,Australia,Article,Brisbane,0,Journal,2-s2.0-46249103973
+Mortazavi A.,,Mapping and quantifying mammalian transcriptomes by RNA-Seq,2008,Nature Methods,8299,10.1038/nmeth.1226,United States,Article,Pasadena,0,Journal,2-s2.0-46249106990
+Wilhelm B.,,Dynamic repertoire of a eukaryotic transcriptome surveyed at single-nucleotide resolution,2008,Nature,728,10.1038/nature07002,Canada;United Kingdom,Article,Montreal;Hinxton,0,Journal,2-s2.0-46249096804
+Nagalakshmi U.,,The transcriptional landscape of the yeast genome defined by RNA sequencing,2008,Science,1602,10.1126/science.1158441,United States,Article,New Haven,0,Journal,2-s2.0-45549088326
+Holt R.,,The new paradigm of flow cell sequencing,2008,Genome Research,167,10.1101/gr.073262.107,Canada,Article,Vancouver,1,Journal,2-s2.0-44849092474
+Campbell P.J.,,Identification of somatically acquired rearrangements in cancer using genome-wide massively parallel paired-end sequencing,2008,Nature Genetics,625,10.1038/ng.128,United Kingdom,Article,Hinxton,0,Journal,2-s2.0-44349191457
+Peiffer J.A.,,A spatial dissection of the Arabidopsis floral transcriptome by MPSS,2008,BMC Plant Biology,31,10.1186/1471-2229-8-43,United States;United States,Article,Newark;Ithaca,1,Journal,2-s2.0-43649086637
+Lister R.,,Highly Integrated Single-Base Resolution Maps of the Epigenome in Arabidopsis,2008,Cell,1598,10.1016/j.cell.2008.03.029,United States,Article,San Diego,1,Journal,2-s2.0-42749087226
+Vera J.,,Rapid transcriptome characterization for a nonmodel organism using 454 pyrosequencing,2008,Molecular Ecology,551,10.1111/j.1365-294X.2008.03666.x,United States,Article,University Park,0,Journal,2-s2.0-41149167170
+Li R.,,SOAP: Short oligonucleotide alignment program,2008,Bioinformatics,1610,10.1093/bioinformatics/btn025,China;Denmark,Article,Shenzhen;Odense,1,Journal,2-s2.0-40049104732
+Smith A.,,Using quality scores and longer reads improves accuracy of Solexa read mapping,2008,BMC Bioinformatics,230,10.1186/1471-2105-9-128,United States,Article,Cold Spring Harbor,1,Journal,2-s2.0-41249096306
+Hillier L.,,Whole-genome sequencing and variant discovery in C. elegans,2008,Nature Methods,314,10.1038/nmeth.1179,United States,Article,St. Louis,0,Journal,2-s2.0-38749149152
+Wu J.Q.,,Systematic analysis of transcribed loci in ENCODE regions using RACE sequencing reveals extensive transcription in the human genome,2008,Genome Biology,45,10.1186/gb-2008-9-1-r3,United States,Article,New Haven,1,Journal,2-s2.0-45849150615
+Barbazuk W.,,SNP discovery via 454 transcriptome sequencing,2007,Plant Journal,304,10.1111/j.1365-313X.2007.03193.x,United States,Article,St. Louis,1,Journal,2-s2.0-34548128406
+Royce T.,,Toward a universal microarray: Prediction of gene expression through nearest-neighbor probe sequence identification,2007,Nucleic Acids Research,49,10.1093/nar/gkm549,United States,Article,New Haven,1,Journal,2-s2.0-34548569002
+Emrich S.,,Gene discovery and annotation using LCM-454 transcriptome sequencing,2007,Genome Research,247,10.1101/gr.5145806,United States,Article,Ames,1,Journal,2-s2.0-33845984917
+Bass B.,,How does RNA editing affect dsRNA-mediated gene silencing?,2006,Cold Spring Harbor Symposia on Quantitative Biology,29,10.1101/sqb.2006.71.037,United States,Conference Paper,Salt Lake City,1,Book Series,2-s2.0-34250624128
+Manak J.,,Biological function of unannotated transcription during the early development of Drosophila melanogaster,2006,Nature Genetics,148,10.1038/ng1875,United States,Article,Waltham,0,Journal,2-s2.0-33749153857
+Okoniewski M.J.,,Hybridization interactions between probesets in short oligo microarrays lead to spurious correlations,2006,BMC Bioinformatics,113,10.1186/1471-2105-7-276,United Kingdom,Article,Manchester,1,Journal,2-s2.0-33746361200
+David L.,,A high-resolution map of transcription in the yeast genome,2006,Proceedings of the National Academy of Sciences of the United States of America,493,10.1073/pnas.0601091103,United States,Article,Stanford,1,Journal,2-s2.0-33645785104
+Kodzius R.,,Cage: Cap analysis of gene expression,2006,Nature Methods,266,10.1038/nmeth0306-211,Australia;Japan;Japan,Article,Adelaide;Yokohama;Saitama,0,Journal,2-s2.0-84988044467
+Hinnebusch A.,,Translational regulation of GCN4 and the general amino acid control of yeast,2005,Annual Review of Microbiology,766,10.1146/annurev.micro.59.031805.133833,United States,Review,Bethesda,0,Book Series,2-s2.0-27144510561
+Harbers M.,,Tag-based approaches for transcriptome research and genome annotation,2005,Nature Methods,129,10.1038/nmeth768,Japan,Review,Ibaraki,0,Journal,2-s2.0-23644460630
+Cheng J.,,Transcriptional maps of 10 human chromosomes at 5-nucleotide resolution,2005,Science,892,10.1126/science.1108625,United States,Article,Waltham,0,Journal,2-s2.0-21044431735
+Tomari Y.,,MicroRNA biogenesis: Drosha can't cut it without a partner,2005,Current Biology,107,10.1016/j.cub.2004.12.057,United States,Review,Worcester,1,Journal,2-s2.0-12544258104
+Bertone P.,,Global identification of human transcribed sequences with genome tiling arrays,2004,Science,801,10.1126/science.1103388,United States,Article,New Haven,0,Journal,2-s2.0-19944376457
+Nakamura M.,,Cap analysis gene expression: CAGE,2004,"Tanpakushitsu kakusan koso. Protein, nucleic acid, enzyme",5,,,Review,,0,Journal,2-s2.0-13844321904
+Gerhard D.S.,,"The status, quality, and expansion of the NIH full-length cDNA project: The Mammalian Gene Collection (MGC)",2004,Genome Research,378,10.1101/gr.2596504,United States,Article,Bethesda,1,Journal,2-s2.0-7444262496
+Shiraki T.,,Cap analysis gene expression for high-throughput analysis of transcriptional starting point and identification of promoter usage,2003,Proceedings of the National Academy of Sciences of the United States of America,465,10.1073/pnas.2136655100,Japan;Japan,Article,Wako;Yokohama,1,Journal,2-s2.0-9144233601
+Yamada K.,,Empirical Analysis of Transcriptional Activity in the Arabidopsis Genome,2003,Science,705,10.1126/science.1088305,United States,Article,Albany,0,Journal,2-s2.0-0242300620
+Clark T.,,Genomewide analysis of mRNA processing in yeast using splicing-specific microarrays,2002,Science,294,10.1126/science.1069415,United States,Article,Santa Cruz,0,Journal,2-s2.0-0037012922
+Reinartz J.,,Technique review massively parallel signature sequencing (MPSS) as a tool for in-depth quantitative gene expression profiling in all organisms,2002,Briefings in Functional Genomics and Proteomics,107,10.1093/bfgp/1.1.95,Germany,Review,Heidelberg,1,Journal,2-s2.0-3242875708
+Ruiz-Echevarría M.,,The RNA binding protein Pub1 modulates the stability of transcripts containing upstream open reading frames,2000,Cell,138,10.1016/S0092-8674(00)80886-7,United States,Article,Piscataway,1,Journal,2-s2.0-0034705289
+Brenner S.,,Gene expression analysis by massively parallel signature sequencing (MPSS) on microbead arrays,2000,Nature Biotechnology,1015,10.1038/76469,United States,Article,San Diego,0,Journal,2-s2.0-0034130561
+Kumar A.,,High-throughput methods for the large-scale analysis of gene function by transposon tagging,2000,Methods in Enzymology,29,10.1016/s0076-6879(00)28418-8,,Article,,0,Book Series,2-s2.0-0033733270
+Ross-Macdonald P.,,Large-scale analysis of the yeast genome by transposon tagging and gene disruption,1999,Nature,446,10.1038/46558,United States,Article,New Haven,0,Journal,2-s2.0-0033604566
+Velculescu V.,,Serial analysis of gene expression,1995,Science,3436,10.1126/science.270.5235.484,United States,Article,Baltimore,0,Journal,2-s2.0-0028789793
+Boguski M.,,Gene discovery in dbEST [1],1994,Science,126,10.1126/science.8091218,United States,Letter,Bethesda,0,Journal,2-s2.0-0028019887

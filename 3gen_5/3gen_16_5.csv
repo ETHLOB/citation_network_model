@@ -1,0 +1,10 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Michel V.,,A supervised clustering approach for fMRI-based inference of brain states,2012,Pattern Recognition,71,10.1016/j.patcog.2011.04.006,France;France;France,Article,Orsay;Saclay;Saclay,0,Journal,2-s2.0-80555158385
+Van Der Walt S.,,The NumPy array: A structure for efficient numerical computation,2011,Computing in Science and Engineering,3380,10.1109/MCSE.2011.37,South Africa,Article,Stellenbosch,0,Journal,2-s2.0-79952595565
+Sonnenburg S.,,The Shogun machine learning toolbox,2010,Journal of Machine Learning Research,169,,Germany,Article,Berlin,0,Journal,2-s2.0-77954666305
+Schaul T.,,PyBrain,2010,Journal of Machine Learning Research,193,,Switzerland,Article,Lugano,0,Journal,2-s2.0-77949523247
+Friedman J.,,Regularization paths for generalized linear models via coordinate descent,2010,Journal of Statistical Software,4969,10.18637/jss.v033.i01,United States,Article,Palo Alto,1,Journal,2-s2.0-77950537175
+Rokhlin V.,,A randomized algorithm for principal component analysis,2009,SIAM Journal on Matrix Analysis and Applications,195,10.1137/080736417,United States,Article,New Haven,0,Journal,2-s2.0-72449140504
+Hanke M.,,PyMVPA: A python toolbox for multivariate pattern analysis of fMRI data,2009,Neuroinformatics,244,10.1007/s12021-008-9041-y,Germany;Germany,Article,Magdeburg;Magdeburg,0,Journal,2-s2.0-64049085419
+Fan R.,,LIBLINEAR: A library for large linear classification,2008,Journal of Machine Learning Research,4968,,Taiwan,Article,Taipei,0,Journal,2-s2.0-50949133669
+Guyon I.,,Result analysis of the NIPS 2003 feature selection challenge,2005,Advances in Neural Information Processing Systems,132,,United States,Conference Paper,Berkeley,0,Conference Proceeding,2-s2.0-84898964855

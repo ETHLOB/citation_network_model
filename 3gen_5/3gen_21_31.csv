@@ -1,0 +1,9 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Li H.,,Determination of tag density required for digital transcriptome analysis: Application to an androgen-sensitive prostate cancer model,2008,Proceedings of the National Academy of Sciences of the United States of America,79,10.1073/pnas.0807121105,United States,Article,San Diego,1,Journal,2-s2.0-58149490714
+Marioni J.,,RNA-seq: An assessment of technical reproducibility and comparison with gene expression arrays,2008,Genome Research,1877,10.1101/gr.079558.108,United States,Article,Chicago,1,Journal,2-s2.0-50649089207
+Andersson A.,,Comparative analysis of human gut microbiota by barcoded pyrosequencing,2008,PLoS ONE,649,10.1371/journal.pone.0002836,Sweden;Sweden,Article,Uppsala;Solna,1,Journal,2-s2.0-50949131523
+Robinson M.,,"Small-sample estimation of negative binomial dispersion, with applications to SAGE data",2008,Biostatistics,566,10.1093/biostatistics/kxm030,Australia;Australia,Article,Melbourne;Parkville,1,Journal,2-s2.0-41149085992
+Wong J.,,Computational methods for the comparative quantification of proteins in label-free LC<sup>n</sup>-MS experiments,2008,Briefings in Bioinformatics,63,10.1093/bib/bbm046,Ireland,Review,Dublin,1,Journal,2-s2.0-42049094894
+Robinson M.,,Moderated statistical tests for assessing differences in tag abundance,2007,Bioinformatics,468,10.1093/bioinformatics/btm453,Australia;Australia,Article,Melbourne;Parkville,1,Journal,2-s2.0-36448981743
+Smyth G.K.,,Linear models and empirical bayes methods for assessing differential expression in microarray experiments,2004,Statistical Applications in Genetics and Molecular Biology,7988,10.2202/1544-6115.1027,Australia,Article,Melbourne,0,Journal,2-s2.0-4544341015
+Gentleman R.,,Bioconductor: open software development for computational biology and bioinformatics.,2004,Genome biology,8443,,United States,Article,Boston,0,Journal,2-s2.0-28744458859

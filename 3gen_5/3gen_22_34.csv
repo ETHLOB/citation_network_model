@@ -1,0 +1,34 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Kaya K.,,MESAdb: MicroRNA expression and sequence analysis database,2011,Nucleic Acids Research,32,10.1093/nar/gkq1256,Turkey,Article,Ankara,1,Journal,2-s2.0-78651330863
+Paşaniuc B.,,Accurate estimation of expression levels of homologous genes in RNA-seq experiments,2010,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),14,10.1007/978-3-642-12683-3_26,United States,Conference Paper,Berkeley,0,Book Series,2-s2.0-78650288768
+Coarfa C.,,Pash 3.0: A versatile software package for read mapping and integrative analysis of genomic and epigenomic variation using massively parallel DNA sequencing,2010,BMC Bioinformatics,39,10.1186/1471-2105-11-572,United States,Article,Houston,1,Journal,2-s2.0-78549291439
+Caporaso J.G.,,QIIME allows analysis of high-throughput community sequencing data,2010,Nature Methods,17051,10.1038/nmeth.f.303,United States,Letter,Boulder,0,Journal,2-s2.0-77952243141
+Kursa M.,,Feature selection with the boruta package,2010,Journal of Statistical Software,677,10.18637/jss.v036.i11,Poland,Article,Warsaw,1,Journal,2-s2.0-77958158373
+Creighton C.,,Expression profiling of microRNAs by deep sequencing,2009,Briefings in Bioinformatics,223,10.1093/bib/bbp019,United States,Article,Houston,1,Journal,2-s2.0-69249147045
+Li R.,,SOAP2: An improved ultrafast tool for short read alignment,2009,Bioinformatics,2442,10.1093/bioinformatics/btp336,China;Denmark,Article,Shenzhen;Odense,1,Journal,2-s2.0-67650711615
+Li H.,,Fast and accurate short read alignment with Burrows-Wheeler transform,2009,Bioinformatics,17684,10.1093/bioinformatics/btp324,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-67649884743
+Bartel D.,,MicroRNAs: Target Recognition and Regulatory Functions,2009,Cell,13032,10.1016/j.cell.2009.01.002,United States;United States,Review,Cambridge;Cambridge,1,Journal,2-s2.0-58249088751
+Jiang Q.,,miR2Disease: A manually curated database for microRNA deregulation in human disease,2009,Nucleic Acids Research,883,10.1093/nar/gkn714,China,Article,Harbin,1,Journal,2-s2.0-58149179989
+Creighton C.,,A bioinformatics tool for linking gene expression profiling results with public databases of microRNA target predictions,2008,RNA,109,10.1261/rna.1188208,United States,Article,Houston,1,Journal,2-s2.0-55649091427
+Morozova O.,,Applications of next-generation sequencing technologies in functional genomics,2008,Genomics,759,10.1016/j.ygeno.2008.07.001,Canada,Review,Vancouver,1,Journal,2-s2.0-53649088131
+Dohm J.,,Substantial biases in ultra-short read data sets from high-throughput DNA sequencing,2008,Nucleic Acids Research,726,10.1093/nar/gkn425,Germany,Article,Berlin,1,Journal,2-s2.0-52649157765
+Hackenberg M.,,Annotation-modules: A tool for finding significant combinations of multisource annotations for gene lists,2008,Bioinformatics,21,10.1093/bioinformatics/btn178,Spain,Article,Derio,1,Journal,2-s2.0-44349171852
+Mardis E.,,The impact of next-generation sequencing technology on genetics,2008,Trends in Genetics,1415,10.1016/j.tig.2007.12.007,United States,Review,St. Louis,0,Journal,2-s2.0-39649117755
+Nam S.,,miRGator: An integrated system for functional annotation of microRNAs,2008,Nucleic Acids Research,118,10.1093/nar/gkm829,South Korea;South Korea,Article,Seoul;Seoul,1,Journal,2-s2.0-38549092089
+Betel D.,,The microRNA.org resource: Targets and expression,2008,Nucleic Acids Research,1730,10.1093/nar/gkm995,United States,Article,New York,1,Journal,2-s2.0-38549124383
+Griffiths-Jones S.,,miRBase: Tools for microRNA genomics,2008,Nucleic Acids Research,3220,10.1093/nar/gkm952,United Kingdom,Article,Manchester,1,Journal,2-s2.0-38549150275
+Chen H.,,Bioinformatic prediction and experimental validation of a microRNA-directed tandem trans-acting siRNA cascade in Arabidopsis,2007,Proceedings of the National Academy of Sciences of the United States of America,150,10.1073/pnas.0611119104,Taiwan;Taiwan,Article,Taipei;Taichung,1,Journal,2-s2.0-33847652140
+Sethupathy P.,,A guide through present computational approaches for the identification of mammalian microRNA targets,2006,Nature Methods,456,10.1038/nmeth954,United States,Article,Philadelphia,0,Journal,2-s2.0-33750318273
+Subramanian A.,,Gene set enrichment analysis: A knowledge-based approach for interpreting genome-wide expression profiles,2005,Proceedings of the National Academy of Sciences of the United States of America,16322,10.1073/pnas.0506580102,United States,Article,Cambridge,1,Journal,2-s2.0-27344435774
+Krek A.,,Combinatorial microRNA target predictions,2005,Nature Genetics,3564,10.1038/ng1536,United States,Article,New York,0,Journal,2-s2.0-20944450160
+Allen E.,,microRNA-directed phasing during trans-acting siRNA biogenesis in plants,2005,Cell,1532,10.1016/j.cell.2005.04.004,United States,Article,Corvallis,1,Journal,2-s2.0-17444430392
+Griffiths-Jones S.,,Rfam: Annotating non-coding RNAs in complete genomes,2005,Nucleic Acids Research,917,10.1093/nar/gki081,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-13444252847
+Miska E.,,Microarray analysis of microRNA expression in the developing mammalian brain.,2004,Genome biology,643,,United States,Article,Cambridge,0,Journal,2-s2.0-5344273958
+Thomson J.,,A custom microarray platform for analysis of microRNA gene expression,2004,Nature Methods,621,10.1038/nmeth704,,Article,,0,Journal,2-s2.0-13944262052
+Lewis B.,,Prediction of Mammalian MicroRNA Targets,2003,Cell,3786,10.1016/S0092-8674(03)01018-3,United States,Article,Cambridge,1,Journal,2-s2.0-0346094457
+Hofacker I.,,Vienna RNA secondary structure server,2003,Nucleic Acids Research,1556,10.1093/nar/gkg599,Austria,Article,Vienna,1,Journal,2-s2.0-0043123153
+Reinartz J.,,Technique review massively parallel signature sequencing (MPSS) as a tool for in-depth quantitative gene expression profiling in all organisms,2002,Briefings in Functional Genomics and Proteomics,107,10.1093/bfgp/1.1.95,Germany,Review,Heidelberg,1,Journal,2-s2.0-3242875708
+Mullan L.,,Short EMBOSS User Guide. European Molecular Biology Open Software Suite.,2002,Briefings in bioinformatics,25,10.1093/bib/3.1.92,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-0036518771
+Breiman L.,,Random forests,2001,Machine Learning,38873,10.1023/A:1010933404324,United States,Article,Berkeley,1,Journal,2-s2.0-0035478854
+Altschul S.,,Gapped BLAST and PSI-BLAST: A new generation of protein database search programs,1997,Nucleic Acids Research,54867,10.1093/nar/25.17.3389,United States,Review,Bethesda,1,Journal,2-s2.0-0030801002
+Audic S.,,The significance of digital gene expression profiles,1997,Genome Research,2153,10.1101/gr.7.10.986,France,Article,Paris,1,Journal,2-s2.0-0030681260

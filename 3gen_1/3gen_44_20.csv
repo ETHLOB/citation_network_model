@@ -1,0 +1,33 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Gomez S.,,Probabilistic prediction of unknown metabolic and signal-transduction networks,2001,Genetics,46,,United States,Article,New York,0,Journal,2-s2.0-0035672003
+Mathias N.,,Small worlds: How and why,2001,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",75,10.1103/PhysRevE.63.021117,India,Article,Bengaluru,0,Journal,2-s2.0-0000155542
+Jeong H.,,Lethality and centrality in protein networks,2001,Nature,3476,10.1038/35075138,United States,Article,Notre Dame,0,Journal,2-s2.0-0035799707
+Kuperman M.,,Small world effect in an epidemiological model,2001,Physical Review Letters,435,10.1103/PhysRevLett.86.2909,Argentina,Article,San Carlos de Bariloche,0,Journal,2-s2.0-4243756311
+Aravind L.,,Apoptotic molecular machinery: Vastly increased complexity in vertebrates revealed by genome comparisons,2001,Science,279,10.1126/science.291.5507.1279,United States,Article,Bethesda,1,Journal,2-s2.0-0035895540
+Lander E.S.,,Initial sequencing and analysis of the human genome,2001,Nature,15762,10.1038/35057062,United States,Article,Cambridge,1,Journal,2-s2.0-2042437650
+Roy S.,,"Network models, growth, dynamics, and failure",2001,Proceedings of the Hawaii International Conference on System Sciences,20,,,Conference Paper,,0,Conference Proceeding,2-s2.0-0034970759
+Xenarios I.,,DIP: The Databases of Interacting Protein: 2001 update,2001,Nucleic Acids Research,155,,United States,Article,Los Angeles,0,Journal,2-s2.0-0034747028
+Apweiler R.,,"The InterPro database, an integrated documentation resource for protein families, domains and functional sites",2001,Nucleic Acids Research,736,10.1093/nar/29.1.37,United Kingdom,Article,London,1,Journal,2-s2.0-0035166973
+Aiello W.,,A random graph model for massive graphs,2000,Proceedings of the Annual ACM Symposium on Theory of Computing,597,10.1145/335305.335326,United States,Conference Paper,Florham Park,0,Conference Proceeding,2-s2.0-0033687763
+Krapivsky P.,,Connectivity of growing random networks,2000,Physical Review Letters,817,10.1103/PhysRevLett.85.4629,France;United States,Article,Toulouse;Boston,0,Journal,2-s2.0-0034310714
+Cohen R.,,Resilience of the Internet to random breakdowns,2000,Physical Review Letters,1643,10.1103/PhysRevLett.85.4626,Israel,Article,Ramat Gan,0,Journal,2-s2.0-0034323311
+Ogata H.,,A heuristic graph comparison algorithm and its application to detect functionally related enzyme clusters,2000,Nucleic Acids Research,156,10.1093/nar/28.20.4021,Japan;France,Article,Kyoto;Marseille,0,Journal,2-s2.0-0034667776
+Jeong H.,,The large-scale organization of metabolic networks,2000,Nature,3529,10.1038/35036627,United States,Article,Notre Dame,0,Journal,2-s2.0-0034609791
+Albert R.,,Error and attack tolerance of complex networks,2000,Nature,5589,10.1038/35019019,United States,Article,Notre Dame,0,Journal,2-s2.0-0034721164
+Selkov E.,,Functional analysis of gapped microbial genomes: Amino acid metabolism of Thiobacillus ferrooxidans,2000,Proceedings of the National Academy of Sciences of the United States of America,50,10.1073/pnas.97.7.3509,United States,Article,Chicago,1,Journal,2-s2.0-0034724276
+Slanina F.,,Random networks created by biological evolution,2000,"Physical Review E - Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics",19,10.1103/PhysRevE.62.6170,Czech Republic,Article,Prague,0,Journal,2-s2.0-0034310668
+Goto S.,,LIGAND: Chemical database of enzyme reactions,2000,Nucleic Acids Research,41,10.1093/nar/28.1.380,Japan,Short Survey,Kyoto,1,Journal,2-s2.0-0033983842
+Yanai I.,,Predictions of gene family distributions in microbial genomes: Evolution by gene duplication and modification,2000,Physical Review Letters,69,10.1103/PhysRevLett.85.2641,United States,Article,Boston,0,Journal,2-s2.0-0034683244
+Jespersen S.,,Small-world networks: Links with long-tailed distributions,2000,"Physical Review E - Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics",102,10.1103/PhysRevE.62.6270,Denmark;Germany,Article,Aarhus;Freiburg im Breisgau,0,Journal,2-s2.0-0034316638
+Karp P.D.,,The EcoCyc and MetaCyc databases,2000,Nucleic Acids Research,194,10.1093/nar/28.1.56,United States,Short Survey,Menlo Park,1,Journal,2-s2.0-0033964238
+Overbeek R.,,WIT: Integrated system for high-throughput genome sequence analysis and metabolic reconstruction,2000,Nucleic Acids Research,287,10.1093/nar/28.1.123,United States,Short Survey,Chicago,1,Journal,2-s2.0-0033977576
+Newman M.,,Mean-field solution of the small-world network model,2000,Physical Review Letters,313,10.1103/PhysRevLett.84.3201,United States,Article,Santa Fe,0,Journal,2-s2.0-0034599275
+Xenarios I.,,DIP: The Database of Interacting Proteins,2000,Nucleic Acids Research,684,10.1093/nar/28.1.289,United States,Short Survey,Los Angeles,1,Journal,2-s2.0-0033971642
+Albert R.,,Topology of evolving networks: Local events and universality,2000,Physical Review Letters,988,10.1103/PhysRevLett.85.5234,United States,Article,Notre Dame,0,Journal,2-s2.0-0142077573
+Bateman A.,,The Pfam protein families database,2000,Nucleic Acids Research,1167,10.1093/nar/28.1.263,United Kingdom,Short Survey,London,1,Journal,2-s2.0-0033976458
+Barabási A.,,Emergence of scaling in random networks,1999,Science,22102,10.1126/science.286.5439.509,United States,Article,Notre Dame,0,Journal,2-s2.0-0038483826
+Valdivia R.,,Regulatory network analysis (multiple letters) [1],1999,Trends in Microbiology,1,10.1016/S0966-842X(99)01584-X,United States,Letter,Berkeley,0,Journal,2-s2.0-0032856564
+Ogata H.,,KEGG: Kyoto encyclopedia of genes and genomes,1999,Nucleic Acids Research,2458,10.1093/nar/27.1.29,Japan,Review,Uji,1,Journal,2-s2.0-0032919364
+Shi H.,,On-line metabolic pathway analysis based on metabolic signal flow diagram,1998,Biotechnology and Bioengineering,20,10.1002/(SICI)1097-0290(19980420)58:2/3<139::AID-BIT5>3.0.CO;2-M,Japan,Article,Kitakyushu,0,Journal,2-s2.0-0032485895
+Bono H.,,Reconstruction of amino acid biosynthesis pathways from the complete genome sequence,1998,Genome Research,121,10.1101/gr.8.3.203,Japan,Article,Kyoto,1,Journal,2-s2.0-0031966808
+Sankoff D.,,Probabilistic models of genome shuffling,1989,Bulletin of Mathematical Biology,11,10.1007/BF02458839,Canada,Article,Montreal,0,Journal,2-s2.0-0024551941

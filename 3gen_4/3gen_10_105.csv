@@ -1,0 +1,13 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Ranger C.,,Evaluating MapReduce for multi-core and multiprocessor systems,2007,Proceedings - International Symposium on High-Performance Computer Architecture,689,10.1109/HPCA.2007.346181,United States,Conference Paper,Palo Alto,0,Conference Proceeding,2-s2.0-34547679939
+Huston L.,,Diamond: A storage architecture for early discard in interactive search,2004,"Proceedings of the 3rd USENIX Conference on File and Storage Technologies, FAST 2004",64,,United States,Conference Paper,Santa Clara,0,Conference Proceeding,2-s2.0-85084164521
+Dean J.,,MapReduce: Simplified data processing on large clusters,2004,OSDI 2004 - 6th Symposium on Operating Systems Design and Implementation,5657,,United States,Conference Paper,Mountain View,0,Conference Proceeding,2-s2.0-85030321143
+Barroso L.,,Web search for a planet: The google cluster architecture,2003,IEEE Micro,643,10.1109/MM.2003.1196112,,Article,,0,Journal,2-s2.0-0037619265
+Ghemawat S.,,The google file system,2003,Operating Systems Review (ACM),3679,10.1145/1165389.945450,,Conference Paper,,0,Conference Proceeding,2-s2.0-21644437974
+Riedel E.,,Active disks for large-scale data processing,2001,Computer,139,10.1109/2.928624,United States,Article,Palo Alto,0,Journal,2-s2.0-0035371016
+Arpaci-Dusseau A.C.,,High-Performance Sorting on Networks of Workstations,1997,SIGMOD Record (ACM Special Interest Group on Management of Data),69,10.1145/253262.253322,United States,Article,Berkeley,0,Journal,2-s2.0-0031169298
+Fox A.,,Cluster-Based Scalable Network Services,1997,Operating Systems Review (ACM),246,10.1145/269005.266662,United States,Article,Berkeley,0,Conference Proceeding,2-s2.0-0031542278
+Gorlatch S.,,Systematic efficient parallelization of scan and other list homomorphisms,1996,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),39,10.1007/bfb0024729,Germany,Conference Paper,,0,Book Series,2-s2.0-84947938236
+Rabin M.,,"Efficient Dispersal of Information for Security, Load Balancing, and Fault Tolerance",1989,Journal of the ACM (JACM),913,10.1145/62044.62050,United States,Article,Cambridge,0,Journal,2-s2.0-0024641589
+Blelloch G.,,Scans as Primitive Parallel Operations,1989,IEEE Transactions on Computers,263,10.1109/12.42122,United States,Article,Pittsburgh,0,Journal,2-s2.0-0024770039
+Ladner R.,,Parallel Prefix Computation,1980,Journal of the ACM (JACM),817,10.1145/322217.322232,United States,Article,Seattle,0,Journal,2-s2.0-84976772007

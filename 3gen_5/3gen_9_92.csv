@@ -1,0 +1,26 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Chen Y.,,Uncover disease genes by maximizing information flow in the phenome-interactome network,2011,Bioinformatics,58,10.1093/bioinformatics/btr213,China;China;China,Article,Jinan;Beijing;Beijing,1,Journal,2-s2.0-79959486836
+Zhang W.,,Integrating multiple protein-protein interaction networks to prioritize disease genes: A Bayesian regression approach,2011,BMC Bioinformatics,44,10.1186/1471-2105-12-s1-s11,China,Conference Paper,Beijing,1,Journal,2-s2.0-79953744330
+Schlicker A.,,Improving disease gene prioritization using the semantic similarity of gene ontology terms,2010,Bioinformatics,77,10.1093/bioinformatics/btq384,Netherlands;Germany,Article,Amsterdam;Saarbrucken,1,Journal,2-s2.0-77956497662
+Li Y.,,Genome-wide inferring gene-phenotype relationship by walking on the heterogeneous network,2010,Bioinformatics,236,10.1093/bioinformatics/btq108,Singapore,Article,Singapore City,0,Journal,2-s2.0-77952808324
+Vanunu O.,,Associating genes and protein complexes with disease via network propagation,2010,PLoS Computational Biology,524,10.1371/journal.pcbi.1000641,Israel,Article,Tel Aviv-Yafo,1,Journal,2-s2.0-76749134818
+Smedley D.,,BioMart - Biological queries made easy,2009,BMC Genomics,400,10.1186/1471-2164-10-22,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-61649083057
+Amberger J.,,McKusick's Online Mendelian Inheritance in Man (OMIM®),2009,Nucleic Acids Research,474,10.1093/nar/gkn665,United States,Article,Baltimore,1,Journal,2-s2.0-58149189856
+Keshava Prasad T.S.,,Human Protein Reference Database - 2009 update,2009,Nucleic Acids Research,2159,10.1093/nar/gkn892,India,Article,Bangalore,1,Journal,2-s2.0-58149193222
+Wu X.,,Align human interactome with phenome to identify causative genes and networks underlying disease families,2009,Bioinformatics,74,10.1093/bioinformatics/btn593,China,Article,Beijing,1,Journal,2-s2.0-58049220319
+Guan Y.,,A genomewide functional network for the laboratory mouse,2008,PLoS Computational Biology,87,10.1371/journal.pcbi.1000165,United States,Article,Princeton,1,Journal,2-s2.0-52949087576
+Wu X.,,Network-based global inference of human disease genes,2008,Molecular Systems Biology,483,10.1038/msb.2008.27,China,Article,Beijing,1,Journal,2-s2.0-43249114206
+Köhler S.,,Walking the Interactome for Prioritization of Candidate Disease Genes,2008,American Journal of Human Genetics,775,10.1016/j.ajhg.2008.02.013,Germany,Article,Berlin,1,Journal,2-s2.0-41549139527
+Goh K.,,The human disease network,2007,Proceedings of the National Academy of Sciences of the United States of America,2104,10.1073/pnas.0701361104,United States;United States;South Korea;United States,Article,Notre Dame;Boston;Seoul;Boston,1,Journal,2-s2.0-34547140875
+Wang J.,,A new method to measure the semantic similarity of GO terms,2007,Bioinformatics,613,10.1093/bioinformatics/btm087,United States,Article,Clemson,0,Journal,2-s2.0-34447294237
+Gaulton K.,,A computational system to select candidate genes for complex human traits,2007,Bioinformatics,66,10.1093/bioinformatics/btm001,United States,Article,Chapel Hill,1,Journal,2-s2.0-34249850089
+Lage K.,,A human phenome-interactome network of protein complexes implicated in genetic disorders,2007,Nature Biotechnology,700,10.1038/nbt1295,Denmark,Article,Lyngby,0,Journal,2-s2.0-33947095027
+Oti M.,,The modular nature of genetic diseases,2007,Clinical Genetics,289,10.1111/j.1399-0004.2006.00708.x,Netherlands,Review,Nijmegen,0,Journal,2-s2.0-33845545435
+Schlicker A.,,A new measure for functional similarity of gene products based on gene ontology,2006,BMC Bioinformatics,434,10.1186/1471-2105-7-302,Germany,Article,Saarbrucken,1,Journal,2-s2.0-33748335463
+van Driel M.,,A text-mining analysis of the human phenome,2006,European Journal of Human Genetics,420,10.1038/sj.ejhg.5201585,Netherlands,Article,Nijmegen,1,Journal,2-s2.0-33646058032
+Aerts S.,,Gene prioritization through genomic data fusion,2006,Nature Biotechnology,655,10.1038/nbt1203,Belgium,Article,3000 Leuven,0,Journal,2-s2.0-33646568805
+Franke L.,,"Reconstruction of a functional human gene network, with an application for prioritizing positional candidate genes",2006,American Journal of Human Genetics,381,10.1086/504300,Netherlands,Article,Utrecht,1,Journal,2-s2.0-33646884801
+Adie E.,,Speeding disease gene discovery by sequence based candidate prioritization,2005,BMC Bioinformatics,200,10.1186/1471-2105-6-55,United Kingdom,Article,Edinburgh,1,Journal,2-s2.0-25444482801
+Botstein D.,,"Discovering genotypes underlying human phenotypes: Past successes for mendelian disease, future approaches for complex disease",2003,Nature Genetics,1134,10.1038/ng1090,United States,Review,Stanford,0,Journal,2-s2.0-0037373275
+Glazier A.,,Genetics: Finding genes that underline complex traits,2002,Science,658,10.1126/science.1076641,United Kingdom,Review,London,0,Journal,2-s2.0-0037146578
+Resnik P.,,Semantic Similarity in a Taxonomy: An Information-Based Measure and its Application to Problems of Ambiguity in Natural Language,1999,Journal of Artificial Intelligence Research,1392,10.1613/jair.514,United States,Article,College Park,1,Journal,2-s2.0-0002016474

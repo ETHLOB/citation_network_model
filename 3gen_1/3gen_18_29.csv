@@ -1,0 +1,21 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Pakhira M.,,Validity index for crisp and fuzzy clusters,2004,Pattern Recognition,490,10.1016/j.patcog.2003.06.005,India,Article,Nadia,0,Journal,2-s2.0-0348108148
+Maulik U.,,Fuzzy partitioning using a real-coded variable-length genetic algorithm for pixel classification,2003,IEEE Transactions on Geoscience and Remote Sensing,213,10.1109/TGRS.2003.810924,India;United States,Article,Nadia;New York,0,Journal,2-s2.0-8844278616
+Bandyopadhyay S.,,Clustering using simulated annealing with probabilistic redistribution,2001,International Journal of Pattern Recognition and Artificial Intelligence,62,10.1142/S0218001401000927,India,Article,Kolkata,0,Journal,2-s2.0-0035273381
+Bandyopadhyay S.,,Pixel classification using variable string genetic algorithms with chromosome differentiation,2001,IEEE Transactions on Geoscience and Remote Sensing,78,10.1109/36.905238,India;United States,Article,Kolkata;New York,0,Journal,2-s2.0-0035248083
+Kothari R.,,On finding the number of clusters,1999,Pattern Recognition Letters,121,10.1016/S0167-8655(99)00008-2,United States,Article,Cincinnati,0,Journal,2-s2.0-0033117357
+Hall L.,,Clustering with a genetically optimized approach,1999,IEEE Transactions on Evolutionary Computation,346,10.1109/4235.771164,United States,Article,Tampa,0,Journal,2-s2.0-0032660692
+Bezdek J.,,Some new indexes of cluster validity,1998,"IEEE Transactions on Systems, Man, and Cybernetics, Part B: Cybernetics",811,10.1109/3477.678624,United States;United States,Article,Pensacola;New York,0,Journal,2-s2.0-0032098774
+Sarkar M.,,A clustering algorithm using an evolutionary programming-based approach,1997,Pattern Recognition Letters,83,10.1016/S0167-8655(97)00122-0,India,Article,Chennai,0,Journal,2-s2.0-0031248740
+Scheunders P.,,A genetic c-means clustering algorithm applied to color image quantization,1997,Pattern Recognition,168,10.1016/S0031-3203(96)00131-8,Belgium,Article,Antwerpen,0,Journal,2-s2.0-0031169139
+Mandal D.,,Analysis of IRS imagery for detecting man-made objects with a multivalued recognition system,1996,"IEEE Transactions on Systems, Man, and Cybernetics Part A:Systems and Humans.",14,10.1109/3468.485750,India,Article,Kolkata,0,Journal,2-s2.0-0030107884
+Hall L.,,Scaling genetically guided fuzzy clustering,1995,Annual Conference of the North American Fuzzy Information Processing Society - NAFIPS,6,,United States,Conference Paper,Tampa,0,Conference Proceeding,2-s2.0-38449092027
+Hathaway R.,,Optimization of Clustering Criteria by Reformulation,1995,IEEE Transactions on Fuzzy Systems,166,10.1109/91.388178,United States,Article,Statesboro,0,Journal,2-s2.0-57849144858
+Pal N.,,On Cluster Validity for the Fuzzy c-Means Model,1995,IEEE Transactions on Fuzzy Systems,1378,10.1109/91.413225,United States,Article,Pensacola,0,Journal,2-s2.0-0029360028
+Bezdek J.,,Computing with Uncertainty Combining fuzzy models with computational neural networks often improves computer performance in pattern recognition problems.,1992,IEEE Communications Magazine,28,10.1109/35.156801,United States,Article,Pensacola,0,Journal,2-s2.0-84947666497
+Xie X.,,A validity measure for fuzzy clustering,1991,IEEE Transactions on Pattern Analysis and Machine Intelligence,2400,10.1109/34.85677,United States,Article,Santa Barbara,0,Journal,2-s2.0-0026204245
+Davies D.,,A Cluster Separation Measure,1979,IEEE Transactions on Pattern Analysis and Machine Intelligence,3791,10.1109/TPAMI.1979.4766909,United States,Article,Leuven,0,Journal,2-s2.0-0017953820
+Caliñski T.,,A Dendrite Method Foe Cluster Analysis,1974,Communications in Statistics,2941,10.1080/03610927408827101,Poland,Article,Poznan,0,Journal,2-s2.0-84972893020
+Bezdek J.C.,,Cluster validity with fuzzy sets,1973,Journal of Cybernetics,881,10.1080/01969727308546047,United States,Article,Oneonta,0,Journal,2-s2.0-0015644823
+Dunn J.,,A fuzzy relative of the ISODATA process and its use in detecting compact well-separated clusters,1973,Journal of Cybernetics,3809,10.1080/01969727308546046,United States,Article,Ithaca,0,Journal,2-s2.0-0015644825
+Zahn C.,,Graph-Theoretical Methods for Detecting and Describing Gestalt Clusters,1971,IEEE Transactions on Computers,1208,10.1109/T-C.1971.223083,United States,Article,Menlo Park,0,Journal,2-s2.0-0014976008

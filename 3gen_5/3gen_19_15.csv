@@ -1,0 +1,33 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Raney B.,,Track data hubs enable visualization of user-defined genome-wide annotations on the UCSC Genome Browser,2014,Bioinformatics,162,10.1093/bioinformatics/btt637,United States,Article,Santa Cruz,1,Journal,2-s2.0-84891814834
+Liu X.,,dbNSFP v2.0: A database of human non-synonymous SNVs and their functional predictions and annotations,2013,Human Mutation,402,10.1002/humu.22376,United States,Article,Houston,0,Journal,2-s2.0-84881613239
+Hickey G.,,HAL: A hierarchical format for storing and analyzing multiple genome alignments,2013,Bioinformatics,34,10.1093/bioinformatics/btt128,United States,Article,Santa Cruz,1,Journal,2-s2.0-84877940570
+Acland A.,,Database resources of the National Center for Biotechnology Information,2013,Nucleic Acids Research,321,10.1093/nar/gks1189,United States,Article,Bethesda,1,Journal,2-s2.0-84876532610
+Rosenbloom K.,,ENCODE Data in the UCSC Genome Browser: Year 5 update,2013,Nucleic Acids Research,496,10.1093/nar/gks1172,United States,Article,Santa Cruz,1,Journal,2-s2.0-84875945705
+Burge S.,,Rfam 11.0: 10 years of RNA families,2013,Nucleic Acids Research,530,10.1093/nar/gks1005,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-84874266637
+Meyer L.,,The UCSC Genome Browser database: Extensions and updates 2013,2013,Nucleic Acids Research,559,10.1093/nar/gks1048,United States,Article,Santa Cruz,1,Journal,2-s2.0-84875404794
+Apweiler R.,,Update on activities at the Universal Protein Resource (UniProt) in 2013,2013,Nucleic Acids Research,559,10.1093/nar/gks1068,United Kingdom;United States,Article,Cambridge;Newark,1,Journal,2-s2.0-84874724662
+Flicek P.,,Ensembl 2013,2013,Nucleic Acids Research,743,10.1093/nar/gks1236,United Kingdom;United Kingdom,Article,Cambridge;Hinxton,1,Journal,2-s2.0-84875391572
+Barrett T.,,NCBI GEO: Archive for functional genomics data sets - Update,2013,Nucleic Acids Research,2789,10.1093/nar/gks1193,United States,Article,Bethesda,1,Journal,2-s2.0-84874271270
+Altshuler D.M.,,"An integrated map of genetic variation from 1,092 human genomes",2012,Nature,4832,10.1038/nature11632,United States;United States;United States,Article,Boston;Boston;Cambridge,1,Journal,2-s2.0-84975795680
+Meyer M.,,A high-coverage genome sequence from an archaic Denisovan individual,2012,Science,866,10.1126/science.1224344,Germany,Article,Leipzig,0,Journal,2-s2.0-84867331947
+Dunham I.,,An integrated encyclopedia of DNA elements in the human genome,2012,Nature,8344,10.1038/nature11247,United Kingdom,Article,London,1,Journal,2-s2.0-84865790047
+Harrow J.,,GENCODE: The reference human genome annotation for the ENCODE project,2012,Genome Research,2297,10.1101/gr.135350.111,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-84865760395
+Stamatoyannopoulos J.A.,,An encyclopedia of mouse DNA elements (Mouse ENCODE),2012,Genome Biology,283,10.1186/gb-2012-13-8-418,United States,Letter,Seattle,1,Journal,2-s2.0-84865121188
+Adams D.,,BLUEPRINT to decode the epigenetic signature written in blood,2012,Nature Biotechnology,193,10.1038/nbt.2153,United Kingdom,Letter,Hinxton,0,Journal,2-s2.0-84857980747
+Lindblad-Toh K.,,A high-resolution map of human evolutionary constraint using 29 mammals,2011,Nature,630,10.1038/nature10530,United States;Sweden,Article,Cambridge;Uppsala,1,Journal,2-s2.0-80054973803
+Paten B.,,Cactus: Algorithms for genome multiple sequence alignment,2011,Genome Research,103,10.1101/gr.123356.111,United States,Article,Santa Cruz,1,Journal,2-s2.0-80052551536
+Danecek P.,,The variant call format and VCFtools,2011,Bioinformatics,3499,10.1093/bioinformatics/btr330,United Kingdom,Article,London,1,Journal,2-s2.0-79960405019
+Fokkema I.,,LOVD v.2.0: The next generation in gene variant databases,2011,Human Mutation,511,10.1002/humu.21438,Netherlands,Article,Leiden,1,Journal,2-s2.0-79954997174
+Haeussler M.,,Annotating genes and genomes with DNA sequences extracted from biomedical articles,2011,Bioinformatics,18,10.1093/bioinformatics/btr043,United Kingdom,Article,Manchester,1,Journal,2-s2.0-79953310540
+Bernstein B.,,The NIH roadmap epigenomics mapping consortium,2010,Nature Biotechnology,981,10.1038/nbt1010-1045,United States;United States,Note,Boston;Cambridge,0,Journal,2-s2.0-77957940722
+Kent W.,,BigWig and BigBed: Enabling browsing of large distributed datasets,2010,Bioinformatics,341,10.1093/bioinformatics/btq351,United States,Article,Santa Cruz,1,Journal,2-s2.0-77955895425
+McLaren W.,,Deriving the consequences of genomic variants with the Ensembl API and SNP Effect Predictor,2010,Bioinformatics,1051,10.1093/bioinformatics/btq330,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-77955405475
+Li H.,,The Sequence Alignment/Map format and SAMtools,2009,Bioinformatics,19680,10.1093/bioinformatics/btp352,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-68549104404
+Pruitt K.D.,,The consensus coding sequence (CCDS) project: Identifying a common protein-coding gene set for the human and mouse genomes,2009,Genome Research,364,10.1101/gr.080531.108,United States,Article,Bethesda,1,Journal,2-s2.0-67650064594
+Stenson P.,,The human gene mutation database: 2008 update,2009,Genome Medicine,616,10.1186/gm13,United Kingdom,Letter,Cardiff,1,Journal,2-s2.0-77953446523
+Blanchette M.,,Computational reconstruction of ancestral DNA sequences.,2008,"Methods in molecular biology (Clifton, N.J.)",23,10.1007/978-1-59745-581-7_11,Canada,Article,Montreal,0,Journal,2-s2.0-48849105171
+Karolchik D.,,The UCSC genome browser database: 2008 update,2008,Nucleic Acids Research,407,10.1093/nar/gkm966,United States,Article,Santa Cruz,1,Journal,2-s2.0-38549131376
+Hsu F.,,The UCSC known genes,2006,Bioinformatics,371,10.1093/bioinformatics/btl048,United States,Article,Santa Cruz,1,Journal,2-s2.0-33646133653
+James Kent W.,,The human genome browser at UCSC,2002,Genome Research,5354,10.1101/gr.229102. Article published online before print in May 2002,United States,Article,Santa Cruz,0,Journal,2-s2.0-0036079158
+Lowe T.,,TRNAscan-SE: A program for improved detection of transfer RNA genes in genomic sequence,1996,Nucleic Acids Research,6919,10.1093/nar/25.5.0955,United States,Article,St. Louis,0,Journal,2-s2.0-0030854739

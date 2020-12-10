@@ -1,0 +1,7 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Brefeld U.,,Co-EM Support Vector learning,2004,"Proceedings, Twenty-First International Conference on Machine Learning, ICML 2004",93,,Germany,Conference Paper,Berlin,0,Conference Proceeding,2-s2.0-14344251008
+Banerjee A.,,Generative model-based clustering of directional data,2003,Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,68,10.1145/956750.956757,United States,Conference Paper,Austin,0,Conference Proceeding,2-s2.0-4644274464
+Wang J.,,ReCoM: Reinforcement Clustering of Multi-Type Interrelated Data Objects,2003,SIGIR Forum (ACM Special Interest Group on Information Retrieval),88,,China,Conference Paper,Beijing,0,Journal,2-s2.0-1542347775
+Dhillon I.,,Concept decompositions for large sparse text data using clustering,2001,Machine Learning,854,10.1023/A:1007612920971,United States,Article,Austin,1,Journal,2-s2.0-0034824884
+Blum A.,,Combining labeled and unlabeled data with co-training,1998,Proceedings of the Annual ACM Conference on Computational Learning Theory,3259,10.1145/279943.279962,United States,Conference Paper,Pittsburgh,0,Conference Proceeding,2-s2.0-0031620208
+Griffiths A.,,Hierarchic agglomerative clustering metHods for automatic document classification,1984,Journal of Documentation,66,10.1108/eb026764,,Review,,0,Journal,2-s2.0-0021496227

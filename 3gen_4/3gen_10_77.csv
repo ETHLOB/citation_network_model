@@ -1,0 +1,17 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Xiaowei Y.,,On randomness measures for social networks,2009,"Society for Industrial and Applied Mathematics - 9th SIAM International Conference on Data Mining 2009, Proceedings in Applied Mathematics",5,,United States,Conference Paper,Charlotte,0,Conference Proceeding,2-s2.0-72749094724
+Shrivastava N.,,Mining (social) network graphs to detect random link attacks,2008,Proceedings - International Conference on Data Engineering,68,10.1109/ICDE.2008.4497457,United States,Conference Paper,Murray,0,Conference Proceeding,2-s2.0-52649118019
+Costa L.,,Characterization of complex networks: A survey of measurements,2007,Advances in Physics,1373,10.1080/00018730601170527,Brazil,Review,Sao Paulo,0,Journal,2-s2.0-33947724499
+Faloutsos C.,,Data mining using fractals and power laws,2006,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),15,10.1007/11752912_2,United States,Conference Paper,Pittsburgh,1,Book Series,2-s2.0-33745822438
+Newman M.E.J.,,Finding community structure in networks using the eigenvectors of matrices,2006,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",2561,10.1103/PhysRevE.74.036104,United States,Article,Ann Arbor,0,Journal,2-s2.0-33749468596
+Newman M.,,Detecting community structure in networks,2004,European Physical Journal B,1362,10.1140/epjb/e2004-00124-y,United States,Conference Paper,Ann Arbor,0,Journal,2-s2.0-2942564706
+Wang Y.,,Epidemic spreading in real networks: An eigenvalue viewpoint,2003,Proceedings of the IEEE Symposium on Reliable Distributed Systems,504,10.1109/RELDIS.2003.1238052,United States,Conference Paper,Pittsburgh,0,Conference Proceeding,2-s2.0-27644462218
+Newman M.,,The structure and function of complex networks,2003,SIAM Review,11538,10.1137/S003614450342480,United States,Review,Ann Arbor,0,Journal,2-s2.0-0038718854
+Chung F.,,Sparse quasi-random graphs,2002,Combinatorica,30,10.1007/s004930200010,United States,Article,San Diego,0,Journal,2-s2.0-0036332631
+Ding C.,,A min-max cult algorithm for graph partitioning and data clustering,2001,"Proceedings - IEEE International Conference on Data Mining, ICDM",621,,United States,Conference Paper,Berkeley,0,Conference Proceeding,2-s2.0-78149301227
+Farkas I.J.,,"Spectra of ""real-world"" graphs: Beyond the semicircle law",2001,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",324,,Hungary,Article,Budapest,0,Journal,2-s2.0-4043066126
+Strogatz S.,,Exploring complex networks,2001,Nature,5562,10.1038/35065725,United States,Review,Ithaca,1,Journal,2-s2.0-0035826155
+Weiss Y.,,Segmentation using eigenvectors: A unifying view,1999,Proceedings of the IEEE International Conference on Computer Vision,497,10.1109/iccv.1999.790354,United States,Conference Paper,Berkeley,0,Conference Proceeding,2-s2.0-0033285447
+Kleinberg J.M.,,Authoritative sources in a hyperlinked environment,1999,Journal of the ACM,5014,10.1145/324133.324140,United States,Article,Ithaca,0,Journal,2-s2.0-4243148480
+Shi J.,,Normalized cuts and image segmentation,1997,Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition,750,,United States,Conference Paper,Berkeley,0,Conference Proceeding,2-s2.0-0030646927
+Füredi Z.,,The eigenvalues of random symmetric matrices,1981,Combinatorica,344,10.1007/BF02579329,Hungary,Article,Budapest,0,Journal,2-s2.0-51249182622

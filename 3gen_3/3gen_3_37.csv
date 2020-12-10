@@ -1,0 +1,19 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Clauset A.,,Finding community structure in very large networks,2004,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",3159,10.1103/PhysRevE.70.066111,United States,Article,Albuquerque,0,Journal,2-s2.0-41349117788
+Newman M.E.J.,,Analysis of weighted networks,2004,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",1212,10.1103/PhysRevE.70.056131,United States;United States,Article,Santa Fe;Ann Arbor,0,Journal,2-s2.0-41349096036
+Newman M.E.J.,,Fast algorithm for detecting community structure in networks,2004,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",2954,10.1103/PhysRevE.69.066133,United States,Article,Ann Arbor,0,Journal,2-s2.0-42749100809
+Radicchi F.,,Defining and identifying communities in networks,2004,Proceedings of the National Academy of Sciences of the United States of America,1536,10.1073/pnas.0400054101,Italy,Article,Rome,1,Journal,2-s2.0-1542357701
+Wu F.,,Finding communities in linear time: A physics approach,2004,European Physical Journal B,357,10.1140/epjb/e2004-00125-x,United States,Conference Paper,Palo Alto,0,Journal,2-s2.0-2942619068
+Newman M.,,Detecting community structure in networks,2004,European Physical Journal B,1360,10.1140/epjb/e2004-00124-y,United States,Conference Paper,Ann Arbor,0,Journal,2-s2.0-2942564706
+Newman M.E.J.,,Finding and evaluating community structure in networks,2004,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",7687,10.1103/PhysRevE.69.026113,United States;United States,Article,Santa Fe;Ann Arbor,0,Journal,2-s2.0-37649028224
+Newman M.E.J.,,Why social networks are different from other types of networks,2003,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",785,,United States,Article,Ann Arbor,0,Journal,2-s2.0-0242663598
+Newman M.E.J.,,Mixing patterns in networks,2003,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",1528,,United States;United States,Article,Santa Fe;Ann Arbor,0,Journal,2-s2.0-0038752085
+Newman M.,,The structure and function of complex networks,2003,SIAM Review,11537,10.1137/S003614450342480,United States,Review,Ann Arbor,0,Journal,2-s2.0-0038718854
+Albert R.,,Statistical mechanics of complex networks,2002,Reviews of Modern Physics,13645,10.1103/RevModPhys.74.47,United States;United States,Article,Minneapolis;Notre Dame,0,Journal,2-s2.0-0036013593
+Girvan M.,,Community structure in social and biological networks,2002,Proceedings of the National Academy of Sciences of the United States of America,8662,10.1073/pnas.122653799,United States;United States,Article,Santa Fe;Ithaca,1,Journal,2-s2.0-0037062448
+Dorogovtsev S.,,Evolution of networks,2002,Advances in Physics,2215,10.1080/00018730110112519,Portugal,Article,Porto,0,Journal,2-s2.0-0036610173
+Flake G.W.,,Self-organization and identification of web communities,2002,Computer,734,10.1109/2.989932,United States,Article,Princeton,0,Trade Journal,2-s2.0-0036497195
+Ito T.,,A comprehensive two-hybrid analysis to explore the yeast protein interactome,2001,Proceedings of the National Academy of Sciences of the United States of America,2801,10.1073/pnas.061034498,Japan,Article,Kanazawa,1,Journal,2-s2.0-0035836765
+Strogatz S.,,Exploring complex networks,2001,Nature,5562,10.1038/35065725,United States,Review,Ithaca,1,Journal,2-s2.0-0035826155
+Faloutsos M.,,On power-law relationships of the internet topology,1999,Computer Communication Review,3084,10.1145/316194.316229,United States;United States;Canada,Article,Riverside;Pittsburgh;Toronto,0,Journal,2-s2.0-0033204106
+Kernighan B.,,An Efficient Heuristic Procedure for Partitioning Graphs,1970,Bell System Technical Journal,3149,10.1002/j.1538-7305.1970.tb01770.x,,Article,,0,Journal,2-s2.0-84990479742

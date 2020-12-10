@@ -1,0 +1,18 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Peri S.,,Development of human protein reference database as an initial platform for approaching systems biology in humans,2003,Genome Research,776,10.1101/gr.1680803,Denmark;United States,Article,Odense;Baltimore,1,Journal,2-s2.0-10744224197
+Orchard S.,,The Proteomics Standards Initiative,2003,Proteomics,143,10.1002/pmic.200300496,,Conference Paper,,0,Journal,2-s2.0-0038305892
+Navarro J.,,From biological databases to platforms for biomedical discovery,2003,Trends in Biotechnology,22,10.1016/S0167-7799(03)00108-2,United States,Review,Baltimore,0,Journal,2-s2.0-0038730859
+Wain H.M.,,Guidelines for human gene nomenclature,2002,Genomics,277,10.1006/geno.2002.6748,United Kingdom,Review,London,0,Journal,2-s2.0-0036206069
+Spellman P.,,Design and implementation of microarray gene expression markup language (MAGE-ML).,2002,Genome biology,343,,United States,Article,Berkeley,0,Journal,2-s2.0-0037163144
+Hamosh A.,,"Onlined Mendelian Inheritance in Man (OMIM), a knowledgebase of human genes and genetic disorders",2002,Nucleic Acids Research,372,,United States,Article,Baltimore,0,Journal,2-s2.0-0035998736
+Bateman A.,,The pfam protein families database,2002,Nucleic Acids Research,1924,10.1093/nar/30.1.276,United Kingdom,Article,London,1,Journal,2-s2.0-0011542799
+Dowell R.,,The distributed annotation system,2001,BMC Bioinformatics,330,10.1186/1471-2105-2-7,United States,Article,St. Louis,1,Journal,2-s2.0-2942547885
+Ashburner M.,,Creating the Gene Ontology resource: Design and implementation,2001,Genome Research,830,10.1101/gr.180801,,Article,,1,Journal,2-s2.0-0034887203
+Ideker T.,,Integrated genomic and proteomic analyses of a systematically perturbed metabolic network,2001,Science,1595,10.1126/science.292.5518.929,United States,Article,Seattle,0,Journal,2-s2.0-0035805255
+Tucker C.,,Towards an understanding of complex protein networks,2001,Trends in Cell Biology,134,10.1016/S0962-8924(00)01902-4,United States,Review,Seattle,0,Journal,2-s2.0-0035279936
+Craig Venter J.,,The sequence of the human genome,2001,Science,9648,10.1126/science.1058040,United States,Article,Rockville,1,Journal,2-s2.0-0035895505
+Lander E.S.,,Initial sequencing and analysis of the human genome,2001,Nature,15775,10.1038/35057062,United States,Article,Cambridge,1,Journal,2-s2.0-2042437650
+Mann M.,,Use of mass spectrometry-derived data to annotate nucleotide and protein sequence databases,2001,Trends in Biochemical Sciences,91,10.1016/S0968-0004(00)01726-6,Denmark,Review,Odense,0,Journal,2-s2.0-0035150398
+Pruitt K.D.,,RefSeq and LocusLink: NCBI gene-centered resources,2001,Nucleic Acids Research,664,10.1093/nar/29.1.137,United States,Article,Bethesda,1,Journal,2-s2.0-0035162594
+Schultz J.,,"SMART, a simple modular architecture research tool: Identification of signaling domains",1998,Proceedings of the National Academy of Sciences of the United States of America,2813,10.1073/pnas.95.11.5857,Germany;Germany,Article,Berlin;Heidelberg,1,Journal,2-s2.0-0032568655
+Altschul S.,,Basic local alignment search tool,1990,Journal of Molecular Biology,60434,10.1016/S0022-2836(05)80360-2,United States,Article,Bethesda,0,Journal,2-s2.0-0025183708

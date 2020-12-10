@@ -1,0 +1,25 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Oldham M.C.,,Functional organization of the transcriptome in human brain,2008,Nature Neuroscience,469,10.1038/nn.2207,United States;United States,Article,Los Angeles;Los Angeles,0,Journal,2-s2.0-54949113578
+Horvath S.,,Geometric interpretation of gene coexpression network analysis,2008,PLoS Computational Biology,410,10.1371/journal.pcbi.1000117,,Article,,1,Journal,2-s2.0-50949084896
+Aten J.E.,,Using genetic markers to orient the edges in quantitative trait networks: The NEO software,2008,BMC Systems Biology,100,10.1186/1752-0509-2-34,United States,Article,Los Angeles,1,Journal,2-s2.0-44149084690
+Chen Y.,,Variations in DNA elucidate molecular networks that cause disease,2008,Nature,682,10.1038/nature06757,United States,Article,Seattle,0,Journal,2-s2.0-40749105508
+Dong J.,,Understanding network concepts in modules,2007,BMC Systems Biology,275,10.1186/1752-0509-1-24,United States,Article,Los Angeles,1,Journal,2-s2.0-34447512704
+Yip A.,,Gene network interconnectedness and the generalized topological overlap measure,2007,BMC Bioinformatics,305,10.1186/1471-2105-8-22,Singapore,Article,Singapore City,1,Journal,2-s2.0-33847129641
+Li A.,,Network neighborhood analysis with the multi-node topological overlap measure,2007,Bioinformatics,88,10.1093/bioinformatics/btl581,United States,Article,Los Angeles,1,Journal,2-s2.0-33846705486
+Langfelder P.,,Eigengene networks for studying the relationships between co-expression modules.,2007,BMC systems biology,390,10.1186/1752-0509-1-54,United States,Article,Los Angeles,1,Journal,2-s2.0-41449085571
+Oldham M.,,Conservation and evolution of gene coexpression networks in human and chimpanzee brains,2006,Proceedings of the National Academy of Sciences of the United States of America,398,10.1073/pnas.0605938103,United States;United States,Article,Los Angeles;Los Angeles,1,Journal,2-s2.0-33845231723
+Horvath S.,,Analysis of oncogenic signaling networks in glioblastoma identifies ASPM as a molecular target,2006,Proceedings of the National Academy of Sciences of the United States of America,443,10.1073/pnas.0608396103,United States,Article,Los Angeles,1,Journal,2-s2.0-33751208636
+Gargalovic P.S.,,Identification of inflammatory gene modules based on variations of human endothelial cell responses to oxidized lipids,2006,Proceedings of the National Academy of Sciences of the United States of America,243,10.1073/pnas.0605457103,United States,Article,Los Angeles,1,Journal,2-s2.0-33748048164
+Carlson M.R.J.,,"Gene connectivity, function, and sequence conservation: Predictions from modular yeast co-expression networks",2006,BMC Genomics,236,10.1186/1471-2164-7-40,United States,Article,Los Angeles,1,Journal,2-s2.0-33645221650
+Schadt E.E.,,An integrative genomics approach to infer causal associations between gene expression and disease,2005,Nature Genetics,741,10.1038/ng1589,United States,Article,Seattle,0,Journal,2-s2.0-22844446947
+Zhang B.,,A general framework for weighted gene co-expression network analysis,2005,Statistical Applications in Genetics and Molecular Biology,2184,10.2202/1544-6115.1128,United States,Article,Los Angeles,0,Journal,2-s2.0-23944458138
+Storey J.D.,,The positive false discovery rate: A Bayesian interpretation and the q-value,2003,Annals of Statistics,1213,10.1214/aos/1074290335,United States,Article,Seattle,1,Journal,2-s2.0-0345822598
+Barabási A.,,Scale-free networks,2003,Scientific American,1197,10.1038/scientificamerican0503-60,,Article,,0,Journal,2-s2.0-0038513959
+Storey J.,,A direct approach to false discovery rates,2002,Journal of the Royal Statistical Society. Series B: Statistical Methodology,3371,10.1111/1467-9868.00346,United States,Article,Palo Alto,0,Journal,2-s2.0-0036020892
+Ravasz E.,,Hierarchical organization of modularity in metabolic networks,2002,Science,2749,10.1126/science.1073374,United States,Article,Evanston,0,Journal,2-s2.0-0037199968
+Albert R.,,Error and attack tolerance of complex networks,2000,Nature,5589,10.1038/35019019,United States,Article,Notre Dame,0,Journal,2-s2.0-0034721164
+D'Haeseleer P.,,Genetic network inference: From co-expression clustering to reverse engineering,2000,Bioinformatics,687,10.1093/bioinformatics/16.8.707,United States,Article,Albuquerque,1,Journal,2-s2.0-0033736476
+Benjamini Y.,,On the adaptive control of the false discovery rate in multiple testing with independent statistics,2000,Journal of Educational and Behavioral Statistics,907,10.3102/10769986025001060,,Article,,0,Journal,2-s2.0-0034370950
+Barabási A.,,Emergence of scaling in random networks,1999,Science,22102,10.1126/science.286.5439.509,United States,Article,Notre Dame,0,Journal,2-s2.0-0038483826
+Arnone M.,,The hardwiring of development: Organization and function of genomic regulatory systems,1997,Development,503,,United States,Article,Pasadena,0,Journal,2-s2.0-0030986188
+Miklos G.,,The role of the genome project in determining gene function: Insights from model organisms,1996,Cell,366,10.1016/S0092-8674(00)80126-9,United States,Review,San Diego,1,Journal,2-s2.0-0030598904

@@ -1,0 +1,67 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Weinstein J.N.,,The cancer genome atlas pan-cancer analysis project,2013,Nature Genetics,2406,10.1038/ng.2764,United States;United States,Review,San Francisco;Houston,1,Journal,2-s2.0-84884994218
+Tamborero D.,,OncodriveCLUST: Exploiting the positional clustering of somatic mutations to identify cancer genes,2013,Bioinformatics,171,10.1093/bioinformatics/btt395,Spain,Article,Barcelona,1,Journal,2-s2.0-84883467378
+Gonzalez-Perez A.,,Computational approaches to identify functional genetic variants in cancer genomes,2013,Nature Methods,113,10.1038/nmeth.2562,Spain,Review,Barcelona,0,Journal,2-s2.0-84881396090
+Ley T.J.,,Genomic and epigenomic landscapes of adult de novo acute myeloid leukemia,2013,New England Journal of Medicine,2323,10.1056/NEJMoa1301689,United States,Article,St. Louis,0,Journal,2-s2.0-84878372012
+Vogelstein B.,,Cancer genome landscapes,2013,Science,3950,10.1126/science.1235122,United States,Review,Baltimore,1,Journal,2-s2.0-84875490185
+Reimand J.,,Systematic analysis of somatic mutations in phosphorylation signaling predicts novel cancer drivers,2013,Molecular Systems Biology,141,10.1038/msb.2012.68,Canada,Article,Toronto,1,Journal,2-s2.0-84873802661
+Tamborero D.,,Comprehensive identification of mutational cancer driver genes across 12 tumor types,2013,Scientific Reports,292,10.1038/srep02650,Spain,Article,Barcelona,1,Journal,2-s2.0-84885129618
+Chatr-Aryamontri A.,,The BioGRID interaction database: 2013 Update,2013,Nucleic Acids Research,533,10.1093/nar/gks1158,Canada,Article,Montreal,1,Journal,2-s2.0-84874947727
+Getz G.,,Integrated genomic characterization of endometrial carcinoma,2013,Nature,1900,10.1038/nature12113,United States,Article,Cambridge,1,Journal,2-s2.0-84877254190
+Gonzalez-Perez A.,,Functional impact bias reveals cancer drivers,2012,Nucleic Acids Research,178,10.1093/nar/gks743,Spain,Article,Barcelona,1,Journal,2-s2.0-84870599966
+Koboldt D.C.,,Comprehensive molecular portraits of human breast tumours,2012,Nature,6015,10.1038/nature11412,United States,Article,St. Louis,1,Journal,2-s2.0-84877028141
+Hammerman P.S.,,Comprehensive genomic characterization of squamous cell lung cancers,2012,Nature,2233,10.1038/nature11404,United States;United States,Article,Boston;Cambridge,1,Journal,2-s2.0-84866894408
+Reimand J.,,Domain-mediated protein interaction prediction: From genome to network,2012,FEBS Letters,36,10.1016/j.febslet.2012.04.027,Canada,Review,Toronto,1,Journal,2-s2.0-84864579478
+Northcott P.A.,,"Subgroup-specific structural variation across 1,000 medulloblastoma genomes",2012,Nature,487,10.1038/nature11327,Canada;Germany,Article,Toronto;Heidelberg,1,Journal,2-s2.0-84864425646
+Dees N.,,MuSiC: Identifying mutational significance in cancer genomes,2012,Genome Research,369,10.1101/gr.134635.111,United States,Article,St. Louis,1,Journal,2-s2.0-84864598664
+Muzny D.M.,,Comprehensive molecular characterization of human colon and rectal cancer,2012,Nature,4331,10.1038/nature11252,United States,Article,Houston,1,Journal,2-s2.0-84863922124
+Curtis C.,,"The genomic and transcriptomic architecture of 2,000 breast tumours reveals novel subgroups",2012,Nature,2650,10.1038/nature10983,United Kingdom;United Kingdom;United States;United Kingdom;United Kingdom,Article,Cambridge;Cambridge;Los Angeles;London;Cambridge,0,Journal,2-s2.0-84861527388
+Smith C.C.,,Price of freedom,2012,Nature,424,10.1038/nature11016,United States,Article,San Francisco,0,Journal,2-s2.0-84860747223
+Lu C.,,IDH mutation impairs histone demethylation and results in a block to cell differentiation,2012,Nature,1098,10.1038/nature10860,United States;United States,Article,New York;Philadelphia,0,Journal,2-s2.0-84858796262
+Hornbeck P.V.,,PhosphoSitePlus: A comprehensive resource for investigating the structure and function of experimentally determined post-translational modifications in man and mouse,2012,Nucleic Acids Research,954,10.1093/nar/gkr1122,United States,Article,Danvers,1,Journal,2-s2.0-84857047339
+Punta M.,,The Pfam protein families database,2012,Nucleic Acids Research,2612,10.1093/nar/gkr1065,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-84858077472
+Stransky N.,,The mutational landscape of head and neck squamous cell carcinoma,2011,Science,1512,10.1126/science.1208130,United States,Article,Cambridge,0,Journal,2-s2.0-80052158097
+Liu X.,,dbNSFP: A lightweight database of human nonsynonymous SNPs and their functional predictions,2011,Human Mutation,411,10.1002/humu.21517,United States,Article,Houston,1,Journal,2-s2.0-79960763462
+Reimand J.,,G:Profiler - A web server for functional interpretation of gene lists (2011 update),2011,Nucleic Acids Research,357,10.1093/nar/gkr378,Estonia;Estonia,Article,Tartu;Tartu,1,Journal,2-s2.0-79959923522
+Bell D.,,Integrated genomic analyses of ovarian carcinoma,2011,Nature,4070,10.1038/nature10166,United States,Article,Rochester,1,Journal,2-s2.0-79959838081
+Chapman P.B.,,Improved survival with vemurafenib in melanoma with BRAF V600E mutation,2011,New England Journal of Medicine,5313,10.1056/NEJMoa1103782,United States,Article,New York,0,Journal,2-s2.0-79959795786
+Tiacci E.,,BRAF mutations in hairy-cell leukemia,2011,New England Journal of Medicine,670,10.1056/NEJMoa1014209,Italy,Article,Perugia,0,Journal,2-s2.0-79959293462
+Hanahan D.,,Hallmarks of cancer: The next generation,2011,Cell,30122,10.1016/j.cell.2011.02.013,United States;Switzerland,Review,San Francisco;Epalinges,1,Journal,2-s2.0-79952284127
+Gu T.L.,,Survey of tyrosine kinase signaling reveals ROS kinase fusions in human cholangiocarcinoma,2011,PLoS ONE,207,10.1371/journal.pone.0015640,United States,Article,Danvers,1,Journal,2-s2.0-79251579592
+Dinkel H.,,Phospho.ELM: A database of phosphorylation sites-update 2011,2011,Nucleic Acids Research,377,10.1093/nar/gkq1104,Germany,Article,Heidelberg,1,Journal,2-s2.0-78651320816
+Merico D.,,Enrichment map: A network-based method for gene-set enrichment visualization and interpretation,2010,PLoS ONE,887,10.1371/journal.pone.0013984,Canada,Article,Toronto,1,Journal,2-s2.0-78649775562
+Davydov E.,,Identifying a high fraction of the human genome to be under selective constraint using GERP++,2010,PLoS Computational Biology,724,10.1371/journal.pcbi.1001025,United States,Article,Palo Alto,1,Journal,2-s2.0-78651237647
+Wang K.,,ANNOVAR: Functional annotation of genetic variants from high-throughput sequencing data,2010,Nucleic Acids Research,5110,10.1093/nar/gkq603,United States,Article,Philadelphia,1,Journal,2-s2.0-77956534324
+Dinitto J.,,Function of activation loop tyrosine phosphorylation in the mechanism of c-Kit auto-activation and its implication in sunitinib resistance,2010,Journal of Biochemistry,53,10.1093/jb/mvq015,United States,Article,New York,0,Journal,2-s2.0-77950617070
+Adzhubei I.,,A method and server for predicting damaging missense mutations,2010,Nature Methods,7393,10.1038/nmeth0410-248,United States,Letter,Boston,0,Journal,2-s2.0-77951640946
+Olsen J.,,Quantitative phosphoproteomics revealswidespread full phosphorylation site occupancy during mitosis,2010,Science Signaling,974,10.1126/scisignal.2000475,Denmark;Germany,Article,Copenhagen;Planegg,0,Journal,2-s2.0-77951644400
+Schwarz J.,,MutationTaster evaluates disease-causing potential of sequence alterations,2010,Nature Methods,1724,10.1038/nmeth0810-575,Germany,Letter,Berlin,0,Journal,2-s2.0-77955151784
+Ruepp A.,,CORUM: The comprehensive resource of mammalian protein complexes-2009,2009,Nucleic Acids Research,479,10.1093/nar/gkp914,Germany,Article,Neuherberg,1,Journal,2-s2.0-75549091794
+Chun S.,,Identification of deleterious mutations within three human genomes,2009,Genome Research,503,10.1101/gr.092619.109,United States,Article,St. Louis,1,Journal,2-s2.0-69749122314
+Kumar P.,,Predicting the effects of coding non-synonymous variants on protein function using the SIFT algorithm,2009,Nature Protocols,4211,10.1038/nprot.2009.86,United States,Article,Rockville,0,Journal,2-s2.0-68149165614
+Matthews L.,,Reactome knowledgebase of human biological pathways and processes,2009,Nucleic Acids Research,633,10.1093/nar/gkn863,United States,Article,Cold Spring Harbor,1,Journal,2-s2.0-58149177166
+Keshava Prasad T.S.,,Human Protein Reference Database - 2009 update,2009,Nucleic Acids Research,2159,10.1093/nar/gkn892,India,Article,Bangalore,1,Journal,2-s2.0-58149193222
+Bikkavilli R.,,p38 mitogen-activated protein kinase regulates canonical Wnt-β-catenin signaling by inactivation of GSK3β,2008,Journal of Cell Science,129,10.1242/jcs.032854,United States,Article,Stony Brook,1,Journal,2-s2.0-59149098536
+Ding L.,,Somatic mutations affect key pathways in lung adenocarcinoma,2008,Nature,1868,10.1038/nature07423,United States,Article,St. Louis,1,Journal,2-s2.0-54549094903
+McLendon R.,,Comprehensive genomic characterization defines human glioblastoma genes and core pathways,2008,Nature,4803,10.1038/nature07385,United States,Article,Durham,1,Journal,2-s2.0-54549108740
+Dephoure N.,,A quantitative atlas of mitotic phosphorylation,2008,Proceedings of the National Academy of Sciences of the United States of America,1114,10.1073/pnas.0805139105,United States,Article,Boston,1,Journal,2-s2.0-49449085504
+Shiohama A.,,Nucleolar localization of DGCR8 and identification of eleven DGCR8-associated proteins,2007,Experimental Cell Research,78,10.1016/j.yexcr.2007.07.020,Japan;Japan,Article,Tokyo;Tokyo,0,Journal,2-s2.0-36048958883
+Jones P.,,The Epigenomics of Cancer,2007,Cell,3226,10.1016/j.cell.2007.01.029,United States,Review,Los Angeles,1,Journal,2-s2.0-33847065486
+Higgins M.E.,,CancerGenes: A gene selection resource for cancer genome projects,2007,Nucleic Acids Research,140,10.1093/nar/gkl811,United States,Article,New York,1,Journal,2-s2.0-33846115005
+Cline M.S.,,Integration of biological networks and gene expression data using cytoscape,2007,Nature Protocols,1549,10.1038/nprot.2007.324,United States;France,Article,Santa Cruz;Paris,0,Journal,2-s2.0-38449101120
+Gwak J.,,Protien-kinase-C-mediated β-catenin phosphorylation negatively regulates the Wnt/β-catenin pathway,2006,Journal of Cell Science,77,10.1242/jcs.03256,South Korea,Article,Gimhae,1,Journal,2-s2.0-33845684707
+Siepel A.,,New methods for detecting lineage-specific selection,2006,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),143,10.1007/11732990_17,United States;United States,Conference Paper,Santa Cruz;Ithaca,0,Book Series,2-s2.0-33745772571
+Liu Q.,,Aurora-A abrogation of p53 DNA binding and transactivation activity by phosphorylation of serine 215,2004,Journal of Biological Chemistry,244,10.1074/jbc.M406802200,United States,Article,Tampa,1,Journal,2-s2.0-10644227569
+Ward J.,,The DISOPRED server for the prediction of protein disorder,2004,Bioinformatics,495,10.1093/bioinformatics/bth195,United Kingdom,Article,London,1,Journal,2-s2.0-3242891318
+Chadee D.,,"MLK3 is required for mitogen activation of B-Raf, ERK and cell proliferation",2004,Nature Cell Biology,123,10.1038/ncb1152,United States;United States,Article,Boston;Boston,0,Journal,2-s2.0-4143098266
+Vogelstein B.,,Cancer genes and the pathways they control,2004,Nature Medicine,3031,10.1038/nm1087,United States,Review,Baltimore,0,Journal,2-s2.0-4043181214
+Wan P.T.C.,,Mechanism of activation of the RAF-ERK signaling pathway by oncogenic mutations of B-RAF,2004,Cell,1935,10.1016/S0092-8674(04)00215-6,United Kingdom,Article,London,1,Journal,2-s2.0-12144289677
+Futreal P.,,A census of human cancer genes,2004,Nature Reviews Cancer,2180,10.1038/nrc1299,United Kingdom,Review,London,0,Journal,2-s2.0-1542515338
+Kel A.,,MATCH™: A tool for searching transcription factor binding sites in DNA sequences,2003,Nucleic Acids Research,822,10.1093/nar/gkg585,Germany;Russian Federation,Article,Wolfenbuttel;Novosibirsk,1,Journal,2-s2.0-0041853625
+Oswald F.,,SHARP is a novel component of the Notch/RBP-Jκ signalling pathway,2002,EMBO Journal,187,10.1093/emboj/cdf549,Germany,Article,Ulm,0,Journal,2-s2.0-18644368822
+Lejeune F.,,The exon junction complex is detected on CBP80-bound but not eIF4E-bound mRNA in mammalian cells: Dynamics of mRNP remodeling,2002,EMBO Journal,192,10.1093/emboj/cdf345,United States,Article,Rochester,0,Journal,2-s2.0-0036645697
+Filippova G.N.,,Tumor-associated zinc finger mutations in the CTCF transcription factor selectively alter its DNA-binding specificity,2002,Cancer Research,133,,United States,Article,Seattle,0,Journal,2-s2.0-0036141521
+Hahn W.C.,,Modelling the molecular circuitry of cancer,2002,Nature Reviews Cancer,788,10.1038/nrc795,United States;United States,Review,Cambridge;Boston,0,Journal,2-s2.0-0036561908
+Ashburner M.,,Gene ontology: Tool for the unification of biology,2000,Nature Genetics,21253,10.1038/75556,,Review,,0,Journal,2-s2.0-0034069495
+Mitelman F.,,Recurrent chromosome aberrations in cancer,2000,Mutation Research - Reviews in Mutation Research,254,10.1016/S1383-5742(00)00006-5,Sweden,Article,Lund,0,Journal,2-s2.0-0034125650
+Morin P.,,Activation of β-catenin-Tcf signaling in colon cancer by mutations in β-catenin or APC,1997,Science,3301,10.1126/science.275.5307.1787,United States,Article,Baltimore,0,Journal,2-s2.0-0030949463

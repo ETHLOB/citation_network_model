@@ -1,0 +1,6 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Brefeld U.,,Efficient Co-regularised least squares regression,2006,ICML 2006 - Proceedings of the 23rd International Conference on Machine Learning,67,,Germany,Conference Paper,Berlin,0,Conference Proceeding,2-s2.0-33749246419
+Zhang T.,,Learning bounds for kernel regression using effective data dimensionality,2005,Neural Computation,59,10.1162/0899766054323008,United States,Article,Yorktown Heights,0,Journal,2-s2.0-22944490838
+Hardoon D.,,Canonical correlation analysis: An overview with application to learning methods,2004,Neural Computation,1673,10.1162/0899766042321814,United Kingdom,Review,Southampton,0,Journal,2-s2.0-10044285992
+Abney S.,,Understanding the Yarowsky algorithm,2004,Computational Linguistics,78,10.1162/0891201041850876,United States,Article,Ann Arbor,1,Journal,2-s2.0-18744410770
+Blum A.,,Combining labeled and unlabeled data with co-training,1998,Proceedings of the Annual ACM Conference on Computational Learning Theory,3259,10.1145/279943.279962,United States,Conference Paper,Pittsburgh,0,Conference Proceeding,2-s2.0-0031620208

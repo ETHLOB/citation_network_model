@@ -1,0 +1,10 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Bailey D.H.,,Performance results on the intel touchstone gamma prototype,1990,"Proceedings of the 5th Distributed Memory Computing Conference, DMCC 1990",5,10.1109/DMCC.1990.556381,United States,Conference Paper,Moffett Field,0,Conference Proceeding,2-s2.0-33748126492
+Farhat C.,,Transient finite element computations on 65536 processors: The connection machine,1990,International Journal for Numerical Methods in Engineering,28,10.1002/nme.1620300104,United States,Article,Boulder,0,Journal,2-s2.0-0025460730
+Farhat C.,,On the mapping of massively parallel processors onto finite element graphs,1989,Computers and Structures,23,10.1016/0045-7949(89)90046-1,United States,Article,Boulder,0,Journal,2-s2.0-0024881227
+Powers D.,,Graph partitioning by Eigenvectors,1988,Linear Algebra and Its Applications,54,10.1016/0024-3795(88)90147-4,United States,Article,Potsdam,1,Journal,2-s2.0-0006235804
+Nour-Omid B.,,SOLVING FINITE ELEMENT EQUATIONS ON CONCURRENT COMPUTERS.,1987,"American Society of Mechanical Engineers, Applied Mechanics Division, AMD",46,,United States,Conference Paper,Bethesda,0,Conference Proceeding,2-s2.0-0023535423
+Bhatt S.,,A framework for solving VLSI graph layout problems,1984,Journal of Computer and System Sciences,280,10.1016/0022-0000(84)90071-0,United States,Article,Cambridge,1,Journal,2-s2.0-0021412333
+Parlett B.,,On estimating the largest eigenvalue with the lanczos algorithm,1982,Mathematics of Computation,47,10.1090/S0025-5718-1982-0637293-9,United States,Article,Berkeley,1,Journal,2-s2.0-84968486060
+Votruba J.,,"On the determination of χ<inf>l</inf>,η<inf>+-0</inf> AND η<inf>000</inf> from bubble chamber measurements",1975,Czechoslovak Journal of Physics,6,10.1007/BF01591018,Czech Republic,Article,Prague,0,Journal,2-s2.0-34250397474
+Kernighan B.,,An Efficient Heuristic Procedure for Partitioning Graphs,1970,Bell System Technical Journal,3148,10.1002/j.1538-7305.1970.tb01770.x,,Article,,0,Journal,2-s2.0-84990479742

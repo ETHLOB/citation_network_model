@@ -1,0 +1,14 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Konopnicki D.,,Information gathering in the World Wide Web: The W3QL query language and the W3QS system,1998,ACM Transactions on Database Systems,41,10.1145/296854.277639,Israel,Article,Haifa,0,Journal,2-s2.0-0032256889
+Kleinberg J.,,Authoritative sources in a hyperlinked environment,1998,Proceedings of the Annual ACM-SIAM Symposium on Discrete Algorithms,1269,,United States,Conference Paper,Ithaca,0,Conference Proceeding,2-s2.0-0032256758
+Tsur D.,,Query flocks: A generalization of association-rule mining,1998,SIGMOD Record,107,10.1145/276305.276306,Japan,Article,Tokyo,0,Journal,2-s2.0-0032092082
+Bharat K.,,A technique for measuring the relative size and overlap of public Web search engines,1998,Computer Networks,165,10.1016/s0169-7552(98)00127-5,United States,Article,Palo Alto,0,Journal,2-s2.0-20444387298
+Chakrabarti S.,,Automatic resource compilation by analyzing hyperlink structure and associated text,1998,Computer Networks,255,10.1016/s0169-7552(98)00087-7,United States,Article,San Jose,0,Journal,2-s2.0-20444410138
+Florescu D.,,Database Techniques for the World-Wide Web: A Survey,1998,SIGMOD Record (ACM Special Interest Group on Management of Data),328,10.1145/290593.290605,,Article,,0,Journal,2-s2.0-0343421094
+Bharat K.,,Improved algorithms for topic distillation in a hyperlinked environment,1998,SIGIR Forum (ACM Special Interest Group on Information Retrieval),466,10.1145/290941.290972,United States,Article,Palo Alto,0,Journal,2-s2.0-0032283569
+Gibson D.,,Inferring Web communities from link topology,1998,Proceedings of the ACM Conference on Hypertext,478,10.1145/276627.276652,United States,Conference Paper,Berkeley,0,Conference Proceeding,2-s2.0-0031617713
+Page L.,,The anatomy of a large-scale hypertextual Web search engine,1998,Computer Networks,7260,,United States,Article,Palo Alto,0,Journal,2-s2.0-0038589165
+Mendelzon A.O.,,Querying the World Wide Web,1997,International Journal on Digital Libraries,145,10.1007/s007990050004,Canada,Article,Toronto,0,Journal,2-s2.0-84867493321
+Abiteboul S.,,The Lorel query language for semistructured data,1997,International Journal on Digital Libraries,592,10.1007/s007990050005,France;United States,Article,Le Chesnay;Palo Alto,0,Journal,2-s2.0-35048881580
+Pirolli P.,,Silk from a sow's ear: extracting usable structures from the web,1996,Conference on Human Factors in Computing Systems - Proceedings,211,,United States,Conference Paper,Palo Alto,0,Conference Proceeding,2-s2.0-0029719632
+Deerwester S.,,Indexing by latent semantic analysis,1990,Journal of the American Society for Information Science,7494,10.1002/(SICI)1097-4571(199009)41:6<391::AID-ASI1>3.0.CO;2-9,United States,Article,Chicago,0,Journal,2-s2.0-84989525001

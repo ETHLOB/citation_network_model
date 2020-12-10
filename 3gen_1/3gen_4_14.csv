@@ -1,0 +1,91 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Li Y.,,The Max-Min High-Order Dynamic Bayesian Network for Learning Gene Regulatory Networks with Time-Delayed Regulations,2016,IEEE/ACM Transactions on Computational Biology and Bioinformatics,14,10.1109/TCBB.2015.2474409,Canada,Article,Vancouver,0,Journal,2-s2.0-84982166328
+Lonfat N.,,"Structure, function and evolution of topologically associating domains (TADs) at HOX loci",2015,FEBS Letters,41,10.1016/j.febslet.2015.04.024,Switzerland;United States,Review,Lausanne;Boston,1,Journal,2-s2.0-84943348158
+Kleftogiannis D.,,DEEP: A general computational framework for predicting enhancers,2015,Nucleic Acids Research,54,10.1093/nar/gku1058,Saudi Arabia,Article,Thuwal,1,Journal,2-s2.0-84943143082
+Alipanahi B.,,Predicting the sequence specificities of DNA- and RNA-binding proteins by deep learning,2015,Nature Biotechnology,765,10.1038/nbt.3300,Canada,Article,Toronto,1,Journal,2-s2.0-84938888109
+Lupiáñez D.G.,,Disruptions of topological chromatin domains cause pathogenic rewiring of gene-enhancer interactions,2015,Cell,736,10.1016/j.cell.2015.04.004,Germany;Germany,Article,Berlin;Berlin,1,Journal,2-s2.0-84930091577
+Lecun Y.,,Deep learning,2015,Nature,19921,10.1038/nature14539,United States;United States,Review,Menlo Park;New York,0,Journal,2-s2.0-84930630277
+Danko C.G.,,Identification of active transcriptional regulatory elements from GRO-seq data,2015,Nature Methods,71,10.1038/nmeth.3329,United States,Article,Ithaca,0,Journal,2-s2.0-84928927316
+Roadmap Epigenomics Consortium ,,Integrative analysis of 111 reference human epigenomes,2015,Nature,2372,10.1038/nature14248,United States,Article,Cambridge,1,Journal,2-s2.0-84923362619
+Song J.,,Spectacle: Fast chromatin state annotation using spectral learning,2015,Genome Biology,22,10.1186/s13059-015-0598-0,United States,Article,New Brunswick,1,Journal,2-s2.0-84939162929
+Mathelier A.,,Identification of altered cis-regulatory elements in human disease,2015,Trends in Genetics,46,10.1016/j.tig.2014.12.003,Canada,Review,Vancouver,0,Journal,2-s2.0-84921859918
+Chiu T.P.,,GBshape: A genome browser database for DNA shape annotations,2015,Nucleic Acids Research,30,10.1093/nar/gku977,United States,Article,Los Angeles,1,Journal,2-s2.0-84946096812
+Kolesnikov N.,,ArrayExpress update-simplifying data submissions,2015,Nucleic Acids Research,443,10.1093/nar/gku1057,United Kingdom,Article,Cambridge,1,Journal,2-s2.0-84941103248
+Andersson R.,,"Promoter or enhancer, what's the difference? Deconstruction of established distinctions and presentation of a unifying model",2015,BioEssays,53,10.1002/bies.201400162,Denmark,Article,Copenhagen,0,Journal,2-s2.0-84925684704
+Liu M.,,Genomic discovery of potent chromatin insulators for human gene therapy,2015,Nature Biotechnology,52,10.1038/nbt.3062,United States,Article,Seattle,0,Journal,2-s2.0-84923278709
+Ritchie M.,,Methods of integrating data to uncover genotype-phenotype interactions,2015,Nature Reviews Genetics,420,10.1038/nrg3868,United States,Review,University Park,0,Journal,2-s2.0-84925031191
+Core L.J.,,Analysis of nascent RNA identifies a unified architecture of initiation regions at mammalian promoters and enhancers,2014,Nature Genetics,261,10.1038/ng.3142,United States;United States,Article,Storrs;Ithaca,0,Journal,2-s2.0-84927559450
+Dowen J.,,Control of cell identity genes occurs in insulated neighborhoods in mammalian chromosomes,2014,Cell,413,10.1016/j.cell.2014.09.030,United States,Article,Cambridge,1,Journal,2-s2.0-84916880365
+Lai F.,,Enhancer RNAs: The new molecules of transcription,2014,Current Opinion in Genetics and Development,32,10.1016/j.gde.2013.11.017,United States,Review,Philadelphia,0,Journal,2-s2.0-84893046921
+Bhatia S.,,A survey of ancient conserved non-coding elements in the PAX6 locus reveals a landscape of interdigitated cis-regulatory archipelagos,2014,Developmental Biology,21,10.1016/j.ydbio.2014.01.007,United Kingdom,Article,Edinburgh,1,Journal,2-s2.0-84896710720
+Thomas S.A.,,Reconstructing biological gene regulatory networks: Where optimization meets big data,2014,Evolutionary Intelligence,26,10.1007/s12065-013-0098-7,United Kingdom,Review,Guildford,0,Journal,2-s2.0-84894345697
+Erwin G.D.,,Integrating Diverse Datasets Improves Developmental Enhancer Prediction,2014,PLoS Computational Biology,71,10.1371/journal.pcbi.1003677,United States;United States,Article,San Francisco;San Francisco,1,Journal,2-s2.0-84903388630
+Yáñez-Cuna J.,,Dissection of thousands of cell type-specific enhancers identifies dinucleotide repeat motifs as general enhancer features,2014,Genome Research,70,10.1101/gr.169243.113,Austria,Article,Vienna,0,Journal,2-s2.0-84901804887
+Symmons O.,,Functional and topological characteristics of mammalian regulatory domains,2014,Genome Research,192,10.1101/gr.163519.113,Germany,Article,Heidelberg,1,Journal,2-s2.0-84895522959
+Lam M.,,Enhancer RNAs and regulated transcriptional programs,2014,Trends in Biochemical Sciences,267,10.1016/j.tibs.2014.02.007,United States,Review,San Diego,0,Journal,2-s2.0-84897446230
+Graves A.,,Towards end-to-end speech recognition with recurrent neural networks,2014,"31st International Conference on Machine Learning, ICML 2014",377,,United Kingdom,Conference Paper,London,0,Conference Proceeding,2-s2.0-84919832465
+Shlyueva D.,,Transcriptional enhancers: From properties to genome-wide predictions,2014,Nature Reviews Genetics,584,10.1038/nrg3682,Austria,Review,Vienna,0,Journal,2-s2.0-84899450857
+Morris K.,,The rise of regulatory RNA,2014,Nature Reviews Genetics,682,10.1038/nrg3722,Australia;United States,Review,Sydney;San Diego,0,Journal,2-s2.0-84901004299
+Mathelier A.,,JASPAR 2014: An extensively expanded and updated open-access database of transcription factor binding profiles,2014,Nucleic Acids Research,700,10.1093/nar/gkt997,Canada,Article,Vancouver,1,Journal,2-s2.0-84891808382
+Forrest A.R.R.,,A promoter-level mammalian expression atlas,2014,Nature,884,10.1038/nature13182,Japan,Article,Wako,0,Journal,2-s2.0-84897406127
+Andersson R.,,An atlas of active enhancers across human cell types and tissues,2014,Nature,1072,10.1038/nature12787,Denmark,Article,Copenhagen,0,Journal,2-s2.0-84897459814
+Hnisz D.,,XSuper-enhancers in the control of cell identity and disease,2013,Cell,1370,10.1016/j.cell.2013.09.053,United States,Article,Cambridge,1,Journal,2-s2.0-84888015137
+Li Y.,,Sparse representation approaches for the classification of high-dimensional biological data,2013,BMC Systems Biology,32,10.1186/1752-0509-7-S4-S6,Canada,Article,Windsor,1,Journal,2-s2.0-84880712800
+Bengio Y.,,Advances in optimizing recurrent networks,2013,"ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings",205,10.1109/ICASSP.2013.6639349,Canada,Conference Paper,Montreal,0,Conference Proceeding,2-s2.0-84890543516
+Graves A.,,Speech recognition with deep recurrent neural networks,2013,"ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings",3492,10.1109/ICASSP.2013.6638947,Canada,Conference Paper,Toronto,0,Conference Proceeding,2-s2.0-84890543083
+Bickmore W.,,The spatial organization of the human genome,2013,Annual Review of Genomics and Human Genetics,199,10.1146/annurev-genom-091212-153515,United Kingdom,Review,Edinburgh,0,Book Series,2-s2.0-84884294269
+Bengio Y.,,Representation learning: A review and new perspectives,2013,IEEE Transactions on Pattern Analysis and Machine Intelligence,4108,10.1109/TPAMI.2013.50,Canada,Article,Montreal,0,Journal,2-s2.0-84879854889
+Wang C.,,Computational Identification of Active Enhancers in Model Organisms,2013,"Genomics, Proteomics and Bioinformatics",14,10.1016/j.gpb.2013.04.002,China,Review,Beijing,1,Journal,2-s2.0-84879783381
+Martinez H.,,Learning deep physiological models of affect,2013,IEEE Computational Intelligence Magazine,122,10.1109/MCI.2013.2247823,Denmark,Article,Copenhagen,0,Journal,2-s2.0-84876251010
+Rajagopal N.,,RFECS: A Random-Forest Based Algorithm for Enhancer Identification from Chromatin State,2013,PLoS Computational Biology,116,10.1371/journal.pcbi.1002968,United States,Article,San Diego,1,Journal,2-s2.0-84876007572
+Lovén J.,,Selective inhibition of tumor oncogenes by disruption of super-enhancers,2013,Cell,1204,10.1016/j.cell.2013.03.036,United States,Article,Cambridge,1,Journal,2-s2.0-84876222028
+Pennacchio L.,,Enhancers: Five essential questions,2013,Nature Reviews Genetics,187,10.1038/nrg3458,United States,Review,Berkeley,0,Journal,2-s2.0-84875156063
+Arnold C.,,Genome-wide quantitative enhancer activity maps identified by STARR-seq,2013,Science,404,10.1126/science.1232542,Austria,Article,Vienna,0,Journal,2-s2.0-84874381107
+Yáñez-Cuna J.,,Deciphering the transcriptional cis-regulatory code,2013,Trends in Genetics,59,10.1016/j.tig.2012.09.007,Austria,Review,Vienna,0,Journal,2-s2.0-84871693720
+Hoffman M.,,Integrative annotation of chromatin elements from ENCODE data,2013,Nucleic Acids Research,267,10.1093/nar/gks1284,United States,Article,Seattle,1,Journal,2-s2.0-84875448918
+Dunham I.,,An integrated encyclopedia of DNA elements in the human genome,2012,Nature,8312,10.1038/nature11247,United Kingdom,Article,London,1,Journal,2-s2.0-84865790047
+Yip K.,,Classification of human genomic regions based on experimentally determined binding sites of more than 100 transcription-related factors,2012,Genome Biology,173,10.1186/gb-2012-13-9-r48,United States;Hong Kong,Article,New Haven;Shatin,1,Journal,2-s2.0-84865754452
+Hsu D.,,A spectral algorithm for learning Hidden Markov Models,2012,Journal of Computer and System Sciences,139,10.1016/j.jcss.2011.12.025,United States,Conference Paper,New Brunswick,1,Journal,2-s2.0-84863414476
+Marbach D.,,Wisdom of crowds for robust gene network inference,2012,Nature Methods,846,10.1038/nmeth.2016,United States;United States,Article,Cambridge;Cambridge,0,Journal,2-s2.0-84870305264
+Dixon J.R.,,Topological domains in mammalian genomes identified by analysis of chromatin interactions,2012,Nature,2762,10.1038/nature11082,United States;United States,Article,San Diego;San Diego,0,Journal,2-s2.0-84861095603
+Ong C.,,Enhancers: Emerging roles in cell fate specification,2012,EMBO Reports,93,10.1038/embor.2012.52,United States,Review,Atlanta,0,Journal,2-s2.0-84860443136
+Hoffman M.,,Unsupervised pattern discovery in human chromatin structure through genomic segmentation,2012,Nature Methods,301,10.1038/nmeth.1937,United States,Article,Seattle,0,Journal,2-s2.0-84862785201
+Chen C.,,Enhancer identification in mouse embryonic stem cells using integrative modeling of chromatin and genomic features,2012,BMC Genomics,41,10.1186/1471-2164-13-152,Canada,Article,Toronto,1,Journal,2-s2.0-84862163181
+Lenhard B.,,Metazoan promoters: Emerging characteristics and insights into transcriptional regulation,2012,Nature Reviews Genetics,270,10.1038/nrg3163,Norway;United Kingdom;United Kingdom,Review,Bergen;London;London,0,Journal,2-s2.0-84858440747
+Ernst J.,,ChromHMM: Automating chromatin-state discovery and characterization,2012,Nature Methods,906,10.1038/nmeth.1906,United States;United States;United States,Letter,Los Angeles;Cambridge;Cambridge,0,Journal,2-s2.0-84857707318
+Anandkumar A.,,A method of moments for mixture models and hidden markov models,2012,Journal of Machine Learning Research,33,,United States,Conference Paper,Irvine,0,Journal,2-s2.0-84893458195
+Gönen M.,,Multiple kernel learning algorithms,2011,Journal of Machine Learning Research,1121,,Turkey,Review,Istanbul,0,Journal,2-s2.0-80052213499
+Johnson M.W.,,Quantum annealing with manufactured spins,2011,Nature,647,10.1038/nature10012,Canada,Article,Burnaby,0,Journal,2-s2.0-79955917132
+Ong C.,,Enhancer function: New insights into the regulation of tissue-specific gene expression,2011,Nature Reviews Genetics,477,10.1038/nrg2957,United States,Review,Atlanta,0,Journal,2-s2.0-79952901680
+Pique-Regi R.,,Accurate inference of transcription factor binding from DNA sequence and chromatin accessibility data,2011,Genome Research,324,10.1101/gr.112623.110,United States,Article,Chicago,1,Journal,2-s2.0-79952266465
+Noonan J.,,Genomics of long-range regulatory elements,2010,Annual Review of Genomics and Human Genetics,109,10.1146/annurev-genom-082509-141651,United States,Review,New Haven,0,Book Series,2-s2.0-77957946016
+Alexander R.P.,,Annotating non-coding regions of the genome,2010,Nature Reviews Genetics,237,10.1038/nrg2814,United States,Review,New Haven,0,Journal,2-s2.0-77954762633
+Ernst J.,,Discovery and characterization of chromatin states for systematic annotation of the human genome,2010,Nature Biotechnology,641,10.1038/nbt.1662,United States;United States,Article,Cambridge;Cambridge,0,Journal,2-s2.0-78650747491
+Raab J.,,Insulators and promoters: Closer than we think,2010,Nature Reviews Genetics,113,10.1038/nrg2765,United States,Review,Santa Cruz,0,Journal,2-s2.0-77952563619
+Bengio Y.,,Learning deep architectures for AI,2009,Foundations and Trends in Machine Learning,4731,10.1561/2200000006,Canada,Article,Montreal,0,Journal,2-s2.0-69349090197
+Fullwood M.J.,,An oestrogen-receptor-α-bound human chromatin interactome,2009,Nature,992,10.1038/nature08497,Singapore,Article,Singapore City,0,Journal,2-s2.0-70449103609
+Hon G.C.,,Predictive chromatin signatures in the mammalian genome,2009,Human Molecular Genetics,156,10.1093/hmg/ddp409,United States;United States,Article,San Diego;San Diego,1,Journal,2-s2.0-77649177097
+Hecker M.,,Gene regulatory network inference: Data integration in dynamic models-A review,2009,BioSystems,483,10.1016/j.biosystems.2008.12.004,Germany,Article,Jena,0,Journal,2-s2.0-61349180117
+Wang Z.,,RNA-Seq: A revolutionary tool for transcriptomics,2009,Nature Reviews Genetics,6698,10.1038/nrg2484,United States,Review,New Haven,0,Journal,2-s2.0-57749195712
+Core L.,,Nascent RNA sequencing reveals widespread pausing and divergent initiation at human promoters,2008,Science,1207,10.1126/science.1162228,United States,Article,Ithaca,1,Journal,2-s2.0-57849109058
+Boyle A.,,High-Resolution Mapping and Characterization of Open Chromatin across the Genome,2008,Cell,763,10.1016/j.cell.2007.12.014,United States,Article,Durham,1,Journal,2-s2.0-38649099445
+Johnson D.S.,,Genome-wide mapping of in vivo protein-DNA interactions,2007,Science,1718,10.1126/science.1141319,United States,Article,Stanford,0,Journal,2-s2.0-34250159524
+Giresi P.,,FAIRE (Formaldehyde-Assisted Isolation of Regulatory Elements) isolates active regulatory elements from human chromatin,2007,Genome Research,549,10.1101/gr.5533506,United States,Article,Chapel Hill,1,Journal,2-s2.0-34250369627
+Visel A.,,VISTA Enhancer Browser - A database of tissue-specific human enhancers,2007,Nucleic Acids Research,519,10.1093/nar/gkl822,United States,Article,Berkeley,1,Journal,2-s2.0-33846112470
+Hinton G.,,Reducing the dimensionality of data with neural networks,2006,Science,8836,10.1126/science.1127647,Canada,Article,Toronto,0,Journal,2-s2.0-33746600649
+Hinton G.,,A fast learning algorithm for deep belief nets,2006,Neural Computation,8546,10.1162/neco.2006.18.7.1527,Canada,Article,Toronto,0,Journal,2-s2.0-33745805403
+Siepel A.,,"Evolutionarily conserved elements in vertebrate, insect, worm, and yeast genomes",2005,Genome Research,2171,10.1101/gr.3715005,United States,Article,Santa Cruz,1,Journal,2-s2.0-23744458086
+Wasserman W.W.,,Applied bioinformatics for the identification of regulatory elements,2004,Nature Reviews Genetics,769,10.1038/nrg1315,Canada;Canada,Review,Vancouver;Vancouver,0,Journal,2-s2.0-1842584947
+Fan W.,,Is random model better? On its accuracy and efficiency,2003,"Proceedings - IEEE International Conference on Data Mining, ICDM",87,,United States,Conference Paper,Yorktown Heights,0,Conference Proceeding,2-s2.0-33750313729
+Edgar R.,,Gene Expression Omnibus: NCBI gene expression and hybridization array data repository,2002,Nucleic Acids Research,6493,10.1093/nar/30.1.207,United States,Article,Bethesda,1,Journal,2-s2.0-0036081355
+Breiman L.,,Random forests,2001,Machine Learning,38636,10.1023/A:1010933404324,United States,Article,Berkeley,1,Journal,2-s2.0-0035478854
+LeCun Y.,,Gradient-based learning applied to document recognition,1998,Proceedings of the IEEE,16783,10.1109/5.726791,United States;United States,Article,San Antonio;New York,0,Journal,2-s2.0-0032203257
+Schuster M.,,Bidirectional recurrent neural networks,1997,IEEE Transactions on Signal Processing,2147,10.1109/78.650093,Japan,Article,Kyoto,0,Journal,2-s2.0-0031268931
+Hochreiter S.,,Long Short-Term Memory,1997,Neural Computation,20411,10.1162/neco.1997.9.8.1735,Germany,Article,Munich,0,Journal,2-s2.0-0031573117
+Drucker H.,,Support vector regression machines,1997,Advances in Neural Information Processing Systems,2018,,United States,Conference Paper,West Long Branch,0,Conference Proceeding,2-s2.0-84899013173
+Breiman L.,,Bagging predictors,1996,Machine Learning,13227,10.1023/A:1018054314350,United States,Article,Berkeley,1,Journal,2-s2.0-0030211964
+Heckerman D.,,Learning Bayesian Networks: The Combination of Knowledge and Statistical Data,1995,Machine Learning,2099,10.1023/A:1022623210503,United States,Article,Redmond,1,Journal,2-s2.0-34249761849
+Cortes C.,,Support-Vector Networks,1995,Machine Learning,25951,10.1023/A:1022627411411,United States,Article,Murray,1,Journal,2-s2.0-34249753618
+Bengio Y.,,Learning Long-Term Dependencies with Gradient Descent is Difficult,1994,IEEE Transactions on Neural Networks,2872,10.1109/72.279181,United States;Canada,Article,Murray;Montreal,0,Journal,2-s2.0-0028392483
+Werbos P.,,Backpropagation Through Time: What It Does and How to Do It,1990,Proceedings of the IEEE,2163,10.1109/5.58337,United States,Article,Arlington,0,Journal,2-s2.0-0025503558
+Quinlan J.,,Induction of Decision Trees,1986,Machine Learning,10303,10.1023/A:1022643204877,,Article,,1,Journal,2-s2.0-33744584654

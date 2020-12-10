@@ -1,0 +1,32 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Pastor-Satorras R.,,Epidemic spreading in scale-free networks,2001,Physical Review Letters,3738,10.1103/PhysRevLett.86.3200,Spain,Article,Barcelona,0,Journal,2-s2.0-0035794256
+Strogatz S.,,Exploring complex networks,2001,Nature,5562,10.1038/35065725,United States,Review,Ithaca,1,Journal,2-s2.0-0035826155
+Pastor-Satorras R.,,Epidemic dynamics and endemic states in complex networks,2001,"Physical Review E - Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics",1153,10.1103/PhysRevE.63.066117,Spain,Article,Barcelona,0,Journal,2-s2.0-0035363452
+Callaway D.,,Network robustness and fragility: percolation on random graphs,2000,Physical Review Letters,1632,10.1103/PhysRevLett.85.5468,United States,Article,Ithaca,0,Journal,2-s2.0-4243939794
+Cohen R.,,Resilience of the Internet to random breakdowns,2000,Physical Review Letters,1644,10.1103/PhysRevLett.85.4626,Israel,Article,Ramat Gan,0,Journal,2-s2.0-0034323311
+Jeong H.,,The large-scale organization of metabolic networks,2000,Nature,3533,10.1038/35036627,United States,Article,Notre Dame,0,Journal,2-s2.0-0034609791
+Tu Y.,,How robust is the Internet?,2000,Nature,55,10.1038/35019222,United States,Short Survey,Yorktown Heights,0,Journal,2-s2.0-0034721125
+Albert R.,,Error and attack tolerance of complex networks,2000,Nature,5597,10.1038/35019019,United States,Article,Notre Dame,0,Journal,2-s2.0-0034721164
+Barabási A.,,Scale-free characteristics of random networks: The topology of the world-wide web,2000,Physica A: Statistical Mechanics and its Applications,866,10.1016/S0378-4371(00)00018-2,United States,Article,Notre Dame,0,Journal,2-s2.0-0342521525
+Doyle J.,,"Power laws, highly optimized tolerance, and generalized source coding",2000,Physical Review Letters,77,10.1103/PhysRevLett.84.5656,United States,Article,Pasadena,0,Journal,2-s2.0-0033720015
+Pecora L.,,Synchronization stability in coupled oscillator arrays: Solution for arbitrary configurations,2000,International Journal of Bifurcation and Chaos in Applied Sciences and Engineering,87,10.1142/S0218127400000189,United States,Article,"Washington, D.C.",0,Journal,2-s2.0-0034134720
+Gade P.M.,,Synchronous chaos in coupled map lattices with small-world interactions,2000,"Physical Review E - Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics",222,10.1103/PhysRevE.62.6409,Taiwan,Article,Taipei,0,Journal,2-s2.0-0034316686
+Carlson J.,,Highly optimized tolerance: Robustness and design in complex systems,2000,Physical Review Letters,228,10.1103/PhysRevLett.84.2529,United States,Article,Santa Barbara,0,Journal,2-s2.0-0000188718
+Lago-Fernández L.,,Fast response and temporal coherent oscillations in small-world networks,2000,Physical Review Letters,485,10.1103/PhysRevLett.84.2758,Spain,Article,Madrid,0,Journal,2-s2.0-0034688893
+Albert R.,,Topology of evolving networks: Local events and universality,2000,Physical Review Letters,988,10.1103/PhysRevLett.85.5234,United States,Article,Notre Dame,0,Journal,2-s2.0-0142077573
+Broder A.,,Graph structure in the Web,2000,Computer Networks,1699,10.1016/S1389-1286(00)00083-9,United States,Article,San Mateo,0,Journal,2-s2.0-0033721503
+Barabási A.,,Emergence of scaling in random networks,1999,Science,22122,10.1126/science.286.5439.509,United States,Article,Notre Dame,0,Journal,2-s2.0-0038483826
+Barabási A.,,Mean-field theory for scale-free random networks,1999,Physica A: Statistical Mechanics and its Applications,1765,10.1016/S0378-4371(99)00291-5,United States,Article,Notre Dame,0,Journal,2-s2.0-18744421488
+Huberman B.,,Growth dynamics of the world-wide web,1999,Nature,605,10.1038/43604,United States,Article,Palo Alto,0,Journal,2-s2.0-0344631083
+Albert R.,,Diameter of the world-wide web,1999,Nature,3115,10.1038/43601,United States,Article,Notre Dame,0,Journal,2-s2.0-0033539175
+Carlson J.M.,,Highly optimized tolerance: A mechanism for power laws in designed systems,1999,"Physical Review E - Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics",372,10.1103/PhysRevE.60.1412,United States,Article,Santa Barbara,0,Journal,2-s2.0-0000290649
+Faloutsos M.,,On power-law relationships of the internet topology,1999,Computer Communication Review,3084,10.1145/316194.316229,United States;United States;Canada,Article,Riverside;Pittsburgh;Toronto,0,Journal,2-s2.0-0033204106
+Watts D.J.,,Collective dynamics of 'small-world9 networks,1998,Nature,25779,10.1038/30918,United States,Article,Ithaca,0,Journal,2-s2.0-0032482432
+Hu G.,,Instability and controllability of linearly coupled oscillators: Eigenvalue analysis,1998,"Physical Review E - Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics",106,10.1103/PhysRevE.58.4440,China;China,Article,Beijing;Beijing,0,Journal,2-s2.0-0000307687
+Redner S.,,How popular is your paper? An empirical study of the citation distribution,1998,European Physical Journal B,985,10.1007/s100510050359,United States,Article,Boston,0,Journal,2-s2.0-0031622508
+Sushchik M.,,Robustness and stability of synchronized chaos: An illustrative model,1997,IEEE Transactions on Circuits and Systems I: Fundamental Theory and Applications,29,10.1109/81.633875,United States,Article,San Diego,0,Journal,2-s2.0-0031258009
+Wu C.,,Synchronization in an Array of Linearly Coupled Dynamical Systems,1995,IEEE Transactions on Circuits and Systems I: Fundamental Theory and Applications,803,10.1109/81.404047,United States,Article,Berkeley,0,Journal,2-s2.0-0029358909
+Floyd S.,,The Synchronization of Periodic Routing Messages,1994,IEEE/ACM Transactions on Networking,127,10.1109/90.298431,United States,Article,Berkeley,0,Journal,2-s2.0-0028408748
+Heagy J.F.,,Synchronous chaos in coupled oscillator systems,1994,Physical Review E,442,10.1103/PhysRevE.50.1874,United States,Article,"Washington, D.C.",0,Journal,2-s2.0-0000265121
+Chua L.,,A Universal Circuit for Studying and Generating Chaos—Part I: Routes to Chaos,1993,IEEE Transactions on Circuits and Systems I: Fundamental Theory and Applications,374,10.1109/81.246149,United States,Article,Berkeley,0,Journal,2-s2.0-0027681883
+Pecora L.,,Synchronization in chaotic systems,1990,Physical Review Letters,8806,10.1103/PhysRevLett.64.821,United States,Article,"Washington, D.C.",0,Journal,2-s2.0-0343689904

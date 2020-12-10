@@ -1,0 +1,37 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Lim L.,,Microarray analysis shows that some microRNAs downregulate large numbers of-target mRNAs,2005,Nature,3652,10.1038/nature03315,United States,Article,Seattle,0,Journal,2-s2.0-13944282215
+Berezikov E.,,Phylogenetic shadowing and computational identification of human microRNA genes,2005,Cell,948,10.1016/j.cell.2004.12.031,Netherlands,Letter,Utrecht,1,Journal,2-s2.0-11844262661
+Lewis B.P.,,"Conserved seed pairing, often flanked by adenosines, indicates that thousands of human genes are microRNA targets",2005,Cell,8815,10.1016/j.cell.2004.12.035,United States;United States,Letter,Cambridge;Cambridge,1,Journal,2-s2.0-11844278458
+Eddy S.,,A model of the statistical power of comparative genome sequence analysis,2005,PLoS Biology,97,10.1371/journal.pbio.0030010,United States,Article,St. Louis,1,Journal,2-s2.0-14644390333
+Sinha S.,,PhyME: A probabilistic algorithm for finding motifs in sets of orthologous sequences,2004,BMC Bioinformatics,142,10.1186/1471-2105-5-170,United States,Article,New York,1,Journal,2-s2.0-13244260826
+Sandelin A.,,ConSite: Web-based prediction of regulatory elements using cross-species comparison,2004,Nucleic Acids Research,327,10.1093/nar/gkh372,Sweden,Article,Stockholm,1,Journal,2-s2.0-3242891274
+Bejerano G.,,Ultraconserved elements in the human genome,2004,Science,1106,10.1126/science.1098119,United States,Article,Santa Cruz,0,Journal,2-s2.0-2542542256
+Dermitzakis E.T.,,Comparison of human chromosome 21 conserved nongenic sequences (CNGs) with the mouse and dog genomes shows that their selective constraint is independent of their genic environment,2004,Genome Research,57,10.1101/gr.1934904,Switzerland,Article,Geneva,1,Journal,2-s2.0-2442695243
+Mootha V.K.,,Errα and Gabpa/b specify PGC-1α-dependent oxidative phosphorylation gene expression that is altered in diabetic muscle,2004,Proceedings of the National Academy of Sciences of the United States of America,506,10.1073/pnas.0401401101,United States;United States;United States,Article,Cambridge;Boston;Cambridge,1,Journal,2-s2.0-2342477730
+Su A.I.,,A gene atlas of the mouse and human protein-encoding transcriptomes,2004,Proceedings of the National Academy of Sciences of the United States of America,2671,10.1073/pnas.0400782101,United States,Article,San Diego,1,Journal,2-s2.0-11144358198
+Blanchette M.,,Aligning multiple genomic sequences with the threaded blockset aligner,2004,Genome Research,798,10.1101/gr.1933104,United States;Canada,Article,Santa Cruz;Montreal,1,Journal,2-s2.0-1542748076
+Gibbs R.A.,,Genome sequence of the Brown Norway rat yields insights into mammalian evolution,2004,Nature,1484,10.1038/nature02426,United States,Article,Houston,1,Journal,2-s2.0-1842684068
+Bartel D.,,"MicroRNAs: Genomics, Biogenesis, Mechanism, and Function",2004,Cell,25016,10.1016/S0092-8674(04)00045-5,United States;United States,Review,Cambridge;Cambridge,1,Journal,2-s2.0-0347444723
+Griffiths-Jones S.,,The microRNA registry,2004,Nucleic Acids Research,1627,,United Kingdom,Article,Hinxton,0,Journal,2-s2.0-0347755643
+Lewis B.,,Prediction of Mammalian MicroRNA Targets,2003,Cell,3786,10.1016/S0092-8674(03)01018-3,United States,Article,Cambridge,1,Journal,2-s2.0-0346094457
+Kuersten S.,,The power of the 3′ UTR: Translational control and development,2003,Nature Reviews Genetics,402,10.1038/nrg1125,United States,Review,Madison,0,Journal,2-s2.0-0042968976
+Cliften P.,,Finding functional features in Saccharomyces genomes by phylogenetic footprinting,2003,Science,685,10.1126/science.1084337,United States,Article,St. Louis,0,Journal,2-s2.0-0038724989
+Spassov D.,,The PUF Family of RNA-binding Proteins: Does Evolutionarily Conserved Structure Equal Conserved Function?,2003,IUBMB Life,111,10.1080/15216540310001603093,United States,Review,Miami,1,Journal,2-s2.0-0142119568
+Hofacker I.,,Vienna RNA secondary structure server,2003,Nucleic Acids Research,1556,10.1093/nar/gkg599,Austria,Article,Vienna,1,Journal,2-s2.0-0043123153
+Kellis M.,,Sequencing and comparison of yeast species to identify genes and regulatory elements,2003,Nature,1386,10.1038/nature01644,United States;United States,Article,Cambridge;Cambridge,0,Journal,2-s2.0-0038349948
+Lim L.,,Vertebrate microRNA genes,2003,Science,946,10.1126/science.1080372,United States;United States,Short Survey,Cambridge;Cambridge,0,Journal,2-s2.0-0037423845
+Ambros V.,,A uniform system for microRNA annotation,2003,RNA,1237,10.1261/rna.2183803,United States,Article,Hanover,1,Journal,2-s2.0-0037370020
+Boffelli D.,,Phylogenetic shadowing of primate sequences to find functional regions of the human genome,2003,Science,405,10.1126/science.1081331,United States;United States,Article,"Washington, D.C.;Berkeley",0,Journal,2-s2.0-0242418246
+Schwartz S.,,Human-mouse alignments with BLASTZ.,2003,Genome research,886,10.1101/gr.809403,United States,Article,University Park,1,Journal,2-s2.0-0037267806
+Matys V.,,"TRANSFAC®: Transcriptional regulation, from patterns to profiles",2003,Nucleic Acids Research,1526,10.1093/nar/gkg108,Germany,Review,Wolfenbuttel,1,Journal,2-s2.0-0037208166
+Waterston R.H.,,Initial sequencing and comparative analysis of the mouse genome,2002,Nature,4851,10.1038/nature01262,United States,Article,St. Louis,1,Journal,2-s2.0-1542563409
+Lai E.,,Micro RNAs are complementary to 3′ UTR sequence motifs that mediate negative post-transcriptional regulation,2002,Nature Genetics,1027,10.1038/ng865,United States,Article,Berkeley,0,Journal,2-s2.0-0036544755
+Pennacchio L.,,An apolipoprotein influencing triglycerides in humans and mice revealed by comparative sequencing,2001,Science,746,10.1126/science.1064852,United States,Article,Berkeley,0,Journal,2-s2.0-0035812707
+Lander E.S.,,Initial sequencing and analysis of the human genome,2001,Nature,15775,10.1038/35057062,United States,Article,Cambridge,1,Journal,2-s2.0-2042437650
+Dubchak I.,,Active conservation of noncoding sequences revealed by three-way species comparisons,2000,Genome Research,260,10.1101/gr.142200,United States,Article,Berkeley,1,Journal,2-s2.0-0033799618
+Wasserman W.,,Human-mouse genome comparisons to locate regulatory sites,2000,Nature Genetics,376,10.1038/79965,United Kingdom;Sweden,Article,Brentford;Stockholm,0,Journal,2-s2.0-0033775978
+Maglott D.R.,,NCBI's LocusLink and RefSeq,2000,Nucleic Acids Research,142,10.1093/nar/28.1.126,United States,Short Survey,Bethesda,1,Journal,2-s2.0-0033965854
+Johnston S.D.,,Estrogen-related receptor α1 functionally binds as a monomer to extended half-site sequences including ones contained within estrogen- response elements,1997,Molecular Endocrinology,157,10.1210/me.11.3.342,United States;United States,Article,Madison;Minneapolis,0,Journal,2-s2.0-0031044228
+Chen C.,,AU-rich elements: characterization and importance in mRNA degradation,1995,Trends in Biochemical Sciences,1583,10.1016/S0968-0004(00)89102-1,United States,Review,Houston,0,Journal,2-s2.0-0028788194
+Fontana W.,,RNA folding and combinatory landscapes,1993,Physical Review E,179,10.1103/PhysRevE.47.2083,United States;United States,Article,Santa Fe;Los Alamos,0,Journal,2-s2.0-0001477958
+Gumucio D.L.,,Phylogenetic footprinting reveals a nuclear protein which binds to silencer sequences in the human γ and ε globin genes,1992,Molecular and Cellular Biology,154,10.1128/mcb.12.11.4919,United States,Article,Ann Arbor,1,Journal,2-s2.0-0026738749

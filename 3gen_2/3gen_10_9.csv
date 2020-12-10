@@ -1,0 +1,23 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Fioriti V.,,Predicting the sources of an outbreak with a spectral technique,2014,Applied Mathematical Sciences,48,10.12988/ams.2014.49693,Italy,Article,Rome,0,Journal,2-s2.0-84914163557
+Dong W.,,Rooting out the rumor culprit from suspects,2013,IEEE International Symposium on Information Theory - Proceedings,85,10.1109/ISIT.2013.6620711,China,Conference Paper,Hefei,0,Conference Proceeding,2-s2.0-84890365660
+Pinto P.,,Locating the source of diffusion in large-scale networks,2012,Physical Review Letters,205,10.1103/PhysRevLett.109.068702,Switzerland,Article,Lausanne,0,Journal,2-s2.0-84864870003
+Comin C.H.,,Identifying the starting point of a spreading process in complex networks,2011,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",106,10.1103/PhysRevE.84.056105,Brazil,Article,Sao Paulo,0,Journal,2-s2.0-81555203120
+Kanoria Y.,,Majority dynamics on trees and the dynamic cavity method,2011,Annals of Applied Probability,35,10.1214/10-AAP729,United States,Article,Palo Alto,1,Journal,2-s2.0-80155188685
+Shah D.,,Rumors in a network: Who's the culprit?,2011,IEEE Transactions on Information Theory,314,10.1109/TIT.2011.2158885,United States,Article,Cambridge,0,Journal,2-s2.0-79961005336
+Stehlé J.,,Simulation of an SEIR infectious disease model on the dynamic contact network of conference attendees,2011,BMC Medicine,195,10.1186/1741-7015-9-87,France,Article,Paris,1,Journal,2-s2.0-79960559609
+Miller J.,,A note on a paper by Erik Volz: SIR dynamics in random networks,2011,Journal of Mathematical Biology,104,10.1007/s00285-010-0337-9,United States,Article,Boston,0,Journal,2-s2.0-79951515510
+Shah D.,,Detecting sources of computer viruses in networks: Theory and experiment,2010,Performance Evaluation Review,114,10.1145/1811099.1811063,United States,Conference Paper,Cambridge,0,Conference Proceeding,2-s2.0-77954890040
+Karrer B.,,Message passing approach for general epidemic models,2010,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",160,10.1103/PhysRevE.82.016101,United States,Article,Ann Arbor,0,Journal,2-s2.0-77954322317
+Neri I.,,The cavity approach to parallel dynamics of Ising spins on a graph,2009,Journal of Statistical Mechanics: Theory and Experiment,26,10.1088/1742-5468/2009/08/P08009,Belgium,Article,3000 Leuven,0,Journal,2-s2.0-71049164217
+Mézard M.,,"Information, Physics, and Computation",2009,"Information, Physics, and Computation",900,10.1093/acprof:oso/9780198570837.001.0001,France,Book,Orsay,0,Book,2-s2.0-84855197746
+Volz E.,,Epidemic thresholds in dynamic contact networks,2009,Journal of the Royal Society Interface,118,10.1098/rsif.2008.0218,United States,Article,Austin,0,Journal,2-s2.0-64549088983
+Volz E.,,SIR dynamics in random networks with heterogeneous connectivity,2008,Journal of Mathematical Biology,183,10.1007/s00285-007-0116-4,United States,Article,Austin,0,Journal,2-s2.0-36749049140
+Volz E.,,Susceptible-infected-recovered epidemics in dynamic contact networks,2007,Proceedings of the Royal Society B: Biological Sciences,162,10.1098/rspb.2007.1159,United States,Article,Austin,0,Journal,2-s2.0-36549089548
+Boccaletti S.,,Complex networks: Structure and dynamics,2006,Physics Reports,6606,10.1016/j.physrep.2005.10.009,Italy,Review,Sesto Fiorentino,0,Journal,2-s2.0-31344474880
+Newman M.,,The structure and function of complex networks,2003,SIAM Review,11537,10.1137/S003614450342480,United States,Review,Ann Arbor,0,Journal,2-s2.0-0038718854
+Mézard M.,,Analytic and algorithmic solution of random satisfiability problems,2002,Science,669,10.1126/science.1073287,France,Article,Orsay,0,Journal,2-s2.0-0037008520
+Newman M.E.J.,,Spread of epidemic disease on networks,2002,"Physical Review E - Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics",1841,10.1103/PhysRevE.66.016128,United States;United States,Article,Santa Fe;Ann Arbor,1,Journal,2-s2.0-41349106348
+Hethcote H.,,Mathematics of infectious diseases,2000,SIAM Review,2759,10.1137/S0036144500371907,United States,Article,Iowa City,0,Journal,2-s2.0-0034486891
+Watts D.J.,,Collective dynamics of 'small-world9 networks,1998,Nature,25779,10.1038/30918,United States,Article,Ithaca,0,Journal,2-s2.0-0032482432
+Gallager R.,,Low-Density Parity-Check Codes,1962,IRE Transactions on Information Theory,4364,10.1109/TIT.1962.1057683,United States,Article,Cambridge,0,Journal,2-s2.0-84925405668

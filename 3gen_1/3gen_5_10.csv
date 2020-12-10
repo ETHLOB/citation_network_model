@@ -1,0 +1,35 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Angermueller C.,,Parallel single-cell sequencing links transcriptional and epigenetic heterogeneity,2016,Nature Methods,246,10.1038/nmeth.3728,United Kingdom,Article,Cambridge,0,Journal,2-s2.0-84959255113
+Jin W.,,Genome-wide detection of DNase i hypersensitive sites in single cells and FFPE tissue samples,2015,Nature,152,10.1038/nature15740,United States,Article,Bethesda,0,Journal,2-s2.0-84949227165
+Rotem A.,,Single-cell ChIP-seq reveals cell subpopulations defined by chromatin state,2015,Nature Biotechnology,361,10.1038/nbt.3383,United States;United States,Article,Cambridge;Cambridge,0,Journal,2-s2.0-84946545109
+Maurano M.,,Taking Stock of Regulatory Variation,2015,Cell Systems,2,10.1016/j.cels.2015.07.011,United States,Short Survey,New York,1,Journal,2-s2.0-84938401651
+Buenrostro J.,,Single-cell chromatin accessibility reveals principles of regulatory variation,2015,Nature,553,10.1038/nature14590,United States,Article,Stanford,0,Journal,2-s2.0-84937857359
+Macosko E.Z.,,Highly parallel genome-wide expression profiling of individual cells using nanoliter droplets,2015,Cell,2066,10.1016/j.cell.2015.05.002,United States;United States,Article,Boston;Cambridge,1,Journal,2-s2.0-84929684999
+Cusanovich D.,,Multiplex single-cell profiling of chromatin accessibility by combinatorial cellular indexing,2015,Science,345,10.1126/science.aab1601,United States,Article,Seattle,1,Journal,2-s2.0-84930006926
+Akalin A.,,"Genomation: A toolkit to summarize, annotate and visualize genomic intervals",2015,Bioinformatics,70,10.1093/bioinformatics/btu775,Germany;Switzerland,Article,Berlin;Basel,1,Journal,2-s2.0-84929142779
+Ziller M.J.,,Dissecting neural differentiation regulatory networks through epigenetic footprinting,2015,Nature,106,10.1038/nature13990,United States;United States;United States,Article,Cambridge;Cambridge;Cambridge,1,Journal,2-s2.0-84923382398
+Schübeler D.,,Function and information content of DNA methylation,2015,Nature,808,10.1038/nature14192,Switzerland;Switzerland,Review,Basel;Basel,0,Journal,2-s2.0-84922621952
+Farlik M.,,Single-Cell DNA Methylome Sequencing and Bioinformatic Inference of Epigenomic Cell-State Dynamics,2015,Cell Reports,208,10.1016/j.celrep.2015.02.001,Austria,Article,Vienna,1,Journal,2-s2.0-84924601067
+Buenrostro J.,,ATAC-seq: A method for assaying chromatin accessibility genome-wide,2015,Current Protocols in Molecular Biology,439,10.1002/0471142727.mb2129s109,United States,Article,Stanford,0,Journal,2-s2.0-84949212255
+Small E.,,Single-cell nucleosome mapping reveals the molecular basis of gene expression heterogeneity,2014,Proceedings of the National Academy of Sciences of the United States of America,62,10.1073/pnas.1400517111,United States,Article,Chicago,1,Journal,2-s2.0-84902596852
+Taberlay P.C.,,Reconfiguration of nucleosome-depleted regions at distal regulatory elements accompanies DNA methylation of enhancers and insulators in cancer,2014,Genome Research,115,10.1101/gr.163485.113,United States;Australia;Australia,Article,Los Angeles;Sydney;Sydney,1,Journal,2-s2.0-84907196865
+Smallwood S.,,Single-cell genome-wide bisulfite sequencing for assessing epigenetic heterogeneity,2014,Nature Methods,440,10.1038/nmeth.3035,United Kingdom,Article,Cambridge,0,Journal,2-s2.0-84905405443
+Shalek A.K.,,Single-cell RNA-seq reveals dynamic paracrine control of cellular variation,2014,Nature,465,10.1038/nature13437,United States;United States,Article,Cambridge;Cambridge,0,Journal,2-s2.0-84903185013
+Karolchik D.,,The UCSC Genome Browser database: 2014 update,2014,Nucleic Acids Research,481,10.1093/nar/gkt1168,United States,Article,Santa Cruz,1,Journal,2-s2.0-84891771466
+Treutlein B.,,Reconstructing lineage hierarchies of the distal lung epithelium using single-cell RNA-seq,2014,Nature,672,10.1038/nature13173,United States,Article,Stanford,0,Journal,2-s2.0-84900529199
+Jaitin D.,,Massively parallel single-cell RNA-seq for marker-free decomposition of tissues into cell types,2014,Science,735,10.1126/science.1247651,Israel,Article,Rehovot,0,Journal,2-s2.0-84893905629
+Chen K.,,DANPOS: Dynamic analysis of nucleosome position and occupancy by sequencing,2013,Genome Research,158,10.1101/gr.142067.112,United States,Article,Houston,1,Journal,2-s2.0-84873351389
+Kelly T.K.,,Genome-wide mapping of nucleosome positioning and DNA methylation within individual DNA molecules,2012,Genome Research,195,10.1101/gr.143008.112,United States,Article,Los Angeles,1,Journal,2-s2.0-84870552401
+Neph S.,,An expansive human regulatory lexicon encoded in transcription factor footprints,2012,Nature,490,10.1038/nature11212,United States,Article,Seattle,1,Journal,2-s2.0-84865708757
+Dunham I.,,An integrated encyclopedia of DNA elements in the human genome,2012,Nature,8312,10.1038/nature11247,United Kingdom,Article,London,1,Journal,2-s2.0-84865790047
+Langmead B.,,Fast gapped-read alignment with Bowtie 2,2012,Nature Methods,14993,10.1038/nmeth.1923,United States;United States,Article,College Park;Baltimore,0,Journal,2-s2.0-84859210032
+Krueger F.,,DNA methylome analysis using short bisulfite sequencing data,2012,Nature Methods,202,10.1038/nmeth.1828,United Kingdom,Review,Cambridge,0,Journal,2-s2.0-84856498057
+Stadler M.,,DNA-binding factors shape the mouse methylome at distal regulatory regions,2011,Nature,782,10.1038/nature10716,Switzerland;Switzerland,Article,Geneva;Basel,0,Journal,2-s2.0-84355163093
+Valouev A.,,Determinants of nucleosome organization in primary human cells,2011,Nature,356,10.1038/nature10002,United States,Article,Stanford,0,Journal,2-s2.0-79959557189
+Ernst J.,,Mapping and analysis of chromatin state dynamics in nine human cell types,2011,Nature,1765,10.1038/nature09906,United States;United States,Article,Cambridge;Cambridge,0,Journal,2-s2.0-79955583542
+Miranda T.,,Methylation-sensitive single-molecule analysis of chromatin structure,2010,Current Protocols in Molecular Biology,12,10.1002/0471142727.mb2117s89,United States,Review,Los Angeles,0,Journal,2-s2.0-75949101193
+Quinlan A.R.,,BEDTools: A flexible suite of utilities for comparing genomic features,2010,Bioinformatics,6952,10.1093/bioinformatics/btq033,United States,Article,Charlottesville,1,Journal,2-s2.0-77951770756
+Li H.,,The Sequence Alignment/Map format and SAMtools,2009,Bioinformatics,19581,10.1093/bioinformatics/btp352,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-68549104404
+Schones D.,,Dynamic Regulation of Nucleosome Positioning in the Human Genome,2008,Cell,908,10.1016/j.cell.2008.02.022,United States,Article,Bethesda,1,Journal,2-s2.0-39749145198
+Kilgore J.,,Single-molecule and population probing of chromatin structure using DNA methyltransferases,2007,Methods,32,10.1016/j.ymeth.2006.08.008,United States,Article,College Station,0,Journal,2-s2.0-33847049022
+James Kent W.,,The human genome browser at UCSC,2002,Genome Research,5344,10.1101/gr.229102. Article published online before print in May 2002,United States,Article,Santa Cruz,0,Journal,2-s2.0-0036079158

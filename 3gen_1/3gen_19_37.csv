@@ -1,0 +1,12 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Bartlett P.,,Local rademacher complexities,2005,Annals of Statistics,297,10.1214/009053605000000282,United States,Article,Berkeley,1,Journal,2-s2.0-26444592981
+Seeger M.,,PAC-Bayesian generalisation error bounds for Gaussian process classification,2003,Journal of Machine Learning Research,112,10.1162/153244303765208386,United Kingdom,Article,Edinburgh,0,Journal,2-s2.0-0041464774
+Herbrich R.,,Large scale bayes point machines,2001,Advances in Neural Information Processing Systems,6,,Germany,Conference Paper,Berlin,0,Conference Proceeding,2-s2.0-84898944767
+Blum A.,,Beating the hold-out: bounds for K-fold and progressive cross-validation,1999,Proceedings of the Annual ACM Conference on Computational Learning Theory,116,,United States,Conference Paper,Pittsburgh,0,Conference Proceeding,2-s2.0-0033280893
+McAllester D.A.,,PAC-Bayesian model averaging,1999,Proceedings of the Annual ACM Conference on Computational Learning Theory,113,10.1145/307400.307435,United States,Conference Paper,Florham Park,0,Conference Proceeding,2-s2.0-0033280443
+Shawe-Taylor J.,,Structural risk minimization over data-dependent hierarchies,1998,IEEE Transactions on Information Theory,299,10.1109/18.705570,United Kingdom;Australia,Article,Egham;Canberra,0,Journal,2-s2.0-0032166068
+Kivinen J.,,Exponentiated Gradient versus Gradient Descent for Linear Predictors,1997,Information and Computation,480,10.1006/inco.1996.2612,Finland,Article,Helsinki,1,Journal,2-s2.0-0008815681
+Floyd S.,,"Sample Compression, Learnability, and the Vapnik-Chervonenkis Dimension",1995,Machine Learning,173,10.1023/A:1022660318680,United States,Article,Berkeley,1,Journal,2-s2.0-0029521676
+Blumer A.,,Occam's Razor,1987,Information Processing Letters,459,10.1016/0020-0190(87)90114-1,United States,Article,Denver,0,Journal,2-s2.0-0023646365
+Valiant L.,,A theory of the learnable,1984,Communications of the ACM,2665,10.1145/1968.1972,United States,Article,Cambridge,0,Journal,2-s2.0-0021518106
+Hoeffding W.,,Probability Inequalities for Sums of Bounded Random Variables,1963,Journal of the American Statistical Association,4180,10.1080/01621459.1963.10500830,United States,Article,Chapel Hill,0,Journal,2-s2.0-84947403595

@@ -1,0 +1,8 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Zhu X.,,Semi-Supervised Learning Using Gaussian Fields and Harmonic Functions,2003,"Proceedings, Twentieth International Conference on Machine Learning",2480,,United States,Conference Paper,Pittsburgh,0,Conference Proceeding,2-s2.0-1942484430
+Belkin M.,,Using manifold structure for partially labelled classification,2003,Advances in Neural Information Processing Systems,106,,United States,Conference Paper,Chicago,0,Conference Proceeding,2-s2.0-84898946656
+Chapelle O.,,Cluster kernels for semi-supervised learning,2003,Advances in Neural Information Processing Systems,195,,Germany,Conference Paper,Tubingen,0,Conference Proceeding,2-s2.0-50649084677
+Kleinberg J.,,Approximation algorithms for classification problems with pairwise relationships: Metric labeling and Markov random fields,2002,Journal of the ACM,203,10.1145/585265.585268,United States,Article,Ithaca,0,Journal,2-s2.0-1842545358
+Bousquet O.,,Algorithmic stability and generalization performance,2001,Advances in Neural Information Processing Systems,34,,France,Conference Paper,Palaiseau,0,Conference Proceeding,2-s2.0-84898936190
+Nigam K.,,Text classification from labeled and unlabeled documents using EM,2000,Machine Learning,1883,10.1023/a:1007692713085,United States,Article,Pittsburgh,1,Journal,2-s2.0-0033886806
+Devroye L.,,Distribution-Free Inequalities for the Deleted and Holdout Error Estimates,1979,IEEE Transactions on Information Theory,45,10.1109/TIT.1979.1056032,United States;Canada,Article,Austin;Montreal,0,Journal,2-s2.0-0018444763

@@ -1,0 +1,15 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Wactlar H.,,Intelligent access to digital video: Informedia project,1996,Computer,220,10.1109/2.493456,United States;United States;United States;United States;;;,Article,Pittsburgh;College Park;Cambridge;New York;;;,0,Trade Journal,2-s2.0-0030151506
+White D.,,Similarity indexing: algorithms and performance,1996,Proceedings of SPIE - The International Society for Optical Engineering,108,,United States,Conference Paper,San Diego,0,Conference Proceeding,2-s2.0-0029772894
+White D.,,Similarity indexing with the SS-tree,1996,Proceedings - International Conference on Data Engineering,468,,United States,Conference Paper,San Diego,0,Conference Proceeding,2-s2.0-0029752929
+Roussopoulos N.,,Nearest Neighbor Queries,1995,ACM SIGMOD Record,1054,10.1145/568271.223794,United States,Article,College Park,0,Journal,2-s2.0-84976703615
+Flickner M.,,Query by Image and Video Content: The QBIC System,1995,Computer,2503,10.1109/2.410146,United States,Article,San Jose,0,Trade Journal,2-s2.0-0029375609
+Lin K.,,The TV-tree: An index structure for high-dimensional data,1994,The VLDB Journal,323,10.1007/BF01231606,United States,Article,College Park,0,Journal,2-s2.0-34249762939
+Brinkhoff T.,,Multi-Step Processing of Spatial Joins,1994,ACM SIGMOD Record,132,10.1145/191843.191880,Germany,Article,Munich,0,Journal,2-s2.0-0028445007
+Sproull R.,,Refinements to nearest-neighbor searching in k-dimensional trees,1991,Algorithmica,164,10.1007/BF01759061,United States,Article,Palo Alto,0,Journal,2-s2.0-0025796458
+Jagadish H.,,Spatial search with polyhedra,1990,Proceedings - Sixth International Conference on Data Engineering,51,,United States,Conference Paper,Murray,0,Conference Proceeding,2-s2.0-0025669693
+Beckmann N.,,The R-tree: An Efficient and Robust Access Method for Points and Rectangles,1990,ACM SIGMOD Record,2903,10.1145/93605.98741,Germany,Article,Bremen,0,Journal,2-s2.0-0025447750
+Greene D.,,Implementation and performance analysis of spatial data access methods,1989,,63,,United States,Conference Paper,Berkeley,0,Conference Proceeding,2-s2.0-0024860364
+Guttman A.,,R-trees: A dynamic index structure for spatial searching,1984,ACM SIGMOD Record,4309,10.1145/971697.602266,United States,Article,Berkeley,0,Journal,2-s2.0-0021615874
+Robinson J.,,The K-D-B-tree: A search structure for large multidimensional dynamic indexes,1981,Proceedings of the ACM SIGMOD International Conference on Management of Data,583,10.1145/582318.582321,United States,Conference Paper,Pittsburgh,0,Conference Proceeding,2-s2.0-85010847034
+Bentley J.,,Multidimensional Binary Search Trees Used for Associative Searching,1975,Communications of the ACM,3759,10.1145/361002.361007,United States,Article,Palo Alto,0,Journal,2-s2.0-0016557674

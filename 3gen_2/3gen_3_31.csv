@@ -1,0 +1,20 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Opsahl T.,,Clustering in weighted networks,2009,Social Networks,489,10.1016/j.socnet.2009.02.002,United Kingdom,Article,London,0,Journal,2-s2.0-62549129576
+Opsahl T.,,Prominence and control: The weighted rich-club effect,2008,Physical Review Letters,200,10.1103/PhysRevLett.101.168702,United Kingdom,Article,London,0,Journal,2-s2.0-55049106683
+Brandes U.,,On variants of shortest-path betweenness centrality and their generic computation,2008,Social Networks,416,10.1016/j.socnet.2007.11.001,Germany,Article,Konstanz,0,Journal,2-s2.0-41549097717
+Colizza V.,,Reaction-diffusion processes and metapopulation models in heterogeneous networks,2007,Nature Physics,416,10.1038/nphys560,Italy;United States,Article,Turin;Bloomington,0,Journal,2-s2.0-34047175259
+Borgatti S.P.,,On the robustness of centrality measures under conditions of imperfect data,2006,Social Networks,316,10.1016/j.socnet.2005.05.001,United States,Article,Chestnut Hill,0,Journal,2-s2.0-32544439820
+Borgatti S.P.,,Centrality and network flow,2005,Social Networks,1619,10.1016/j.socnet.2004.11.008,United States,Article,Chestnut Hill,0,Journal,2-s2.0-13944249973
+Newman M.E.J.,,Analysis of weighted networks,2004,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",1212,10.1103/PhysRevE.70.056131,United States;United States,Article,Santa Fe;Ann Arbor,0,Journal,2-s2.0-41349096036
+Barrat A.,,The architecture of complex weighted networks,2004,Proceedings of the National Academy of Sciences of the United States of America,2202,10.1073/pnas.0400087101,France,Article,Orsay,1,Journal,2-s2.0-1642308591
+Newman M.E.J.,,"Scientific collaboration networks. II. Shortest paths, weighted networks, and centrality",2001,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",1499,,United States,Article,Santa Fe,0,Journal,2-s2.0-0042635247
+Yang S.,,Optimal connections: Strength and distance in valued graphs,2001,Social Networks,29,10.1016/S0378-8733(01)00043-0,United States,Article,Minneapolis,0,Journal,2-s2.0-0041334013
+Brandes U.,,A faster algorithm for betweenness centrality,2001,Journal of Mathematical Sociology,2218,10.1080/0022250X.2001.9990249,Germany,Article,Konstanz,0,Journal,2-s2.0-0035648637
+McPherson M.,,Birds of a feather: Homophily in social networks,2001,Annual Review of Sociology,8124,10.1146/annurev.soc.27.1.415,United States,Article,Tucson,0,Book Series,2-s2.0-0035639140
+Hansen M.,,The search-transfer problem: The role of weak ties in sharing knowledge across organization subunits,1999,Administrative Science Quarterly,3353,10.2307/2667032,,Article,,0,Journal,2-s2.0-0033247480
+Watts D.J.,,Collective dynamics of 'small-world9 networks,1998,Nature,25779,10.1038/30918,United States,Article,Ithaca,0,Journal,2-s2.0-0032482432
+Freeman L.,,Centrality in valued graphs: A measure of betweenness based on network flow,1991,Social Networks,595,10.1016/0378-8733(91)90017-N,United States,Article,Irvine,0,Journal,2-s2.0-0001492480
+Peay E.,,Connectedness in a general model for valued networks,1980,Social Networks,18,10.1016/0378-8733(80)90005-2,Australia,Article,Adelaide,0,Journal,2-s2.0-0011569117
+Freeman L.,,Centrality in social networks conceptual clarification,1978/1979,Social Networks,8414,10.1016/0378-8733(78)90021-7,United States,Article,Bethlehem,0,Journal,2-s2.0-33750177351
+Dijkstra E.,,A note on two problems in connexion with graphs,1959,Numerische Mathematik,13103,10.1007/BF01386390,Netherlands,Article,Amsterdam,0,Journal,2-s2.0-34147120474
+Katz L.,,A new status index derived from sociometric analysis,1953,Psychometrika,1764,10.1007/BF02289026,United States,Article,East Lansing,0,Journal,2-s2.0-0002827622

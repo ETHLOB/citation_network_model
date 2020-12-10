@@ -1,0 +1,28 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Altafini C.,,Consensus problems on networks with antagonistic interactions,2013,IEEE Transactions on Automatic Control,602,10.1109/TAC.2012.2224251,Italy,Article,Trieste,0,Journal,2-s2.0-84875588811
+Hu Y.,,Consensus of multi-agent systems: A simultaneous stabilisation approach,2012,IET Control Theory and Applications,20,10.1049/iet-cta.2011.0324,Hong Kong,Article,Pokfulam,0,Journal,2-s2.0-84867778216
+Bauso D.,,Quantized dissensus in networks of agents subject to death and Duplication,2012,IEEE Transactions on Automatic Control,12,10.1109/TAC.2011.2167810,Italy,Review,Palermo,0,Journal,2-s2.0-84857736969
+Facchetti G.,,Computing global structural balance in large-scale signed social networks,2011,Proceedings of the National Academy of Sciences of the United States of America,174,10.1073/pnas.1109521108,Italy,Article,Trieste,1,Journal,2-s2.0-84855504473
+Wieland P.,,On topology and dynamics of consensus among linear high-order agents,2011,International Journal of Systems Science,104,10.1080/00207721003658202,Germany,Article,Stuttgart,0,Journal,2-s2.0-84860390402
+Mesbahi M.,,Graph theoretic methods in multiagent networks,2010,Graph Theoretic Methods in Multiagent Networks,1556,,United States,Book,Seattle,0,Book,2-s2.0-84883932589
+Kunegis J.,,"Spectral analysis of signed graphs for clustering, prediction and visualization",2010,"Proceedings of the 10th SIAM International Conference on Data Mining, SDM 2010",190,10.1137/1.9781611972801.49,Germany,Conference Paper,Berlin,1,Conference Proceeding,2-s2.0-84880094149
+Bauso D.,,"Dissensus, death and division",2009,Proceedings of the American Control Conference,4,10.1109/ACC.2009.5160410,Italy,Conference Paper,Palermo,0,Conference Proceeding,2-s2.0-70449642519
+Scardovi L.,,Synchronization in networks of identical linear systems,2009,Automatica,587,10.1016/j.automatica.2009.07.006,United States,Article,Princeton,0,Journal,2-s2.0-70349855204
+Wieland P.,,On consensus in multi-agent systems with linear high-order agents,2008,IFAC Proceedings Volumes (IFAC-PapersOnline),105,10.3182/20080706-5-KR-1001.1755,,Conference Paper,,0,Conference Proceeding,2-s2.0-79961017805
+Hui Q.,,Distributed nonlinear control algorithms for network consensus,2008,Automatica,213,10.1016/j.automatica.2008.01.011,United States,Article,Atlanta,0,Journal,2-s2.0-50049099130
+Hara S.,,Stability analysis of linear systems with generalized frequency variables and its applications to formation control,2007,Proceedings of the IEEE Conference on Decision and Control,51,10.1109/CDC.2007.4435000,Japan,Conference Paper,Tokyo,0,Conference Proceeding,2-s2.0-62749154599
+Zhiyun L.,,State agreement for continuous-time coupled nonlinear systems,2007,SIAM Journal on Control and Optimization,376,10.1137/050626405,Canada,Article,Toronto,0,Journal,2-s2.0-39449107783
+Ren W.,,Collective Group Behavior Through Local Interaction,2007,IEEE Control Systems,2225,10.1109/MCS.2007.338264,,Article,,0,Journal,2-s2.0-34147163355
+Olfati-Saber R.,,Consensus and cooperation in networked multi-agent systems,2007,Proceedings of the IEEE,6417,10.1109/JPROC.2006.887293,United States,Article,Hanover,0,Journal,2-s2.0-64149119332
+Bauso D.,,Non-linear protocols for optimal distributed consensus in networks of dynamic agents,2006,Systems and Control Letters,197,10.1016/j.sysconle.2006.06.005,Italy,Article,Palermo,0,Journal,2-s2.0-33748420028
+Ren W.,,Consensus seeking in multiagent systems under dynamically changing interaction topologies,2005,IEEE Transactions on Automatic Control,4543,10.1109/TAC.2005.846556,United States,Article,College Park,0,Journal,2-s2.0-20344399896
+Moreau L.,,Stability of multiagent systems with time-dependent communication links,2005,IEEE Transactions on Automatic Control,2061,10.1109/TAC.2004.841888,Belgium,Article,Ghent,0,Journal,2-s2.0-12944293796
+Fax J.,,Information flow and cooperative control of vehicle formations,2004,IEEE Transactions on Automatic Control,3370,10.1109/TAC.2004.834433,United States,Article,Los Angeles,0,Journal,2-s2.0-4644317383
+Olfati-Saber R.,,Consensus problems in networks of agents with switching topology and time-delays,2004,IEEE Transactions on Automatic Control,8298,10.1109/TAC.2004.834113,United States,Article,Pasadena,0,Journal,2-s2.0-4644244041
+Lin Z.,,Local control strategies for groups of mobile autonomous agents,2004,IEEE Transactions on Automatic Control,671,10.1109/TAC.2004.825639,Canada,Article,Toronto,0,Journal,2-s2.0-2442428325
+Lin J.,,The Multi-Agent Rendezvous Problem,2003,Proceedings of the IEEE Conference on Decision and Control,250,,United States,Conference Paper,New Haven,0,Conference Proceeding,2-s2.0-1542328970
+Jadbabaie A.,,Coordination of groups of mobile autonomous agents using nearest neighbor rules,2003,IEEE Transactions on Automatic Control,6057,10.1109/TAC.2003.812781,United States;United States,Article,Philadelphia;New Haven,0,Journal,2-s2.0-0038548185
+Hou Y.,,On the Laplacian eigenvalues of signed graphs,2003,Linear and Multilinear Algebra,71,10.1080/0308108031000053611,China,Article,Changsha,0,Journal,2-s2.0-0037356228
+Benediktsson J.,,Consensus Theoretic Classification Methods,1992,"IEEE Transactions on Systems, Man and Cybernetics",259,10.1109/21.156582,Iceland,Article,Reykjavik,0,Journal,2-s2.0-0026892150
+Zaslavsky T.,,Signed graphs,1982,Discrete Applied Mathematics,366,10.1016/0166-218X(82)90033-6,United States,Article,Columbus,1,Journal,2-s2.0-0019897730
+Degroot M.,,Reaching a consensus,1974,Journal of the American Statistical Association,1641,10.1080/01621459.1974.10480137,United States,Article,Pittsburgh,0,Journal,2-s2.0-84909522870

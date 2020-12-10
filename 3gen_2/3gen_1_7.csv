@@ -1,0 +1,33 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Radicchi F.,,Leveraging percolation theory to single out influential spreaders in networks,2016,Physical Review E,24,10.1103/PhysRevE.93.062314,United States,Article,Bloomington,1,Journal,2-s2.0-84977263449
+Ma L.L.,,Identifying influential spreaders in complex networks based on gravity formula,2016,Physica A: Statistical Mechanics and its Applications,71,10.1016/j.physa.2015.12.162,China,Article,Hefei,0,Journal,2-s2.0-84958160990
+Li P.,,Role of structural holes in containing spreading processes,2016,Physical Review E,3,10.1103/PhysRevE.93.032312,China,Article,Chengdu,0,Journal,2-s2.0-84960916204
+Liu J.,,Locating influential nodes via dynamics-sensitive centrality,2016,Scientific Reports,88,10.1038/srep21380,China;China,Article,Shanghai;Shanghai,1,Journal,2-s2.0-84959186343
+Lü L.,,The H-index of a network node and its relation to degree and coreness,2016,Nature Communications,220,10.1038/ncomms10168,China,Article,Hangzhou,1,Journal,2-s2.0-84954349791
+Lü L.,,Vital nodes identification in complex networks,2016,Physics Reports,437,10.1016/j.physrep.2016.06.007,China;China,Review,Hangzhou;Chengdu,1,Journal,2-s2.0-84994052317
+Zhong L.F.,,Iterative resource allocation based on propagation feature of node for identifying the influential nodes,2015,"Physics Letters, Section A: General, Atomic and Solid State Physics",24,10.1016/j.physleta.2015.05.021,China,Article,Chengdu,0,Journal,2-s2.0-84939652710
+Liu Y.,,Improving the accuracy of the k-shell method by removing redundant links: From a perspective of spreading dynamics,2015,Scientific Reports,66,10.1038/srep13172,China;Austria;China,Article,Chengdu;Vienna;Chengdu,1,Journal,2-s2.0-84939535375
+Morone F.,,Influence maximization in complex networks through optimal percolation,2015,Nature,455,10.1038/nature14604,United States,Article,New York,0,Journal,2-s2.0-84938769668
+Liu Y.,,Core-like groups result in invalidation of identifying super-spreader by k-shell decomposition,2015,Scientific Reports,109,10.1038/srep09602,China;China,Article,Chengdu;Chengdu,1,Journal,2-s2.0-84929191771
+Martin T.,,Localization and centrality in networks,2014,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",117,10.1103/PhysRevE.90.052808,United States,Article,Ann Arbor,0,Journal,2-s2.0-84912572339
+Bae J.,,Identifying and ranking influential spreaders in complex networks by neighborhood coreness,2014,Physica A: Statistical Mechanics and its Applications,169,10.1016/j.physa.2013.10.047,South Korea,Article,Daegu,0,Journal,2-s2.0-84889888532
+Liu J.,,Ranking the spreading influence in complex networks,2013,Physica A: Statistical Mechanics and its Applications,171,10.1016/j.physa.2013.04.037,China,Article,Shanghai,0,Journal,2-s2.0-84879684235
+Zeng A.,,Ranking spreaders by decomposing complex networks,2013,"Physics Letters, Section A: General, Atomic and Solid State Physics",199,10.1016/j.physleta.2013.02.039,China;Switzerland,Article,Hangzhou;Fribourg,0,Journal,2-s2.0-84875220788
+Klemm K.,,A measure of individual role in collective dynamics,2012,Scientific Reports,117,10.1038/srep00292,Spain;Germany,Article,Palma;Leipzig,1,Journal,2-s2.0-84859773717
+Borge-Holthoefer J.,,Absence of influential spreaders in rumor dynamics,2012,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",151,10.1103/PhysRevE.85.026116,Spain,Article,Zaragoza,0,Journal,2-s2.0-84857764370
+Chen D.,,Identifying influential nodes in complex networks,2012,Physica A: Statistical Mechanics and its Applications,594,10.1016/j.physa.2011.09.017,China,Article,Chengdu,0,Journal,2-s2.0-84655175098
+Lü L.,,"Leaders in social networks, the delicious case",2011,PLoS ONE,437,10.1371/journal.pone.0021202,Switzerland;China;China,Article,Fribourg;Shanghai;Chengdu,1,Journal,2-s2.0-79959575935
+Zhang J.,,Node importance for dynamical process on networks: A multiscale characterization,2011,Chaos,44,10.1063/1.3553644,China;Hong Kong,Article,Shanghai;Kowloon,0,Journal,2-s2.0-79953271797
+Kitsak M.,,Identification of influential spreaders in complex networks,2010,Nature Physics,1473,10.1038/nphys1746,United States;United States,Article,San Diego;Boston,1,Journal,2-s2.0-78149283685
+Zhou T.,,Predicting missing links via local information,2009,European Physical Journal B,781,10.1140/epjb/e2009-00335-8,Switzerland;China;China,Article,Fribourg;Hefei;Shanghai,0,Journal,2-s2.0-84870843485
+Newman M.E.J.,,Finding community structure in networks using the eigenvectors of matrices,2006,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",2559,10.1103/PhysRevE.74.036104,United States,Article,Ann Arbor,0,Journal,2-s2.0-33749468596
+Spring N.,,Measuring ISP Topologies With Rocketfuel,2004,IEEE/ACM Transactions on Networking,557,10.1109/TNET.2003.822655,United States,Article,Seattle,0,Journal,2-s2.0-1642408605
+Boguñá M.,,Models of social networks based on social distance attachment,2004,"Physical Review E - Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics",437,10.1103/PhysRevE.70.056122,Spain,Article,Barcelona,0,Journal,2-s2.0-41349112960
+Guimerà R.,,Self-similar community structure in a network of human interactions,2003,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",769,,Spain;United States,Article,Tarragona;Evanston,0,Journal,2-s2.0-1842616539
+Moreno Y.,,Epidemic outbreaks in complex heterogeneous networks,2002,European Physical Journal B,712,10.1007/s10051-002-8996-y,Italy,Article,Trieste,0,Journal,2-s2.0-0000494582
+Kumar A.,,Protein complexes take the bait,2002,Nature,119,10.1038/415123a,United States,Short Survey,New Haven,0,Journal,2-s2.0-0037050020
+Barabási A.,,Emergence of scaling in random networks,1999,Science,22122,10.1126/science.286.5439.509,United States,Article,Notre Dame,0,Journal,2-s2.0-0038483826
+Watts D.J.,,Collective dynamics of 'small-world9 networks,1998,Nature,25779,10.1038/30918,United States,Article,Ithaca,0,Journal,2-s2.0-0032482432
+Bonacich P.,,Factoring and weighting approaches to status scores and clique identification,1972,The Journal of Mathematical Sociology,1364,10.1080/0022250X.1972.9989806,United States,Article,Los Angeles,0,Journal,2-s2.0-0001316531
+Knight W.,,A Computer Method for Calculating Kendall's Tau with Ungrouped Data,1966,Journal of the American Statistical Association,131,10.1080/01621459.1966.10480879,Canada,Article,Ottawa,0,Journal,2-s2.0-29844453303
+Sabidussi G.,,The centrality index of a graph,1966,Psychometrika,1175,10.1007/BF02289527,Canada,Article,Hamilton,0,Journal,2-s2.0-0013987194

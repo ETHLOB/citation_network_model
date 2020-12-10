@@ -1,0 +1,19 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Gavoille C.,,A survey on interval routing,2000,Theoretical Computer Science,64,10.1016/S0304-3975(99)00283-2,France,Article,Talence,1,Journal,2-s2.0-0000783882
+Noltemeier H.,,Network Design and Improvement,1999,ACM Computing Surveys,8,10.1145/333580.333581,Germany,Article,Wurzburg,0,Journal,2-s2.0-84988260884
+Gavoille C.,,Compact routing tables for graphs of bounded genus (extended abstract),1999,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),30,10.1007/3-540-48523-6_32,France,Conference Paper,Talence,0,Book Series,2-s2.0-84862478303
+Narayanan L.,,Interval routing on k-trees,1998,Journal of Algorithms,10,10.1006/jagm.1997.0880,Canada,Article,Montreal,0,Journal,2-s2.0-0038585412
+Gavoille C.,,Worst Case Bounds for Shortest Path Interval Routing,1998,Journal of Algorithms,21,10.1006/jagm.1997.0915,France,Article,Talence,0,Journal,2-s2.0-0002845131
+Fraigniaud P.,,Interval routing schemes,1998,Algorithmica (New York),27,10.1007/PL00009211,France,Article,Lyon,0,Journal,2-s2.0-0001635205
+Flammini M.,,On devising Boolean Routing Schemes,1997,Theoretical Computer Science,8,10.1016/S0304-3975(97)86543-7,Italy,Article,L'Aquila,1,Journal,2-s2.0-0031248848
+Kranakis E.,,On multi-label linear interval routing schemes,1996,Computer Journal,14,,Canada,Article,Ottawa,0,Journal,2-s2.0-0029698208
+Flocchini P.,,Distance routing on series parallel networks,1996,Proceedings - International Conference on Distributed Computing Systems,2,,Canada,Conference Paper,Ottawa,0,Conference Proceeding,2-s2.0-0029723610
+Grötschel M.,,Design of Survivable Networks,1995,Handbooks in Operations Research and Management Science,153,10.1016/S0927-0507(05)80127-6,Germany,Review,Berlin,0,Book Series,2-s2.0-77957077046
+Korach E.,,General vertex disjoint paths in series-parallel graphs,1993,Discrete Applied Mathematics,6,10.1016/0166-218X(93)90035-M,Israel,Article,Haifa,1,Journal,2-s2.0-38249006816
+Bakker E.,,Prefix routing schemes in dynamic networks,1993,Computer Networks and ISDN Systems,17,10.1016/0169-7552(93)90079-J,Netherlands,Article,Utrecht,0,Journal,2-s2.0-0027811927
+Flammini M.,,Boolean routing,1993,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),20,10.1007/3-540-57271-6_38,Italy;Italy,Conference Paper,Rome;L'Aquila,0,Book Series,2-s2.0-0039356043
+He X.,,Efficient parallel algorithms for series parallel graphs,1991,Journal of Algorithms,21,10.1016/0196-6774(91)90012-N,United States,Article,Buffalo,0,Journal,2-s2.0-0012538311
+Ružička P.,,On efficiency of interval rooting algorithms,1988,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),25,10.1007/BFb0017172,,Conference Paper,,0,Book Series,2-s2.0-84947815746
+Santoro N.,,LABELLING AND IMPLICIT ROUTING IN NETWORKS.,Feb,Computer Journal,213,10.1093/comjnl/28.1.5,Canada,Article,Ottawa,1,Journal,2-s2.0-0022013653
+Baker K.,,Partial orders of dimension 2,1972,Networks,105,10.1002/net.3230020103,United States,Article,Los Angeles,0,Journal,2-s2.0-84981653304
+Duffin R.,,Topology of series-parallel networks,1965,Journal of Mathematical Analysis and Applications,316,10.1016/0022-247X(65)90125-3,United States,Article,Pittsburgh,1,Journal,2-s2.0-0001368104

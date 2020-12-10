@@ -1,0 +1,21 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Newman M.,,The structure and dynamics of networks,2011,The Structure and Dynamics of Networks,1018,,,Book,,0,Book,2-s2.0-84884073625
+Hastings M.B.,,Community detection as an inference problem,2006,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",110,10.1103/PhysRevE.74.035102,United States,Article,Los Alamos,0,Journal,2-s2.0-33748773043
+Boccaletti S.,,Complex networks: Structure and dynamics,2006,Physics Reports,6606,10.1016/j.physrep.2005.10.009,Italy,Review,Sesto Fiorentino,0,Journal,2-s2.0-31344474880
+Newman M.E.J.,,Finding community structure in networks using the eigenvectors of matrices,2006,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",2559,10.1103/PhysRevE.74.036104,United States,Article,Ann Arbor,0,Journal,2-s2.0-33749468596
+Estrada E.,,Spectral measures of bipartivity in complex networks,2005,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",179,10.1103/PhysRevE.72.046105,Spain,Article,Santiago de Compostela,0,Journal,2-s2.0-33244461772
+Palla G.,,Uncovering the overlapping community structure of complex networks in nature and society,2005,Nature,3512,10.1038/nature03607,Hungary;Hungary,Article,Budapest;Budapest,0,Journal,2-s2.0-20444504323
+Reichardt J.,,Detecting fuzzy community structures in complex networks with a potts model,2004,Physical Review Letters,401,10.1103/PhysRevLett.93.218701,Germany;Germany,Article,Bremen;Leipzig,0,Journal,2-s2.0-37649031573
+Holme P.,,Network bipartivity,2003,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",94,,Sweden,Article,Umea,0,Journal,2-s2.0-0942300164
+Jones J.,,An assessment of preferential attachment as a mechanism for human sexual network formation,2003,Proceedings of the Royal Society B: Biological Sciences,119,10.1098/rspb.2003.2369,United States,Article,Seattle,0,Journal,2-s2.0-0037526119
+Newman M.,,The structure and function of complex networks,2003,SIAM Review,11537,10.1137/S003614450342480,United States,Review,Ann Arbor,0,Journal,2-s2.0-0038718854
+Milo R.,,Network motifs: Simple building blocks of complex networks,2002,Science,4255,10.1126/science.298.5594.824,Israel,Article,Rehovot,0,Journal,2-s2.0-0037174670
+Albert R.,,Statistical mechanics of complex networks,2002,Reviews of Modern Physics,13645,10.1103/RevModPhys.74.47,United States;United States,Article,Minneapolis;Notre Dame,0,Journal,2-s2.0-0036013593
+Girvan M.,,Community structure in social and biological networks,2002,Proceedings of the National Academy of Sciences of the United States of America,8662,10.1073/pnas.122653799,United States;United States,Article,Santa Fe;Ithaca,1,Journal,2-s2.0-0037062448
+Newman M.,,Assortative Mixing in Networks,2002,Physical Review Letters,3012,10.1103/PhysRevLett.89.208701,United States,Article,Ann Arbor,0,Journal,2-s2.0-18744389789
+Pastor-Satorras R.,,Dynamical and correlation properties of the internet,2001,Physical Review Letters,892,,Italy;Spain,Article,Trieste;Barcelona,0,Journal,2-s2.0-25944437904
+Moody J.,,"Race, school integration, and friendship segregation in America",2001,American Journal of Sociology,677,10.1086/338954,United States,Article,Columbus,0,Journal,2-s2.0-0035511565
+Albert R.,,Diameter of the world-wide web,1999,Nature,3115,10.1038/43601,United States,Article,Notre Dame,0,Journal,2-s2.0-0033539175
+Faloutsos M.,,On power-law relationships of the internet topology,1999,Computer Communication Review,3084,10.1145/316194.316229,United States;United States;Canada,Article,Riverside;Pittsburgh;Toronto,0,Journal,2-s2.0-0033204106
+Watts D.J.,,Collective dynamics of 'small-world9 networks,1998,Nature,25779,10.1038/30918,United States,Article,Ithaca,0,Journal,2-s2.0-0032482432
+White H.,,Social structure from multiple networks. I. Blockmodels of roles and positions,1976,American Journal of Sociology,1037,10.1086/226141,United States,Article,Cambridge,0,Journal,2-s2.0-84925899978

@@ -1,0 +1,22 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Tangmunarunkit H.,,Network topology generators: Degree-based vs. structural,2002,Computer Communication Review,138,10.1145/964725.633040,United States,Conference Paper,,0,Conference Proceeding,2-s2.0-33744908559
+Spring N.,,Measuring ISP topologies With rocketfuel,2002,Computer Communication Review,454,10.1145/964725.633039,United States,Conference Paper,Seattle,0,Conference Proceeding,2-s2.0-13944259535
+Mahajan R.,,Controlling high bandwidth aggregates in the network,2002,Computer Communication Review,411,10.1145/571697.571724,United States;United States;United States,Conference Paper,Seattle;San Antonio;,0,Conference Proceeding,2-s2.0-4544272175
+Chang H.,,Towards capturing representative AS-level Internet topologies,2002,Performance Evaluation Review,22,10.1145/511399.511380,United States,Conference Paper,Ann Arbor,0,Conference Proceeding,2-s2.0-0036036991
+Andersen D.G.,,Topology inference from BGP routing dynamics,2002,Proceedings of the 2nd Internet Measurement Workshop (IMW 2002),41,10.1145/637235.637239,United States,Conference Paper,Cambridge,0,Conference Proceeding,2-s2.0-0141539312
+Mahajan R.,,Inferring Link Weights Using End-to-End Measurements,2002,Proceedings of the 2nd Internet Measurement Workshop (IMW 2002),135,10.1145/637201.637237,United States,Conference Paper,Seattle,0,Conference Proceeding,2-s2.0-0141762468
+Bu T.,,On distinguishing between Internet power law topology generators,2002,Proceedings - IEEE INFOCOM,382,,United States,Conference Paper,Amherst MA,0,Conference Proceeding,2-s2.0-0036349136
+Basu A.,,Stability issues in OSPF routing,2001,Computer Communication Review,92,10.1145/964723.383077,United States,Conference Paper,Murray,0,Conference Proceeding,2-s2.0-0034781799
+Padmanabhan V.,,An investigation of geographic mapping techniques for internet hosts,2001,Computer Communication Review,181,10.1145/964723.383073,United States,Conference Paper,Redmond,0,Conference Proceeding,2-s2.0-0034782006
+Park K.,,On the effectiveness of route-based packet filtering for distributed DoS attack prevention in power-law Internets,2001,Computer Communication Review,258,10.1145/964723.383061,United States,Conference Paper,West Lafayette,0,Conference Proceeding,2-s2.0-0034776786
+Snoeren A.C.,,Hash-based IP traceback,2001,Computer Communication Review,278,10.1145/964723.383060,United States;United States,Conference Paper,Cambridge;Cambridge,0,Conference Proceeding,2-s2.0-0034775309
+Tangmunarunkit H.,,Does AS size determine degree in AS topology?,2001,Computer Communication Review,49,10.1145/1037107.1037108,United States,Article,,0,Journal,2-s2.0-0043186292
+Barford P.,,On the Marginal Utility of Network Topology Measurements,2001,Proceedings of the ACM SIGCOMM Internet Measurement Workshop,116,10.1145/505203.505204,United States,Conference Paper,Madison,0,Conference Proceeding,2-s2.0-1542330215
+Labovitz C.,,Delayed Internet routing convergence,2000,Computer Communication Review,161,10.1145/347057.347428,United States,Article,Redmond,0,Conference Proceeding,2-s2.0-0033652343
+Govindan R.,,Heuristics for Internet map discovery,2000,Proceedings - IEEE INFOCOM,481,,United States,Conference Paper,Marina del Rey,0,Conference Proceeding,2-s2.0-0033892689
+Savage S.,,Practical network support for IP traceback,2000,Computer Communication Review,513,10.1145/347057.347560,United States,Article,Seattle,0,Conference Proceeding,2-s2.0-0033650584
+Phillips G.,,Scaling of multicast trees: Comments on the chuang-sirbu scaling law,1999,Computer Communication Review,56,10.1145/316194.316205,United States;United States,Article,Berkeley;Marina del Rey,0,Conference Proceeding,2-s2.0-0033204883
+Burch H.,,Mapping the Internet,1999,Computer,110,10.1109/2.755008,United Kingdom,Article,Sudbury,0,Journal,2-s2.0-84992267980
+Faloutsos M.,,On power-law relationships of the internet topology,1999,Computer Communication Review,3084,10.1145/316194.316229,United States;United States;Canada,Article,Riverside;Pittsburgh;Toronto,0,Journal,2-s2.0-0033204106
+Pansiot J.,,On routes and multicast trees in the internet,1998,Computer Communication Review,142,10.1145/280549.280555,France,Article,Strasbourg,0,Conference Proceeding,2-s2.0-0002154486
+Zegura E.,,How to model an internetwork,1996,Proceedings - IEEE INFOCOM,1357,,United States,Conference Paper,Atlanta,0,Conference Proceeding,2-s2.0-0029780013

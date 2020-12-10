@@ -1,0 +1,72 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Thorvaldsdóttir H.,,Integrative Genomics Viewer (IGV): High-performance genomics data visualization and exploration,2013,Briefings in Bioinformatics,3375,10.1093/bib/bbs017,United States,Article,Cambridge,1,Journal,2-s2.0-84875634162
+Gonzalez-Perez A.,,Functional impact bias reveals cancer drivers,2012,Nucleic Acids Research,178,10.1093/nar/gks743,Spain,Article,Barcelona,1,Journal,2-s2.0-84870599966
+Zhang S.,,Discovery of multi-dimensional modules by integrative analysis of cancer genomic data,2012,Nucleic Acids Research,155,10.1093/nar/gks725,United States;China,Article,Los Angeles;Beijing,1,Journal,2-s2.0-84868152524
+Eifert C.,,"From cancer genomes to oncogenic drivers, tumour dependencies and therapeutic targets",2012,Nature Reviews Cancer,61,10.1038/nrc3299,United States,Review,Cold Spring Harbor,0,Journal,2-s2.0-84864326095
+Muzny D.M.,,Comprehensive molecular characterization of human colon and rectal cancer,2012,Nature,4331,10.1038/nature11252,United States,Article,Houston,1,Journal,2-s2.0-84863922124
+Nielsen C.,,Points of view: Representing genomic structural variation,2012,Nature Methods,4,10.1038/nmeth.2018,Canada;Canada,Note,Vacounver;Vancouver,0,Journal,2-s2.0-84863197202
+Fiume M.,,Savant Genome Browser 2: Visualization and analysis for population-scale genomics,2012,Nucleic Acids Research,37,10.1093/nar/gks427,Canada,Article,Toronto,1,Journal,2-s2.0-84864424447
+Ellis M.J.,,Whole-genome analysis informs breast cancer response to aromatase inhibition,2012,Nature,712,10.1038/nature11143,United States;United States,Article,St. Louis;St. Louis,1,Journal,2-s2.0-84862584058
+Nik-Zainal S.,,Mutational processes molding the genomes of 21 breast cancers,2012,Cell,1010,10.1016/j.cell.2012.04.024,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-84861541343
+Cerami E.,,The cBio Cancer Genomics Portal: An open platform for exploring multidimensional cancer genomics data,2012,Cancer Discovery,5459,10.1158/2159-8290.CD-12-0095,United States,Article,New York,1,Journal,2-s2.0-84866002291
+Louhimo R.,,Comparative analysis of algorithms for integration of copy number and expression data,2012,Nature Methods,25,10.1038/nmeth.1893,Finland,Article,Helsinki,0,Journal,2-s2.0-84859218110
+Gundem G.,,Sample-level enrichment analysis unravels shared stress phenotypes among multiple cancer types,2012,Genome Medicine,22,10.1186/gm327,Spain;United Kingdom,Article,Barcelona;Hinxton,1,Journal,2-s2.0-84858993991
+Vandin F.,,De novo discovery of mutated driver pathways in cancer,2012,Genome Research,248,10.1101/gr.120477.111,United States,Article,Providence,1,Journal,2-s2.0-84856532705
+Ciriello G.,,Mutual exclusivity analysis identifies oncogenic network modules,2012,Genome Research,368,10.1101/gr.125567.111,United States,Article,New York,1,Journal,2-s2.0-84856535081
+Khatri P.,,Ten years of pathway analysis: Current approaches and outstanding challenges,2012,PLoS Computational Biology,801,10.1371/journal.pcbi.1002375,United States;United States,Review,Stanford;Palo Alto,1,Journal,2-s2.0-84861123691
+Rausch T.,,Genome sequencing of pediatric medulloblastoma links catastrophic DNA rearrangements with TP53 mutations,2012,Cell,499,10.1016/j.cell.2011.12.013,Germany,Article,Heidelberg,1,Journal,2-s2.0-84862907577
+Quinlan A.R.,,Characterizing complex structural variation in germline and somatic genomes,2012,Trends in Genetics,52,10.1016/j.tig.2011.10.002,United States,Review,Charlottesville,0,Journal,2-s2.0-84655163917
+Lex A.,,StratomeX: Visual analysis of large-scale heterogeneous genomics data for cancer subtype characterization,2012,Computer Graphics Forum,54,10.1111/j.1467-8659.2012.03110.x,Austria,Article,Graz,0,Journal,2-s2.0-84873318605
+Yin T.,,ggbio: an R package for extending the grammar of graphics for genomic data,2012,Genome biology,129,10.1186/gb-2012-13-8-r77,,Article,,1,Journal,2-s2.0-84865564453
+Kelder T.,,WikiPathways: Building research communities on biological pathways,2012,Nucleic Acids Research,352,10.1093/nar/gkr1074,Netherlands;Netherlands,Article,The Hague;Maastricht,1,Journal,2-s2.0-84862203775
+Bell D.,,Integrated genomic analyses of ovarian carcinoma,2011,Nature,4070,10.1038/nature10166,United States,Article,Rochester,1,Journal,2-s2.0-79959838081
+Perez-Llamas C.,,Gitools: Analysis and visualisation of genomic data using interactive heat-maps,2011,PLoS ONE,183,10.1371/journal.pone.0019541,Spain,Article,Barcelona,1,Journal,2-s2.0-79955934629
+Mermel C.,,GISTIC2.0 facilitates sensitive and confident localization of the targets of focal somatic copy-number alteration in human cancers,2011,Genome Biology,1010,10.1186/gb-2011-12-4-r41,United States;United States,Article,Boston;Cambridge,1,Journal,2-s2.0-79955166265
+Vandin F.,,Algorithms for detecting significantly mutated pathways in cancer,2011,Journal of Computational Biology,239,10.1089/cmb.2010.0265,United States,Conference Paper,Providence,0,Journal,2-s2.0-79952389826
+Smoot M.,,Cytoscape 2.8: New features for data integration and network visualization,2011,Bioinformatics,2810,10.1093/bioinformatics/btq675,United States;United States,Article,San Diego;San Diego,1,Journal,2-s2.0-79551587720
+Stephens P.J.,,Massive genomic rearrangement acquired in a single catastrophic event during cancer development,2011,Cell,1324,10.1016/j.cell.2010.11.055,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-78650959663
+Sanborn J.,,The UCSC cancer genomics browser: Update 2011,2011,Nucleic Acids Research,41,10.1093/nar/gkq1113,United States,Article,Santa Cruz,1,Journal,2-s2.0-78651313597
+Kloosterman W.P.,,Chromothripsis is a common mechanism driving genomic rearrangements in primary and metastatic colorectal cancer.,2011,Genome biology,117,10.1186/gb-2011-12-10-r103,Netherlands,Article,Utrecht,1,Journal,2-s2.0-80054698731
+Akavia U.,,An integrated approach to uncover drivers of cancer,2010,Cell,332,10.1016/j.cell.2010.11.013,United States,Article,New York,1,Journal,2-s2.0-78649976005
+O'Brien T.,,Gremlin: An interactive visualization model for analyzing genomic rearrangements,2010,IEEE Transactions on Visualization and Computer Graphics,17,10.1109/TVCG.2010.163,United States,Article,Providence,0,Journal,2-s2.0-78149247551
+Lopes C.T.,,Cytoscape web: An interactive web-based network browser,2010,Bioinformatics,427,10.1093/bioinformatics/btq430,Canada,Article,Toronto,1,Journal,2-s2.0-77956548953
+Vaske C.,,Inference of patient-specific pathway activities from multi-dimensional cancer genomics data using PARADIGM,2010,Bioinformatics,429,10.1093/bioinformatics/btq182,United States,Article,Santa Cruz,1,Journal,2-s2.0-77954195272
+Carro A.,,waviCGH: A web application for the analysis and visualization of genomic copy number alterations,2010,Nucleic Acids Research,19,10.1093/nar/gkq441,Spain,Article,Madrid,1,Journal,2-s2.0-77954260411
+Wu G.,,A human functional protein interaction network and its application to cancer data analysis,2010,Genome Biology,397,10.1186/gb-2010-11-5-r53,Canada,Article,Toronto,1,Journal,2-s2.0-77952310528
+Ding L.,,Genome remodelling in a basal-like breast cancer metastasis and xenograft,2010,Nature,900,10.1038/nature08989,United States;United States,Article,St. Louis;St Louis,1,Journal,2-s2.0-77951139631
+Hudson T.J.,,International network of cancer genome projects,2010,Nature,1355,10.1038/nature08987,Canada;Canada,Review,Toronto;Toronto,1,Journal,2-s2.0-77951115122
+Rueda O.,,Finding recurrent copy number alteration regions: A review of methods,2010,Current Bioinformatics,32,10.2174/157489310790596402,United Kingdom;Spain,Review,London;Madrid,0,Journal,2-s2.0-77950171445
+Cerami E.,,Automated network analysis identifies core pathways in glioblastoma,2010,PLoS ONE,233,10.1371/journal.pone.0008918,United States;United States,Article,New York;New York,1,Journal,2-s2.0-77949446630
+Gundem G.,,IntOGen: Integration and data mining of multidimensional oncogenomic data,2010,Nature Methods,70,10.1038/nmeth0210-92,Spain,Letter,Barcelona,0,Journal,2-s2.0-77449141217
+O’Donoghue S.I.,,Visualizing biological data—now and in the future,2010,Nature Methods,79,10.1038/nmeth.f.301,Germany,Note,Heidelberg,0,Journal,2-s2.0-77649253290
+Nielsen C.,,Visualizing genomes: Techniques and challenges,2010,Nature Methods,109,10.1038/nmeth.1422,Canada,Review,Vancouver,0,Journal,2-s2.0-77649253051
+Gehlenborg N.,,Visualization of omics data for systems biology,2010,Nature Methods,405,10.1038/nmeth.1436,United Kingdom;United Kingdom,Review,Cambridge;Cambridge,0,Journal,2-s2.0-77649252269
+Stephens P.,,Complex landscapes of somatic rearrangement in human breast cancer genomes,2009,Nature,646,10.1038/nature08645,United Kingdom,Article,Hinxton,0,Journal,2-s2.0-72949119310
+Popova T.,,Genome Alteration Print (GAP): A tool to visualize and mine complex cancer genomic profiles obtained by SNP arrays,2009,Genome Biology,132,10.1186/gb-2009-10-11-r128,France;France,Article,Paris;Paris,1,Journal,2-s2.0-76249097734
+Robinson M.,,edgeR: A Bioconductor package for differential expression analysis of digital gene expression data,2009,Bioinformatics,11916,10.1093/bioinformatics/btp616,Australia;Australia,Article,Melbourne;Sydney,1,Journal,2-s2.0-75249087100
+Streit M.,,Caleydo: Connecting pathways and gene expression,2009,Bioinformatics,25,10.1093/bioinformatics/btp432,Austria,Article,Graz,1,Journal,2-s2.0-70349999411
+Brown K.,,"NAViGaTOR: Network analysis, visualization and graphing Toronto",2009,Bioinformatics,141,10.1093/bioinformatics/btp595,Canada,Article,Toronto,1,Journal,2-s2.0-75249086155
+Krzywinski M.,,Circos: An information aesthetic for comparative genomics,2009,Genome Research,4334,10.1101/gr.092759.109,Canada,Article,Vancouver,1,Journal,2-s2.0-69649109364
+Haider S.,,BioMart central portal - Unified access to biological data,2009,Nucleic Acids Research,254,10.1093/nar/gkp265,United Kingdom;United Kingdom,Article,Cambridge;Cambridge,1,Journal,2-s2.0-67849095416
+Bernard P.S.,,Supervised risk predictor of breast cancer based on intrinsic subtypes,2009,Journal of Clinical Oncology,2280,10.1200/JCO.2008.18.1370,United States,Article,Salt Lake City,0,Journal,2-s2.0-62449131093
+Medvedev P.,,Computational methods for discovering structural variation with next-generation sequencing,2009,Nature Methods,388,10.1038/nmeth.1374,Canada,Article,Toronto,0,Journal,2-s2.0-70449704529
+McLendon R.,,Comprehensive genomic characterization defines human glioblastoma genes and core pathways,2008,Nature,4803,10.1038/nature07385,United States,Article,Durham,1,Journal,2-s2.0-54549108740
+Parsons D.,,An integrated genomic analysis of human glioblastoma multiforme,2008,Science,3876,10.1126/science.1164382,United States;United States,Article,Baltimore;Houston,0,Journal,2-s2.0-52949127312
+Mostafavi S.,,GeneMANIA: A real-time multiple association network integration algorithm for predicting gene function,2008,Genome Biology,500,10.1186/gb-2008-9-s1-s4,Canada,Article,Toronto,1,Journal,2-s2.0-47549107689
+Van 't Veer L.,,Enabling personalized cancer medicine through analysis of gene-expression patterns,2008,Nature,387,10.1038/nature06915,Netherlands;Netherlands,Review,Amsterdam;Amsterdam,0,Journal,2-s2.0-41649114164
+Parmigiani G.,,"Response to comments on ""The consensus coding sequences of human breast and colorectal cancers""",2007,Science,59,10.1126/science.1138773,United States,Note,Baltimore,0,Journal,2-s2.0-34548677928
+Thomas R.K.,,High-throughput oncogene mutation profiling in human cancer,2007,Nature Genetics,814,10.1038/ng1975,Germany;United States;United States,Article,Koln;Cambridge;Boston,0,Journal,2-s2.0-33847293670
+Cline M.S.,,Integration of biological networks and gene expression data using cytoscape,2007,Nature Protocols,1549,10.1038/nprot.2007.324,United States;France,Article,Santa Cruz;Paris,0,Journal,2-s2.0-38449101120
+Shoemaker R.,,The NCI60 human tumour cell line anticancer drug screen,2006,Nature Reviews Cancer,1536,10.1038/nrc1951,United States,Conference Paper,Frederick,0,Journal,2-s2.0-33749011163
+La Rosa P.,,"VAMP: Visualization and analysis of array-CGH, transcriptome and other molecular profiles",2006,Bioinformatics,93,10.1093/bioinformatics/btl359,France,Article,Paris,1,Journal,2-s2.0-33748673977
+Bild A.H.,,Linking oncogenic pathways with therapeutic opportunities,2006,Nature Reviews Cancer,136,10.1038/nrc1976,United States,Review,Durham,0,Journal,2-s2.0-33748093767
+Reich M.,,GenePattern 2.0 [2],2006,Nature Genetics,1266,10.1038/ng0506-500,United States,Letter,Cambridge,0,Journal,2-s2.0-33646361583
+Subramanian A.,,Gene set enrichment analysis: A knowledge-based approach for interpreting genome-wide expression profiles,2005,Proceedings of the National Academy of Sciences of the United States of America,16322,10.1073/pnas.0506580102,United States,Article,Cambridge,1,Journal,2-s2.0-27344435774
+Joshi-Tope G.,,Reactome: A knowledgebase of biological pathways,2005,Nucleic Acids Research,865,10.1093/nar/gki072,United States,Article,Cold Spring Harbor,1,Journal,2-s2.0-13444259844
+Segal E.,,A module map showing conditional activity of expression modules in cancer,2004,Nature Genetics,542,10.1038/ng1434,United States;United States,Article,New York;Palo Alto,1,Journal,2-s2.0-6944244084
+Bamford S.,,The COSMIC (Catalogue of Somatic Mutations in Cancer) database and website,2004,British Journal of Cancer,742,10.1038/sj.bjc.6601894,United Kingdom,Article,London,1,Journal,2-s2.0-3843084078
+Shannon P.,,Cytoscape: A software Environment for integrated models of biomolecular interaction networks,2003,Genome Research,14465,10.1101/gr.1239303,United States,Article,Seattle,1,Journal,2-s2.0-0242490780
+James Kent W.,,The human genome browser at UCSC,2002,Genome Research,5354,10.1101/gr.229102. Article published online before print in May 2002,United States,Article,Santa Cruz,0,Journal,2-s2.0-0036079158
+Van't Veer L.,,Gene expression profiling predicts clinical outcome of breast cancer,2002,Nature,7084,10.1038/415530a,Netherlands,Article,Amsterdam,0,Journal,2-s2.0-18244409687
+Sørlie T.,,Gene expression patterns of breast carcinomas distinguish tumor subclasses with clinical implications,2001,Proceedings of the National Academy of Sciences of the United States of America,7542,10.1073/pnas.191367098,United States;Norway,Article,Stanford;Oslo,1,Journal,2-s2.0-0035845511
+Ogata H.,,KEGG: Kyoto encyclopedia of genes and genomes,1999,Nucleic Acids Research,2465,10.1093/nar/27.1.29,Japan,Review,Uji,1,Journal,2-s2.0-0032919364

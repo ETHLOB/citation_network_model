@@ -1,0 +1,7 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Freitag D.,,Machine learning for information extraction in informal domains,2000,Machine Learning,152,10.1023/a:1007601113994,United States,Article,Pittsburgh,1,Journal,2-s2.0-0033907729
+Hofmann T.,,Probabilistic latent semantic indexing,1999,"Proceedings of the 22nd Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 1999",3379,10.1145/312624.312649,United States;United States,Conference Paper,Berkeley;Berkeley,0,Conference Proceeding,2-s2.0-85026972772
+Soderland S.,,Learning information extraction rules for semi-structured and free text,1999,Machine Learning,620,10.1023/a:1007562322031,United States,Article,Seattle,1,Journal,2-s2.0-0032624184
+Tseng Y.H.,,Multilingual keyword extraction for term suggestion,1998,SIGIR Forum (ACM Special Interest Group on Information Retrieval),23,10.1145/290941.291066,Taiwan,Article,Hsinchuang,0,,2-s2.0-0032272624
+Yang Y.,,Noise reduction in a statistical approach to text categorization,1995,SIGIR Forum (ACM Special Interest Group on Information Retrieval),126,10.1145/215206.215367,United States,Conference Paper,Rochester,0,Conference Proceeding,2-s2.0-0029180724
+Salton G.,,Term-weighting approaches in automatic text retrieval,1988,Information Processing and Management,5109,10.1016/0306-4573(88)90021-0,United States,Article,Ithaca,0,Journal,2-s2.0-45549117987

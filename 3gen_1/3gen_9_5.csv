@@ -1,0 +1,28 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Kadri H.,,Multiple operator-valued kernel learning,2012,Advances in Neural Information Processing Systems,8,,France,Conference Paper,Marseille,0,Conference Proceeding,2-s2.0-84877728327
+Gärtner B.,,Approximation algorithms and semidefinite programming,2012,Approximation Algorithms and Semidefinite Programming,65,10.1007/978-3-642-22015-9,Switzerland,Book,"Zurich ZH,",0,Book,2-s2.0-84929904441
+Kakade S.M.,,Regularization techniques for learning with matrices,2012,Journal of Machine Learning Research,85,,United States,Article,Redmond,0,Journal,2-s2.0-84859411801
+Maurer A.,,Structured sparsity and generalization,2012,Journal of Machine Learning Research,30,,,Article,,0,Journal,2-s2.0-84859471498
+Álvarez M.A.,,Kernels for vector-valued functions: A review,2011,Foundations and Trends in Machine Learning,185,10.1561/2200000036,Colombia,Review,Pereira,0,Journal,2-s2.0-84863534141
+Bach F.,,Optimization with sparsity-inducing penalties,2011,Foundations and Trends in Machine Learning,461,10.1561/2200000015,France,Article,Palaiseau,0,Journal,2-s2.0-84857710417
+Dinuzzo F.,,Learning output kernels with block coordinate descent,2011,"Proceedings of the 28th International Conference on Machine Learning, ICML 2011",45,,Germany,Conference Paper,Tubingen,0,Conference Proceeding,2-s2.0-80053439496
+Kloft M.,,ℓ<inf>p</inf>-norm multiple kernel learning,2011,Journal of Machine Learning Research,324,,United States;Germany,Article,Berkeley;Berlin,0,Journal,2-s2.0-79955848223
+Koltchinskii V.,,Sparsity in multiple kernel learning,2010,Annals of Statistics,73,10.1214/10-AOS825,United States,Article,Atlanta,1,Journal,2-s2.0-78650166948
+Rothman A.,,Sparse multivariate regression with covariance estimation,2010,Journal of Computational and Graphical Statistics,147,10.1198/jcgs.2010.09188,United States,Article,Ann Arbor,0,Journal,2-s2.0-79952797027
+Cortes C.,,Generalization bounds for learning kernels,2010,"ICML 2010 - Proceedings, 27th International Conference on Machine Learning",66,,United States,Conference Paper,Mountain View,0,Conference Proceeding,2-s2.0-77956550918
+Jaggi M.,,A simple algorithm for nuclear norm regularized problems,2010,"ICML 2010 - Proceedings, 27th International Conference on Machine Learning",136,,Switzerland,Conference Paper,"Zurich ZH,",0,Conference Proceeding,2-s2.0-77956535889
+Shojaie A.,,Discovering graphical granger causality using the truncating lasso penalty,2010,Bioinformatics,85,10.1093/bioinformatics/btq377,United States,Article,Ann Arbor,1,Journal,2-s2.0-77956514067
+Clarkson K.,,"Coresets, sparse greedy approximation, and the frank-wolfe algorithm",2010,ACM Transactions on Algorithms,140,10.1145/1824777.1824783,United States,Conference Paper,San Jose,0,Journal,2-s2.0-77956546378
+Rahimi A.,,Random features for large-scale kernel machines,2009,Advances in Neural Information Processing Systems 20 - Proceedings of the 2007 Conference,529,,United States,Conference Paper,Santa Clara,0,Conference Proceeding,2-s2.0-84858761162
+Vedaldi A.,,Multiple Kernels for object detection,2009,Proceedings of the IEEE International Conference on Computer Vision,573,10.1109/ICCV.2009.5459183,United Kingdom,Conference Paper,Oxford,0,Conference Proceeding,2-s2.0-77953196456
+Lozano A.,,Grouped graphical granger modeling methods for temporal causal modeling,2009,Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,19,10.1145/1557019.1557085,United States,Conference Paper,Yorktown Heights,0,Conference Proceeding,2-s2.0-70350623328
+Rakotomamonjy A.,,SimpleMKL,2008,Journal of Machine Learning Research,1114,,France,Article,Mont-Saint-Aignan,0,Journal,2-s2.0-57249084590
+Caponnetto A.,,Universal multi-task Kernels,2008,Journal of Machine Learning Research,81,,Hong Kong,Article,Kowloon,0,Journal,2-s2.0-48849098893
+Arnold A.,,Temporal causal modeling with graphical granger methods,2007,Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,149,10.1145/1281192.1281203,United States,Conference Paper,Pittsburgh,0,Conference Proceeding,2-s2.0-36949024697
+Yuan M.,,Dimension reduction and coefficient estimation in multivariate linear regression,2007,Journal of the Royal Statistical Society. Series B: Statistical Methodology,148,10.1111/j.1467-9868.2007.00591.x,United States,Article,Atlanta,1,Journal,2-s2.0-34249004618
+Micchelli C.A.,,Learning the kernel function via regularization,2005,Journal of Machine Learning Research,264,,United States,Article,Albany,0,Journal,2-s2.0-23244434257
+Micchelli C.,,On learning vector-valued functions,2005,Neural Computation,265,10.1162/0899766052530802,United States,Article,Albany,0,Journal,2-s2.0-14544299611
+Bartlett P.,,Rademacher and Gaussian complexities: Risk bounds and structural results,2003,Journal of Machine Learning Research,839,10.1162/153244303321897690,Australia,Conference Paper,Canberra,0,Journal,2-s2.0-0038453192
+Granger C.,,Testing for causality. A personal viewpoint,1980,Journal of Economic Dynamics and Control,925,10.1016/0165-1889(80)90069-X,United States,Article,San Diego,0,Journal,2-s2.0-0011046885
+Schwartz L.,,Sous-espaces hilbertiens d'espaces vectoriels topologiques et noyaux associés (Noyaux reproduisants),1964,Journal d'Analyse Mathématique,185,10.1007/BF02786620,France,Article,Paris,0,Journal,2-s2.0-51649141644
+Aronszajn N.,,Theory of reproducing kernels,1950,Transactions of the American Mathematical Society,3032,10.1090/s0002-9947-1950-0051437-7,United States,Article,Stillwater,1,Journal,2-s2.0-5844297152

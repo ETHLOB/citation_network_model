@@ -1,0 +1,15 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Biau G.,,On the performance of clustering in Hilbert spaces,2008,IEEE Transactions on Information Theory,63,10.1109/TIT.2007.913516,France,Article,Paris,0,Journal,2-s2.0-39849091360
+Blanchard G.,,Statistical properties of kernel principal component analysis,2007,Machine Learning,53,10.1007/s10994-006-6895-9,Germany,Article,Berlin,1,Journal,2-s2.0-33847676413
+Antos A.,,Individual convergence rates in empirical vector quantizer design,2005,IEEE Transactions on Information Theory,19,10.1109/TIT.2005.856976,Hungary,Article,Budapest,0,Journal,2-s2.0-27744565348
+Shawe-Taylor J.,,On the eigenspectrum of the gram matrix and the generalization error of Kernel-PCA,2005,IEEE Transactions on Information Theory,78,10.1109/TIT.2005.850052,United Kingdom,Article,Southampton,0,Journal,2-s2.0-22844440983
+Hoyer P.,,Non-negative matrix factorization with sparseness constraints,2004,Journal of Machine Learning Research,1874,,Finland,Article,Helsinki,0,Journal,2-s2.0-84900510076
+Bartlett P.,,Rademacher and Gaussian complexities: Risk bounds and structural results,2003,Journal of Machine Learning Research,839,10.1162/153244303321897690,Australia,Conference Paper,Canberra,0,Journal,2-s2.0-0038453192
+Koltchinskii V.,,Empirical margin distributions and bounding the generalization error of combined classifiers,2002,Annals of Statistics,236,,United States,Article,Albuquerque,0,Journal,2-s2.0-0036104545
+Cucker F.,,On the mathematical foundations of learning,2002,Bulletin of the American Mathematical Society,817,10.1090/S0273-0979-01-00923-5,Hong Kong,Article,Kowloon,1,Journal,2-s2.0-0036071370
+Li S.,,"Learning spatially localized, parts-based representation",2001,Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition,628,,China,Conference Paper,Beijing,0,Conference Proceeding,2-s2.0-0035683536
+Lee D.,,Learning the parts of objects by non-negative matrix factorization,1999,Nature,7530,10.1038/44565,United States,Article,Murray,0,Journal,2-s2.0-0033592606
+Bartlett P.,,The minimax distortion redundancy in empirical quantizer design,1998,IEEE Transactions on Information Theory,46,10.1109/18.705560,United States;Australia,Article,San Diego;Canberra,0,Journal,2-s2.0-0032167175
+Olshausen B.,,Emergence of simple-cell receptive field properties by learning a sparse code for natural images,1996,Nature,3545,10.1038/381607a0,United States;United States,Article,Davis;Ithaca,0,Journal,2-s2.0-0029938380
+Hoeffding W.,,Probability Inequalities for Sums of Bounded Random Variables,1963,Journal of the American Statistical Association,4180,10.1080/01621459.1963.10500830,United States,Article,Chapel Hill,0,Journal,2-s2.0-84947403595
+Slepian D.,,The One‐Sided Barrier Problem for Gaussian Noise,1962,Bell System Technical Journal,409,10.1002/j.1538-7305.1962.tb02419.x,,Article,,0,Journal,2-s2.0-84944485006

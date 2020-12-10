@@ -1,0 +1,8 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Cristianini N.,,Spectral kernel methods for clustering,2002,Advances in Neural Information Processing Systems,37,,United Kingdom,Conference Paper,,0,Conference Proceeding,2-s2.0-84898954907
+Meilǎ M.,,Learning segmentation by random walks,2001,Advances in Neural Information Processing Systems,145,,United States,Conference Paper,Seattle,0,Conference Proceeding,2-s2.0-84898985184
+Kannan R.,,"On clusterings - good, bad and spectral",2000,Annual Symposium on Foundations of Computer Science - Proceedings,203,,United States,Conference Paper,New Haven,0,Conference Proceeding,2-s2.0-0034497389
+Alpert C.J.,,Spectral partitioning with multiple eigenvectors,1999,Discrete Applied Mathematics,121,10.1016/S0166-218X(98)00083-3,United States,Article,Austin,1,Journal,2-s2.0-0002334967
+Weiss Y.,,Segmentation using eigenvectors: A unifying view,1999,Proceedings of the IEEE International Conference on Computer Vision,497,10.1109/iccv.1999.790354,United States,Conference Paper,Berkeley,0,Conference Proceeding,2-s2.0-0033285447
+Schölkopf B.,,Nonlinear Component Analysis as a Kernel Eigenvalue Problem,1998,Neural Computation,5439,10.1162/089976698300017467,Germany,Article,Tubingen,0,Journal,2-s2.0-0347243182
+Spielman D.A.,,Spectral partitioning works: Planar graphs and finite element meshes,1996,Annual Symposium on Foundations of Computer Science - Proceedings,202,10.1109/sfcs.1996.548468,United States,Conference Paper,Cambridge,0,Conference Proceeding,2-s2.0-0030381960

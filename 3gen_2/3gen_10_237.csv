@@ -1,0 +1,14 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Duerr H.P.,,The impact of contact structure on infectious disease control: Influenza and antiviral agents,2007,Epidemiology and Infection,24,10.1017/S0950268807007959,Germany;Germany,Article,Tubingen;Tubingen,0,Journal,2-s2.0-33947691475
+Meyers L.,,Predicting epidemics on directed contact networks,2006,Journal of Theoretical Biology,174,10.1016/j.jtbi.2005.10.004,United States;United States,Article,Santa Fe;Austin,0,Journal,2-s2.0-33646271598
+Ford D.,,An extensible spatial and temporal epidemiological modelling system,2006,International Journal of Health Geographics,29,10.1186/1476-072X-5-4,United States,Article,San Jose,1,Journal,2-s2.0-32044446448
+Ganesh A.,,The effect of network topology on the spread of epidemics,2005,Proceedings - IEEE INFOCOM,478,10.1109/INFCOM.2005.1498374,United Kingdom,Conference Paper,Cambridge,0,Conference Proceeding,2-s2.0-25844439630
+Ferguson N.M.,,Strategies for containing an emerging influenza pandemic in Southeast Asia,2005,Nature,1212,10.1038/nature04017,United Kingdom,Article,London,0,Journal,2-s2.0-23844436610
+Longini I.,,Containing pandemic influenza at the source,2005,Science,867,10.1126/science.1115717,United States,Article,Atlanta,0,Journal,2-s2.0-23644457957
+Pourbohloul B.,,Modeling control strategies of respiratory pathogens,2005,Emerging Infectious Diseases,67,10.3201/eid1108.040449,Canada;Canada,Article,Vancouver;Vancouver,1,Journal,2-s2.0-22944489202
+Newman M.E.J.,,Analysis of weighted networks,2004,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",1212,10.1103/PhysRevE.70.056131,United States;United States,Article,Santa Fe;Ann Arbor,0,Journal,2-s2.0-41349096036
+Li Y.,,Predicting super spreading events during the 2003 severe acute respiratory syndrome epidemics in Hong Kong and Singapore,2004,American Journal of Epidemiology,57,10.1093/aje/kwh273,Hong Kong,Article,Pokfulam,1,Journal,2-s2.0-5444243089
+Wang Y.,,Epidemic spreading in real networks: An eigenvalue viewpoint,2003,Proceedings of the IEEE Symposium on Reliable Distributed Systems,504,10.1109/RELDIS.2003.1238052,United States,Conference Paper,Pittsburgh,0,Conference Proceeding,2-s2.0-27644462218
+Newman M.E.J.,,Spread of epidemic disease on networks,2002,"Physical Review E - Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics",1841,10.1103/PhysRevE.66.016128,United States;United States,Article,Santa Fe;Ann Arbor,1,Journal,2-s2.0-41349106348
+Pastor-Satorras R.,,Epidemic spreading in scale-free networks,2001,Physical Review Letters,3738,10.1103/PhysRevLett.86.3200,Spain,Article,Barcelona,0,Journal,2-s2.0-0035794256
+Barabási A.,,Emergence of scaling in random networks,1999,Science,22122,10.1126/science.286.5439.509,United States,Article,Notre Dame,0,Journal,2-s2.0-0038483826

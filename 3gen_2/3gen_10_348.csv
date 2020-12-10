@@ -1,0 +1,37 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Albert R.,,Statistical mechanics of complex networks,2002,Reviews of Modern Physics,13645,10.1103/RevModPhys.74.47,United States;United States,Article,Minneapolis;Notre Dame,0,Journal,2-s2.0-0036013593
+Davidsen J.,,Emergence of a small world from local interactions: Modeling acquaintance networks,2002,Physical Review Letters,220,,Germany,Article,Kiel,0,Journal,2-s2.0-4243206713
+Klemm K.,,Highly clustered scale-free networks,2002,"Physical Review E - Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics",290,10.1103/PhysRevE.65.036123,Denmark,Article,Copenhagen,0,Journal,2-s2.0-41349116090
+Hong H.,,Synchronization on small-world networks,2002,"Physical Review E - Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics",354,10.1103/PhysRevE.65.026139,South Korea,Article,Seoul,0,Journal,2-s2.0-33646968991
+Holme P.,,Growing scale-free networks with tunable clustering,2002,"Physical Review E - Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics",603,10.1103/PhysRevE.65.026107,Sweden,Article,Umea,0,Journal,2-s2.0-41349104828
+Paul K.,,A stability-based distributed routing mechanism to support unicast and multicast routing in ad hoc wireless network,2001,Computer Communications,18,10.1016/S0140-3664(01)00329-2,India,Article,Chennai,0,Journal,2-s2.0-0035546118
+Ozana M.,,Incipient spanning cluster on small-world networks,2001,Europhysics Letters,22,10.1209/epl/i2001-00346-7,Sweden,Article,Umea,0,Journal,2-s2.0-0035797769
+Newman M.E.J.,,Scientific collaboration networks. I. Network construction and fundamental results,2001,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",1361,,United States,Article,Santa Fe,0,Journal,2-s2.0-0035395881
+Newman M.E.J.,,"Scientific collaboration networks. II. Shortest paths, weighted networks, and centrality",2001,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",1499,,United States,Article,Santa Fe,0,Journal,2-s2.0-0042635247
+Liljeros F.,,Social networks: The web of human sexual contacts,2001,Nature,1172,10.1038/35082140,Sweden,Article,Stockholm,0,Journal,2-s2.0-0035927795
+Strogatz S.,,Exploring complex networks,2001,Nature,5562,10.1038/35065725,United States,Review,Ithaca,1,Journal,2-s2.0-0035826155
+Lim H.,,Flooding in wireless ad hoc networks,2001,Computer Communications,303,10.1016/S0140-3664(00)00233-4,South Korea,Article,Seoul,0,Journal,2-s2.0-0035865898
+Kim B.J.,,XY model in small-world networks,2001,"Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",119,10.1103/PhysRevE.64.056135,Sweden,Article,Umea,0,Journal,2-s2.0-0035510374
+Dorogovtsev S.N.,,Size-dependent degree distribution of a scale-free growing network,2001,"Physical Review E - Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics",204,10.1103/PhysRevE.63.062101,Portugal;Russian Federation,Article,Porto;Saint Petersburg (ex Leningrad),0,Journal,2-s2.0-0035365355
+Brandes U.,,A faster algorithm for betweenness centrality,2001,Journal of Mathematical Sociology,2218,10.1080/0022250X.2001.9990249,Germany,Article,Konstanz,0,Journal,2-s2.0-0035648637
+Callaway D.,,Network robustness and fragility: percolation on random graphs,2000,Physical Review Letters,1632,10.1103/PhysRevLett.85.5468,United States,Article,Ithaca,0,Journal,2-s2.0-4243939794
+Gitterman M.,,Small-world phenomena in physics: The Ising model,2000,Journal of Physics A: Mathematical and General,118,10.1088/0305-4470/33/47/304,Israel,Article,Ramat Gan,0,Journal,2-s2.0-0034368612
+Barrat A.,,On the properties of small-world network models,2000,European Physical Journal B,609,10.1007/s100510050067,France,Article,Saint-Aubin,0,Journal,2-s2.0-0042527883
+Lago-Fernández L.,,Fast response and temporal coherent oscillations in small-world networks,2000,Physical Review Letters,485,10.1103/PhysRevLett.84.2758,Spain,Article,Madrid,0,Journal,2-s2.0-0034688893
+Newman M.E.J.,,Models of the small world,2000,Journal of Statistical Physics,519,10.1023/a:1026485807148,United States,Article,Santa Fe,0,Journal,2-s2.0-0034310033
+Moore C.,,Epidemics and percolation in small-world networks,2000,"Physical Review E - Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics",664,10.1103/PhysRevE.61.5678,United States;Mexico,Article,Albuquerque;,0,Journal,2-s2.0-0034186340
+Broder A.,,Graph structure in the Web,2000,Computer Networks,1699,10.1016/S1389-1286(00)00083-9,United States,Article,San Mateo,0,Journal,2-s2.0-0033721503
+Newman M.E.J.,,Renormalization group analysis of the small-world network model,1999,"Physics Letters, Section A: General, Atomic and Solid State Physics",1023,10.1016/S0375-9601(99)00757-4,United States,Article,Santa Fe,0,Journal,2-s2.0-0347334779
+Barabási A.,,Emergence of scaling in random networks,1999,Science,22122,10.1126/science.286.5439.509,United States,Article,Notre Dame,0,Journal,2-s2.0-0038483826
+Barabási A.,,Mean-field theory for scale-free random networks,1999,Physica A: Statistical Mechanics and its Applications,1765,10.1016/S0378-4371(99)00291-5,United States,Article,Notre Dame,0,Journal,2-s2.0-18744421488
+Albert R.,,Diameter of the world-wide web,1999,Nature,3115,10.1038/43601,United States,Article,Notre Dame,0,Journal,2-s2.0-0033539175
+Newman M.E.J.,,Scaling and percolation in the small-world network model,1999,"Physical Review E - Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics",891,10.1103/PhysRevE.60.7332,Mexico,Article,,0,Journal,2-s2.0-0033487710
+Watts D.J.,,Collective dynamics of 'small-world9 networks,1998,Nature,25779,10.1038/30918,United States,Article,Ithaca,0,Journal,2-s2.0-0032482432
+Strauss D.,,ON A GENERAL CLASS OF MODELS FOR INTERACTION.,Dec,SIAM Review,133,10.1137/1028156,United States,Article,Riverside,0,Journal,2-s2.0-0022904506
+Frank O.,,Markov graphs,1986,Journal of the American Statistical Association,683,10.1080/01621459.1986.10478342,Sweden,Article,Stockholm,0,Journal,2-s2.0-84950835328
+Skvoretz J.,,Random and biased networks: simulations and approximations,1985,Social Networks,33,10.1016/0378-8733(85)90016-4,United States,Article,Columbia,0,Journal,2-s2.0-0000765380
+Freeman L.,,Centrality in social networks conceptual clarification,1978/1979,Social Networks,8414,10.1016/0378-8733(78)90021-7,United States,Article,Bethlehem,0,Journal,2-s2.0-33750177351
+Davis J.,,Clustering and Structural Balance in Graphs,1967,Human Relations,357,10.1177/001872676702000206,,Article,,0,Journal,2-s2.0-34247985046
+Rapoport A.,,Contribution to the theory of random and biased nets,1957,The Bulletin of Mathematical Biophysics,129,10.1007/BF02478417,United States,Article,Michigan City,0,Journal,2-s2.0-51249193741
+Rapoport A.,,Spread of information through a population with socio-structural bias: II. Various models with partial transitivity,1953,The Bulletin of Mathematical Biophysics,62,10.1007/BF02476441,United States,Article,Chicago,0,Journal,2-s2.0-51649210292
+Rapoport A.,,Spread of information through a population with socio-structural bias: I. Assumption of transitivity,1953,The Bulletin of Mathematical Biophysics,245,10.1007/BF02476440,United States,Article,Chicago,0,Journal,2-s2.0-51649205391

@@ -1,0 +1,54 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Kellis M.,,Sequencing and comparison of yeast species to identify genes and regulatory elements,2003,Nature,1385,10.1038/nature01644,United States;United States,Article,Cambridge;Cambridge,0,Journal,2-s2.0-0038349948
+Jaffe D.,,Whole-genome sequence assembly for mammalian genomes: Arachne 2.,2003,Genome research,229,10.1101/gr.828403,United States,Article,Cambridge,1,Journal,2-s2.0-0037267048
+Waterston R.H.,,Initial sequencing and comparative analysis of the mouse genome,2002,Nature,4845,10.1038/nature01262,United States,Article,St. Louis,1,Journal,2-s2.0-1542563409
+Lee T.I.,,Transcriptional regulatory networks in Saccharomyces cerevisiae,2002,Science,2264,10.1126/science.1075090,United States,Article,Cambridge,0,Journal,2-s2.0-0037174671
+Hurst L.,,The Ka/Ks ratio: Diagnosing the form of sequence evolution,2002,Trends in Genetics,476,10.1016/S0168-9525(02)02722-1,United Kingdom,Short Survey,Bath,0,Journal,2-s2.0-0036720020
+Blanchette M.,,Algorithms for phylogenetic footprinting,2002,Journal of Computational Biology,108,10.1089/10665270252935421,United States,Conference Paper,Seattle,0,Journal,2-s2.0-0036106051
+Blanchette M.,,Discovery of regulatory elements by a computational method for phylogenetic footprinting,2002,Genome Research,237,10.1101/gr.6902,United States,Article,Seattle,1,Journal,2-s2.0-0036107903
+Loots G.,,rVista for comparative sequence-based discovery of functional transcription factor binding sites,2002,Genome Research,358,10.1101/gr.225502. Article published online before print in April 2002,United States;United States,Article,Berkeley;Berkeley,0,Journal,2-s2.0-0036105591
+Clark T.,,Genomewide analysis of mRNA processing in yeast using splicing-specific microarrays,2002,Science,294,10.1126/science.1069415,United States,Article,Santa Cruz,0,Journal,2-s2.0-0037012922
+Harrison P.M.,,A question of size: The eukaryotic proteome and the problems in defining it,2002,Nucleic Acids Research,155,10.1093/nar/30.5.1083,United States,Review,New Haven,1,Journal,2-s2.0-0036493224
+Jiao K.,,"Phylogenetic footprinting reveals multiple regulatory elements involved in control of the meiotic recombination gene, REC102",2002,Yeast,10,10.1002/yea.800,United States,Article,Iowa City,1,Journal,2-s2.0-0036161403
+Batzoglou S.,,ARACHNE: A whole-genome shotgun assembler,2002,Genome Research,336,10.1101/gr.208902,United States;United States,Article,Cambridge;Cambridge,1,Journal,2-s2.0-0036144823
+Hampson S.,,Distribution patterns of over-represented k-mers in non-coding yeast DNA,2002,Bioinformatics,36,10.1093/bioinformatics/18.4.513,United States,Article,Irvine,1,Journal,2-s2.0-0035999971
+Levy S.,,Identification of transcription factor binding sites in the human genome sequence,2002,Mammalian Genome,89,10.1007/s00335-002-2175-6,United States,Article,Rockville,0,Journal,2-s2.0-0036707816
+Gasch A.,,Exploring the conditional coregulation of yeast gene expression through fuzzy k-means clustering.,2002,Genome biology,299,,United States,Article,Berkeley,0,Journal,2-s2.0-0037057374
+Dwight S.S.,,Saccharomyces Genome Database (SGD) provides secondary gene annotation using the Gene Ontology (GO),2002,Nucleic Acids Research,289,10.1093/nar/30.1.69,United States,Article,Stanford,1,Journal,2-s2.0-0036087548
+Tompa M.,,Identifying functional elements by comparative DNA sequence analysis,2001,Genome Research,31,10.1101/gr.197101,United States,Note,Seattle,1,Journal,2-s2.0-0034919602
+Wood V.,,A re-annotation of the Saccharomyces cerevisiae genome,2001,Comparative and Functional Genomics,56,10.1002/cfg.86,United Kingdom,Article,Hinxton,1,Journal,2-s2.0-0034956159
+Lander E.S.,,Initial sequencing and analysis of the human genome,2001,Nature,15762,10.1038/35057062,United States,Article,Cambridge,1,Journal,2-s2.0-2042437650
+McCue L.A.,,Phylogenetic footprinting of transcription factor binding sites in proteobacterial genomes,2001,Nucleic Acids Research,203,10.1093/nar/29.3.774,United States,Article,Albany,0,Journal,2-s2.0-0035253676
+Pennacchio L.,,Genomic strategies to identify mammalian regulatory sequences,2001,Nature Reviews Genetics,309,10.1038/35052548,United States,Review,Berkeley,0,Journal,2-s2.0-0035261381
+Liu X.,,BioProspector: discovering conserved DNA motifs in upstream regulatory regions of co-expressed genes.,2001,Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing,624,,United States,Article,Stanford,0,Journal,2-s2.0-0035228215
+Tatusov R.L.,,The COG database: New developments in phylogenetic classification of proteins from complete genomes,2001,Nucleic Acids Research,1417,10.1093/nar/29.1.22,United States,Article,Bethesda,1,Journal,2-s2.0-0035162592
+Blandin G.,,Genomic Exploration of the Hemiascomycetous Yeasts: 4. The genome of Saccharomyces cerevisiae revisited,2000,FEBS Letters,78,10.1016/S0014-5793(00)02275-4,France,Article,Paris,1,Journal,2-s2.0-0034704277
+Batzoglou S.,,Human and mouse gene structure: Comparative analysis and application to exon prediction,2000,Genome Research,251,10.1101/gr.10.7.950,United States;United States,Article,Cambridge;Cambridge,1,Journal,2-s2.0-0033861549
+McGuire A.,,Conservation of DNA regulatory motifs and discovery of new motifs in microbial genomes,2000,Genome Research,155,10.1101/gr.10.6.744,United States,Article,Boston,1,Journal,2-s2.0-0033918228
+Ashburner M.,,Gene ontology: Tool for the unification of biology,2000,Nature Genetics,21184,10.1038/75556,,Review,,0,Journal,2-s2.0-0034069495
+Jacobs Anderson J.S.,,Computational identification of cis-acting elements affecting post-transcriptional control of gene expression in Saccharomyces cerevisiae,2000,Nucleic Acids Research,31,10.1093/nar/28.7.1604,United States,Article,Tucson,1,Journal,2-s2.0-0343750650
+Hughes J.D.,,Computational identification of Cis-regulatory elements associated with groups of functionally related genes in Saccharomyces cerevisiae,2000,Journal of Molecular Biology,785,10.1006/jmbi.2000.3519,United States;United States,Article,Cambridge;Boston,0,Journal,2-s2.0-0034628901
+Gelfand M.S.,,Prediction of transcription regulatory sites in Archaea by a comparative genomic approach,2000,Nucleic Acids Research,151,10.1093/nar/28.3.695,Russian Federation,Article,Moscow,1,Journal,2-s2.0-0034141782
+Dunham I.,,The gene guessing game,2000,Yeast,8,10.1002/1097-0061(20000930)17:3<218::aid-yea37>3.0.co;2-x,United Kingdom,Article,London,1,Journal,2-s2.0-33749202180
+Liang F.,,"Gene index analysis of the human genome estimates approximately 120,000 genes",2000,Nature Genetics,212,10.1038/76126,United States,Article,Rockville,0,Journal,2-s2.0-0034204044
+Stormo G.,,DNA binding sites: Representation and discovery,2000,Bioinformatics,993,10.1093/bioinformatics/16.1.16,United States,Review,St. Louis,1,Journal,2-s2.0-0034072450
+Kowalczuk M.,,Total number of coding open reading frames in the yeast genome,1999,Yeast,21,10.1002/(SICI)1097-0061(199908)15:11<1031::AID-YEA431>3.0.CO;2-G,Poland,Article,Wroclaw,1,Journal,2-s2.0-0032800891
+Tavazoie S.,,Systematic determination of genetic network architecture,1999,Nature Genetics,1870,10.1038/10343,United States,Article,Boston,0,Journal,2-s2.0-0033028596
+Zhang M.,,Promoter analysis of co-regulated genes in the yeast genome,1999,Computers and Chemistry,45,10.1016/S0097-8485(99)00020-0,United States,Article,Cold Spring Harbor,0,Journal,2-s2.0-0033563516
+Mewes H.,,MIPS: A database for genomes and protein sequences,1999,Nucleic Acids Research,162,10.1093/nar/27.1.44,Germany,Short Survey,Neuherberg,1,Journal,2-s2.0-0032893083
+Zhu J.,,SCPD: A promoter database of the yeast Saccharomyces cerevisiae,1999,Bioinformatics,333,10.1093/bioinformatics/15.7.607,United States,Conference Paper,Cold Spring Harbor,1,Journal,2-s2.0-0032861774
+Roth F.P.,,Finding DNA regulatory motifs within unaligned noncoding sequences clustered by whole-genome mRNA quantitation,1998,Nature Biotechnology,741,10.1038/nbt1098-939,United States;United States;United States,Article,Cambridge;Boston;Cambridge,0,Journal,2-s2.0-0031787969
+Tatusov R.,,A genomic perspective on protein families,1997,Science,2543,10.1126/science.278.5338.631,United States,Article,Bethesda,0,Journal,2-s2.0-0030660581
+Wolfe K.,,Molecular evidence for an ancient duplication of the entire yeast genome,1997,Nature,1283,10.1038/42711,Ireland,Article,Dublin,0,Journal,2-s2.0-0030947344
+Velculescu V.,,Characterization of the yeast transcriptome,1997,Cell,836,10.1016/S0092-8674(00)81845-0,,Article,,1,Journal,2-s2.0-0031442518
+Oeltjen J.,,Large-scale comparative sequence analysis of the human and murine Bruton's tyrosine kinase loci reveals conserved regulatory domains,1997,Genome Research,113,10.1101/gr.7.4.315,United States,Article,Houston,1,Journal,2-s2.0-0030966052
+Grundy W.,,Meta-meme: Motif-based hidden markov models of protein families,1997,Bioinformatics,153,10.1093/bioinformatics/13.4.397,,Article,,1,Journal,2-s2.0-0030853763
+Goffeau A.,,Life with 6000 genes,1996,Science,2967,10.1126/science.274.5287.546,,Article,,0,Journal,2-s2.0-10244239321
+Fitch W.,,Uses for evolutionary trees.,1995,"Philosophical transactions of the Royal Society of London. Series B, Biological sciences",26,10.1098/rstb.1995.0095,United States,Article,Irvine,0,Journal,2-s2.0-0029654009
+Thompson J.,,"CLUSTAL W: Improving the sensitivity of progressive multiple sequence alignment through sequence weighting, position-specific gap penalties and weight matrix choice",1994,Nucleic Acids Research,51767,10.1093/nar/22.22.4673,Germany,Article,Heidelberg,0,Journal,2-s2.0-0027968068
+Dujon B.,,Complete DNA sequence of yeast chromosome XI,1994,Nature,313,10.1038/369371a0,France,Article,Paris,0,Journal,2-s2.0-0028301199
+Bailey T.L.,,Fitting a mixture model by expectation maximization to discover motifs in biopolymers.,1994,Proceedings / ... International Conference on Intelligent Systems for Molecular Biology ; ISMB. International Conference on Intelligent Systems for Molecular Biology,3286,,United States,Article,San Diego,0,Journal,2-s2.0-0028685490
+Lawrence C.E.,,Detecting subtle sequence signals: A gibbs sampling strategy for multiple alignment,1993,Science,1375,10.1126/science.8211139,United States;United States,Article,Albany;Bethesda,0,Journal,2-s2.0-0027912333
+Altschul S.,,Basic local alignment search tool,1990,Journal of Molecular Biology,60311,10.1016/S0022-2836(05)80360-2,United States,Article,Bethesda,0,Journal,2-s2.0-0025183708
+Sharp P.,,"The codon adaptation index-a measure of directional synonymous codon usage bias, and its potential applications",1987,Nucleic Acids Research,2262,10.1093/nar/15.3.1281,United States;Ireland,Article,;Dublin,0,Journal,2-s2.0-0023650543
+Fitch W.,,Distinguishing homologous from analogous proteins,1970,Systematic Zoology,926,10.2307/2412448,United States,Article,Madison,0,Journal,2-s2.0-0014800108

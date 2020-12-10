@@ -1,0 +1,28 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Cover T.M.,,Elements of Information Theory,2005,Elements of Information Theory,27546,10.1002/047174882X,,Book,,0,Book,2-s2.0-84889281816
+Lodhi H.,,Text Classification using String Kernels,2002,Journal of Machine Learning Research,867,10.1162/153244302760200687,United Kingdom,Article,Egham,0,Journal,2-s2.0-0041965869
+Cristianini N.,,Latent semantic kernels,2002,Journal of Intelligent Information Systems,170,10.1023/A:1013625426931,United Kingdom,Article,Egham,0,Journal,2-s2.0-0036498473
+Harmeling S.,,Kernel feature spaces and nonlinear blind source separation,2002,Advances in Neural Information Processing Systems,21,,Germany,Conference Paper,Berlin,0,Conference Proceeding,2-s2.0-84898966891
+Vlassis N.,,Efficient source adaptivity in independent component analysis,2001,IEEE Transactions on Neural Networks,58,10.1109/72.925558,Netherlands;United States,Article,Amsterdam;New York,0,Journal,2-s2.0-0035330650
+Welling M.,,A constrained EM algorithm for independent component analysis,2001,Neural Computation,37,10.1162/089976601300014510,United States,Article,Pasadena,0,Journal,2-s2.0-0035292754
+Melzer T.,,Nonlinear feature extraction using generalized canonical correlation analysis,2001,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),51,10.1007/3-540-44668-0_50,Austria,Conference Paper,Vienna,0,Book Series,2-s2.0-84958984418
+Williams C.,,Using the nyström method to speed up kernel machines,2001,Advances in Neural Information Processing Systems,976,,United Kingdom,Conference Paper,Edinburgh,0,Conference Proceeding,2-s2.0-84899010839
+Attias H.,,Independent factor analysis,1999,Neural Computation,342,10.1162/089976699300016458,United States,Article,San Francisco,0,Journal,2-s2.0-0033561886
+Lee T.,,Independent component analysis using an extended infomax algorithm for mixed subgaussian and supergaussian sources,1999,Neural Computation,1310,10.1162/089976699300016719,Germany;United States,Article,Berlin;Chevy Chase,0,Journal,2-s2.0-0033556834
+Wright S.,,Modified Cholesky factorizations in interior-point algorithms for linear programming,1999,SIAM Journal on Optimization,25,10.1137/S1052623496304712,United States,Article,Lemont,0,Journal,2-s2.0-0033432390
+Cardoso J.,,High-order contrasts for independent component analysis,1999,Neural Computation,895,10.1162/089976699300016863,France,Article,Palaiseau,0,Journal,2-s2.0-0032612381
+Hyvärinen A.,,Fast and robust fixed-point algorithms for independent component analysis,1999,IEEE Transactions on Neural Networks,4473,10.1109/72.761722,Finland,Article,Espoo,0,Journal,2-s2.0-0032629347
+Schölkopf B.,,Nonlinear Component Analysis as a Kernel Eigenvalue Problem,1998,Neural Computation,5439,10.1162/089976698300017467,Germany,Article,Tubingen,0,Journal,2-s2.0-0347243182
+Amari S.,,Natural Gradient Works Efficiently in Learning,1998,Neural Computation,1580,10.1162/089976698300017746,Japan,Article,Wako,0,Journal,2-s2.0-0000396062
+Cardoso J.,,Multidimensional independent component analysis,1998,"ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings",300,10.1109/ICASSP.1998.681443,France,Conference Paper,Paris,0,Conference Proceeding,2-s2.0-0031645454
+Edelman A.,,The geometry of algorithms with orthogonality constraints,1998,SIAM Journal on Matrix Analysis and Applications,1513,10.1137/S0895479895290954,United States,Article,Cambridge,0,Journal,2-s2.0-0032216898
+Pham D.,,Blind separation of mixture of independent sources through a quasi-maximum likelihood approach,1997,IEEE Transactions on Signal Processing,280,10.1109/78.599941,France,Article,Saint Martin d'Heres,0,Journal,2-s2.0-0031191456
+Hyvärinen A.,,A Fast Fixed-Point Algorithm for Independent Component Analysis,1997,Neural Computation,2581,10.1162/neco.1997.9.7.1483,Finland,Article,Espoo,0,Journal,2-s2.0-0346307721
+Bell A.,,An information-maximization approach to blind separation and blind deconvolution.,1995,Neural computation,6025,10.1162/neco.1995.7.6.1129,United States,Article,Chevy Chase,0,Journal,2-s2.0-0029411030
+Comon P.,,"Independent component analysis, A new concept?",1994,Signal Processing,5727,10.1016/0165-1684(94)90029-9,France,Article,Valbonne,0,Journal,2-s2.0-0028416938
+Jutten C.,,"Blind separation of sources, part I: An adaptive algorithm based on neuromimetic architecture",1991,Signal Processing,1780,10.1016/0165-1684(91)90079-X,France,Article,Grenoble,0,Journal,2-s2.0-0026191274
+Breiman L.,,Estimating optimal transformations for multiple regression and correlation,1985,Journal of the American Statistical Association,1025,10.1080/01621459.1985.10478157,United States,Article,Berkeley,0,Journal,2-s2.0-84950771789
+Kettenring J.,,Canonical analysis of several sets of variables,1971,Biometrika,461,10.1093/biomet/58.3.433,United States,Article,Murray,0,Journal,2-s2.0-0000020007
+Widom H.,,Asymptotic behavior of the eigenvalues of certain integral equations. II,1964,Archive for Rational Mechanics and Analysis,60,10.1007/BF00282438,United States,Article,Ithaca,0,Journal,2-s2.0-0001292373
+Widom H.,,Asymptotic behavior of the eigenvalues of certain integral equations,1963,Transactions of the American Mathematical Society,42,10.1090/S0002-9947-1963-0155161-0,United States,Article,Ithaca,1,Journal,2-s2.0-84968466142
+Kolmogorov A.,,On the Shannon Theory of Information Transmission in the Case of Continuous Signals,1956,IRE Transactions on Information Theory,241,10.1109/TIT.1956.1056823,Russian Federation,Article,Moscow,0,Journal,2-s2.0-77954824787

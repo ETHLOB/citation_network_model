@@ -1,0 +1,12 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Lyu S.,,Interpretation and generalization of score matching,2009,"Proceedings of the 25th Conference on Uncertainty in Artificial Intelligence, UAI 2009",21,,United States,Conference Paper,Albany,0,Conference Proceeding,2-s2.0-80053159994
+Murray I.,,Evaluating probabilities under high-dimensional latent variable models,2009,Advances in Neural Information Processing Systems 21 - Proceedings of the 2008 Conference,37,,Canada,Conference Paper,Toronto,0,Conference Proceeding,2-s2.0-73249145640
+Ranzato M.,,Sparse feature learning for deep belief networks,2009,Advances in Neural Information Processing Systems 20 - Proceedings of the 2007 Conference,269,,United States,Conference Paper,New York,0,Conference Proceeding,2-s2.0-84858784801
+Lee H.,,Sparse deep belief net model for visual area V2,2009,Advances in Neural Information Processing Systems 20 - Proceedings of the 2007 Conference,386,,United States,Conference Paper,Palo Alto,0,Conference Proceeding,2-s2.0-84863351261
+Tieleman T.,,Training restricted boltzmann machines using approximations to the likelihood gradient,2008,Proceedings of the 25th International Conference on Machine Learning,497,10.1145/1390156.1390290,Canada,Conference Paper,Toronto,0,Conference Proceeding,2-s2.0-56449086223
+Hinton G.,,"To recognize shapes, first learn to generate images",2007,Progress in Brain Research,124,10.1016/S0079-6123(06)65034-6,Canada,Review,Toronto,0,Book Series,2-s2.0-34848816179
+Hyvärinen A.,,Some extensions of score matching,2007,Computational Statistics and Data Analysis,87,10.1016/j.csda.2006.09.003,Finland,Article,Helsinki,0,Journal,2-s2.0-33750982683
+Welling M.,,Exponential family harmoniums with an application to information retrieval,2005,Advances in Neural Information Processing Systems,180,,United States,Conference Paper,Irvine,0,Conference Proceeding,2-s2.0-84899000641
+Hinton G.E.,,Training products of experts by minimizing contrastive divergence,2002,Neural Computation,2671,10.1162/089976602760128018,United Kingdom,Article,London,0,Journal,2-s2.0-0013344078
+Lee Y.,,SSVM: A smooth support vector machine for classification,2001,Computational Optimization and Applications,421,10.1023/A:1011215321374,United States,Article,Madison,0,Journal,2-s2.0-0035479871
+Younes L.,,Parametric Inference for imperfectly observed Gibbsian fields,1989,Probability Theory and Related Fields,112,10.1007/BF00341287,France,Article,Saint-Aubin,0,Journal,2-s2.0-0000355193

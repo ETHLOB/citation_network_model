@@ -1,0 +1,42 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+Courant R.,,Methods of Mathematical Physics,2008,Methods of Mathematical Physics,2759,10.1002/9783527617234,,Book,,1,Book,2-s2.0-84950296671
+Rifkin R.,,A note on support vector machine degeneracy,1999,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),6,10.1007/3-540-46769-6_21,United States,Conference Paper,Cambridge,0,Book Series,2-s2.0-0141646490
+Evgeniou T.,,On the V <inf>γ</inf> dimension for regression in reproducing kernel hilbert spaces,1999,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),10,10.1007/3-540-46769-6_9,United States,Conference Paper,Cambridge,0,Book Series,2-s2.0-34248156688
+Shawe-Taylor J.,,Structural risk minimization over data-dependent hierarchies,1998,IEEE Transactions on Information Theory,299,10.1109/18.705570,United Kingdom;Australia,Article,Egham;Canberra,0,Journal,2-s2.0-0032166068
+Bartlett P.,,The sample complexity of pattern classification with neural networks: The size of the weights is more important than the size of the network,1998,IEEE Transactions on Information Theory,702,10.1109/18.661502,Australia;United States,Article,Canberra;New York,0,Journal,2-s2.0-0032028728
+Poggio T.,,A Sparse Representation for Function Approximation,1998,Neural Computation,49,10.1162/089976698300017250,United States,Article,Cambridge,0,Journal,2-s2.0-0000473139
+Girosi F.,,An Equivalence between Sparse Approximation and Support Vector Machines,1998,Neural Computation,304,10.1162/089976698300017269,United States,Article,Cambridge,0,Journal,2-s2.0-0000249788
+Amari S.,,Natural Gradient Works Efficiently in Learning,1998,Neural Computation,1580,10.1162/089976698300017746,Japan,Article,Wako,0,Journal,2-s2.0-0000396062
+Niyogi P.,,Incorporating prior information in machine learning by creating virtual examples,1998,Proceedings of the IEEE,179,10.1109/5.726787,United States,Article,Murray,0,Journal,2-s2.0-0032203371
+Smola A.,,"On a kernel-based method for pattern recognition, regression, approximation, and operator inversion",1998,Algorithmica (New York),185,10.1007/PL00013831,Germany,Article,Berlin,0,Journal,2-s2.0-24044515976
+Devore R.,,Nonlinear approximation,1998,Acta Numerica,688,10.1017/S0962492900002816,United States,Article,Columbia,0,Journal,2-s2.0-85009724776
+Burges C.,,A tutorial on support vector machines for pattern recognition,1998,Data Mining and Knowledge Discovery,11883,10.1023/A:1009715923555,United States,Article,Murray,0,Journal,2-s2.0-27144489164
+Oja E.,,The nonlinear PCA learning rule in independent component analysis,1997,Neurocomputing,177,10.1016/S0925-2312(97)00045-3,Finland,Article,Espoo,0,Journal,2-s2.0-0343416807
+Olshausen B.,,Emergence of simple-cell receptive field properties by learning a sparse code for natural images,1996,Nature,3545,10.1038/381607a0,United States;United States,Article,Davis;Ithaca,0,Journal,2-s2.0-0029938380
+Niyogi P.,,"On the Relationship between Generalization Error, Hypothesis Complexity, and Sample Complexity for Radial Basis Functions",1996,Neural Computation,94,10.1162/neco.1996.8.4.819,United States,Article,Cambridge,0,Journal,2-s2.0-0000482137
+Bartlett P.,,Fat-shattering and the learnability of real-valued functions,1996,Journal of Computer and System Sciences,52,10.1006/jcss.1996.0033,Australia,Article,Canberra,1,Journal,2-s2.0-0030165580
+Harpur G.,,Development of low entropy coding in a recurrent network,1996,Network: Computation in Neural Systems,58,10.1088/0954-898X_7_2_007,United Kingdom,Article,Cambridge,0,Journal,2-s2.0-0000852458
+Kearns M.,,An experimental and theoretical comparison of model selection methods,1995,"Proceedings of the 8th Annual Conference on Computational Learning Theory, COLT 1995",25,10.1145/225298.225301,United States,Conference Paper,Murray,0,Conference Proceeding,2-s2.0-85030049525
+Bell A.,,An information-maximization approach to blind separation and blind deconvolution.,1995,Neural computation,6025,10.1162/neco.1995.7.6.1129,United States,Article,Chevy Chase,0,Journal,2-s2.0-0029411030
+Cortes C.,,Support-Vector Networks,1995,Machine Learning,25951,10.1023/A:1022627411411,United States,Article,Murray,1,Journal,2-s2.0-34249753618
+Kearns M.,,Efficient distribution-free learning of probabilistic concepts,1994,Journal of Computer and System Sciences,148,10.1016/S0022-0000(05)80062-5,,Article,,1,Journal,2-s2.0-0028460231
+Alon N.,,"Scale-sensitive dimensions, uniform convergence, and learnability",1993,Annual Symposium on Foundatons of Computer Science (Proceedings),48,,Israel,Conference Paper,Tel Aviv-Yafo,0,Conference Proceeding,2-s2.0-0027802035
+Mhaskar H.N.,,Neural networks for localized approximation of real functions,1993,"Neural Networks for Signal Processing III - Proceedings of the 1993 IEEE Workshop, NNSP 1993",13,10.1109/NNSP.1993.471870,United States,Conference Paper,Los Angeles,0,Conference Proceeding,2-s2.0-77950603295
+Mallat S.,,Matching Pursuits With Time-Frequency Dictionaries,1993,IEEE Transactions on Signal Processing,6934,10.1109/78.258082,United States,Article,New York,0,Journal,2-s2.0-0027842081
+Rabut C.,,An introduction to schoenberg's approximation,1992,Computers and Mathematics with Applications,16,10.1016/0898-1221(92)90177-J,France,Article,Toulouse,1,Journal,2-s2.0-0042550336
+Coifman R.,,Entropy-based algorithms for best basis selection,1992,IEEE Transactions on Information Theory,2364,10.1109/18.119732,United States,Article,New Haven,0,Journal,2-s2.0-0026686048
+Dudley R.,,Uniform and universal Glivenko-Cantelli classes,1991,Journal of Theoretical Probability,49,10.1007/BF01210321,United States,Article,Cambridge,0,Journal,2-s2.0-0000050198
+Buhmann M.,,Multivariate cardinal interpolation with radial-basis functions,1990,Constructive Approximation,113,10.1007/BF01890410,United Kingdom,Article,Cambridge,0,Journal,2-s2.0-0000098430
+Madych W.,,Polyharmonic cardinal splines: A minimization property,1990,Journal of Approximation Theory,15,10.1016/0021-9045(90)90123-8,United States,Article,Storrs,1,Journal,2-s2.0-38249017388
+Poggio T.,,Networks for Approximation arid Learning,1990,Proceedings of the IEEE,2193,10.1109/5.58326,United States,Article,Cambridge,0,Journal,2-s2.0-0025490985
+Bertero M.,,Ill-Posed Problems in Early Vision,1988,Proceedings of the IEEE,466,10.1109/5.5962,Italy,Article,Rome,0,Journal,2-s2.0-0024057651
+Marroquin J.,,Probabilistic solution of ill-posed problems in computational vision,1987,Journal of the American Statistical Association,537,10.1080/01621459.1987.10478393,Mexico,Article,Guanajuato,0,Journal,2-s2.0-84950881632
+Micchelli C.,,Interpolation of scattered data: Distance matrices and conditionally positive definite functions,1986,Constructive Approximation,991,10.1007/BF01893414,United States,Article,Yorktown Heights,0,Journal,2-s2.0-34250122797
+Poggio T.,,Computational vision and regularization theory,1985,Nature,869,10.1038/317314a0,United States,Article,Cambridge,0,Journal,2-s2.0-0022417790
+Valiant L.,,A theory of the learnable,1984,Proceedings of the Annual ACM Symposium on Theory of Computing,87,10.1145/800057.808710,United States,Conference Paper,Cambridge,0,Conference Proceeding,2-s2.0-85049646507
+Rissanen J.,,Modeling by shortest data description,1978,Automatica,3678,10.1016/0005-1098(78)90005-5,United States,Article,San Jose,0,Journal,2-s2.0-0018015137
+Stewart J.,,"Positive definite functions and generalizations, an historical survey",1976,Rocky Mountain Journal of Mathematics,103,10.1216/RMJ-1976-6-3-409,Canada,Article,Hamilton,1,Journal,2-s2.0-0001558197
+Poggio T.,,On optimal nonlinear associative recall,1975,Biological Cybernetics,77,10.1007/BF02281970,Germany,Article,Tubingen,0,Journal,2-s2.0-0016765357
+Allen D.,,The Relationship Between Variable Selection and Data Agumentation and a Method for Prediction,1974,Technometrics,777,10.1080/00401706.1974.10489157,United States,Article,Lexington,0,Journal,2-s2.0-0016029778
+Schoenberg I.,,Cardinal interpolation and spline functions,1969,Journal of Approximation Theory,167,10.1016/0021-9045(69)90040-9,United States,Review,Madison,1,Journal,2-s2.0-0000326721
+Aronszajn N.,,Theory of reproducing kernels,1950,Transactions of the American Mathematical Society,3032,10.1090/s0002-9947-1950-0051437-7,United States,Article,Stillwater,1,Journal,2-s2.0-5844297152

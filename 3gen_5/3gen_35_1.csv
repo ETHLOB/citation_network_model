@@ -1,0 +1,32 @@
+Authors,Author(s) ID,Title,Year,Source tittle,Cited by,DOI,Country,Document Type,City,Access Type,aggregationType,EID
+van Laarhoven T.,,Gaussian interaction profile kernels for predicting drug-target interaction,2011,Bioinformatics,352,10.1093/bioinformatics/btr500,Netherlands,Article,Nijmegen,1,Journal,2-s2.0-80054881553
+Yu W.,,Predicting drug-target interactions based on an improved semi-supervised learning approach,2011,Drug Development Research,9,10.1002/ddr.20418,China,Article,Shanghai,0,Journal,2-s2.0-79953853363
+Xia Z.,,Semi-supervised drug-protein interaction prediction from heterogeneous biological spaces,2010,BMC Systems Biology,177,10.1186/1752-0509-4-6,United States,Article,Ithaca,1,Journal,2-s2.0-77956953029
+Chen X.,,A novel candidate disease genes prioritization method based on module partition and rank fusion,2010,OMICS A Journal of Integrative Biology,21,10.1089/omi.2009.0143,China;China,Article,Beijing;Beijing,0,Journal,2-s2.0-77956047866
+Wang Y.,,Computationally probing drug-protein interactions via support vector machine,2010,Letters in Drug Design and Discovery,34,10.2174/157018010791163433,China,Article,Beijing,0,Journal,2-s2.0-77953710597
+Yamanishi Y.,,"Drug-target interaction prediction from chemical, genomic and pharmacological data in an integrated framework",2010,Bioinformatics,287,10.1093/bioinformatics/btq176,France;France;France,Article,Paris;Paris;Paris,1,Journal,2-s2.0-77954230951
+Li Y.,,Genome-wide inferring gene-phenotype relationship by walking on the heterogeneous network,2010,Bioinformatics,236,10.1093/bioinformatics/btq108,Singapore,Article,Singapore City,0,Journal,2-s2.0-77952808324
+Keiser M.,,Predicting new molecular targets for known drugs,2009,Nature,1075,10.1038/nature08506,United States,Article,San Francisco,0,Journal,2-s2.0-70449634957
+Linghu B.,,Genome-wide prioritization of disease genes and identification of disease-disease associations from an integrated human functional linkage network,2009,Genome Biology,170,10.1186/gb-2009-10-9-r91,United States,Article,Boston,1,Journal,2-s2.0-76249105279
+Bleakley K.,,Supervised prediction of drug-target interactions using bipartite local models,2009,Bioinformatics,310,10.1093/bioinformatics/btp433,France;France;France,Article,Paris;Paris;Paris,1,Journal,2-s2.0-69849094133
+Yang K.,,Finding multiple target optimal intervention in disease-related molecular network,2008,Molecular Systems Biology,136,10.1038/msb.2008.60,China;China,Article,Beijing;Beijing,1,Journal,2-s2.0-55549101279
+Campillos M.,,Drug target identification using side-effect similarity,2008,Science,855,10.1126/science.1158140,Germany,Article,Heidelberg,0,Journal,2-s2.0-47249146126
+Yamanishi Y.,,Prediction of drug-target interaction networks from the integration of chemical and genomic spaces,2008,Bioinformatics,507,10.1093/bioinformatics/btn162,Japan,Article,Kyoto,1,Journal,2-s2.0-46249090791
+Köhler S.,,Walking the Interactome for Prioritization of Candidate Disease Genes,2008,American Journal of Human Genetics,774,10.1016/j.ajhg.2008.02.013,Germany,Article,Berlin,1,Journal,2-s2.0-41549139527
+Landry Y.,,Drugs and their molecular targets: An updated overview,2008,Fundamental and Clinical Pharmacology,136,10.1111/j.1472-8206.2007.00548.x,France,Review,Paris,0,Journal,2-s2.0-38649120829
+Günther S.,,SuperTarget and Matador: Resources for exploring drug-target relationships,2008,Nucleic Acids Research,336,10.1093/nar/gkm862,Germany,Article,Berlin,1,Journal,2-s2.0-38549182474
+Wishart D.,,"DrugBank: A knowledgebase for drugs, drug actions and drug targets",2008,Nucleic Acids Research,1490,10.1093/nar/gkm958,Canada,Article,Edmonton,1,Journal,2-s2.0-38549151817
+Li Q.,,Prediction of potential drug targets based on simple sequence properties,2007,BMC Bioinformatics,80,10.1186/1471-2105-8-353,China,Article,Beijing,1,Journal,2-s2.0-36349010717
+Zimmermann G.,,Multi-target therapeutics: when the whole is greater than the sum of the parts,2007,Drug Discovery Today,712,10.1016/j.drudis.2006.11.008,United States,Review,Cambridge,0,Journal,2-s2.0-33845762340
+Overington J.,,How many drug targets are there?,2006,Nature Reviews Drug Discovery,2373,10.1038/nrd2199,United Kingdom,Article,London,0,Journal,2-s2.0-33751547539
+Kanehisa M.,,From genomics to chemical genomics: new developments in KEGG.,2006,Nucleic acids research,2079,10.1093/nar/gkj102,Japan,Article,Kyoto,1,Journal,2-s2.0-33644874819
+Frantz S.,,Playing dirty,2005,Nature,283,10.1038/437942a,,Short Survey,,0,Journal,2-s2.0-27144443099
+Schomburg I.,,"BRENDA, the enzyme database: Updates and major new developments",2004,Nucleic Acids Research,488,,Germany,Article,Koln,0,Journal,2-s2.0-0345863907
+Hattori M.,,Development of a chemical structure comparison method for integrated analysis of chemical and genomic information in the metabolic pathways,2003,Journal of the American Chemical Society,313,10.1021/ja036030u,Japan,Article,Kyoto,0,Journal,2-s2.0-0141843591
+Haggarty S.J.,,Multidimensional chemical genetic analysis of diversity-oriented synthesis-derived deacetylase inhibitors using cell-based assays,2003,Chemistry and Biology,178,10.1016/S1074-5521(03)00095-4,United States,Article,Cambridge,1,Journal,2-s2.0-0038522853
+Kuruvilla F.G.,,Dissecting glucose signalling with diversity-oriented synthesis and small-molecule microarrays,2002,Nature,317,10.1038/416653a,United States,Article,Cambridge,0,Journal,2-s2.0-0037061492
+Drews J.,,Drug discovery: A historical perspective,2000,Science,2000,10.1126/science.287.5460.1960,United States,Review,New York,0,Journal,2-s2.0-0034677966
+Godden J.,,Combinatorial Preferences Affect Molecular Similarity/Diversity Calculations Using Binary Fingerprints and Tanimoto Coefficients,2000,Journal of Chemical Information and Computer Sciences,99,10.1021/ci990316u,United States,Article,Albany,0,Journal,2-s2.0-0001535816
+Flower D.,,On the properties of bit string-based measures of chemical similarity,1998,Journal of Chemical Information and Computer Sciences,285,10.1021/ci970437z,United Kingdom,Article,London,0,Journal,2-s2.0-0001232509
+Rarey M.,,A fast flexible docking method using an incremental construction algorithm,1996,Journal of Molecular Biology,2135,10.1006/jmbi.1996.0477,Germany,Article,Sankt Augustin,0,Journal,2-s2.0-0030599010
+Smith T.,,Identification of common molecular subsequences,1981,Journal of Molecular Biology,6433,10.1016/0022-2836(81)90087-5,United States,Article,Marquette,0,Journal,2-s2.0-0019887799
