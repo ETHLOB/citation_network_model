@@ -1,4 +1,4 @@
-# BIY.ly
+# citation_network_model
 ELSEVIER Scopus data and code used to accomplish citation network research.
 
 You will find a Python code developed to elaborate the random seed network 
